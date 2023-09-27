@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Gothic II: New Balance - sefaris.eu</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Strona zawiera solucję do modyfikacji oraz wiele więcej.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+
+</head>
+
+<body>
+  <div id="app"></div>
+
+  <script>
+    window.$docsify = {
+      search: {
+        paths: 'auto',
+        placeholder: {
+          '/': 'Wyszukaj'
+        }
+      },
+      name: 'Gothic II: New Balance',
+      repo: 'https://github.com/met0rii/nb-wiki',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      tabs: {
+        theme: 'material'
+      },
+      requestHeaders: {
+        'cache-control': 'max-age=0'
+      },
+    
+      plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            if (/githubusercontent\.com/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('raw.githubusercontent.com', 'github.com')
+                .replace(/\/master/, '/blob/master');
+            } else if (/jsdelivr\.net/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('cdn.jsdelivr.net/gh', 'github.com')
+                .replace('@master', '/blob/master');
+            } else {
+              url =
+                'https://github.com/met0rii/nb-wiki/tree/master/docs/' +
+                vm.route.file;
+            }
+            var editHtml = '[:memo: Edytuj dokument](' + url + ')\n';
+            return (
+              editHtml +
+              html +
+              '\n\n----\n\n' +
+              'Śledź więcej informacji na <a href="https://sefaris.eu" target="_blank" style="color: var(--sidebar-nav-link-color--active, var(--sidebar-nav-link-color)); font-weight: normal; text-decoration: none;">sefaris.eu</a>' +
+              ' lub dołącz na <a href="https://discord.gg/9EVFJv5Uyf" target="_blank" style="color: var(--sidebar-nav-link-color--active, var(--sidebar-nav-link-color)); font-weight: normal; text-decoration: none;">nasz serwer discord!</a>'
+            );
+          })
+        },
+      ]
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
+</body>
+
+</html>
