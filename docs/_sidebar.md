@@ -2,15 +2,29 @@
 - [Gothic.ini](ini.md?id=Ini)
 
 - **Solucja**
-- [Rozdział I](sections/Rozdzial_I.md?id=droga-do-miasta)
-- [Rozdział II](sections/Rozdzial_II.md?id=khorinis-cz-1)
-- [Rozdział III](sections/Rozdzial_III.md?id=khorinis-cz-1)
-- [Rozdział IV](sections/Rozdzial_IV.md?id=khorinis)
-- [Rozdział V](sections/Rozdzial_V.md?id=khorinis)
-- [Rozdział VI](sections/Rozdzial_VI.md?id=zapomniana-wyspa)
-- [Rozdział VII](sections/Rozdzial_VII.md?id=wojna-z-orkami)
-- [Gildie główne](sections/Gildie_Glowne.md?id=strażnik-miejskipaladyn)
-- [Gildie poboczne](sections/Gildie_poboczne.md?id=gildia-zabójców)
+- [Rozdział I](sekcje/Rozdzial_I.md?id=droga-do-miasta)
+- [Rozdział II](sekcje/Rozdzial_II.md?id=khorinis-cz-1)
+- [Rozdział III](sekcje/Rozdzial_III.md?id=khorinis-cz-1)
+- [Rozdział IV](sekcje/Rozdzial_IV.md?id=khorinis)
+- [Rozdział V](sekcje/Rozdzial_V.md?id=khorinis)
+- [Rozdział VI](sekcje/Rozdzial_VI.md?id=zapomniana-wyspa)
+- [Rozdział VII](sekcje/Rozdzial_VII.md?id=wojna-z-orkami)
+
+- **Gildie główne**
+- [Łowca Demonów](sekcje/gildie_glowne/lowca_demonow.md)
+- [Łowca Smoków](sekcje/gildie_glowne/lowca_smokow.md)
+- [Mag Ognia](sekcje/gildie_glowne/mag_ognia.md)
+- [Mag Wody](sekcje/gildie_glowne/mag_wody.md)
+- [Nekromanta/Mroczny Rycerz/Czarnoksiężnik](sekcje/gildie_glowne/nekromanta_mrocznyrycerz_czarnoksieznik.md)
+- [Strażnik Miejski/Paladyn](sekcje/gildie_glowne/paladyn.md)
+- [Strażnik Świątynny/Guru](sekcje/gildie_glowne/straznikswiatynny_guru.md)
+
+- **Gildie poboczne**
+- [Informacje dodatkowe](sekcje/gildie_poboczne/info.md)
+- [Gildia Kupców](sekcje/gildie_poboczne/gildia_kupcow.md)
+- [Gildia Myśliwych](sekcje/gildie_poboczne/gildia_mysliwych.md)
+- [Gildia Zabójców](sekcje/gildie_poboczne/gildia_zabojcow.md)
+- [Gildia Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md)
 
 - **Linki**
 
