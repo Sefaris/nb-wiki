@@ -53,9 +53,9 @@ Chodzi o bandytów których zabiliśmy z Cavalornem. Wystarczy powiedzieć Malet
   
 Na farmie Lobarta spotykamy strażnika Taylora. Strażnik Taylor nie będzie zadowolony z naszej obecności, po czym uzna, że jesteśmy zbiegłym więźniem. Teraz musimy wybrać środkową opcję dialogową, inaczej zostaniemy “wyjęci spod prawa”.  
 Następnie zgadzamy się na przeszukanie wieży, idziemy do Xardasa, a następnie wracamy do Taylora. Teraz mamy dwie opcje:  
-1) Powiedzieć mu, że wieża jest zawalona (wtedy będziemy mogli okraść 1 osobę więcej)  
-2) Pójść za nim do wieży, gdzie zabiją go szkielety, a my zyskamy jego ekwipunek.  
-  
+1) Powiedzieć mu, że wieża jest zawalona (wtedy będziemy mogli okraść 1 osobę więcej)
+2) Pójść za nim do wieży, gdzie zabiją go szkielety, a my zyskamy jego ekwipunek.
+
 ## Zebrać rzepę z pola
 
   

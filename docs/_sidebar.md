@@ -2,13 +2,13 @@
 - [Gothic.ini](ini.md?id=Ini)
 
 - **Solucja**
-- [Rozdział I](sekcje/Rozdzial_I.md?id=droga-do-miasta)
-- [Rozdział II](sekcje/Rozdzial_II.md?id=khorinis-cz-1)
-- [Rozdział III](sekcje/Rozdzial_III.md?id=khorinis-cz-1)
-- [Rozdział IV](sekcje/Rozdzial_IV.md?id=khorinis)
-- [Rozdział V](sekcje/Rozdzial_V.md?id=khorinis)
-- [Rozdział VI](sekcje/Rozdzial_VI.md?id=zapomniana-wyspa)
-- [Rozdział VII](sekcje/Rozdzial_VII.md?id=wojna-z-orkami)
+- [Rozdział I](sekcje/zadania/Rozdzial_I.md?id=droga-do-miasta)
+- [Rozdział II](sekcje/zadania/Rozdzial_II.md?id=khorinis-cz-1)
+- [Rozdział III](sekcje/zadania/Rozdzial_III.md?id=khorinis-cz-1)
+- [Rozdział IV](sekcje/zadania/Rozdzial_IV.md?id=khorinis)
+- [Rozdział V](sekcje/zadania/Rozdzial_V.md?id=khorinis)
+- [Rozdział VI](sekcje/zadania/Rozdzial_VI.md?id=zapomniana-wyspa)
+- [Rozdział VII](sekcje/zadania/Rozdzial_VII.md?id=wojna-z-orkami)
 
 - **Gildie główne**
 - [Łowca Demonów](sekcje/gildie_glowne/lowca_demonow.md)
