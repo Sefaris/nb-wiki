@@ -1,6 +1,6 @@
 # Droga do miasta
 
-## Nocna Bestia v2
+## Nocna Bestia
 
   
 Zadanie dostajemy od Xardasa na początku gry. Musimy się udać do stawu obok jaskini z goblinami którą dostajemy się do kotlinki Lestera. Znajduje się tam zębacz, którego zabijamy i wracamy po nagrodę do Xardasa.  
