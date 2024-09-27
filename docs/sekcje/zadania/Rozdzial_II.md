@@ -31,22 +31,11 @@ Zadanie dostępne po zrobieniu wcześniejszych dwóch zadań dla Pepe z wilkami 
 
 Pepe na farmie Onara mówi nam, że coś porywa jego owce. Idziemy do jaskini niedaleko jeziora przy obozie, gdzie zabijaliśmy dla niego wilki. Tam zabijamy bossa goblinów i wracamy do Pepe.
 
-## Rana PepeUsunięte w aktualizacji 20.04.2023
-
-Pepe mówi nam, że jest ranny i potrzebuje lekarstwa. Idziemy do Sagitty i mówimy jej o problemie, a onakaże nam dać Pepe zwykłą miksturę leczniczą. **Trzeba wrócić do Pepe zanim przeteleportujemy się do innej lokacji, bo inaczej Pepe zginie**
 
 ## Podejrzany handlarz
 
 Thorben mówi nam, że jego siostrzenica zaginęła i prosi nas o pomoc. Możemy albo dać 500 złota Thorbenowi albo samemu poszukać Gritty. Gritta znajduje się w namiocie w obozie w lesie z polowania z Bartokiem. Zabijamy bandytów i odprowadzamy Grittę przed bramę miasta, po czym wracamy do Thorbena.
 
-## Prorocze snyUsunięte w aktualizacji 20.04.2023
-
-**Zadanie to pojawi się dopiero po pierwszej rozmowie z Gregiem w Jarkendarze**  
-Po wykonaniu zadania "Podejrzany handlarz" Gritta mówi nam, że przyśnił się jej mąż i prosi nas, abyśmy go znaleźli. Wspomina też, że Brandick zawsze chciał zostać piratem, więc udajemy się do Grega, a ten mówi nam, że wysłał go na bagna w celu szpiegowania bandytów. Brandick siedzi na skale nad piedestałem teleportacyjnym. Wchodzimy po drabinie, rozmawiamy z nim, a potem z Grittą.
-
-## Szczęśliwa paraUsunięte w aktualizacji 20.04.2023
-
-Kilka dni po zakończeniu zadania "Prorocze sny" zaczepia nas Thorben i mówi nam, że chce by Gritta i Elvrich byli razem. Wystarczy pogadać z Grittą i Elvrichem, po czym wrócić do Thorbena.
 
 ## Bandyci Ragnara
 
@@ -60,43 +49,8 @@ Ragnara spotkamy w porcie w magazynie portowym. Okazuje się, że został straż
 
 Ragnar znajduje się teraz w klasztorze i mówi nam, że chciałby zostać asystentem Neorasa, ale musi znaleźć rzadką roślinę: Trollest. Na potrzeby zadania jeden pojawia się obok Trolli przy Gromie, ale można mu też dać z własnej kieszeni. Po otrzymaniu rośliny Ragnar daje nam nagrodę.
 
-## Przebaczenie dla zdrajcyUsunięte w aktualizacji 20.04.2023
 
-**Zadanie dostępne do wykonaniu "Nekromanta w Khorinis"**  
-Vatras zleci nam byśmy pomodlili się za duszę Darona. Idziemy do klasztoru, rozmawiamy z Parlanem, dostajemy od niego klucz do kaplicy. Kaplica znajduję się niedaleko Talamona, modlimy się o przebaczenie przy kaplicy Innosa. Na końcu wracamy do Vatrasa.
 
-## Zaginiony PaladynUsunięte w aktualizacji 20.04.2023
-
-Lord Andre mówi nam, że gdzieś zaginął jeden z paladynów, Logmir. Wysyła nas do karczmy Kadifa, a Kardif natomiast wysyła nas do Martwej Harpii. Orlan mówi, że paladyn był jakiś czas temu w tawernie z innym nieznajomym. Idziemy rozejrzeć się w okolicy, a dokładniej w kierunku cmentarza, Znajdujemy tam notatkę, po czym wracamy do Orlana. Następnie idziemy ścieżką do farmy Akila (przez most) i natrafiamy na nieznajomego, którego po krótkiej rozmowie zabijamy. Mając jego notatkę i pierścień idziemy do Matteo, który nie potrafi rozpoznać pierścienia.  
-Teraz Andre, który wysyła nas do kogoś, kto zna bandytów.  
-Osobą tą jest Cassia lub Jesse. Od nich dowiadujemy się, że tą osobą jest Kiko. Idziemy na farmę Sekoba, po czym wracamy do Andre zdać relację. Teraz o 23 musimy udać się na pole, między farmą Sekoba, a farmą Onara. Zauważymy tam trenujących bandytów, więc gadamy z ich szefem, po czym dochodzi do walki, w której pomogą nam paladyni. Po udanej walce rozmawiamy z Andre.
-
-# Khorinis Cz. 2
-
-## Błąd Lorda AndreUsunięte w aktualizacji 20.04.2023
-
-**Zadanie dostępne tylko po wykonaniu zadania "Horror na cmentarzu"**  
-Andre do was zagada i powie nam, że ktoś próbuje go zabić. Andre wysyła nas z podejrzanym zwojem do Vatrasa, który oznajmia, że zwój służy do zabicia konkretnego czytelnika. Wracamy do Andre, po czym idziemy do Gallahada i pokazujemy zwój. Teraz wracamy do Andre, a następnie idziemy do Hagena. Naszym podejrzanym staje się strażnik “Black” trenujący przy ratuszu. Umawiamy się z nim na popijawe w karczmie Kardifa, a następnie idziemy z nim do Andre, gdzie nasz quest się kończy.
-
-## Poszukiwania nowicjuszaUsunięte w aktualizacji 20.04.2023
-
-Zadanie zleca Parlan. Mówi on nam, że wysłał nowicjusza Ganza do miasta po zioła i wino, ale do tej pory nie wrócił. Możemy popytać o niego karczmarzy i sprzedawców ziół dla dodatkowego expa, ale ostatecznie znajdziemy go w Czerwonej Latarni. Wracamy do Parlana.
-
-## Szybki sposób na zarobekUsunięte w aktualizacji 20.04.2023
-
-UWAGA: Zadanie dostępne po wykonaniu Poszukiwania nowicjusza.
-
-Zadanie zleca Ganz, który dziękuje nam za to, że nie wydaliśmy go magom. Oferuje on nam pracę kuriera, więc zanosimy paczki kolejno do Lariusa, Bromora i Ciphera. Z kolejnym klientem mamy spotkać się po 1 w nocy na moście przed klasztorem. Zabijamy wynajętego zabójcę i czytamy jego notatkę. Przebieramy się w ubranie farmera i teleportujemy do południowej bramy, gdzie zostajemy zatrzymani i wtrąceni do lochu. Tam gadamy z naszym współwięźniem, a także gadamy z Boltanem, a następnie szorujemy kilka razy podłogę. Gadamy po raz kolejny z Boltanem i po chwili pojawia się sędzia. Idziemy teraz za strażnikiem na miejsce egzekucji, a gdy dotrzemy do celu, z pomocą przychodzi nam Cavalorn. Rozprawia się on ze strażnikami, po czym oddaje nam ekwipunek i każe iść do Laresa.
-
-## Zbrodnia i karaUsunięte w aktualizacji 20.04.2023
-
-UWAGA : Zadanie dostępne po wykonaniu zadania Szybki sposób na zarobek.
-
-Rozmawiamy z Laresem o zemście na sędzi. Musimy osłabić sędziego zabijając jego pomocników. Najpierw Lares mówi nam o Marvolo, idziemy do Martwej Harpii i rozmawiamy z nim. Wyprowadzamy go z karczmy, znów rozmawiamy, po czym zabijamy i wracamy do Laresa. Kolejnym celem jest Larius. Wystarczy użyć na nim niepamięci, po czym wracamy do Laresa. Teraz mamy udać się do Ganza. Idziemy do niego i mówimy, że jak nie zerwie kontaktów z sędzią to wydamy go Pyrokarowi. Ganz umiera, o czym zawiadamiamy Laresa. Teraz musimy się dowiedzieć jak umarł Ganz, więc idziemy do Pyrokara i pytamy o szczegóły śmieci. Dowiadujemy się, że Ganz został otruty, a także o pochodzeniu tej trucizny.  
-Kolejnym zadaniem od Laresa będzie wykradnięcie złota sędziego od Lehmara. Znajduje się ono w skrzyni w na piętrze domu lichwiarza. Zabieramy je i oddajemy Laresowi.  
-Kolejnym celem jest zabicie grupki bandytów przy latarni Jacka. Zabijamy ich i wracamy do Laresa. Następnie mamy pozbyć się ochroniarza sędziego. Kupujemy truciznę od Constantino (lub Baala Tyona, jeśli jesteśmy członkami bractwa lub mrocznym rycerzem)  
-Teraz gadamy z ochroniarzem i podkładamy truciznę po czym ten umiera, więc wracamy do Laresa. Teraz musimy zdemaskować sędziego, a pomoże nam w tym Lee, kiedy będziemy robić dla niego zadanie "Lokaj Sędziego". Po wszystkim znowu wracamy do Laresa.  
-Idziemy do sędziego, a po krótkiej rozmowie atakuje nas, zabijamy go i wracamy do Laresa, a potem Hagena.
 
 ## Polny drapieżnik
 
@@ -111,23 +65,12 @@ Akil mówi nam, że po części ponosi winę za pojawienie się przerośniętej 
 Vatras każe nam skontaktować się z Orlanem, a on opowie szczegóły. Orlan mówi nam, że ostatnio jakaś istota zaatakowała nocą gościa tawerny, po czym ten zmarł. Teraz udajemy się pod most, gdzie znajdujemy skórę białego cieniostwora. Wracamy z nią do Orlana, a następnie do Falka. Teraz kontynuujemy poszukiwania, zgodnie ze screenem poniżej. Jak uporamy się z cieniostworem, to udajemy się do Orlana i Vatrasa.  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739933253420/0A9F3BF98D56DB9250108F13CEDA2124CFA9F7B6/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739933253420/0A9F3BF98D56DB9250108F13CEDA2124CFA9F7B6/)
 
-# Khorinis Cz. 3
-
 ## Zlecenie Vatrasa
 
 UWAGA: Zadanie dostępne po wykonaniu zadania Zlecenie Wodnego Kręgu.
 
 Vatras mówi nam, że jeden z członków wodnego kręgu został napadnięty i okradziony przez bandytów niedaleko piramid. Zleca nam ich zabicie i odzyskanie skradzionych rzeczy. Idziemy w okolice piramid zabijamy bandytów i wracamy do Vatrasa.
 
-## Szantażysta Wodnego KręguUsunięte w aktualizacji 20.04.2023
-
-**Uwaga: Zadanie dostępne po wykonaniu Nekromanta w Khorinis i Zlecenie Vatrasa**
-
-Vatras informuje nas, że ktoś szantażuje Wodny Krąg. Idziemy teraz do Martina, a następnie do Miki i Orlana. W gospodzie rozmawiamy z Avanisem, wychodzimy z nim na zewnątrz i go bijemy. Po rozmowie wracamy do Vatrasa i czekamy w nocy przy kamieniu teleportacyjnym na rynku. Idziemy teraz do Xardasa, który rozwiewa nasze wątpliwości. Resztę zadania zrobimy dopiero po ukończeniu misji “Przeklęta latarnia”. Teraz gdy wiemy, że szantażystą jest Jack, rzuca się on na nas i stajemy przed następującymi wyborami.
-
-1. Zabieramy całe złoto Jacka, okłamujemy Vatrasa, że nie wiemy kim jest Szantażysta, przez co ten daje 5 000 złota okupu. Całe złoto zachowujemy dla siebie ( Karma Innosa znacznie spada)
-2. Każemy Jackowi przestać szantażować wodny krąg , idziemy do Vatrasa i mówimy o wszystkim, wracamy do Jacka i mówimy że Vatras mu wybaczył. (Karma u Innosa znacznie wzrasta) .
-3. Zabijamy Jacka i mówimy o tym Vatrasowi
 
 ## Zapiski Saturasa
 
@@ -157,9 +100,6 @@ Na koniec pod gdy przyniesiemy księgę Nerolasowi on każe nam ją zanieść Sa
 
 Saturas po przeczytaniu księgi Yberiona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas nas prosi, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała skała, czytamy ją i wracamy do Saturasa.
 
-## Zapomniane wspomnienia LoiUsunięte w aktualizacji 20.04.2023
-
-Dwa dni po niezapomnianej nocy z Loą w latarni Jacka (finał misje nieziemskie sny) , dowiadujemy się że coś ją dręczy ale nic nie chce nam powiedzieć. Jeśli mamy 70 retoryki możemy zaproponować jej piknik w lesie, Loa się zgodzi , teraz musimy zorganizować dobre jedzenie i wino. W sprawie jedzenia idziemy do Coragona dajemy mu 1000 złota, a on następnego dnia da nam paczkę z jedzeniem. Wino Erveluce możemy kupić od Goraxa w klasztorze za 2 000 złota. Kiedy mamy już wszystko wracamy do Loi , potem zaprowadzi nas ona do lasu . W trakcie pikniku Loa powie nam o Dracji i jej problemach. Po rozmowie zaatakują nas 2 cieniostwory, zabijamy i odprowadzamy Loę na farmę Onara.
 
 ## Niebezpieczny eksperyment
 
@@ -173,20 +113,6 @@ Druid Freygal prosi nas o zabicie bestii niedaleko jego jaskini, idziemy przed j
 
 Karras z klasztornej biblioteki prosi nas o przyniesienie trzech zwoi zapomnienia (Możemy je kupić od Ignaza).
 
-## Nekromanta w KhorinisUsunięte w aktualizacji 20.04.2023
-
-\[/b\]\[/h1\]  
-**Zadanie dostępne do wykonaniu Horror na cmentarzu.**
-
-Zadanie zaczyna się od rozmowy z dozorcą cmentarza, który opowiada nam, że Regilionowi towarzyszył nowicjusz ognia.
-
-**Wersja I (Jeśli przeczytaliśmy notatkę ze skrzyni, która jest w jaskini obok Marduka)**  
-Idziemy do Ulfa i naciskamy na niego, po czym ten daje nam wiadomość. Z wiadomości wynika, że mamy spotkać się z nekromantą na cmentarzu.
-
-**Wersja II (Jeśli nie przeczytaliśmy wyżej wspomnianej notatki)**  
-Idziemy popytać o niego u Coragona, gdzie dowiadujemy się, że poszedł na plac targowy. Tam gadamy z Zurisem, który wysyła nas po lewo od wschodniej bramy. Tam zabijamy zabójcę i zauważamy podpis na liście. Idziemy teraz do Vatrasa, a następnie do Brahima. Teraz zmierzamy do Coragona, który opowiada nam o nowicjuszu ognia, który był z Gastem. Idziemy do Parlana, a następnie do Ulfa, który jest w Martwej Harpii lub mieście. Nie jest on skłonny do rozmowy, więc otwieramy jego skrzynię w klasztorze, gdzie znajdujemy notatkę. Idziemy z nią do Xardasa, po czym wracamy do Ulfa, który wysyła nas na cmentarz w Khorinis.
-
-Teraz udajemy się na miejsce spotkania i czeka tam na nas Daron. **Mroczny Rycerz ma możliwość go oszczędzić, przez co nie stracimy karmy u Beliara** Po rozmowie z nim dochodzi do walki. Po wszystkim rozmawiamy z Pyrokarem i na końcu z Ulfem.
 
 ## Czarny humor
 
@@ -457,11 +383,6 @@ Po wykonaniu zadania ze szpadą, Abigail prosi nas, abyśmy dostarczyli jej nasz
 
 ### UWAGA: Hanna w nagrodę da wam mieszek, po jego otwarciu dostaniecie klucz do skrzyni na wyspie złodziei w której znajdują się skradzione narzędzia Matteo.
 
-## Przeklęta duszaUsunięte w aktualizacji 20.04.2023
-
-**Zadanie zleca Greg po wykonaniu zadania "Człowiek z pierścieniem"**
-
-Greg prosi nas, abyśmy znaleźli poprosili magów ognia o modlitwę za piratów. Musimy do tego mieć 50 retoryki, aby przekonać Pyrokara o naszych intencjach. Możemy mu przekazać różne kwoty: 1000, 2000 lub 3000. Najbardziej opłaca się dać 3000, jako że dostajemy wtedy najlepsze nagrody. Wracamy do Grega.
 
 ## Polowanie na brzytwiaki
 
@@ -593,11 +514,6 @@ Zadanie zleca jeden ze skazańców w jaskini obok wodospadu przed Nowym Obozem. 
 
 Engor w zamku prosi nas o przyniesienie dwóch tuzinów mięsa, które powinniśmy już mieć.
 
-## Magiczne zbawienieUsunięte w aktualizacji 20.04.2023
-
-**Uwaga: Zadanie dostępne po oddaniu mu 200 złota z ciała Dana**
-
-Brutus w zamku prosi nas, abyśmy udali się do Miltena i poprosili go o wyczarowanie kobiety. Idziemy do Miltena, a ten mówi nam, że wszystko będzie gotowe jutro wieczorem. Przychodzimy następnego dnia wieczorem (jak dostaniemy wpis do dziennika), gdzie wszyscy już na nas czekają. Milten wykonuje przyzwanie, ale pojawia się demon, którego zabijamy, a zadanie się kończy. Jeśli się spóźnimy, zadanie zakończy się niepowodzeniem.
 
 ## Złoto dla Brutusa
 
@@ -625,9 +541,6 @@ Garond prosi nas byśmy udali się do Wolnej kopalni i sprawdzili co się tam dz
 
 Garond prosi nas o przyniesienie 50 kawałków surowego mięsa i 50 ryb.
 
-## Obawy ParcivalaUsunięte w aktualizacji 20.04.2023
-
-Parcival mówi, że jeden z orków próbował dostać się po taranie do zamku, więc mamy go zabić. Imienny ork znajduje się przy samym taranie. Zabijamy go i wracamy do Parcivala.
 
 ## Pierścień Tengrona
 
@@ -714,9 +627,6 @@ Po spełnieniu powyższych warunków, robimy zadania opisane w wątku orków, co
 
 Netbek prosi nas, abyśmy pozbyli się wielkiego trolla w jego lesie. Chodzi o bossa trolli, który znajduje się między Wieżą Mgieł, a urwiskiem nad Starym Obozem Bractwa.
 
-## Cień w potrzebieUsunięte w aktualizacji 20.04.2023
-
-W trakcie zadania Ślady Ciemności trafiamy na cienia Świstaka, który chce się wydostać z podziemi zamku. Chodzimy kilka razy między Świstakiem, a Garondem aż misja się zakończy.
 
 ## Przewaga taktyczna
 

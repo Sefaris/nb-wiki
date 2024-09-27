@@ -9,6 +9,8 @@
 - [Rozdział V](sekcje/zadania/Rozdzial_V.md?id=khorinis)
 - [Rozdział VI](sekcje/zadania/Rozdzial_VI.md?id=zapomniana-wyspa)
 - [Rozdział VII](sekcje/zadania/Rozdzial_VII.md?id=wojna-z-orkami)
+- [Poboczne](sekcje/zadania/poboczne.md)
+- [Domyślnie wyłączone](sekcje/zadania/wylaczone.md)
 
 - **Gildie główne**
 - [Łowca Demonów](sekcje/gildie_glowne/lowca_demonow.md)
