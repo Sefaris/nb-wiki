@@ -2578,6 +2578,7 @@ body .sidebar {
   display: block;
 }
 
-.markdown-section a {
+.markdown-section a:not(.anchor) {
   color: var(--sidebar-name-color);
+  font-weight: 500;
 }
