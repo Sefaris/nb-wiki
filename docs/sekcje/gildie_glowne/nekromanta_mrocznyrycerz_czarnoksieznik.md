@@ -11,6 +11,10 @@ Aby zostać Nekromantą lub Czarnoksiężnikiem, trzeba podczas rozmowy z Vatras
 Teraz pytamy Xardasa jak stać się pełnoprawnym magiem. W tym celu musimy spełnić pewne warunki: Posiadać 40 inteligencji i 80 many, a także wykonać zadanie Ścieżka Ciemności.  
 Po wykonaniu tego zadania oficjalnie zostajemy Nekromantą lub Czarnoksiężnikiem w zależności od wyboru po zakończeniu zadania.
 
+## Posążek Beliara
+__Zleca: Xardas__
+
+
 ## Droga Ciemności
 
 Xardas każe nam zabić sługę Innosa, chodzi o pasterza owiec w klasztorze Opolosa. O godzinie 17 wychodzi on z klasztoru zapalić ziele, więc mamy idealną okazję, aby go zabić. Po wszystkim wracamy do Xardasa

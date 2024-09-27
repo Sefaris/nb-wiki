@@ -68,6 +68,10 @@ __Zleca: Jesse__
 Dowiadujemy się, że bandyci nas szukają. Ich herszt to Dexter i ukrywa się w wieży niedaleko farmy Onara.  
 Zadanie kończy się po rozmowie z Dexterem.
 
+## Magowie Wody
+
+Rozmawiamy z Vatrasem na temat magów wody i ich pracy, po czym odstajemy od niego ornament. Idziemy pogadać z Laresem i po tym jak załatwimy mu zmiennika, idziemy odnieść Ornament do magów wody. Dajemy ornament Nefariusowi, który zleca nam zebranie wszystkich ornamentów (patrz zadanie Portal) Po zebraniu ornamentów, musimy stać się członkiem wodnego kręgu, a także rozpocząć akt 2, po czym przedostać się do Jarkendaru.
+
 ## Mrok północy dla Lestera
 __Zleca: Lester__  
 
@@ -78,6 +82,9 @@ Skręta znaleźć można w skrzyni obok Baala Oruna, w Obozie Bractwa koło farm
 __Zleca: Lobart__
 
 Lobart mówi nam o dziwnych gościach obok kamiennego kręgu. Okazuje się, że to obóz zbieraczy ziela. Rozmawiamy z ich przywódcą, a potem wracamy do Lobarta.
+
+## Oko Innosa
+__Zleca: Xardas__
 
 ## Patelnia dla Hildy
 __Zleca: Hilda__
@@ -94,7 +101,7 @@ Zadania na farmie, które obniżą cenę ubrania:
 1. [Bandyci przy farmie Lobarta](#bandyci-przy-farmie-lobarta)
 2. [Patelnia dla Hildy](#patelnia-dla-hildy)
 3. [Za butelkę wina](#za-butelkę-wina)
-4. [Zebrać rzepę z pola]()
+4. [Zebrać rzepę z pola](#zebrać-rzepę-z-pola)
 
 ## Rzepa dla Hildy
 __Zleca: Lobart__
@@ -106,6 +113,10 @@ __Zleca: Cavalorn__
 
 Aby rozpocząć zadanie, przy pierwszej rozmowie z Cavalornem, gdy zapyta dokąd idziemy, należy odpowiedzieć, że z powrotem do Górniczej Doliny.  
 Zadanie polega na przyniesieniu mu jego torby z rudą, która znajduje się w jego starej chacie w Górniczej Dolinie.
+
+## Wodny krąg
+
+W drodze do miasta idąc od wieży Xardasa spotkamy Cavalorna, który walczy z goblinami. Pomagamy mu w walce i następnie z nim rozmawiamy. Mówimy mu, że idziemy do miasta, a on informuje nas, że jest członkiem wodnego kręgu. Mówi także, że został okradziony przez bandytów. Proponujemy mu pomoc w rozprawieniu się z bandytami. Gdy bandyci są już martwi, przeszukujemy Brago, bierzemy list i rozmawiamy z Cavalornem. Idziemy do miasta, a następnie rozmawiamy z Vatrasem, przekazujemy mu wiadomość od Cavalorna. Mówimy mu, że chcemy dołączyć do Wodnego Kręg. Vatras daje nam ornament, a my dajemy go Laresowi z którym idziemy do magów wody. Teraz musimy zebrać dla Nefariusa wszystkie ornamenty. Po ich zebraniu mówimy o tym Vatrasowi, po czym ten zgadza się na przyjęcie nas do Wodnego Kręgu. Idziemy do Martwej Harpii gadamy z Orlanem, po czym zjawia się cała ekipa. Gadamy z Laresem i oficjalnie dołączamy do wodnego kręgu, a na koniec wracamy do Vatrasa i oddajemy Laresowi jego pierścień wodnego kręgu.
 
 ## Zebrać rzepę z pola
 __Zleca: Lobart__
@@ -208,6 +219,8 @@ Garvell prosi nas, abyśmy mu przynieśli piłę, smołę i 2 młotki. Wszystkie
 > Koniecznie należy wyczerpać wszystkie opcje dialogowe u Matteo, najważniejszy dialog to `Możesz mnie czegoś nauczyć?`.  
 > Odblokuje to możliwość późniejszej nauki jubilerstwa.
 
+## Szacunek mistrzów
+
 ## Czeladnik Khorinis
 
 Należy zostać Czeladnikiem u jednego z mistrzów.  
@@ -254,187 +267,131 @@ Bosper prosi nas o przyniesienie 6 wilczych skór. Można je uzyskać na polowan
 
 Po zostaniu czeladnikiem uzyskujemy dostęp do górnego miasta.
 
-# Khorinis - Miasto
+# Khorinis - Wątek Gallahada
 
-## Problemy ze strażą
-__Zleca: Farim__
+## Dług Lutero
+__Zleca: Lutero__
 
-Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc. Wracamy do Farima.
+Lutero prosi nas o przyniesienie weksla od Lehmara. Weksel znajduje się w skrzyni za ścianką na parterze. Aby się do niej dostać, należy wcisnąć przycisk po prawej stronie kominka na piętrze. Z wekslem wracamy do kupca i otrzymujemy list polecający.
 
-## Jedzenie dla Farima
-__Zleca: Farim__
+## Orkowa mikstura
+__Zleca: Salandril__
 
-Po zrobieniu zadania ze strażą Farim prosi nas o przyniesienie specjalnej zupki. Zupę zrobi Edda jeśli przyniesiemy jej 10 ryb, 5 serafisów, czerwony pieprz (który kupimy od Zurisa), ser i rum (z zadania "Piracki Handel")  
-Edda robi nam zupkę, którą zanosimy Farimowi.
+Salandril prosi nas, abyśmy przynieśli mu orkową miksturę. Po tej rozmowie na lewo od wschodniej bramy pojawia się ork, którego możemy zaprowadzić do miasta lub za opłatą zabić wraz z Miką. Po zdobyciu mikstury wracamy do Salandrila i dostajemy list.
 
-## Zatopiony statek
-__Zleca: Farim__
+## Podręcznik retoryki
+__Zleca: Fernando__
 
-Po zrobieniu poprzedniego zadania Farim opowiada nam o kupieckim statku, który zatonął między Przeklętą latarnią, a wyspą nieopodal. Nurkujemy do szczątków statku, podnosimy paczkę i ją otwieramy, a zadanie się kończy.
+Fernando chce zdobyć Podręcznik Retoryki, który jest w posiadaniu Gallahada. Były mag nie chce go oddać po dobroci, więc idziemy do Ignaza, który prosi nas o wysłanie do niego Gallahada po zioła. Wracamy do Gallahada, rozmawiamy z nim i czekamy, aż wyjdzie z chaty i zabieramy książkę ze stołu. Po przeczytaniu oddajemy ją Fernando i otrzymujemy upragniony list.
 
-## Informacje dla Garvella
-__Zleca: Garvell__
+## Tajemnicze spotkanie
+__Zleca: Gerbrandt__
 
-Garvell chce się dowiedzieć, dlaczego Paladyni przybyli do miasta. Gadamy najpierw w Rangarem i dajemy mu piwa, aż się nie wygada, a my otrzymamy retorykę. Wracamy do Garvella i mówimy, czego udało nam się dowiedzieć. Resztę informacji możemy uzyskać od Hagena pod koniec 1 rozdziału albo od Andre, jeśli jesteśmy strażnikami miejskimi. Wracamy do Garvella z informacjami.
+**Bardzo ważne jest stawienie się na spotkanie tego samego dnia**  
+Gerbrandt daje nam list i sakiewkę. O północy mamy spotkać się z nieznajomym w gospodzie Orlana. O północy rozmawiamy z Orlanem o naszym spotkaniu, a następnie udajemy się do ostatniego pokoju na piętrze. Podczas rozmowy z nieznajomym wybieramy opcje:  
+Cóż… Ja → Proszę, weź ten list i sakiewkę → Nie mogę ci tego powiedzieć → Głupie czy nie, walczmy!  
+Do walki nie dochodzi, a z informacjami wracamy do Gerbrandta, co otwiera nam możliwość dołączenia do gildii zabójców.  
+**Jeśli zepsujemy to zadanie, to można kupić od Brahima sfałszowany list rekomendacyjny**
 
-## Szalony Fellan
-__Zleca: Alwin__
+## Wykwintne jedzenie
+__Zleca: Gallahad__
 
-Alwin skarży się, że Fellan cały czas tłucze młotkiem. Prosi nas, abyśmy coś z tym zrobili. Idziemy do Fellana spuszczamy mu lanie i wracamy do Alwina.
+Gallahad prosi o przyniesienie mu 3 butelek wina, sera, szynki, miodu i winogrona. Powinniśmy już mieć wszystko poza winogronami, które zbieramy w klasztorze lub kupujemy od kupców w mieście.
 
-## Miecz Alrika
-__Zleca: Alrik__
+## Zadanie Gallahada
+__Zleca: Gallahad__
 
-Alrik mówi nam, że sprzedał swój miecz kupcowi o imieniu Jora i prosi, abyśmy go odzyskali. Miecz od Jory możemy kupić za 50 sztuk złota albo uzyskać za darmo. W tym celu należy nie rozmawiać z Jorą o mieczu, aż do momentu, gdy oddamy mu skradzione złoto. Z mieczem wracamy do Alrika.
+> Ważne jest, aby pilnować spotkania w tawernie oraz nie wydawać Fernando, aż do zakończenia tego questa  
 
-## Lucia
-__Zleca: Bromor__
+Po zagadaniu do Gallahada dwa razy dowiadujemy się, że był kiedyś miejskim magiem i chce powrócić na swoją pozycję. Potrzebuje do tego listów polecających od wpływowych osób z górnego miasta, którymi są Gerbrandt, Lutero, Fernando i Salandril. Można też wziąć list od Valentino, ale nie jest on zbyt znaczący dla Gallahada.
 
-Zadanie dostajemy po rozmowie z Bromorem, a następnie z Nadją. Okazuje się, że Lucia uciekła gdzieś z Elvrichem czeladnikiem Thorbena. Zostali oni porwani przez bandytów:  
-Pożegnalny list Lucii znajdziemy w namiocie w obozie bandytów za farmą Sekoba.  
-Pokazujemy ten list Elvrichowi, który jest w obozie bandytów nad jaskinią Sagitty, po czym ten wraca do miasta. Zadanie kończy się po rozmowie z Lucią w Jarkendarze.
+Po zebraniu wszystkich listów polecających zanosimy je Gallahadowi, a następnie udajemy się do Lariusa. Musimy z nim porozmawiać przed ratuszem około 13. **Jeśli mamy dostęp do ratusza robiąc to zadanie, to nie można z nim pogadać w środku, bo uzna, że przeszkadzamy mu w pracy** Po pozytywnej reakcji Lariusa wracamy do Gallahada, który oddaje nam swoją chatę do użytku i każe zgłosić się po nagrodę w ratuszu. Następnego dnia wracamy i mamy do wyboru:  
+\-Złoto (Nieopłacalne)  
+\-Dwie mikstury stałe (Wybieramy na gildiach wojowniczych)  
+\-Naukę magii (Konieczne na gildiach magicznych)  
+**Jeśli Larius się na nas obrazi, to możemy skorzystać ze zwoju zapomnienia**
 
-## Złota misa Bromora
-__Zleca: Bromor__
+## Zemsta na Regisie
+__Zleca: Valentino__
 
-Bromor mówi nam, że Lucia ukradła mu złotą misję i prosi o jej odzyskanie. Misę ma jeden z bandytów za farmą Sekoba (tam, gdzie znajdujemy list pożegnalny Lucii).
+Valentino prosi nas, abyśmy pobili Regisa. Bijemy go i wracamy do zleceniodawcy.
 
-## Piracki handel
-__Zleca: Skip__
+# Khorinis - Miasto i okolice
 
-Na plaży niedaleko Khorinis spotykamy Skipa, ten prosi nas byśmy udali się do Baltrama po dostawę. Idziemy do Baltrama odbieramy dostawę , dajemy ją Skipowi. Skip daje nam 2 butelki rumu które zanosimy Baltramowi.
+## Amulet szukającego ognika
+__Zleca: Vatras__
 
-## Nowa broń dla Skipa
-__Zleca: Skip__
+## Atak cieniostwora
 
-Skip prosi nas, abyśmy przynieśli mu nową broń. Chodzi o piracki kordelas, który znajduje się obok jaszczura na plaży przy statku Paladynów.
+Vatras mówi nam o bestii atakującej mieszkańców Khorinis. Chodzi o cieniostwora w jaskini obok latarni Jacka. Zabijamy go i wracamy do Vatrasa.
 
-## Eksperyment
-__Zleca: Ignaz__
+## Badania Salandrila
+__Zleca: Salandril__
 
-Ignaz prosi nas, abyśmy przetestowali zaklęcie zapomnienia. Najprościej po prostu ukraść coś z półki Ignazowi, uciec przed nim i rzucić czar, gdy stoi przy pulpicie/stole alchemicznym. Po użyciu zaklęcia rozmawiamy z Ignazem, który od teraz będzie z nami handlował i uczył nas alchemii.
+Jak zdobędziemy orkowe pomyje po zabiciu jakiegoś orka to u Salandrila pojawi się zadanie. Oddajemy mu pomyje i czekamy kilka dni. Wracamy po 3 dniach i Salandril prosi nas, abyśmy przynieśli mu 10 butelek orkowych pomyj, które wypadają głównie z hersztów orków. Zanosimy pomyje i po czym będziemy mogli kupić u Salandrila specjalny eliksir.
+
+## Bandyci przy tawernie
+
+Przed karczmą Martwa Harpia znajduję się kobieta o imieniu Reven, powie nam ona, że napadli i okradli ją bandyci. Bandyci znajdują się na drodze z Martwej Harpii do farmy Bengara, zabijamy ich i wracamy do zleceniodawcy.
 
 ## Bandyci w latarni morskiej Jacka
 __Zleca: Jack__
 
 Jack mówi nam, że bandyci zajęli jego latarnię. Idziemy do latarni, zabijamy bandytów i wracamy do Jacka.
 
-## Przeklęta latarnia
-__Zleca: Jack__
+## Broń dla Gonzalesa
+__Zleca: Gonzales__
 
-> Na pozytywne zakończenie tego zadania wymagane jest 40 retoryki.  
-> Xardas nie zagada nas odnośnie zwoju, jeśli nie nacisnęliśmy znaku na ścianie  
-
-Jack opowiada nam o przeklętej latarni na morzu. Płyniemy tam i wspinamy się na samą górę. Wciskamy znak na ścianie i dostajemy wpis obok dziwnego szkieletu. Schodzimy teraz piętro niżej, gdzie znajdziemy pierścień z imieniem zaczynającym się na Ha. Rozmawiamy z Haradem, Hakonem i Halvorem, za co dostaniemy dodatkowego expa. Udajemy się teraz do Hanny, która opowiada nam tragiczną historię. Teraz idziemy do Xardasa, który daje nam zwój przyzwania ducha. Czytamy go na szczycie latarni, po czym schodzimy na dół i rozmawiamy z widmem. Teraz musimy znaleźć pirata. W pierwszej kolejności idziemy do Kardifa, który odeśle nas do Jacka. Po zadaniu z fajką Greg zagada do nas, mówiąc kim jest Kelvar. Z tymi informacjami idziemy do niego i następnego dnia przypływamy do latarni i wykonujemy zalecenia ducha. Jeśli zapalimy latarnie mając 40 retoryki, Jack przeżyje i zadanie się zakończy.
-
-## Fajka Jacka
-__Zleca: Jack__
-
-Zadanie to otrzymamy po oswobodzeniu latarni Jacka. Idziemy do Grega i zagadujemy go, gdy pali fajkę, którą z chęcią nam da. Wracamy do Jacka po nagrodę.
-
-## Łuk Bospera
-__Zleca: Bartok__
-
-Od Bartoka możemy się dowiedzieć, że Bosperowi skradziono łuk, który znajdziemy w skrzyni w kanałach.
-
-## Srebro Coragona
-__Zleca: Coragon__
-
-Coragon mówi nam, że ukradziono mu srebra. Srebra znajdują się w tej samej skrzyni co łuk Bospera w kanałach.
-
-## Osełka Briana
-__Zleca: Brian__
-
-Zadanie można uzyskać tylko jeśli nauczyliśmy się ostrzenia broni. Brian prosi nas, abyśmy przynieśli mu osełkę. Osełka znajduje się na półce obok Ramireza w siedzibie gildii złodziei.
-
-## Narzędzia Matteo
-__Zleca: Matteo__
-
-> To zadanie trzeba koniecznie wziąć przed zostaniem czeladnikiem  
-
-Matteo opowiada nam o skradzionej formie do biżuterii. Po zrobieniu zadania z naszyjnikiem dla Hanny otrzymamy od niej mieszek, w którym jest klucz do skrzyni na wyspie złodziei. Z formą wracamy do Matteo, który od teraz będzie uczył nas wytwarzania potężnej biżuterii.
-
-## Torba pełna rudy
-__Zleca: Wąż__
-
-Zadanie zleca Wąż w karczmie Kardifa. Prosi on nas o odzyskanie torby rudy, którą niegdyś zakopali. Idziemy do Snipesa na farmie Lobarta i wybieramy opcje **o niedokończonej sprawie**. Teraz udajemy się do jaskini pod obozowiskiem Talbina i Engora w Górniczej Dolinie. Ze znalezioną kością idziemy do Xardasa, który przyzywa ducha Alepha, dzięki czemu dowiadujemy się, że rude zakopał w podwodnej jaskini obok zamku (Tej samej, którą wchodziliśmy pierwszy raz do zamku). W jaskini powinna pojawić się mała kupka ziemi, którą wykopujemy, a sakiewkę otwieramy i oddajemy kopaczom ich rudę.
-
-## Klienci Coragona
-__Zleca: Coragon__
-
-Coragon skarży się na brak klientów. Idziemy do Martina i rozmawiamy z nim o problemie. Następnego dnia wracamy do Coragona, a zadanie się kończy.
+Gonzales z karczmy Kardifa zgodzi się nauczyć nas odporności na gorąco, jeśli przyniesiemy mu specjalną broń. Jest nią miecz asasyna, który otrzymamy od Parcivala za zadanie „Przewaga Taktyczna”
 
 ## Człowiek pod obliczem bestii
 __Zleca: Ignaz__
 
 Po wykonaniu zadania Eksperyment Ignaz opowie nam i nieudanym eksperymencie na jego uczniu. Teraz po kolei rozmawiamy z Miką, Akilem i Orlanem, a na końcu udajemy się do Sagitty. Podczas rozmowy z nią pojawi się wspomniany uczeń, którego musimy odczarować. Vatras daje nam zwój, który przywróci świadomość bestii. Wracamy do jaskini, rozmawiamy z zielarką i używamy zwoju stojąc przy cieniostworze. Po wszystkim jeszcze raz gadamy z Sagittą i wracamy do Ignaza po nagrodę.
 
-## Klucz Constantino
-__Zleca: Constantino__
+## Do dna
 
-Zadanie można dostać zaraz po odblokowaniu możliwość rozmowy z mistrzami. Constantino zgubił swój klucz, ale nie wie gdzie. Zuris powie nam, że Constantino zbierał zioła przy wschodniej bramie, więc zagadujemy Mikę, który odsprzeda nam klucz, z którym wracamy do alchemika.
-
-## Pierwsza mikstura
-__Zleca: Constantino__
-
-Zadanie otrzymamy, jeśli potrafimy jakąkolwiek miksturę i nie jesteśmy czeladnikiem Constantino. Pytamy go o naukę alchemii, a on daje nam recepturę, według której przygotowujemy eliksir. Niestety nam się to nie udaje, więc idziemy do Salandrila, który nam mówi, że ta receptura to bzdura. Wracamy do Constantino, który chwali nas za spostrzegawczość i od tej pory naucza nas alchemii.
-
-## Szczury pokładowe
-__Zleca: Paladyn na statku__
-
-Zadanie zleca Paladyn strzegący statku. Magowie Ognia, Wody oraz Czarnoksiężnicy mogą je zrobić w 1 rozdziale, Paladyni w 3, a reszta dopiero w V akcie. W zadaniu chodzi o to, by zabić szczury w ładowni statku.
-
-## Zabójca orków
-__Zleca: Harad__
-
-Po wykonaniu zadania Wielkie wyzwanie pytamy Harada o jego przeszłość wtedy ten zleca nam misję byśmy przynieśli mu amulet orka elity. W lesie nieopodal farmy Akila pojawi się specjalny ork, chociaż może być to dowolny czarny ork wojownik.  
-Zabijamy orka, zabieramy amulet i oddajemy go Haradowi.
-
-Ork elita na tym etapie jest ciężkim przeciwnikiem, dlatego warto skorzystać z pomocy Laresa, gdy wybieramy się z nim po ornament.
-
-## Joe
-__Zleca: Hakon__
-
-Hakon mówi, że kiedyś widział jednego gościa Joe, ale jakiś czas temu zniknął. Joe jest zamknięty w wieży straży obok domu Constantino. Drzwi można otworzyć zarówno kluczem, jak i wytrychem, więc otwieramy/wyważamy zamek i gadamy z Joe.
-
-## Względy Canthara
-__Zleca: Canthar__
-
-Canthar prosi nas, abyśmy odzyskali jego stoisko na targu. Mówi nam, abyśmy podłożyli Sarze fałszywy list mówiący, że handluje ona bronią z Onarem.  
-> Koniecznie trzeba wsadzić Sarę do więzienia, w innym wypadku będziecie mieć problemy z Gildią Zabójców oraz Gildią Kupców.
-
-## Kupieckie złoto
-__Zleca: Jora__
-
-Jora mówi nam, że Rengaru go okradł. Wykonujemy zadanie Bezczelny złodziej, a potem oddajemy złoto Jorze.
+Gadamy z Randolphem na farmie Akila. Opowiada on nam o turnieju w piciu, który zawsze wygrywa Rukhar, bo dolewa ginu do piwa. Idziemy do gospody Orlana i zakładamy się z Rukharem, po czym wyciągamy gin i dajemy wodę do jego skrzyni. Teraz wracamy do Randolpha, dajemy mu wpisowe i czekamy 3 dni, po których znowu z nim rozmawiamy i wracamy do Rukhara po nagrodę.
 
 ## Dostawa Baltrama
 __Zleca: Baltram__
 
 Baltram prosi nas o przyniesienie mu paczki z żywnością z farmy Akila. Udajemy się do Akila, zabijamy najemników (patrz zadanie Farmer w potrzebie) i odbieramy paczkę, po czym odnosimy ją do z powrotem do Akila (lub Nagura; patrz zadanie:Fałszywy Posłaniec)
 
-## Żywy lub Martwy
-__Zleca: Notatki z tablicy ogłoszeń w koszarach__
+## Eksperyment
+__Zleca: Ignaz__
 
-[![](https://steamuserimages-a.akamaihd.net/ugc/1619563003222744326/8840BB650FDCF18FC2B080036251E244C96DCCC0/)](https://steamuserimages-a.akamaihd.net/ugc/1619563003222744326/8840BB650FDCF18FC2B080036251E244C96DCCC0/)Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Koszarach. Musimy dopaść imiennych bandytów i przynieść ich głowy Andre:
+Ignaz prosi nas, abyśmy przetestowali zaklęcie zapomnienia. Najprościej po prostu ukraść coś z półki Ignazowi, uciec przed nim i rzucić czar, gdy stoi przy pulpicie/stole alchemicznym. Po użyciu zaklęcia rozmawiamy z Ignazem, który od teraz będzie z nami handlował i uczył nas alchemii.
 
-**1\. Farhaart** \- Aby do niego dotrzeć, należy wyjść przez wschodnią bramę Khorinis i kierować się w lewo(nie idziemy w górę do latarni, tylko cały czas zostajemy na dole). Natrafiamy na jaskinię i kierujemy się w lewą odnogę, aż natrafimy na bandytów.  
-**2\. Kurdupel** \- Znajduje się on w jaskini z notatką Halvora. Idąc z farmy Akila do Mrocznego Lasu, zbaczamy ze ścieżki i trzymamy się skał po lewej stronie.  
-**3\. Brzytwa** \- Znajduje się on w jaskini za lasem, w którym polujemy z Bartokiem.  
-**4\. Skiron** \- Znajduje się on w miejscu bandytów z listem Fernando. Idąc drogą od Martwej Harpii na wykopaliska, skręcamy w dół obok kapliczki i "wracamy dołem" w stronę karczmy.  
-**5\. Zręczny** - Zaczynamy od gospody Martwa Harpia, po czym idziemy ścieżką, po której szliśmy z Laresem odnieść ornament, idziemy do momentu, do którego spotkamy pierwszą kapliczkę Innosa, bandyci są na wzgórzu za kapliczką.  
-**6\. Dexter i Góra** - Znajdują się oni w obozie Dextera, czyli nieopodal farmy Onara.  
-**7\. Hannibal** \- Znajduje się on na nowych terenach obok wieży Xardasa. Idąc ścieżką skręcamy w lewo przed jaskinią z bandytami Cavalorna. Stamtąd idziemy cały czas prosto, aż natkniemy się na ścieżkę w górę, gdzie znajdziemy jego obóz.
+## Fajka Jacka
+__Zleca: Jack__
 
-## Proste przyjemności
-__Zleca: Ogrodnik__
+Zadanie to otrzymamy po oswobodzeniu latarni Jacka. Idziemy do Grega i zagadujemy go, gdy pali fajkę, którą z chęcią nam da. Wracamy do Jacka po nagrodę.
 
-Zleca Ogrodnik po tym jak pokażemy mu złodziejski gest. Prosi nas o przyniesienie 5 skrętów i 3 butelek ginu. W zamian daje nam klucz do skrzyni, która znajduje się w na piętrze domu, gdzie śpią paladyni.
+## Farmer w potrzebie
 
-## Badania Salandrila
-__Zleca: Salandril__
+Zadanie pojawia się automatycznie w rozmowie z wieśniakami na farmie Akila. Trzeba zabić dwóch najemników, robimy to sami lub idziemy do Miki, który zgadza się nam pomóc, jeśli wcześniej mu zapłaciliśmy.
 
-Jak zdobędziemy orkowe pomyje po zabiciu jakiegoś orka to u Salandrila pojawi się zadanie. Oddajemy mu pomyje i czekamy kilka dni. Wracamy po 3 dniach i Salandril prosi nas, abyśmy przynieśli mu 10 butelek orkowych pomyj, które wypadają głównie z hersztów orków. Zanosimy pomyje i po czym będziemy mogli kupić u Salandrila specjalny eliksir.
+## Gdzie są zaginieni ludzie?
+__Zleca: Vatras__
+
+Udajemy się do obozu Dextera niedaleko farmy Onara, mówimy strażnikowi imię ich wodza, po czym gadamy z Dexterem. Zabijamy go i czytamy notatkę z jego ciała , na koniec idziemy do Vatrasa.
+
+## Głodny skazaniec
+
+> UWAGA: To zadanie należy zrobić przed 3 rozdziałem, bo w innym wypadku zginie.
+
+Niedaleko cmentarza przy Martwej Harpii jak pójdziecie wąską ścieżką, traficie na spalone chaty z jaszczurami, będzie tam mała jaskinia w środku spotkacie skazańca Ragnara. Po rozmowie z nim możemy zaoferować mu 50, 100, 1000 sztuk złota i od tego zależy do jakiej gildii dołączy Ragnar i ile zadań dostaniemy.  
+\- 50 sztuk złota Ragnar dołączy do Najemników ( nie ma dodatkowych zadań)  
+\- 100 sztuk złota Ragnar dołączy do Straży miejskiej (1 dodatkowe zadanie)  
+\-1000 Ragnar dołączy do magów ognia (3 dodatkowe zadania i możliwość zdobycia berła które przyzywa nam smoka do pomocy)  
+Oczywiście 3 opcja jest najbardziej opłacalna, najwięcej zadań, expa i bonusów, a do tego możemy mieć smoka jako naszego pupila. Co prawda jest on raczej na pokaz, bo na tym etapie mamy znacznie lepsze rzeczy.  
+Po oddaniu mu złota Ragnar prosi nas o butelkę wody i kawałek mięsa. Dajemy mu jedzenie i zadanie dobiega końca.
+
+## Handlarz bronią dla bandytów
+__Zleca: Vatras__
+
+Zadanie zleca Vatras, idziemy pogadać z Martinem. Teraz musimy zebrać kilka dowodów, pałasz bandytów, pierścień gildii kupieckiej Araxos (Ma go przy sobie jeden z bandytów więżących Elvricha, List obok skrzyni w obozie bandytów za farmą Sekoba. Okazuje się ze to Fernando, idziemy z nim pogadać, po czym wydajemy go u Martina. Na końcu gadamy z Vatrasem.
 
 ## Horror na cmentarzu
 __Zleca: Lothar__
@@ -444,10 +401,260 @@ Lothar prosi nas, abyśmy udali się w nocy na cmentarz obok miasta i sprawdzili
 
 Wracamy do Lothara, a ten nas wysyła do Constantino, aby wypytać o jego ucznia Rigeliona. Dowiadujemy się od niego, że jego uczeń przyjaźnił się z zarządcą cmentarza. Rozmawiamy z nim, po czym wracamy w nocy na cmentarz, gdzie czeka na nas zabójca. Czytamy jego notatkę i podnosimy kości, które leżą na przeciwnym końcu cmentarza. Udajemy się z nimi do Xardasa, który stwierdza obecność nekromanty w Khorinis. Z tą informacją udajemy się do Lothara, po czym z powrotem na cmentarz, na którym staczamy walkę z nowicjuszem mroku. Na koniec informujemy o wszystkim Lothara i odbieramy nagrodę.
 
+## Informacje dla Garvella
+__Zleca: Garvell__
+
+Garvell chce się dowiedzieć, dlaczego Paladyni przybyli do miasta. Rozmawiamy najpierw z Rangarem i dajemy mu piwa, aż się nie wygada, a my otrzymamy retorykę. Wracamy do Garvella i mówimy, czego udało nam się dowiedzieć. Resztę informacji możemy uzyskać od Hagena pod koniec 1 rozdziału albo od Andre, jeśli jesteśmy strażnikami miejskimi. Wracamy do Garvella z informacjami.
+
+## Jedzenie dla Farima
+__Zleca: Farim__
+
+Po zrobieniu zadania ze strażą Farim prosi nas o przyniesienie specjalnej zupki. Zupę zrobi Edda jeśli przyniesiemy jej 10 ryb, 5 serafisów, czerwony pieprz (który kupimy od Zurisa), ser i rum (z zadania "Piracki Handel")  
+Edda robi nam zupkę, którą zanosimy Farimowi.
+
+## Jedzenie dla ubogich
+__Zleca: Vatras__
+
+Vatras prosi nas o odebranie paczki z jedzeniem od Lobarta.
+
+## Joe
+__Zleca: Hakon__
+
+Hakon mówi, że kiedyś widział jednego gościa Joe, ale jakiś czas temu zniknął. Joe jest zamknięty w wieży straży obok domu Constantino. Drzwi można otworzyć zarówno kluczem, jak i wytrychem, więc otwieramy/wyważamy zamek i gadamy z Joe.
+
+## Kamienie teleportacyjne
+
+Zadanie zleca nam Merdarion.  
+Da on nam klucz, który otwiera pomieszczenie z teleporterem na wykopaliskach. Przeniesie on nas do jaskini przy mieście, a teleport stamtąd przed drzwi obok cmentarza przy Martwej Harpii.  
+Idziemy teraz do Orlana, który da nam klucz do teleportera przy cmentarzu, który teleportuje nas z powrotem na wykopaliska. Wracamy do Merdariona, u którego kończy się nasze zadanie.
+
+## Kamienne tablice
+
+Kamienne tabliczki są porozmieszczane w różnych lokacjach. Wystarczy dać jedną Vatrasowi, aby zakończyć zadanie.
+
+## Klienci Coragona
+__Zleca: Coragon__
+
+Coragon skarży się na brak klientów. Idziemy do Martina i rozmawiamy z nim o problemie. Następnego dnia wracamy do Coragona, a zadanie się kończy.
+
+## Klucz Constantino
+__Zleca: Constantino__
+
+Zadanie można dostać zaraz po odblokowaniu możliwość rozmowy z mistrzami. Constantino zgubił swój klucz, ale nie wie gdzie. Zuris powie nam, że Constantino zbierał zioła przy wschodniej bramie, więc zagadujemy Mikę, który odsprzeda nam klucz, z którym wracamy do alchemika.
+
+## Kupieckie złoto
+__Zleca: Jora__
+
+Jora mówi nam, że Rengaru go okradł. Wykonujemy zadanie Bezczelny złodziej, a potem oddajemy złoto Jorze.
+
+## Leniwy farmer
+
+Till na farmie Sekoba skarży się, że Bronko nic nie robi i wyłudza haracz. Targujemy się z Tillem aż do 100 złotych monet, po czym obijamy mordę Bronko. Po wszystkim wracamy do Tilla.
+
+## Lucia
+__Zleca: Bromor__
+
+Zadanie dostajemy po rozmowie z Bromorem, a następnie z Nadją. Okazuje się, że Lucia uciekła gdzieś z Elvrichem czeladnikiem Thorbena. Zostali oni porwani przez bandytów:  
+Pożegnalny list Lucii znajdziemy w namiocie w obozie bandytów za farmą Sekoba.  
+Pokazujemy ten list Elvrichowi, który jest w obozie bandytów nad jaskinią Sagitty, po czym ten wraca do miasta. Zadanie kończy się po rozmowie z Lucią w Jarkendarze.
+
+## Łuk Bospera
+__Zleca: Bartok__
+
+Od Bartoka możemy się dowiedzieć, że Bosperowi skradziono łuk, który znajdziemy w skrzyni w kanałach.
+
+## Magiczny dziennik
+
+Vatras mówi nam, że ktoś ukradł mu dziennik. Idziemy do Cassii i jak mamy 15 retoryki to wybieramy odpowiednią opcję i dowiadujemy się, że dziennik ma Ramirez. Idziemy do Ramireza i jeśli mamy 30 retoryki odda nam dziennik za darmo jeśli nie mamy retoryki płacimy 100 złota.  
+**Jeśli zabiliśmy Atilie, nie ma możliwości dostania dziennika za darmo**  
+Na końcu czytamy dziennik i oddajemy go Vatrasowi.
+
+## Miecz Alrika
+__Zleca: Alrik__
+
+Alrik mówi nam, że sprzedał swój miecz kupcowi o imieniu Jora i prosi, abyśmy go odzyskali. Miecz od Jory możemy kupić za 50 sztuk złota albo uzyskać za darmo. W tym celu należy nie rozmawiać z Jorą o mieczu, aż do momentu, gdy oddamy mu skradzione złoto. Z mieczem wracamy do Alrika.
+
+## Mikstury dla Vatrasa
+
+Vatras prosi nas byśmy udali się do Salandrila i dowiedzieli się co z dostawą eliksirów. Dostajemy kilka eliksirów i wracamy do Vatrasa.
+
+## Narzędzia Matteo
+__Zleca: Matteo__
+
+> To zadanie trzeba koniecznie wziąć przed zostaniem czeladnikiem  
+
+Matteo opowiada nam o skradzionej formie do biżuterii. Po zrobieniu zadania z naszyjnikiem dla Hanny otrzymamy od niej mieszek, w którym jest klucz do skrzyni na wyspie złodziei. Z formą wracamy do Matteo, który od teraz będzie uczył nas wytwarzania potężnej biżuterii.
+
+## Nieziemskie sny
+
+O 18 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga; Za żaden nie przyjmujemy nagrody)
+
+\- Poezja Myrtańska (Sprzedaje ją Matteo)  
+\- Naszyjnik z czarnych pereł (Po odzyskaniu narzędzi Matteo zgadza się on go zrobić, ale musimy mu przynieść 5 czarnych pereł i sztabkę złota)  
+\- Niebieska Malwa (Kwiat znajdziemy po ukończeniu wątku Jarkendaru, niedaleko teleportu do Złotego Smoka)
+
+Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po oddaniu wszystkich przedmiotów Loa nas zaczepia i prosi o spotkanie w nocy w latarni Jacka tego samego dnia. Udajemy się do latarni Jacka o 00:00, a Loa powinna na nas czekać na szczycie Latarni. Wybieramy odpowiednie opcje dialogowe po kolei:
+
+\-3 opcja dialogowa (Sprawia takie wrażenie)  
+\-3 opcja dialogowa (O tym samym co ty)  
+\-1 opcja dialogowa (Rozumiem ich)
+
+Teraz powinna się odpalić cutscenka jak Loa schodzi na dół latarni, po jej zakończeniu schodzimy na dół i zaraz po wyjściu z latarni skręcamy w prawo za latarnię. Po cutscence otrzymujemy 5PN, a zadanie się kończy.
+
+## Nowa broń dla Skipa
+__Zleca: Skip__
+
+Skip prosi nas, abyśmy przynieśli mu nową broń. Chodzi o piracki kordelas, który znajduje się obok jaszczura na plaży przy statku Paladynów.
+
+## Osełka Briana
+__Zleca: Brian__
+
+Zadanie można uzyskać tylko jeśli nauczyliśmy się ostrzenia broni. Brian prosi nas, abyśmy przynieśli mu osełkę. Osełka znajduje się na półce obok Ramireza w siedzibie gildii złodziei.
+
+## Pancerz najemnika dla Jessego
+
+Jeśli odwiedziliśmy już farmę Onara wracamy do Jessego, czyli bandyty, którego spotkaliśmy na początku gry niedaleko Cavalorna. Mówimy mu, żeby się udał na farmę , ale Jesse nie pójdzie , dopóki nie damy mu normalnego pancerza. Możemy dać mu jakikolwiek pancerz najemnika, jeśli natomiast należymy do innej gildii, to można oddać mu ubranie obywatela lub skórzany pancerz. Oddajemy pancerz Jessemu, a on udaje się na farmę Onara.
+
+## Pierwsza mikstura
+__Zleca: Constantino__
+
+Zadanie otrzymamy, jeśli potrafimy jakąkolwiek miksturę i nie jesteśmy czeladnikiem Constantino. Pytamy go o naukę alchemii, a on daje nam recepturę, według której przygotowujemy eliksir. Niestety nam się to nie udaje, więc idziemy do Salandrila, który nam mówi, że ta receptura to bzdura. Wracamy do Constantino, który chwali nas za spostrzegawczość i od tej pory naucza nas alchemii.
+
+## Piracki handel
+__Zleca: Skip__
+
+Na plaży niedaleko Khorinis spotykamy Skipa, ten prosi nas byśmy udali się do Baltrama po dostawę. Idziemy do Baltrama odbieramy dostawę , dajemy ją Skipowi. Skip daje nam 2 butelki rumu które zanosimy Baltramowi.
+
+## Pomoc dla Laresa
+
+Lares prosi nas o znalezienie mu zastępcy. Zakładamy pierścień wodnego kręgu i gadamy z Baltramem po czy wracamy do Laresa.
+
+## Portal
+
+Nefarius zleca nam zebranie wszystkich ornamentów:
+- w kamiennym kręgu w lesie na północy, idziemy tam z Laresem (Tylko na poziomie Gothic)
+- w kamiennym kręgu obok farmy Sekoba
+- Ostatni ma Lothar
+  
+Co do ostatniego ornamentu idziemy do kamiennego kręgu obok farmy Lobarta, gadamy z Cavalornem, który mówi nam, żeby udać się do Paladynów po ornament. Rozmawiamy z Lotharem który oddaje nam ornament. Zadanie dobiega końca, gdy przejdziemy przez portal do Jarkendaru.
+
+## Problem Bengara
+
+Bengar mówi nas o groźnym wilku, który grasuje w okolicy. Znajdziemy go między wodospadami, a gospodą Orlana. Zabijamy zwierzę, po czym wracamy do Bengara po nagrodę.
+
+## Problemy ze strażą
+__Zleca: Farim__
+
+Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc. Wracamy do Farima.
+
+## Proste przyjemności
+__Zleca: Ogrodnik__
+
+Zleca Ogrodnik po tym jak pokażemy mu złodziejski gest. Prosi nas o przyniesienie 5 skrętów i 3 butelek ginu. W zamian daje nam klucz do skrzyni, która znajduje się w na piętrze domu, gdzie śpią paladyni.
+
+## Przeklęta latarnia
+__Zleca: Jack__
+
+> Na pozytywne zakończenie tego zadania wymagane jest 40 retoryki.  
+> Xardas nie zagada nas odnośnie zwoju, jeśli nie nacisnęliśmy znaku na ścianie  
+
+Jack opowiada nam o przeklętej latarni na morzu. Płyniemy tam i wspinamy się na samą górę. Wciskamy znak na ścianie i dostajemy wpis obok dziwnego szkieletu. Schodzimy teraz piętro niżej, gdzie znajdziemy pierścień z imieniem zaczynającym się na Ha. Rozmawiamy z Haradem, Hakonem i Halvorem, za co dostaniemy dodatkowego expa. Udajemy się teraz do Hanny, która opowiada nam tragiczną historię. Teraz idziemy do Xardasa, który daje nam zwój przyzwania ducha. Czytamy go na szczycie latarni, po czym schodzimy na dół i rozmawiamy z widmem. Teraz musimy znaleźć pirata. W pierwszej kolejności idziemy do Kardifa, który odeśle nas do Jacka. Po zadaniu z fajką Greg zagada do nas, mówiąc kim jest Kelvar. Z tymi informacjami idziemy do niego i następnego dnia przypływamy do latarni i wykonujemy zalecenia ducha. Jeśli zapalimy latarnie mając 40 retoryki, Jack przeżyje i zadanie się zakończy.
+
+## Przepisy win dla Goraxa
+
+Gorax prosi nas o przyniesienie mu receptur win:
+
+- Receptury win Tom 1 sprzedaje Constantino
+- Receptury win Tom 2 sprzedaje Salandril
+- Grzane wino wypada z ciała Juana w Jarkendarze
+
+Receptury warto przeczytać przed oddaniem Goraxowi. (Grzanego wina nie da się wytworzyć)
+
+## Przyjaciel Bartoka
+
+Zadanie zleca Bartok. Mówi, że gdzieś zaginął jego przyjaciel Trokar. Ciało Trokara leży między farmą Akila a kamiennym kręgiem w lesie. Wokół ciała jest masa orków i wargów, którzy mogą sprawić problemy. Z pierścieniem Trokara wracamy do Bartoka.
+
+## Ranny ork
+
+> UWAGA: To zadanie musi być wykonane przed wejściem do Miasta Orków, bo w innym wypadku ork umrze
+
+Obok zrujnowanej wieży niedaleko Niclasa będzie ranny ork Ur-Karras. Gadamy z nim , mówi nam, że odniósł poważną ranę, teraz musimy go uleczyć. Idziemy do Salandrila kupujemy zwój leczniczy za 500 złota i wracamy do rannego orka. Gadamy z orkiem i leczymy go podczas rozmowy. Koniec zadania, Ur-Karrasa spotkamy później w mieście orków.
+
+## Riordian
+
+Saturas prosi byśmy powiedzieli Riordianowi, że chce z nim pogadać.
+
+## Słoneczny aloes
+
+Pytając Sagitte o naukę alchemii, zleci nam ona zadanie, aby przynieść jej rzadki składnik alchemiczny Słoneczny Aloes. Roślinę można znaleźć w jaskini, gdzie przebywa Czarny Troll. Zanosimy roślinę do Sagitty i od tej pory będzie nas uczyć alchemii.  
+Dodatkowo pytamy się jej o przeznaczenie tej mikstury, a będzie ona dla nas ważyć mikstury ze Słonecznych Aloesów, które zwiększą naszą ochronę.
+
+## Srebro Coragona
+__Zleca: Coragon__
+
+Coragon mówi nam, że ukradziono mu srebra. Srebra znajdują się w tej samej skrzyni co łuk Bospera w kanałach.
+
+## Syn marnotrawny
+
+W klasztorze zaczepi nas nowicjusz Holger, dla którego mamy przekazać list do Alwina w Khorinis. Od Alwina dostajemy informację zwrotną, z którą idziemy do Holgera, który przeniesie się teraz do Khorinis.
+
+## Szalony Fellan
+__Zleca: Alwin__
+
+Alwin skarży się, że Fellan cały czas tłucze młotkiem. Prosi nas, abyśmy coś z tym zrobili. Idziemy do Fellana spuszczamy mu lanie i wracamy do Alwina.
+
+## Szczury pokładowe
+__Zleca: Paladyn na statku__
+
+Zadanie zleca Paladyn strzegący statku. Magowie Ognia, Wody oraz Czarnoksiężnicy mogą je zrobić w 1 rozdziale, Paladyni w 3, a reszta dopiero w V akcie. W zadaniu chodzi o to, by zabić szczury w ładowni statku.
+
+## Śmierdząca bestia Erola
+
+Po tym jak oddamy mu 3 tabliczki, gadamy z Erolem pod jego chatą, mówi nam o bestii mieszkającej niedaleko jego chaty. Musimy zabić bossa topielca na wysepce na środku jeziora (tam, gdzie jeden ze skarbów Grega). Po ubiciu bestii wracamy do Erola.
+
 ## Tajemnica kapitana straży
 __Zleca: Notatka z ciała Faarharta__
 
 Po zabiciu bandyty Faarharta dowiadujemy się, że Wulfgar posiada pokaźny skarb. Idziemy do pokoju Wulfgara w koszarach, gdzie za skrzynią podnosimy notatkę. Udajemy się teraz do jaskini z widmem, między Grimbaldem, a Słonecznym Kręgiem. Z nieumarłymi możemy wybiec, podnieść notatkę i klucz, a następnie uciec. Teraz czytamy znalezioną notatkę i wchodzimy w interakcje z obrazem Rhobara w pokoju Wulfgara, co skutkuje przesunięciem się regału. Zabieramy zawartość skrzyń, a zadanie się kończy.
+
+## Torba pełna rudy
+__Zleca: Wąż__
+
+Zadanie zleca Wąż w karczmie Kardifa. Prosi on nas o odzyskanie torby rudy, którą niegdyś zakopali. Idziemy do Snipesa na farmie Lobarta i wybieramy opcje **o niedokończonej sprawie**. Teraz udajemy się do jaskini pod obozowiskiem Talbina i Engora w Górniczej Dolinie. Ze znalezioną kością idziemy do Xardasa, który przyzywa ducha Alepha, dzięki czemu dowiadujemy się, że rude zakopał w podwodnej jaskini obok zamku (Tej samej, którą wchodziliśmy pierwszy raz do zamku). W jaskini powinna pojawić się mała kupka ziemi, którą wykopujemy, a sakiewkę otwieramy i oddajemy kopaczom ich rudę.
+
+## Wino z Archolos
+__Zleca: Vadius__
+> Zadanie z dodatku `Droga Potępionych`
+
+## Względy Canthara
+__Zleca: Canthar__
+
+Canthar prosi nas, abyśmy odzyskali jego stoisko na targu. Mówi nam, abyśmy podłożyli Sarze fałszywy list mówiący, że handluje ona bronią z Onarem.  
+> Koniecznie trzeba wsadzić Sarę do więzienia, w innym wypadku będziecie mieć problemy z Gildią Zabójców oraz Gildią Kupców.
+
+## Zabójca orków
+__Zleca: Harad__
+
+Po wykonaniu zadania Wielkie wyzwanie pytamy Harada o jego przeszłość wtedy ten zleca nam misję byśmy przynieśli mu amulet orka elity. W lesie nieopodal farmy Akila pojawi się specjalny ork, chociaż może być to dowolny czarny ork wojownik.  
+Zabijamy orka, zabieramy amulet i oddajemy go Haradowi.
+
+Ork elita na tym etapie jest ciężkim przeciwnikiem, dlatego warto skorzystać z pomocy Laresa, gdy wybieramy się z nim po ornament.
+
+## Zaginieni ludzie
+__Zleca: Rozmowa z osobą, która poszukuje kogoś zaginionego (Thorben, Farim, Garvell, Akil, Bengar, Cord, Bromor__
+
+Mieszkańcy znikają na całym Khorinis. Musisz ich odnaleźć. Są to po kolei:
+
+Elvrich - mówi o nim Thorben. Jest w obozie bandytów nieopodal golema z zadania "Żywa skała".  
+Lucia - mówi o niej Bromor. Jest w Jarkendarze w obozie bandytów. Nie będzie chciała wrócić.  
+Joe - mówi o nim Hakon. Siedzi w wieży obok domu Thorbena. Trzeba otworzyć drzwi wytrychem lub kluczem Pecka.  
+William - mówi o nim Farim. Jest martwy w ruinach miasta w Jarkendarze obok brzytwiaka.  
+Monty - mówi o nim Garvell. Jest w kopalni złota w obozie bandytów.  
+Tonak i Talbor - mówi o nich Akil. Są niewolnikami w kopalni w obozie bandytów w Jarkendarze.  
+Pardos - mówi o nim Bengar. Tak samo jak wyżej.  
+Patrick - mówi o nim Cord. Tak samo jak wyżej.
+
+Zadanie zakończy się po uwolnieniu niewolników w Jarkendarze. Można jeszcze porozmawiać z zaginionymi jak wrócą do Khorinis
 
 ## Zagubiony bandyta
 __Zleca: Notatka w ciele bandyty__
@@ -469,51 +676,22 @@ oraz 500 expa i 2000 złota za uwolnienie niewolników.
 
 > Najkorzystniej wybrać jedną z opcji w której Valeran przeżyje, czyli albo zrezygnować na początku, albo z nimi współpracować. Jest on bardzo potrzebny do zadania "Asystent"
 
-# Wątek Gallahada
+## Zakazane pastwisko
 
-## Zadanie Gallahada
-__Zleca: Gallahad__
+Balthasar z farmy Sekoba mówi nam, że Bengar zabrania mu wyprowadzać owce na swoje pastwiska. Idziemy do Bengara i dowiadujemy się, że nie lubi on Balthasara. Bengar się zgodzi dopiero kiedy pozbędziemy się strażników miejskich w zadaniu z testem Torlofa. Wracamy do Baltazara .
 
-> Ważne jest, aby pilnować spotkania w tawernie oraz nie wydawać Fernando, aż do zakończenia tego questa  
+## Zatopiony statek
+__Zleca: Farim__
 
-Po zagadaniu do Gallahada dwa razy dowiadujemy się, że był kiedyś miejskim magiem i chce powrócić na swoją pozycję. Potrzebuje do tego listów polecających od wpływowych osób z górnego miasta, którymi są Gerbrandt, Lutero, Fernando i Salandril. Można też wziąć list od Valentino, ale nie jest on zbyt znaczący dla Gallahada.
+Po zrobieniu poprzedniego zadania Farim opowiada nam o kupieckim statku, który zatonął między Przeklętą latarnią, a wyspą nieopodal. Nurkujemy do szczątków statku, podnosimy paczkę i ją otwieramy, a zadanie się kończy.
 
-Po zebraniu wszystkich listów polecających zanosimy je Gallahadowi, a następnie udajemy się do Lariusa. Musimy z nim porozmawiać przed ratuszem około 13. **Jeśli mamy dostęp do ratusza robiąc to zadanie, to nie można z nim pogadać w środku, bo uzna, że przeszkadzamy mu w pracy** Po pozytywnej reakcji Lariusa wracamy do Gallahada, który oddaje nam swoją chatę do użytku i każe zgłosić się po nagrodę w ratuszu. Następnego dnia wracamy i mamy do wyboru:  
-\-Złoto (Nieopłacalne)  
-\-Dwie mikstury stałe (Wybieramy na gildiach wojowniczych)  
-\-Naukę magii (Konieczne na gildiach magicznych)  
-**Jeśli Larius się na nas obrazi, to możemy skorzystać ze zwoju zapomnienia**
+## Zarzuty Parlana
 
-## Zemsta na Regisie
-__Zleca: Valentino__
+Wymagane 10 retoryki. Do tego Lehmar musi żyć.
 
-Valentino prosi nas, abyśmy pobili Regisa. Bijemy go i wracamy do zleceniodawcy.
+Musimy się włamać do klasztoru dachem i zagadać do Parlana. Ale musi to być pierwsze wejście do klasztoru, bo jeśli już tam byliśmy wcześniej w zadaniu dla kupców albo po dołączeniu jako nowicjusz to zadanie przepadnie. Napotykamy Parlana przed którym udajemy głupka (10 retoryki), a on litościwie zgadza się nas oszczędzić. Teraz mamy zadanie, aby kupić od Lehmara relikwię magów ognia (Wymagane 1000 sztuk złota, aby Lehmar otworzył sklep). Po kupnie przedmiotu wracamy do Parlana po nagrodę.
 
-## Tajemnicze spotkanie
-__Zleca: Gerbrandt__
+## Złota misa Bromora
+__Zleca: Bromor__
 
-**Bardzo ważne jest stawienie się na spotkanie tego samego dnia**  
-Gerbrandt daje nam list i sakiewkę. O północy mamy spotkać się z nieznajomym w gospodzie Orlana. O północy rozmawiamy z Orlanem o naszym spotkaniu, a następnie udajemy się do ostatniego pokoju na piętrze. Podczas rozmowy z nieznajomym wybieramy opcje:  
-Cóż… Ja → Proszę, weź ten list i sakiewkę → Nie mogę ci tego powiedzieć → Głupie czy nie, walczmy!  
-Do walki nie dochodzi, a z informacjami wracamy do Gerbrandta, co otwiera nam możliwość dołączenia do gildii zabójców.  
-**Jeśli zepsujemy to zadanie, to można kupić od Brahima sfałszowany list rekomendacyjny**
-
-## Podręcznik retoryki
-__Zleca: Fernando__
-
-Fernando chce zdobyć Podręcznik Retoryki, który jest w posiadaniu Gallahada. Były mag nie chce go oddać po dobroci, więc idziemy do Ignaza, który prosi nas o wysłanie do niego Gallahada po zioła. Wracamy do Gallahada, rozmawiamy z nim i czekamy, aż wyjdzie z chaty i zabieramy książkę ze stołu. Po przeczytaniu oddajemy ją Fernando i otrzymujemy upragniony list.
-
-## Dług Lutero
-__Zleca: Lutero__
-
-Lutero prosi nas o przyniesienie weksla od Lehmara. Weksel znajduje się w skrzyni za ścianką na parterze. Aby się do niej dostać, należy wcisnąć przycisk po prawej stronie kominka na piętrze. Z wekslem wracamy do kupca i otrzymujemy list polecający.
-
-## Orkowa mikstura
-__Zleca: Salandril__
-
-Salandril prosi nas, abyśmy przynieśli mu orkową miksturę. Po tej rozmowie na lewo od wschodniej bramy pojawia się ork, którego możemy zaprowadzić do miasta lub za opłatą zabić wraz z Miką. Po zdobyciu mikstury wracamy do Salandrila i dostajemy list.
-
-## Wykwintne jedzenie
-__Zleca: Gallahad__
-
-Gallahad prosi o przyniesienie mu 3 butelek wina, sera, szynki, miodu i winogrona. Powinniśmy już mieć wszystko poza winogronami, które zbieramy w klasztorze lub kupujemy od kupców w mieście.
+Bromor mówi nam, że Lucia ukradła mu złotą misję i prosi o jej odzyskanie. Misę ma jeden z bandytów za farmą Sekoba (tam, gdzie znajdujemy list pożegnalny Lucii).

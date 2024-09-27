@@ -13,13 +13,14 @@
 - [Domyślnie wyłączone](sekcje/zadania/wylaczone.md)
 
 - **Gildie główne**
-- [Łowca Demonów](sekcje/gildie_glowne/lowca_demonow.md)
-- [Łowca Smoków](sekcje/gildie_glowne/lowca_smokow.md)
-- [Mag Ognia](sekcje/gildie_glowne/mag_ognia.md)
-- [Mag Wody](sekcje/gildie_glowne/mag_wody.md)
-- [Nekromanta/Mroczny Rycerz/Czarnoksiężnik](sekcje/gildie_glowne/nekromanta_mrocznyrycerz_czarnoksieznik.md)
-- [Strażnik Miejski/Paladyn](sekcje/gildie_glowne/paladyn.md)
-- [Strażnik Świątynny/Guru](sekcje/gildie_glowne/straznikswiatynny_guru.md)
+- [Łowca Demonów](sekcje/gildie_glowne/lowca_demonow.md?id=Łowca-demonów)
+- [Łowca Smoków](sekcje/gildie_glowne/lowca_smokow.md?id=najemnikŁowca-smoków)
+- [Mag Ognia](sekcje/gildie_glowne/mag_ognia.md?id=mag-ognia)
+- [Mag Wody](sekcje/gildie_glowne/mag_wody.md?id=mag-wody)
+- [Nekromanta/Mroczny Rycerz/Czarnoksiężnik](sekcje/gildie_glowne/nekromanta_mrocznyrycerz_czarnoksieznik.md?id=nekromantamroczny-rycerzczarnoksiężnik)
+- [Potępiony](sekcje/gildie_glowne/potepiony.md?id=potępiony)
+- [Strażnik Miejski/Paladyn](sekcje/gildie_glowne/paladyn.md?id=strażnik-miejskipaladyn)
+- [Strażnik Świątynny/Guru](sekcje/gildie_glowne/straznikswiatynny_guru.md?id=strażnik-świątynnyguru)
 
 - **Gildie poboczne**
 - [Informacje dodatkowe](sekcje/gildie_poboczne/info.md)

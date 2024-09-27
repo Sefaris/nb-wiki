@@ -118,6 +118,14 @@ Karras z klasztornej biblioteki prosi nas o przyniesienie trzech zwoi zapomnieni
 
 W notatce znalezionej przy podejrzanym typie, urzędującym w jaskini po lewo od wschodniej bramy, znajdziemy dziwnego skręta. Po wypaleniu go pojawimy się w świecie snu, gdzie spotykamy Vatrasa mówiącego nam o strażnikach i wieży. Zabijamy wszystko co napotkamy, a następnie wracamy do maga, który proponuje nam współprace z Beliarem, po której się budzimy.
 
+## Wiadomość dla Isgarotha (Rozdział 2)
+
+Vatras nas prosi byśmy zanieśli list do Isgarotha, który jest w kaplicy po drodze do klasztoru. Po doręczeniu listu wracamy do Vatrasa po nagrodę.
+
+## List do Lee (Rozdział 2)
+
+Vatras daje nam list, który musimy zanieść do Lee. Zanosimy list i wracamy do Vatrasa.
+
 # Fort Azgan
 
 ## Dostęp do Fortu Azgan dostaniemy robiąc zadanie dla gildii kupców: Zapasy Paladynów
@@ -638,3 +646,4 @@ UWAGA: Za to zadanie dostaniecie miecz potrzebny w zadaniu Broń dla Gonzalesa.
 
 Myśliwy Gestath opowiada o królowej Harpii i prosi o przyniesienie jej serca. Harpia znajduje się w Kamiennej Fortecy na drodze do kamiennego smoka. Zabijamy królową i oddajemy serce Gestathowi.  
 **Uwaga: Po tym zadaniu nauczy on nas za darmo smoczej krwi**
+
