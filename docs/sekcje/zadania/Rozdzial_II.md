@@ -1,4 +1,4 @@
-# Khorinis Cz. 1
+# Zadania - Rozdział 2
 
 ## Informacja dla Salandrila
 

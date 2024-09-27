@@ -1,4 +1,4 @@
-# Khorinis Cz. 1
+# Zadania - Rozdział 7
 
 ## Wojna z orkami
 
