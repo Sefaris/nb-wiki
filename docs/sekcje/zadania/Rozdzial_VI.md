@@ -1,4 +1,4 @@
-# Zapomniana wyspa
+# Zadania - Rozdział 6
 
 ## Zapomniana Wyspa
 

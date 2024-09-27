@@ -1,6 +1,6 @@
-## W czwartym rozdziale Magów Wody znajdziemy przy portalu do Khorinis, a bandytów którzy przeżyli w jaskini u piratów, na północnej plaży.Kluczowe rzeczy przed wejściem w 4 rozdział to kupienie szczawiu od Miguela, uratowanie Sagitty i nauka przetapiania orkowej broni u Dobara
+# Zadania - Rozdział 4
 
-# Khorinis
+> W czwartym rozdziale Magów Wody znajdziemy przy portalu do Khorinis, a bandytów którzy przeżyli w jaskini u piratów, na północnej plaży.Kluczowe rzeczy przed wejściem w 4 rozdział to kupienie szczawiu od Miguela, uratowanie Sagitty i nauka przetapiania orkowej broni u Dobara
 
 ## Wiadomości dla Vatrasa
 

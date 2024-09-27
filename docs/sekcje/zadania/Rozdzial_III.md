@@ -1,6 +1,6 @@
-## Przed wejściem do tego rozdziału należy ukończyć zadanie "Horror na cmentarzu". Warto się także przygotować na jego krótkie trwanie, jako że nie opłaca się w nim siedzieć, ze względu na mocny ekwipunek w 4 rozdziale
+# Zadania - Rozdział 3
 
-# Khorinis Cz. 1
+> Przed wejściem do tego rozdziału należy ukończyć zadanie "Horror na cmentarzu". Warto się także przygotować na jego krótkie trwanie, jako że nie opłaca się w nim siedzieć, ze względu na mocny ekwipunek w 4 rozdziale
 
 ## Złoto Diega
 
