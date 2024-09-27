@@ -2571,3 +2571,13 @@ body .sidebar {
 }
 
 /*# sourceMappingURL=theme-simple-dark.css.map */
+
+.sidebar-nav ul li p strong {
+  color: var(--sidebar-name-color);
+  text-align: center;
+  display: block;
+}
+
+.markdown-section a {
+  color: var(--sidebar-name-color);
+}
