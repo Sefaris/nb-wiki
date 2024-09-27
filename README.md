@@ -11,13 +11,13 @@ Aby dokonywać zmian lokalnie należy zainstalować:
 Po zainstalowaniu należy wykonać komendę:
 
 ```
-$ npm i docsify-cli -g
+$ npm install
 ```
 
 W odpowiednim katalogu należy wpisać następującą komendę:
 
 ```
-$ docsify serve docs
+$ npm run docs
 ```
 
 Domyślnie projekt uruchamia się pod adresem: `http://localhost:3000`.
