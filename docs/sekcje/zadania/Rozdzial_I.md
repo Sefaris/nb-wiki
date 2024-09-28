@@ -305,11 +305,16 @@ __Zleca: Gallahad__
 
 Po zagadaniu do Gallahada dwa razy dowiadujemy się, że był kiedyś miejskim magiem i chce powrócić na swoją pozycję. Potrzebuje do tego listów polecających od wpływowych osób z górnego miasta, którymi są Gerbrandt, Lutero, Fernando i Salandril. Można też wziąć list od Valentino, ale nie jest on zbyt znaczący dla Gallahada.
 
-Po zebraniu wszystkich listów polecających zanosimy je Gallahadowi, a następnie udajemy się do Lariusa. Musimy z nim porozmawiać przed ratuszem około 13. **Jeśli mamy dostęp do ratusza robiąc to zadanie, to nie można z nim pogadać w środku, bo uzna, że przeszkadzamy mu w pracy** Po pozytywnej reakcji Lariusa wracamy do Gallahada, który oddaje nam swoją chatę do użytku i każe zgłosić się po nagrodę w ratuszu. Następnego dnia wracamy i mamy do wyboru:  
-\-Złoto (Nieopłacalne)  
-\-Dwie mikstury stałe (Wybieramy na gildiach wojowniczych)  
-\-Naukę magii (Konieczne na gildiach magicznych)  
-**Jeśli Larius się na nas obrazi, to możemy skorzystać ze zwoju zapomnienia**
+Po zebraniu wszystkich listów polecających zanosimy je Gallahadowi, a następnie udajemy się do Lariusa. Musimy z nim porozmawiać przed ratuszem około 13.  
+
+> Jeśli mamy dostęp do ratusza robiąc to zadanie, to nie można z nim pogadać w środku, bo uzna, że przeszkadzamy mu w pracy
+
+Po pozytywnej reakcji Lariusa wracamy do Gallahada, który oddaje nam swoją chatę do użytku i każe zgłosić się po nagrodę w ratuszu. Następnego dnia wracamy i mamy do wyboru:  
+- Złoto (Nieopłacalne)
+- Dwie mikstury stałe (Wybieramy na gildiach wojowniczych)
+- Naukę magii (Konieczne na gildiach magicznych)
+
+> Jeśli Larius się na nas obrazi, to możemy skorzystać ze zwoju zapomnienia
 
 ## Zemsta na Regisie
 __Zleca: Valentino__
@@ -382,9 +387,10 @@ Udajemy się do obozu Dextera niedaleko farmy Onara, mówimy strażnikowi imię 
 > UWAGA: To zadanie należy zrobić przed 3 rozdziałem, bo w innym wypadku zginie.
 
 Niedaleko cmentarza przy Martwej Harpii jak pójdziecie wąską ścieżką, traficie na spalone chaty z jaszczurami, będzie tam mała jaskinia w środku spotkacie skazańca Ragnara. Po rozmowie z nim możemy zaoferować mu 50, 100, 1000 sztuk złota i od tego zależy do jakiej gildii dołączy Ragnar i ile zadań dostaniemy.  
-\- 50 sztuk złota Ragnar dołączy do Najemników ( nie ma dodatkowych zadań)  
-\- 100 sztuk złota Ragnar dołączy do Straży miejskiej (1 dodatkowe zadanie)  
-\-1000 Ragnar dołączy do magów ognia (3 dodatkowe zadania i możliwość zdobycia berła które przyzywa nam smoka do pomocy)  
+- 50 sztuk złota Ragnar dołączy do Najemników ( nie ma dodatkowych zadań)
+- 100 sztuk złota Ragnar dołączy do Straży miejskiej (1 dodatkowe zadanie)
+-1000 Ragnar dołączy do magów ognia (3 dodatkowe zadania i możliwość zdobycia berła które przyzywa nam smoka do pomocy)
+
 Oczywiście 3 opcja jest najbardziej opłacalna, najwięcej zadań, expa i bonusów, a do tego możemy mieć smoka jako naszego pupila. Co prawda jest on raczej na pokaz, bo na tym etapie mamy znacznie lepsze rzeczy.  
 Po oddaniu mu złota Ragnar prosi nas o butelkę wody i kawałek mięsa. Dajemy mu jedzenie i zadanie dobiega końca.
 
@@ -489,15 +495,15 @@ Matteo opowiada nam o skradzionej formie do biżuterii. Po zrobieniu zadania z n
 
 O 18 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga; Za żaden nie przyjmujemy nagrody)
 
-\- Poezja Myrtańska (Sprzedaje ją Matteo)  
-\- Naszyjnik z czarnych pereł (Po odzyskaniu narzędzi Matteo zgadza się on go zrobić, ale musimy mu przynieść 5 czarnych pereł i sztabkę złota)  
-\- Niebieska Malwa (Kwiat znajdziemy po ukończeniu wątku Jarkendaru, niedaleko teleportu do Złotego Smoka)
+- Poezja Myrtańska (Sprzedaje ją Matteo)
+- Naszyjnik z czarnych pereł (Po odzyskaniu narzędzi Matteo zgadza się on go zrobić, ale musimy mu przynieść 5 czarnych pereł i sztabkę złota)
+- Niebieska Malwa (Kwiat znajdziemy po ukończeniu wątku Jarkendaru, niedaleko teleportu do Złotego Smoka)
 
 Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po oddaniu wszystkich przedmiotów Loa nas zaczepia i prosi o spotkanie w nocy w latarni Jacka tego samego dnia. Udajemy się do latarni Jacka o 00:00, a Loa powinna na nas czekać na szczycie Latarni. Wybieramy odpowiednie opcje dialogowe po kolei:
 
-\-3 opcja dialogowa (Sprawia takie wrażenie)  
-\-3 opcja dialogowa (O tym samym co ty)  
-\-1 opcja dialogowa (Rozumiem ich)
+-3 opcja dialogowa (Sprawia takie wrażenie)
+-3 opcja dialogowa (O tym samym co ty)
+-1 opcja dialogowa (Rozumiem ich)
 
 Teraz powinna się odpalić cutscenka jak Loa schodzi na dół latarni, po jej zakończeniu schodzimy na dół i zaraz po wyjściu z latarni skręcamy w prawo za latarnię. Po cutscence otrzymujemy 5PN, a zadanie się kończy.
 
@@ -569,6 +575,13 @@ Gorax prosi nas o przyniesienie mu receptur win:
 - Grzane wino wypada z ciała Juana w Jarkendarze
 
 Receptury warto przeczytać przed oddaniem Goraxowi. (Grzanego wina nie da się wytworzyć)
+
+## Przesyłka dla Lariusa
+
+> Aby otrzymać zadanie, należy mieć założoną Przepaskę nowicjusza.
+
+Bal Orun daje nam przesyłkę którą mamy oddać Lariusowi. Larius znajduje się w ratuszu w górnym mieście, więc musimy być obywatelem miasta, by dostać się do górnego miasta. Larius około godziny 13 wychodzi z ratusza i siada na ławce, więc wtedy zakładamy opaskę nowicjusza i gadamy z Lariusem. Oddajemy mu przesyłkę, a w zamian Larius daje nam sakiewkę którą oddajemy Baal Orunowi.  
+Jeśli nie zamierzacie dołączać do Bractwa, sakiewkę można otworzyć. Jest w niej 1000 złota a zadanie i tak zostanie anulowane jak dołączymy do innej gildii.
 
 ## Przyjaciel Bartoka
 
@@ -665,14 +678,12 @@ Teraz należy udać się ścieżką w stronę latarni morskiej, na której spotk
 Następnie udajemy się do latarni morskiej w celu pokonania kolejnego rzezimieszka. Zdobywamy kolejną notatkę, a w niej klucz. Wracamy się teraz do jaskini, w której była pierwsza notatka.  
 Możemy otworzyć drzwi i przejść dalej. Spotykamy tam strażnika miejskiego, a rozmawiając z nim mamy 2 opcje:
 
-1\. Przerwać śledztwo, otrzymać za to 1500 złota i eliksir życia.  
-2\. Kontynuować śledztwo, atakując strażnika. Otrzymujemy notatkę, czytamy i udajemy się do Wulfgara. Umawia nas na spotkanie w znanej nam już jaskini. Rozmawiamy i idziemy za Valeranem.  
-Rozmawiamy z niewolnikami, a następnie mówimy Valeranowi o naszej decyzji:
-
-a)Dobra, jestem z wami. - Nie zabijamy bandytów, będziemy dostawać codziennie, przez 30 dni, 200 sztuk złota (lub równowartość w bryłkach złota) od Valerana w górnym mieście. -25 karmy u Innosa.  
-b)Po prostu zabije was wszystkich - Bonus za odwagę - 3000 expa, 2000 złota i 500 expa od niewolników.  
-c)Puść niewolników - Musimy zabić wszystkich, ale dostajemy +35 karmy u Innosa, 1000 expa  
-oraz 500 expa i 2000 złota za uwolnienie niewolników.
+1. Przerwać śledztwo, otrzymać za to 1500 złota i eliksir życia.
+2. Kontynuować śledztwo, atakując strażnika. Otrzymujemy notatkę, czytamy i udajemy się do Wulfgara. Umawia nas na spotkanie w znanej nam już jaskini.  Rozmawiamy i idziemy za Valeranem.  
+Rozmawiamy z niewolnikami, a następnie mówimy Valeranowi o naszej decyzji:  
+    - Dobra, jestem z wami. - Nie zabijamy bandytów, będziemy dostawać codziennie, przez 30 dni, 200 sztuk złota (lub równowartość w bryłkach złota) od Valerana w górnym mieście. -25 karmy u Innosa.  
+    - Po prostu zabije was wszystkich - Bonus za odwagę - 3000 expa, 2000 złota i 500 expa od niewolników.  
+    - Puść niewolników - Musimy zabić wszystkich, ale dostajemy +35 karmy u Innosa, 1000 expa oraz 500 expa i 2000 złota za uwolnienie niewolników.
 
 > Najkorzystniej wybrać jedną z opcji w której Valeran przeżyje, czyli albo zrezygnować na początku, albo z nimi współpracować. Jest on bardzo potrzebny do zadania "Asystent"
 

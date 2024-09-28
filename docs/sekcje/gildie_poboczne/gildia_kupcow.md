@@ -1,8 +1,9 @@
 # Gildia Kupców
 
-Są 2 sposoby na dołączenie do gildii kupców:  
-\- Pomożemy Erolowi w zadaniu Napadnięci kupcy wtedy dostajemy list polecający.  
-\- Pomagamy Nigelowi odzyskać złoto (zadanie "Dług Kupca" w wątku zabójców) i wtedy również dostajemy list polecający.  
+Są 2 sposoby na dołączenie do gildii kupców:
+- Pomożemy Erolowi w zadaniu Napadnięci kupcy wtedy dostajemy list polecający
+- Pomagamy Nigelowi odzyskać złoto (zadanie "Dług Kupca" w wątku zabójców) i wtedy również dostajemy list polecający
+
 List ten dajemy Lutero w górnym mieście i dołączamy do gildii kupców.
 
 ## Napadnięci kupcy
@@ -17,7 +18,7 @@ Lutero daje nam listę i każe iść po przesyłkę do Bengara, a potem zanieś�
 
 Lutero daje nam 500 sztuk złota i każe kupić wino w Klasztorze po rozsądnej cenie. Idziemy do klasztoru do Goraxa i zaczynamy negocjacje.
 
-### Targowanie tak niskiej ceny jest opcjonalne, a Czarnoksiężnik może to zrobić dialogiem
+> Targowanie tak niskiej ceny jest opcjonalne, a Czarnoksiężnik może to zrobić dialogiem
 
 Maksymalnie można zejść do 50 sztuk złota i to polecam, bo dostaniecie od Lutero 1 retoryki. Podczas ustalania ceny zniżamy cenę o 10%, a jak nastrój spadnie za nisko, to podwyższamy o 5%, aż nastrój Goraxa wróci do normy i robimy tak, aż cena wyniesie poniżej 50 złota.  
 Wino zanosimy Lutero.
@@ -49,8 +50,8 @@ Po wybraniu tych dialogów Onar się zgadza, a wtedy wracamy do Lutero.
 
 Lutero zleca nam przyniesienie 3 marmurowych statuetek. Musimy się udać do Zamku i dostać do pomieszczenia z Gomezem, statuetki są w skrzyni za nim, ale pierw musimy znaleźć 2 klucze:
 
-\- Pierwszy klucz jest w głównym budynku, w którym przebywa Garond, mianowicie leży na stole w jednym z pokoi na pietrze.  
-\- Drugi klucz znajduje się w pokoju Engora, dokładnie jest na półce na ścianie (Pokój Engora znajduje się nad miejscem, gdzie w ciągu dnia Engor handluje z nami).
+- Pierwszy klucz jest w głównym budynku, w którym przebywa Garond, mianowicie leży na stole w jednym z pokoi na pietrze.
+- Drugi klucz znajduje się w pokoju Engora, dokładnie jest na półce na ścianie (Pokój Engora znajduje się nad miejscem, gdzie w ciągu dnia Engor handluje z nami).
 
 Mając już oba klucze, otwieramy drzwi prowadzące do wieży. Przed nami pojawi się Zombie Gomeza, więc zabijamy go, po czym pojawi się duch Gomeza, rozmawiamy z nim na temat posążków. Prosi on nas o uwolnienie go z klątwy. W tym celu będziemy musieli wykonać inne zadania (patrz: Klątwa Gomeza). Po wykonaniu zadania dla Gomeza bierzemy klucz i otwieramy skrzynię za nim. Wracamy do Lutero z artefaktami.
 
@@ -58,12 +59,9 @@ Mając już oba klucze, otwieramy drzwi prowadzące do wieży. Przed nami pojawi
 
 Zadanie zleca Gomez. Należy wykonać w odpowiedniej kolejności trzy poniższe rzeczy:
 
-\-Musimy uzyskać wybaczenie dla Gomeza od 3 bogów (Innosa i Beliara przy kapliczce, wymagane jest dużo karmy lub osiągnięcia Wojownik Innosa i Ręka Beliara, natomiast przebaczenia Adanosa udzieli Vatras w mieście)
-
-\- Musimy teraz udać się do Starej Kopalni i uzyskać tam przebaczenie 10 dusz kopaczy (to takie zjawy zombie musimy do nich zagadać, po czym je zabić).
-
-\- Wracamy do zamku i idziemy do budynku, w którym w G1 przebywali magowie. Stajemy na piętrze na Pentagramie i wzywamy zmarłych magów ognia za pomocą notatki, którą dał na Gomez. Prosimy Corristo o wybaczenie dla Gomeza, ten jednak zgodzi się kiedy oczyścimy dla niego kryptę ze zła.  
-Jaskinia Bólu znajduje się obok starej wieży Xardasa, musimy przejść przez most. Czyścimy tam wszelkie plugastwo, po czym wracamy do Corristo i zyskujemy tym samym przebaczenie od magów ognia. Wracamy do Gomeza i mówimy mu, że wykonaliśmy wszystkie jego polecenia, W nagrodę Gomez daje na klucz do skrzyni z marmurowymi statuetkami z zadania Antyki.
+1. Musimy uzyskać wybaczenie dla Gomeza od 3 bogów (Innosa i Beliara przy kapliczce, wymagane jest dużo karmy lub osiągnięcia Wojownik Innosa i Ręka Beliara, natomiast przebaczenia Adanosa udzieli Vatras w mieście)
+2. Musimy teraz udać się do Starej Kopalni i uzyskać tam przebaczenie 10 dusz kopaczy (to takie zjawy zombie musimy do nich zagadać, po czym je zabić).
+3. Wracamy do zamku i idziemy do budynku, w którym w G1 przebywali magowie. Stajemy na piętrze na Pentagramie i wzywamy zmarłych magów ognia za pomocą notatki, którą dał na Gomez. Prosimy Corristo o wybaczenie dla Gomeza, ten jednak zgodzi się kiedy oczyścimy dla niego kryptę ze zła. Jaskinia Bólu znajduje się obok starej wieży Xardasa, musimy przejść przez most. Czyścimy tam wszelkie plugastwo, po czym wracamy do Corristo i zyskujemy tym samym przebaczenie od magów ognia. Wracamy do Gomeza i mówimy mu, że wykonaliśmy wszystkie jego polecenia, W nagrodę Gomez daje na klucz do skrzyni z marmurowymi statuetkami z zadania Antyki.
 
 ## Czarna Brendy (Rozdział 3)
 
@@ -73,9 +71,9 @@ Zadanei dostajemy od Lutero. Mówi nam, że zaginął gdzieś jego posłaniec, k
 
 Po odejściu Benchela Lutero szuka nowego pomocnika. Mamy do wyboru 3 osoby:
 
-\- Valeran znajduje się w Martwej Harpii, jeśli wsadziliśmy Fernando do więzienia (lub jest martwy, jeśli zabiliśmy go w zadaniu "Zagubiony Bandyta"  
-\- Gayvern znajduje się karczmie Kardifa  
-\- Maxi stoi obok Zurisa na placu targowym
+- Valeran znajduje się w Martwej Harpii, jeśli wsadziliśmy Fernando do więzienia (lub jest martwy, jeśli zabiliśmy go w zadaniu "Zagubiony Bandyta"
+- Gayvern znajduje się karczmie Kardifa
+- Maxi stoi obok Zurisa na placu targowym
 
 Najlepszym wyborem jest Valeran, jako że reszta ochotników przyda nam się do obozu.  
 Odprowadzamy go do Lutero, a zadanie się kończy.

@@ -89,23 +89,24 @@ Ulthar prosi nas o stworzenie runy ognistej strzały. Idziemy w tym celu do Hygl
 
 ## Opowieści dla Karrasa
 
-**Jeśli nie należymy do magów ognia, to jedyny pożytek z tych ksiąg to oddanie ich Gallahadowi**  
-Karras prosi nas o znalezienie 5 tomów starożytnych opowieści i zwoju:  
-\- Tom 1 znajduje się na szczycie latarni Jacka  
-\- Tom 2 znajduje się w skrzyni na szczycie zniszczonej wieży obok Niclasa (przy rannym orku)  
-\- Tom 3 znajduje się w jaskini z ogrem, w kotlinie na prawo od wschodniej bramy miasta  
-\- Tom 4 znajduje się w skrzyni w małej piramidzie na wykopaliskach magów wody.  
-\- Tom 5 znajduje się w lewej odnodze jaskini z Próby Ognia  
-\- Zwój do otwarcia ksiąg znajduje się na schodkach krypty przy Farmie Onara  
+> Jeśli nie należymy do magów ognia, to jedyny pożytek z tych ksiąg to oddanie ich Gallahadowi
+
+Karras prosi nas o znalezienie 5 tomów starożytnych opowieści i zwoju:
+- Tom 1 znajduje się na szczycie latarni Jacka
+- Tom 2 znajduje się w skrzyni na szczycie zniszczonej wieży obok Niclasa (przy rannym orku)
+- Tom 3 znajduje się w jaskini z ogrem, w kotlinie na prawo od wschodniej bramy miasta
+- Tom 4 znajduje się w skrzyni w małej piramidzie na wykopaliskach magów wody.  
+- Tom 5 znajduje się w lewej odnodze jaskini z Próby Ognia
+- Zwój do otwarcia ksiąg znajduje się na schodkach krypty przy Farmie Onara  
 Zanosimy księgi Karrasowi i zadanie się kończy. (Warto najpierw oddać je do Gallahada dla statystyk, a następnie odkupić w handlu)
 
 ## Zadania jako Mag ognia
 
 ## Po zostaniu magiem ognia będziemy mogli spełnić jedną z 3 próśb:
 
-\- Babo i ogród - Babo chce być ogrodnikiem, a nie zamiatać komnaty.  
-\- Zbrodnia Dyriana - Nowicjusz prosi o drugą szansę, chce zostać w klasztorze.  
-\- Opolos i biblioteka - Opolos chce uzyskać dostęp do klasztornej biblioteki.
+- Babo i ogród - Babo chce być ogrodnikiem, a nie zamiatać komnaty.
+- Zbrodnia Dyriana - Nowicjusz prosi o drugą szansę, chce zostać w klasztorze.
+- Opolos i biblioteka - Opolos chce uzyskać dostęp do klasztornej biblioteki.
 
 ## Szansa dla Igaraza
 
@@ -119,15 +120,12 @@ Najprościej będzie zabijać króliki, aż nie pojawi się ich demon boss. Po z
 W trzecim rozdziale gdy damy Pyrokarowi Almanach Opętanych (leży on obok kamiennego kręgu przy farmie Lobarta) otrzymamy od niego zadanie. Musimy odnaleźć wszystkie almanachy. Arcymag da nam listę osób opętanych i każe nam je sprowadzić do klasztoru. Teraz idziemy do  
 Karrasa i pytamy się, czy ma coś, co pomogłoby nam w walce z poszukiwaczami. Pokazujemy mu almanach i otrzymamy od niego amulet chroniący przed opętaniem.  
 Lista opętanych:  
-1\. Fernando znajduje się w lochach Khorinis w koszarach  
-2\. Vino znajduje niedaleko kamiennego kręgu na Farmie Lobarta  
-3\. Malak znajduje się w wąwozie w górach niedaleko Dextera  
-4\. Bromor znajduje się w burdelu Czerwona Latarnia  
-W IV rozdziale:  
-5\. Engrom znajduje się niedaleko paladyna Marcosa w jaskini w Górniczej Dolinie  
-6\. Randolph znajduje się na Farmie Akila  
-W V rozdziale:  
-7\. Sekob znajduje się na jego farmie  
-8\. Brutus znajduje się w Zamku w Górniczej Dolinie, jednak dowiemy się, że jest opętany, tylko wtedy gdy wpuścimy orków do środka  
-W VI rozdziale:  
-9\. Mario tylko jeśli zabraliśmy go ze sobą na Irdorath.
+1. Fernando znajduje się w lochach Khorinis w koszarach
+2. Vino znajduje niedaleko kamiennego kręgu na Farmie Lobarta
+3. Malak znajduje się w wąwozie w górach niedaleko Dextera
+4. Bromor znajduje się w burdelu Czerwona Latarnia
+5. Engrom znajduje się niedaleko paladyna Marcosa w jaskini w Górniczej Dolinie (IV Rozdział)
+6. Randolph znajduje się na Farmie Akila (IV Rozdział)
+7. Sekob znajduje się na jego farmie (V Rozdział)
+8. Brutus znajduje się w Zamku w Górniczej Dolinie, jednak dowiemy się, że jest opętany, tylko wtedy gdy wpuścimy orków do środka (V Rozdział)
+9. Mario tylko jeśli zabraliśmy go ze sobą na Irdorath (VI Rozdział)

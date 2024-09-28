@@ -2,22 +2,18 @@
 
 ## Przyjęcie do Bractwa
 
-Aby dołączyć do obozu Bractwa trzeba mieć opaskę nowicjusza (Daje Lester podczas pierwszego spotkania w kotlince niedaleko wieży Xardasa), a potem zakończyć zadanie Przesyłka dla Lariusa. Wtedy możemy zostać nowicjuszem Bractwa.
+Aby dołączyć do obozu Bractwa trzeba mieć opaskę nowicjusza (Daje Lester podczas pierwszego spotkania w kotlince niedaleko wieży Xardasa), a potem zakończyć zadanie [Przesyłka dla Lariusa](sekcje/zadania/Rozdzial_I.md?id=przesyłka-dla-lariusa). Wtedy możemy zostać nowicjuszem Bractwa.
 
-## Przesyłka dla Lariusa
+> Kiedy już zostaniemy Nowicjuszem bractwa, odblokują się nam zadania na zostanie Guru/Strażnikiem Świątynnym.
 
-Bal Orun daje nam przesyłkę którą mamy oddać Lariusowi. Larius znajduje się w ratuszu w górnym mieście, więc musimy być obywatelem miasta, by dostać się do górnego miasta. Larius około godziny 13 wychodzi z ratusza i siada na ławce, więc wtedy zakładamy opaskę nowicjusza i gadamy z Lariusem. Oddajemy mu przesyłkę, a w zamian Larius daje nam sakiewkę którą oddajemy Baal Orunowi.  
-Jeśli nie zamierzacie dołączać do Bractwa, sakiewkę można otworzyć. Jest w niej 1000 złota a zadanie i tak zostanie anulowane jak dołączymy do innej gildii.
-
-## Kiedy już zostaliśmy Nowicjuszem bractwa, odblokowują się nam zadania na zostanie Guru/Strażnikiem Świątynnym.
-
-## Ziele dla Bal Cadara
+## Ziele dla Baala Cadara
 
 Aby otrzymać to zadanie, musimy zagadać do Caina (znajduje się przed samym obozem), który da nam zebrane bagienne ziele, by je odnieść do Baal Cadara. Po oddaniu ziela Baal Cadar każe nam przynieść ziele od pozostałych obozów zbieraczy ziela:
 
-\- pierwsza grupa zbieraczy znajduje się obok kamiennego kręgu na farmie Lobarta  
-\- druga grupa znajduje się na wzgórzu koło farmy Akila. Aby się tam dostać, musimy z płaskowyżu nad jego farmą udać się w kierunku Słonecznego Kręgu.  
-\- trzecia grupa znajduje się w lesie obok jeziora niedaleko Grimbalda i czarnego trolla.  
+- pierwsza grupa zbieraczy znajduje się obok kamiennego kręgu na farmie Lobarta
+- druga grupa znajduje się na wzgórzu koło farmy Akila. Aby się tam dostać, musimy z płaskowyżu nad jego farmą udać się w kierunku Słonecznego Kręgu.
+- trzecia grupa znajduje się w lesie obok jeziora niedaleko Grimbalda i czarnego trolla.
+
 Po odwiedzeniu wszystkich 3 grup zanosimy ziele do Baal Cadara.
 
 ## Nowicjusz dla Baala Parveza

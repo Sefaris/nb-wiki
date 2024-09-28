@@ -43,13 +43,15 @@ Zostaniemy zaczepieni przez Jaspera, który poprosi nas, abyśmy poszli na plac 
 
 ## Krwawe kielichy
 
-Cassia zleca nam przyniesienie 6 krwawych pucharów. Znajdują się one :  
-\-U Gerbrandta. W pierwszym domu po prawo, na piętrze znajdziemy skrzynię z pucharem.  
-\-U Valentino. W drugim domu po prawo, na piętrze znajdziemy lampę, którą należy kliknąć. Na parterze odsłoni się skrytka. Klucz musimy ukraść, pobić Valentino lub odkupić od ogrodnika.  
-\-W domu sędziego. Należy wcisnąć tarcze na piętrze, która odsłoni skrytkę ze skrzynią. Klucz musimy ukraść lub odkupić od ogrodnika.  
-\-U Salandrila. Wciskamy przycisk na za ladą w jego sklepie. Klucz musimy ukraść lub odkupić od ogrodnika.  
-\-W domu obok Salandrila. Klucz leży na stoliku, a skrzynia między łóżkami  
-\-U Lehmara. W skrzyni między łóżkami na piętrze  
+Cassia zleca nam przyniesienie 6 krwawych pucharów.  
+Położenie pucharów:
+- U Gerbrandta. W pierwszym domu po prawo, na piętrze znajdziemy skrzynię z pucharem.
+- U Valentino. W drugim domu po prawo, na piętrze znajdziemy lampę, którą należy kliknąć. Na parterze odsłoni się skrytka. Klucz musimy ukraść, pobić Valentino lub odkupić od ogrodnika.
+- W domu sędziego. Należy wcisnąć tarcze na piętrze, która odsłoni skrytkę ze skrzynią. Klucz musimy ukraść lub odkupić od ogrodnika.
+- U Salandrila. Wciskamy przycisk na za ladą w jego sklepie. Klucz musimy ukraść lub odkupić od ogrodnika.
+- W domu obok Salandrila. Klucz leży na stoliku, a skrzynia między łóżkami
+- U Lehmara. W skrzyni między łóżkami na piętrze
+
 Po zebraniu wszystkich pucharów zanosimy je Cassii i odbieramy nagrodę.
 
 ## Statuetka dla Cassii

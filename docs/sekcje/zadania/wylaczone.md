@@ -89,9 +89,9 @@ Teraz udajemy się na miejsce spotkania i czeka tam na nas Daron. **Mroczny Ryce
 
 Zadanie rozpoczyna się w momencie gdy znajdziemy jeden z artefaktów, a kończy, gdy zbierzemy wszystkie trzy.
 
-\- Amulet znajduje się pod wodą obok beczek na dnie pomiędzy wrakiem statku a przeklętą latarnią (UWAGA: Amulet pojawi się po rozmowie z Farimem po przyniesieniu zupy).  
-\- Pierścień w skarbcu magów ognia  
-\- Pierścień w sekretnym pomieszczeniu kapitana straży (Patrz zadanie niżej).
+- Amulet znajduje się pod wodą obok beczek na dnie pomiędzy wrakiem statku a przeklętą latarnią (UWAGA: Amulet pojawi się po rozmowie z Farimem po przyniesieniu zupy).  
+- Pierścień w skarbcu magów ognia  
+- Pierścień w sekretnym pomieszczeniu kapitana straży (Patrz zadanie niżej).
 
 ## Facet bez dziury chodzi ponuryUsunięte w aktualizacji 20.04.2023
 

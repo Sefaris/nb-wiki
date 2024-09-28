@@ -104,9 +104,10 @@ Książkę znajdziecie w regale w starej wieży Xardasa. Trzeba w niego klikną�
 ## Sanktuarium orków
 
 Hush-Nar prosi nas, abyśmy pomodlili się do duchów przodków przy sanktuariach orków. Znajdują się one:  
-1\. Obok Ur-Shaka przy Starej Wieży Xardasa  
-2\. Między wejściem do Miasta Orków, a zawaloną wieżą strażniczą przy drewnianej kładce.  
-3\. W obozie Netbeka na platformie obok kuźni Darriona.  
+1. Obok Ur-Shaka przy Starej Wieży Xardasa  
+2. Między wejściem do Miasta Orków, a zawaloną wieżą strażniczą przy drewnianej kładce.  
+3. W obozie Netbeka na platformie obok kuźni Darriona.  
+
 Po modlitwach wracamy do szamana. (+20 reputacji)
 
 ## Mroczne rytuały
@@ -137,29 +138,30 @@ Zadanie pojawia się podczas rozmowy z Hush-Narem, a kończy po rozmowie z Xarda
 ## Szacunek Tag-Nora
 
 Żeby móc porozmawiać z Tag-Norem, musimy najpierw porozmawiać z Ur-Karrasem. Musimy przynieść myśliwemu jedno z trzech trofeów.  
-\- Skóra czarnego trolla (+5 reputacji orków)  
-\- kieł Muritana (+10 reputacji orków)  
-\- Twardy kolec grzbietowy - trofeum z bossa Drake'ów na pustyni Adanosa. (+15 reputacji orków)
+- Skóra czarnego trolla (+5 reputacji orków)  
+- kieł Muritana (+10 reputacji orków)  
+- Twardy kolec grzbietowy - trofeum z bossa Drake'ów na pustyni Adanosa. (+15 reputacji orków)
 
 ## Kusza wielkiego łowcy
 
 Tag-Nor powie nam o legendarnej kuszy i każe zebrać składniki :
 
-\- 4 kawałki czarnej rudy  
-\- 30 kawałków magicznej rudy  
-\- ścięgno pantery (wypada z pierwszej napotkanej pantery w Jarkendarze)  
-\- kawałek tropikalnego buku (znajduje się on przy bossie pająku w dziurze z pajęczynami. Znajduje się ona między miejscem gdzie spotykamy po raz pierwszy Jacka Aligatora, a obozem piratów)  
-\- talizman wielkiego myśliwego (jeden znajduje się przy Karakuście na Pustyni Adanosa, a drugi w skrzyni za kratami na Cmentarzysku Orków)  
-\- róg czarnego jaskiniowego trolla - (trolle znajdziemy kolejno: Na Pustyni Adanosa przy Drzewie Życia, w Dolinie CIeni obok leża Czarnego Trolla, w Lesie Asasynów na dnie kopalni przy misji)
+- 4 kawałki czarnej rudy  
+- 30 kawałków magicznej rudy  
+- ścięgno pantery (wypada z pierwszej napotkanej pantery w Jarkendarze)  
+- kawałek tropikalnego buku (znajduje się on przy bossie pająku w dziurze z pajęczynami. Znajduje się ona między miejscem gdzie spotykamy po raz pierwszy Jacka Aligatora, a obozem piratów)  
+- talizman wielkiego myśliwego (jeden znajduje się przy Karakuście na Pustyni Adanosa, a drugi w skrzyni za kratami na Cmentarzysku Orków)  
+- róg czarnego jaskiniowego trolla - (trolle znajdziemy kolejno: Na Pustyni Adanosa przy Drzewie Życia, w Dolinie CIeni obok leża Czarnego Trolla, w Lesie Asasynów na dnie kopalni przy misji)
 
 Oddajemy składniki Tag-Norowi. Teraz musimy nauczyć się tworzyć kuszę. Idziemy do Harada, a ten wysyła nas do Thorbena. Uczymy się robienia kusz u Thorbena i wracamy do Tag-Nora, który odda nam składniki, a także da notatkę odnośnie tworzenia kuszy.  
 Teraz musimy udać się do Węża w karczmie Kardifa i zapytać go o topienie sztab z czystej magicznej rudy. Teraz musimy natłuścić scięgno pantery na stole alchemicznym, a na stole rzemieślniczym utworzyć podstawę kuszy.
 
 Teraz idziemy do obozu Netbeka i znajdujemy piec. Podnosimy szczypce z kowadła i zaczynamy tworzyć naszą kuszę. By stworzyć najlepszą wersję kuszy wybieramy opcję:  
-\- Powoli  
-\- Bardzo powoli  
-\- 4 kawałki czarnej rudy  
-\- Powoli  
+- Powoli  
+- Bardzo powoli  
+- 4 kawałki czarnej rudy  
+- Powoli  
+
 Po stworzeniu kuszy możemy ją zachować dla siebie lub oddać Tag-Norowi za nagrody:  
 70 zdrowia // 5 siły // 5 zręczności // 2 mikstury "Czarna Mgła"
 
@@ -183,9 +185,9 @@ Ur-Shak chce odzyskać swoją dawną pozycję wśród orków. Musimy zabić Hosh
 
 Aby Ur-Thrall wpuścił nas do orkowej kopalni musimy spełniać kilka wymagań:
 
-\- Zabić demona na bagnach w zadaniu "Mroczne Rytuały"  
-\- Posiadać 50 retoryki  
-\- W zadaniu "Zaginieni bez wieści" porozmawiać z Jerganem i Talbinem, aż Garond wyśle nas na poszukiwania Wenzela pośród orków.
+- Zabić demona na bagnach w zadaniu "Mroczne Rytuały"  
+- Posiadać 50 retoryki  
+- W zadaniu "Zaginieni bez wieści" porozmawiać z Jerganem i Talbinem, aż Garond wyśle nas na poszukiwania Wenzela pośród orków.
 
 W dialogach z Ur-Thrallem mówimy, że chcemy porozmawiać z niewolnikami, bo jeden z nich może być paladynem. Wódz przystaje na nasz pomysł i daje nam klucz. Teleportujemy się przed wejście do kopalni i klikamy w filar po lewej stronie.
 
@@ -315,9 +317,9 @@ Musimy zdobyć księgę z krypty, w której w podstawce jest Smocza Zguba. Zabij
 Teraz musimy zdobyć księgę w krypcie pana cieni Dakkata, czyli tam gdzie jaskinia Próby Ognia. Należy też wyczyścić lewą odnogę tej jaskini, bo w niej również jest ważna skrzynia.  
 Zabieramy księgę, a także Oko Gniewu. Wracamy do Ur-Khana i musimy teraz zdobyć 3 składniki:
 
-\- siarka  
-\- krew demona (Powinniśmy byli ją znaleźć przy okazji eksploracji krypty z Smoczą Zgubą)  
-\- krew orka (Jest w skrzyni obok Ur-Groma. Ur-Khan da nam do niej klucz, jeśli przyniesiemy mu jego zaginiony amulet. Sam Ur-Grom znajduje się w tym namiocie)  
+- siarka  
+- krew demona (Powinniśmy byli ją znaleźć przy okazji eksploracji krypty z Smoczą Zgubą)  
+- krew orka (Jest w skrzyni obok Ur-Groma. Ur-Khan da nam do niej klucz, jeśli przyniesiemy mu jego zaginiony amulet. Sam Ur-Grom znajduje się w tym namiocie)  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935463904/A4F9C05CAB30CEE8B02C3C1B414951770E059E57/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935463904/A4F9C05CAB30CEE8B02C3C1B414951770E059E57/)
 
 Teraz gadamy z Ur-Gromem. Musimy zdobyć legendarną kuszę z Miasta Umarłych, które znajduje się pod "Słonecznym Kręgiem". Aby przechodzić do kolejnych pomieszczeń musimy klikać przyciski na grobowcach/ścianach. Jak mamy już kuszę, to gadamy z Elvaisem i ładujemy Oko Gniewu przy stole alchemicznym.
@@ -403,9 +405,9 @@ Opiekun Narus zleca nam przyniesienie mu jego pierścienia. Znajduje się on za 
 Opiekun Vakon zleca nam uwolnienie ducha wody.  
 Musimy zabić trzy stworzenia, które posiadają moc tego ducha.  
 Te stworzenia to:  
-\-magnat Malbar, który pojawi się po otworzeniu jego skrzyni w Kamiennej Fortecy  
-\-demon Keyron, którego zabiliśmy idąc do Kruka w Jarkendarze.  
-\-orkowy szaman Hosh-Pak, który siedzi na górze między Zburzoną Fortecą, a Zamkiem.
+- magnat Malbar, który pojawi się po otworzeniu jego skrzyni w Kamiennej Fortecy  
+- demon Keyron, którego zabiliśmy idąc do Kruka w Jarkendarze.  
+- orkowy szaman Hosh-Pak, który siedzi na górze między Zburzoną Fortecą, a Zamkiem.
 
 Następnie udajemy się do obozu orków, który znajduje się na płaskowyżu nad lodowym smokiem i wciskamy kolumnę na wzniesieniu.  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739930393721/B141B2457BC096A2754A53346F638B5FCA47E5D3/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739930393721/B141B2457BC096A2754A53346F638B5FCA47E5D3/)# Opiekunowie Cz. 2
@@ -414,10 +416,11 @@ Następnie udajemy się do obozu orków, który znajduje się na płaskowyżu na
 
 **Warto najpierw zrobić zadanie "Artefakty starożytności" i zamienić sfery w krzyż żywiółów**  
 Opiekun Stonnos zleca nam przyniesienie 4 sfer. Znajdują się one:  
-\-Sfera ognia w Starej Kopalni (obok kopalni Marcosa)  
-\-Sfera wody w Opuszczonej Kopalni (nad przełęczą Górniczej Doliny)  
-\-Sfera ciemności w Zatopionej Wieży Xardasa  
-\-Sfera skały w Kopalni Orków (dostęp do niej dostaniemy w wątku orków i tam was odsyłam)  
+- Sfera ognia w Starej Kopalni (obok kopalni Marcosa)  
+- Sfera wody w Opuszczonej Kopalni (nad przełęczą Górniczej Doliny)  
+- Sfera ciemności w Zatopionej Wieży Xardasa  
+- Sfera skały w Kopalni Orków (dostęp do niej dostaniemy w wątku orków i tam was odsyłam)  
+
 Teraz mamy dwie opcje:
 
 1. Ze sfer możemy stworzyć krzyż żywiołu do zabicia Senyaka w zadaniu Artefakty Starożytności. Mówimy o tym Stonnosowi, który szanuje nasz wybór i wyraża zgodę..
@@ -498,10 +501,11 @@ Wracamy do Garonda z wieściami.
 ## Polowanie na smoki
 
 Jest to zadanie główne, które zaczyna się w rozmowie z Pyrokarem po naprawieniu oka Innosa. Gadamy teraz z Garondem potem Oric'em, teraz mamy zabić cztery smoki.  
-\- Pandrodor Bagienny smok na bagnach obok Starego Obozu Bractwa  
-\- Feomathar Ognisty smok znajduje się w wulkanie w miejscu dawnego kanionu trolli.  
-\- Pedrakhan kamienny smok znajduje się w Kamiennej Fortecy.  
-\- Finkregh lodowy smok znajduje się w ruinach Nowego Obozu.  
+- Pandrodor Bagienny smok na bagnach obok Starego Obozu Bractwa  
+- Feomathar Ognisty smok znajduje się w wulkanie w miejscu dawnego kanionu trolli.  
+- Pedrakhan kamienny smok znajduje się w Kamiennej Fortecy.  
+- Finkregh lodowy smok znajduje się w ruinach Nowego Obozu.  
+
 Po zabiciu każdego ze smoków wracamy do Garonda i ładujemy Oko Innosa przy stole alchemicznym. Zadanie się kończy po zabiciu wszystkich smoków.
 
 ## Dwa lodowe golemy dla Sylvia

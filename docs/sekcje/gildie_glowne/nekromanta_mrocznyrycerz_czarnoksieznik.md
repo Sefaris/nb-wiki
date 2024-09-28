@@ -27,9 +27,10 @@ Jedną ektoplazmę sprzedaje Constantino, a drugą Salandril. Trzecią dostaniem
 ## Zapiski Xardasa
 
 Xardas mówi nam, abyśmy odzyskali jego stare rękopisy. Znajdują się w Klasztorze Magów Ognia. Dostaniemy się tam podczas wątku gildii kupców albo robiąc zadania Zarzut Parlana.  
-Kiedy już będziemy w klasztorze szukamy 2 części rękopisów Xardasa:  
-\- pierwsze znajdują się w dawnym pokoju Xardasa (To ten zamknięty pokój przy którym sprząta Babo), klucz daje nam Xardas.  
-\- drugie rękopisy znajdują się w klasztornej bibliotece. Dostać się tam możemy poprzez kradzież klucza od Parlana albo czekać do 3 rozdziału, aż sami dostaniemy ten klucz.  
+Kiedy już będziemy w klasztorze szukamy 2 części rękopisów Xardasa:
+- pierwsze znajdują się w dawnym pokoju Xardasa (To ten zamknięty pokój przy którym sprząta Babo), klucz daje nam Xardas.
+- drugie rękopisy znajdują się w klasztornej bibliotece. Dostać się tam możemy poprzez kradzież klucza od Parlana albo czekać do 3 rozdziału, aż sami dostaniemy ten klucz.
+
 Wracamy do Xardasa i okazuje się, że druga część rękopisów jest fałszywa, więc udajemy się do Parlana, a potem Marduka. Okazuje się, że w bibliotece pracował mag z Trevius, który zaginął. Idziemy do jaskini obok cmentarza przy Martwej Harpii, gdzie znajdujemy martwego maga i demona, który lata nad jego zwłokami. Zabieramy notatki i wracamy do Xardasa.
 
 ## Droga do nikąd
@@ -54,7 +55,9 @@ Kreol prosi nas byśmy wybili Paladynów w obozie Alberta pod obozem Netbeka. Zr
 
 ## Oddech śmierci
 
-Po znalezieniu jednego z kawałków receptury Xardas opowiada nam o eliksirze, którym można sprofanować szatę nekromanty. Receptura jest podzielona na 2 części:  
-\- Pierwsza wypada z bossa Miragula w Jaskini Bólu (Dostaniemy się tam w zadaniu kupców).  
-\- Druga część wypada z Hoshkara w Świątyni Śniącego  
+Po znalezieniu jednego z kawałków receptury Xardas opowiada nam o eliksirze, którym można sprofanować szatę nekromanty.  
+Receptura jest podzielona na 2 części:
+- Pierwsza wypada z bossa Miragula w Jaskini Bólu (Dostaniemy się tam w zadaniu kupców).
+- Druga część wypada z Hoshkara w Świątyni Śniącego
+
 Teraz czytamy obie części przepisu i idziemy do Xardasa. Potem czekamy 4 dni aż Xardas uwarzy miksturę.

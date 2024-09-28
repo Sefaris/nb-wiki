@@ -6,9 +6,9 @@
 ## Przyjęcie do straży miejskiej
 
 Są 3 sposoby na dołączenie:  
-\- Zostanie obywatelem miasta  
-\- Wykonanie zadania "Ułatwione przyjęcie do straży"  
-\- Zabicie dla Andre gildii złodziei (nie polecam)
+- Zostanie obywatelem miasta
+- Wykonanie zadania [Ułatwione przyjęcie do straży](#ułatwione-przyjęcie-do-straży)
+- Zabicie dla Andre gildii złodziei (nie polecam)
 
 ## Ułatwione przyjęcie do straży
 
@@ -34,11 +34,13 @@ Andre wysyła nas na pomoc farmerowi Lobartowi. Idziemy na jego farmę i dowiadu
 
 ## Kryjówka bandytów
 
-## UWAGA: Jeśli robimy to zadanie po śmierci Dextera, to notatkę znajdziemy przy kominku w jego wieży.
+> UWAGA: Jeśli robimy to zadanie po śmierci Dextera, to notatkę znajdziemy przy kominku w jego wieży.
 
 Zadanie zleca Wulfgar, jeśli zrobiliście wszystkie poprzednie zadania. Mamy zabić bandytów w jaskini za lasem z polowania Bartoka. Zabijamy bandytów, zabieramy notatkę z ciała ich szefa, czytamy i pokazujemy ją Wulfgarowi. Okazuje się, że w straży jest szpieg i w tym celu Wulfgar wysyła na do Dextera. Jeśli Dexter jeszcze żyje, podczas rozmowy pytamy o szpiega , Dexter nie chce nic powiedzieć, w takim razie zabijamy go i zabieramy notatkę z jego ciała. Po przeczytaniu listu okazuje się, że szpiegiem jest Peck. Mówimy o tym Wulfgarowi, który daje nam dwa pancerze, jeden pod siłę, drugi pod zręczność.
 
-## Gildia zabójców w KhorinisUWAGA: Zadanie dostępne tylko jeśli wcześniej nie zaczęliśmy wątku gildii zabójców.
+## Gildia zabójców w Khorinis
+
+> Zadanie dostępne tylko jeśli wcześniej nie zaczęliśmy wątku gildii zabójców.
 
 Andre daje nam zadanie zlikwidowania gildii zabójców. Aby dowiedzieć się o gildii, musimy być w gildii złodziei. Rozmawiamy z Cassią i Ramirezem, a następnie z Gillianem, który gra na placu wisielców na scenie. Następnego dnia spotykamy się z nim w domku niedaleko statku paladynów. Rozmawiamy z nim tam i dowiadujemy się, że naprawdę nazywa się Asmal i jest liderem gildii zabójców. Zadanie kończy się na zabiciu Asmala, ale najlepiej zrobić to po wykonaniu dla nich zadań, gdy mamy możliwość wyzwać go na pojedynek.
 

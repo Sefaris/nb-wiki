@@ -333,8 +333,9 @@ Będąc już w lokacji Masjafu, nie zbliżamy się na razie do żadnych miejsc g
 
 To zadanie ciągnie się aż do końca wątku asasynów.  
 Będąc już w nowej lokacji znajdujemy w niej Gonzalesa (siedzi obok ogniska), gadamy z nim i mamy 2 opcje:  
-\- zaatakować asasynów  
-\- robić dla nich zadania  
+- zaatakować asasynów  
+- robić dla nich zadania  
+
 Jeśli nie macie cierpliwości na zadania, można ich wszystkich po prostu wybić. Jeśli jednak robicie lokacje po raz pierwszy, to polecam jednak spróbować pokojowej wersji (zawsze można w środku przerwać i ich zaatakować)
 
 Pierwsze co robicie to wchodzicie w interakcję z ogniskiem i czekacie do 7:00 teraz dopiero wybieracie opcję u Gonzalesa “Kiedy ruszamy”. Idziemy teraz do kotlinki i szukamy nowicjusza asasynów z niewolnikiem. Zabijamy gościa, automatycznie Bezi zakłada zbroję asasyna, po czym gadamy z niewolnikiem i teraz musimy odprowadzić go do Nrozasa do świątyni.
@@ -360,9 +361,9 @@ Osair mówi nam że wśród niewolników jest jakiś buntownik, mamy wybadać sp
 ## Paczki z bronią dla Mariusza
 
 Musimy przynieść Mariusowi 3 paczki z bronią , znajdują się one :  
-\- W jaskini Osaira  
-\- W wazonie w pomieszczeniu, gdzie przebywa Tiamant  
-\- W magazynie. Klucz dostaniemy od Nrozasa w zadaniu Składniki dla Nrozasa
+- W jaskini Osaira  
+- W wazonie w pomieszczeniu, gdzie przebywa Tiamant  
+- W magazynie. Klucz dostaniemy od Nrozasa w zadaniu Składniki dla Nrozasa
 
 ## Ciche przyzwolenie
 
@@ -388,8 +389,8 @@ Tiamant zleca nam zabicie orków w dolinie, zabijamy ich, zabieramy głowę jedn
 ## Zabić Hasima
 
 Tiamant zleca nam zabicie Hasima, więc musimy wyciągnąć go ze świątyni. Idziemy do niego i mówimy że wzywa go Osair. wyprowadzamy go ze świątyni po czym zabijamy. Wracamy do Tiamanta ale zadanie się nie kończy, natomiast Tiamant zleca nam nowe zadanie Oczyścić kopalnie, po jego wykonaniu zagada do nas Haniar w sprawie Hasima. Mamy dwie możliwości:  
-\- Mówimy prawdę Haniarowi że to my zabiliśmy Hasima na polecenie Tiamanta, wtedy Haniar każe nam się pomodlić za duszę Hasima. (W kapliczce obok jaskini Osaira, nie tej w świątyni)  
-\- Okłamujemy Haniara, idziemy do Gonzalesa, a ten wysyła na do Tiamanta. Mamy zdobyć papier z magazynu, a po jego zdobyciu Tiamant napisze list do Haniara. Zanosimy list Haniarowi i ten każe nam się pomodlić za duszę Hasima do Beliara. (W kapliczce obok jaskini Osaira, nie tej w świątyni). Po wszystkim wracamy do Gonzalesa
+- Mówimy prawdę Haniarowi że to my zabiliśmy Hasima na polecenie Tiamanta, wtedy Haniar każe nam się pomodlić za duszę Hasima. (W kapliczce obok jaskini Osaira, nie tej w świątyni)  
+- Okłamujemy Haniara, idziemy do Gonzalesa, a ten wysyła na do Tiamanta. Mamy zdobyć papier z magazynu, a po jego zdobyciu Tiamant napisze list do Haniara. Zanosimy list Haniarowi i ten każe nam się pomodlić za duszę Hasima do Beliara. (W kapliczce obok jaskini Osaira, nie tej w świątyni). Po wszystkim wracamy do Gonzalesa
 
 ## Oczyścić kopalnie
 
@@ -449,8 +450,9 @@ Osair zleca nam abyśmy udali się po truciznę do Nrozasa, ten natomiast każe 
 **UWAGA: Zadanie dostępne jeśli w zadaniu Tryumf Nrozasa troll zginął (opcja 1).**
 
 Mamy zanieść wino od Osaira Nrozasowi. Przed świątynią zatrzyma nas strażnik z wiadomością , że Haniar chce nas widzieć i tu też mamy dwie opcje:  
-\- Oddajemy wino Nrozasowi, ten umiera i musimy walczyć ze wszystkimi asasynami.  
-\- Gadamy z Haniarem, oddajemy mu wino, które okazuje się być zatrute. Teraz przychodzimy do niego jak pali ziele, dostajemy niezatrute wino i dajemy je Nrozasowi, który po chwili znika.  
+- Oddajemy wino Nrozasowi, ten umiera i musimy walczyć ze wszystkimi asasynami.  
+- Gadamy z Haniarem, oddajemy mu wino, które okazuje się być zatrute. Teraz przychodzimy do niego jak pali ziele, dostajemy niezatrute wino i dajemy je Nrozasowi, który po chwili znika.  
+
 Po wykonaniu zadania Haniar daje nam list, który zanosimy Osairowi, po czym wracamy do Haniara. Teraz gadamy z Gonzalesem i dążymy do finału wątku asasynów.
 
 ## Pojedynek prawdy
@@ -589,15 +591,16 @@ Dobijamy osłabionego Kruka, zbieramy jego fanty, a na tronie pojawia się Niezn
 Zadanie rozpoczyna się jak pokonamy Kruka na pustyni i pokażemy szpon Złotemu Smokowi.
 
 Kiedy zdobędziemy szpon i pokażemy szpon złotemu smokowi będziemy mieli 3 opcje:  
-\- Oddać szpon złotemu smokowi (nie polecam)  
-\- Unicestwić Senyaka krzyżem żywiołów (nie polecam)  
-\- Uwięzić duszę Senyaka w szponie Beliara (można wsadzić ją w szpon lub uwolnić go i pokonać jeszcze raz dla PN'ów)
+- Oddać szpon złotemu smokowi (nie polecam)  
+- Unicestwić Senyaka krzyżem żywiołów (nie polecam)  
+- Uwięzić duszę Senyaka w szponie Beliara (można wsadzić ją w szpon lub uwolnić go i pokonać jeszcze raz dla PN'ów)
 
 Jeśli zdecydujemy się zniszczyć demona to potrzebujemy 4 sfer żywiołów, aby wykonać runę krzyż żywiołów. Jeśli natomiast chcemy wzmocnić szpon duszą Senyaka potrzebna nam będzie runa Mora ultaru.  
-\-Sfera ognia w Starej Kopalni (obok kopalni Marcosa)  
-\-Sfera wody w Opuszczonej Kopalni (nad przełęczą Górniczej Doliny)  
-\-Sfera ciemności w Zatopionej Wieży Xardasa  
-\-Sfera skały w Kopalni Orków (dostęp do niej dostaniemy w wątku orków i tam was odsyłam)  
+- Sfera ognia w Starej Kopalni (obok kopalni Marcosa)  
+- Sfera wody w Opuszczonej Kopalni (nad przełęczą Górniczej Doliny)  
+- Sfera ciemności w Zatopionej Wieży Xardasa  
+- Sfera skały w Kopalni Orków (dostęp do niej dostaniemy w wątku orków i tam was odsyłam)  
+
 Teraz idziemy do Smoka, który uczy nas jak zrobić runę, a samemu popełnia samobójstwo.
 
 ## Mora Ultaru
@@ -665,8 +668,8 @@ Rupert:
 23-24 Niedaleko orka gdzie zostajesz Szamanem
 
 Kiedy dopadniemy Fellangora mamy 2 opcje:  
-\- Używamy amuletu i kończymy zadanie od Zigosa  
-\- Przyjmujemy pierścień od Fellangora zawalając zadanie Zigosa (Opcja jest opłacalna jedynie na magu)
+- Używamy amuletu i kończymy zadanie od Zigosa  
+- Przyjmujemy pierścień od Fellangora zawalając zadanie Zigosa (Opcja jest opłacalna jedynie na magu)
 
 Jeśli wysłaliśmy Fellangora do krainy Beliara, dostajemy od Zigosa amulet pozwalający zmieniać formę.
 
@@ -725,9 +728,10 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
 5.  Hagen da nam klucz jak zrobimy dla niego zadanie Tajemnica portalu. Mówiąc prościej musimy zrobić wątek główny w Jarkendarze aż do walki z Krukiem w świątyni Adanosa. Po walce z Krukiem i rozmowie z Saturasem wracamy do Hagena a ten daje nam klucz na przełęcz.
 6.  Po dostaniu klucza Hagen każe nam przynieść z Górniczej Doliny dowód na istnienie smoków.
 7.  Udajemy się do GD do Garonda który zleca nam byśmy sprawdzili jak idzie wydobywanie rudy w okolicznych kopalniach, biegamy po kopalniach jest ich 3 :  
-    \-Kopalnia Markosa obok starej kopalni, natomiast sam Marcos przebywa obok chaty Cavalorna  
-    \- kopalnia Fejetha znajduje się na ziemiach orków , obok jeziora przy starej wieży Xardasa  
-    \- kopalnia Silvestra, wszystkich zabiły pełzacze, musimy odnaleźć Diego i z nim pogadać.  
+    -Kopalnia Markosa obok starej kopalni, natomiast sam Marcos przebywa obok chaty Cavalorna  
+    - kopalnia Fejetha znajduje się na ziemiach orków , obok jeziora przy starej wieży Xardasa  
+    - kopalnia Silvestra, wszystkich zabiły pełzacze, musimy odnaleźć Diego i z nim pogadać.  
+    
     Po odwiedzeniu wszystkich kopalni wracamy do Garonda i zdajemy mu relacje co się dzieje z rudą wtedy dostajemy upragniony dowód.
 8.  Wracamy do Khorinis zaczyna się 3 rozdział, gadamy z poszukiwaczem na przełęczy , po czym go zabijamy, gadamy z Lesterem , który mówi nam byśmy jak najszybciej udali się do Xardasa. Gadamy z Xardasem , potem z Hagenem i oddajemy mu dowód. Ten wysyła nas do Klasztoru po oko Innosa, gadamy z Pyrokarem i okazuje się że oko zostało skradzione przez jednego z nowicjuszy Pedra.
 9.  Wychodzimy z klasztoru , gadamy z Jergenem następnie wskakujemy do rzeki i płyniemy tak długo aż natrafimy na włóczęgę , gadamy z nim i idziemy w stronę słonecznego kręgu, gadamy po drodze z Grimbaldem i zabijamy dwóch bandytów.
@@ -742,10 +746,11 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
 14. Pyrokar zleca nam zabicie smoków w GD ( Rozpoczyna się Rozdział 4)
 
 15. Wracamy do GD i zabijamy smoki:  
-    \- Bagienny Smok w Starym Obozie Bractwa  
-    \- Ognisty Smok w miejscu starego kanionu trolli  
-    \- Kamienny Smok nad Kamienną Fortecą  
-    \- Lodowy Smok w ruinach Nowego Obozu  
+    - Bagienny Smok w Starym Obozie Bractwa  
+    - Ognisty Smok w miejscu starego kanionu trolli  
+    - Kamienny Smok nad Kamienną Fortecą  
+    - Lodowy Smok w ruinach Nowego Obozu  
+    
     Od smoków dowiadujemy się, że mają swojego pana na dworze Irdorath.  
     wracamy do Garonda mówimy mu, że smoki są martwe, po czym udajemy się do Pyrokara
 

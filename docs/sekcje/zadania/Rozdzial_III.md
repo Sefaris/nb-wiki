@@ -82,17 +82,18 @@ Hyglas zleca nam przyniesienie książki Boska moc gwiazd. Kupić ją możemy od
 
 ## Fałszywe udziały w kopalni
 
-**UWAGA:Zadanie dostępne tylko dla magów ognia i najemników.**
+> Zadanie dostępne tylko dla magów ognia i najemników.
 
-### UWAGA:Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstur z orkowych pomyj
+> Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstur z orkowych pomyj
 
 Serpentes każe nam dowiedzieć się posiada fałszywe udziały w kopalni. Istnieje 10 takich udziałów. Posiadają je:  
-\-Salandril znajdujący się w swoim sklepie w górnym miescie  
-\-Rosi znajdująca się na farmie Sekoba  
-\-Matteo znajdujący się w swoim domu w dolnym mieście  
-\-Hakon znajdujący się na rynku Khorinis  
-\-Elena znajdująca się na Farmie Onara  
-\-Orlan znajdujący się w Martwej Harpii  
+- Salandril znajdujący się w swoim sklepie w górnym miescie
+- Rosi znajdująca się na farmie Sekoba
+- Matteo znajdujący się w swoim domu w dolnym mieście
+- Hakon znajdujący się na rynku Khorinis
+- Elena znajdująca się na Farmie Onara
+- Orlan znajdujący się w Martwej Harpii
+
 Następnie dajemy je Serpentesowi i mówimy Salandrilowi, że stanie przed sądem.
 
 ## Mroczna sieć
@@ -103,7 +104,7 @@ Zadanie zleca Hagen, po wyciągnięciu Benneta z więzieniu. Musimy się dowiedz
 
 Hagen zleca nam oczyszczenie ze zła obozu Dextera. Idziemy tam zabijamy poszukiwaczy oraz mistrza mroku na szczycie wieży. Po wszystkim wracamy do Hagena.
 
-# Khorinis Cz. 2
+# Khorinis - Własny obóz
 
 ## Moja posiadłość
 
@@ -123,23 +124,23 @@ Kiedy Erol będzie już w obozie prosi on nas o początkowe zasoby do obozu czyl
 Teraz możemy przystąpić do rekrutacji członków do obozu  
 Teraz mamy zorganizować dostawców żywności i górników do wydobywania rudy.  
 **Dostawcy żywności:**  
-\- Farim i Niclas (od razu, wystarczy zagadać)  
-\- Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)  
+- Farim i Niclas (od razu, wystarczy zagadać)  
+- Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)  
 **Kopacze:**  
-\- Wąż (40 retoryki i oddana ruda z zadania "Torba pełna rudy")  
-\- Snipes (50 retoryki i oddana ruda z zadania "Torba pełna rudy")  
-\- Grimes i jego kumpel (Rozmawiamy z Grimesem, a ten planuje uciec, więc musimy przygotować 3 zwoje snu i przyjść nazajutrz. Na miejscu okazuje się, że były niepotrzebne, więc odprowadzamy ich przed kopalnie łączącą Khorinis z GD. Pojawiają się wtedy przy bramie przełęczy, skąd prowadzimy ich do obozu.  
+- Wąż (40 retoryki i oddana ruda z zadania "Torba pełna rudy")  
+- Snipes (50 retoryki i oddana ruda z zadania "Torba pełna rudy")  
+- Grimes i jego kumpel (Rozmawiamy z Grimesem, a ten planuje uciec, więc musimy przygotować 3 zwoje snu i przyjść nazajutrz. Na miejscu okazuje się, że były niepotrzebne, więc odprowadzamy ich przed kopalnie łączącą Khorinis z GD. Pojawiają się wtedy przy bramie przełęczy, skąd prowadzimy ich do obozu.  
 **Ochroniarze:**  
-\- Gayvern (zgodzi się od razu)  
-\- Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)  
-\- Billgot (po przyprowadzeniu do Khorinis)
+- Gayvern (zgodzi się od razu)  
+- Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)  
+- Billgot (po przyprowadzeniu do Khorinis)
 
 Następnie Erol zagaduje nas o kowala i kucharza:  
-\- Edda (dołączy, jeśli pomogliśmy jej w 1r z posążkiem)  
-\- Carl (dołączy, jeśli oddaliśmy mu węgiel w 1r)  
+- Edda (dołączy, jeśli pomogliśmy jej w 1r z posążkiem)  
+- Carl (dołączy, jeśli oddaliśmy mu węgiel w 1r)  
 Po zebraniu powyższych osób Erol prosi o znalezienie uzdrowicielki, którą oczywiście jest Sagitta, która zgadza się, jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
 Ostatnie zadanie w obozie polega na znalezieniu schematu zbroi. Znajdziemy go w Opuszczonej Kopalni, tam gdzie Płomień Eligora dla gildii kupców.  
 Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
 
-## Na tym kończy się wątek naszego obozu. Jeśli mamy wystarczającą ilość kopaczy, to będzie on przynosił zyski, więc co jakiś czas możemy odbierać rudę/złoto
+> Na tym kończy się wątek naszego obozu. Jeśli mamy wystarczającą ilość kopaczy, to będzie on przynosił zyski, więc co jakiś czas możemy odbierać rudę/złoto

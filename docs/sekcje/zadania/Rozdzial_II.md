@@ -57,8 +57,8 @@ Ragnar znajduje się teraz w klasztorze i mówi nam, że chciałby zostać asyst
 Uwaga : Zadanie dostępne po wykonaniu zadania "Polowanie na rzadkie potwory"
 
 Akil mówi nam, że po części ponosi winę za pojawienie się przerośniętej polnej bestii, bo kupił środek na szkodniki od niejakiego Avanisa. Idziemy do tawerny Orlana i gadamy z Avanisem, który odsyła nas do Ignaza. Ignaz nic nie chce nam powiedzieć, więc wychodzi z jego domu, a za płotem znajdujemy notatkę. Czytamy ją i wracamy do alchemika, po czym mamy 2 opcje:  
-\- Nic nie mówimy o Avanisie, Ignaz będzie lekko zdenerwowany, wracamy do Akila.  
-\- Mówimy Ignazowi, że Avanis ukradł fiolę, aby użyć jej na polne bestie. Wracamy do Akila i opowiadamy o wszystkim.
+- Nic nie mówimy o Avanisie, Ignaz będzie lekko zdenerwowany, wracamy do Akila.
+- Mówimy Ignazowi, że Avanis ukradł fiolę, aby użyć jej na polne bestie. Wracamy do Akila i opowiadamy o wszystkim.
 
 ## Zlecenie Wodnego Kręgu
 
@@ -85,18 +85,18 @@ Uwaga: Zadanie dostępne po wykonaniu zadania "Zapiski Saturasa"
 Saturas mówi nam, że interesował się kiedyś magią Guru, ale badania zostały porzucone po upadku Bariery. Mówi on nam także, że wysłał do obozu Bractwa jednego z magów wody. Norolas znajduje się w małym obozie za palisadą w GD obok Draxa i Ratforda.  
 NOrolas mówi nam że na bagnach roi się od nieumarłych i prosi nas o udanie się po księgę Y'beriona . Mamy dwie opcje:
 
-\- Wybić wszystkich nieumarłych z demonem na czele (którego będziemy mogli przyzwać dopiero w zadaniu "Mroczne Rytuały"), zabrać księgę Y'beriona i wrócić do Norolasa.
-
-\-Tworzymy specjalny eliksir który pozwoli nam się poruszać wśród nieumarłych.  
+- Wybić wszystkich nieumarłych z demonem na czele (którego będziemy mogli przyzwać dopiero w zadaniu "Mroczne Rytuały"), zabrać księgę Y'beriona i wrócić do Norolasa.
+- Tworzymy specjalny eliksir który pozwoli nam się poruszać wśród nieumarłych.
 W tym celu musimy przynieść Norolasowi przepis i składniki do niego.  
 Przepis znajduje się w Kamiennej Fortecy w zamkniętej skrzyni na piętrze. Klucz do tej skrzyni jest w innej skrzyni w sekretnej komnacie pilnowanej przez bossa Demona. Jak już zdobędziemy klucz otwieramy skrzynię z przepisem.  
 Mamy już przepis, więc pozostało rozejrzeć się za składnikami. Wszystko poza czarną koniczyną i prochami nekromanty pewnie już mamy. Czarna koniczyna i prochy nekromanty znajdują się w Jaskini Bólu za mostem obok starej wieży Xardasa (Dostaniemy się tam w trakcie zadania "Antyki")  
-Wracamy do Norolasa ze składnikami, on tworzy dla nas miksturę, wypijamy ją i idziemy prosto do świątyni obozu Bractwa. Po wszystkim wracamy do Norolasa.  
-Na koniec pod gdy przyniesiemy księgę Nerolasowi on każe nam ją zanieść Saturasowi .
+Wracamy do Norolasa ze składnikami, on tworzy dla nas miksturę, wypijamy ją i idziemy prosto do świątyni obozu Bractwa. Po wszystkim wracamy do Norolasa.
+
+Na koniec, gdy przyniesiemy księgę Nerolasowi, on każe nam ją zanieść Saturasowi.
 
 ## Sekret magii Guru
 
-**Zadanie dostaniemy jak odczekamy jeden dzień po wykonaniu zadania Magia Guru.**
+> Zadanie dostaniemy jak odczekamy jeden dzień po wykonaniu zadania Magia Guru.
 
 Saturas po przeczytaniu księgi Yberiona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas nas prosi, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała skała, czytamy ją i wracamy do Saturasa.
 
@@ -233,9 +233,10 @@ Po zebraniu rzepy Kormak oferuje nam wspólne opicie naszego przybycia na wyspę
 ## Poszukiwania druidów
 
 Otrzymamy to zadanie po oficjalnym zostaniu druidem. Kormak zleca nam znalezienie innych druidów, którzy żyją w różnych częściach wyspy, a są to:  
-\- Netbek z Klasztoru Zmiennokształtnych w GD  
-\- Elvais z Doliny Cienia  
-\- Oddler z Lodowych Gór Orków  
+- Netbek z Klasztoru Zmiennokształtnych w GD
+- Elvais z Doliny Cienia
+- Oddler z Lodowych Gór Orków
+
 Po znalezieniu całej trójki wracamy do Kormaka po nagrodę.
 
 ## Skarb piratów
@@ -402,9 +403,10 @@ Po oczyszczeniu kanionu wracamy do Grega.
 ## Zbroja bandyty
 
 Zadanie zleca Saturas. Mówi nam, że jeśli chcemy dostać się do obozu bandytów, to musimy mieć zbroję taką jak oni. Musimy dostać się do chaty Grega. Możemy to zrobić na 3 sposoby:  
-\- Pobić Francisa  
-\- Zapłacić Francisowi złotem  
-\- Wykopać szkatułkę z księgą rachunkową Francisa. Znajdziemy ją w skarbie w pierwszej kopalni, jaką napotkamy w kopalni.  
+- Pobić Francisa
+- Zapłacić Francisowi złotem
+- Wykopać szkatułkę z księgą rachunkową Francisa. Znajdziemy ją w skarbie w pierwszej kopalni, jaką napotkamy w kopalni.
+
 Nieważne w jaki sposób dostaniemy klucz, wchodzimy do chaty Grega i ją plądrujemy. Pojawia się Greg, a żeby dostać zbroję bandytów, musimy oczyścić kanion z brzytwiaków.
 
 ## Szpiegowanie bandytów
@@ -623,12 +625,14 @@ Po przyniesieniu pierścienia Kruka Draxowi zagada do nas Ratford. Zleci on nam 
 ## Zaginieni bez wieści
 
 Garond chce się dowiedzieć co się stało z dwoma grupami Paladynów Wenzela i Alberta.  
-\-Grupa Alberta  
+- **Grupa Alberta**  
 Jest pod obozem Netbeka za palisadą, gadamy z Albertem wracamy do Garonda.  
-\-Grupa Wenzela  
-Tutaj musimy pogadać z Jerganem w kopalni Fajetha, a potem Talbinem, który jest nad chatą Cavalorna. Dowiadujemy się, że Wenzela i jego ekipę pojmali orkowie. Wracamy do Garonda, a ten prosi nas o uwolnienie paladynów. Udajemy się do miasta orków i teraz musimy uzyskać reputację by dostać się do Ur thralla ( Patrz wątek orków). Gadamy z wodzem, który wpuści nas do kopalni jeśli:  
-\-Mamy powyżej 40 retoryki  
-\-Zrobione zadanie "Mroczne Rytuały"  
+- **Grupa Wenzela**  
+Tutaj musimy pogadać z Jerganem w kopalni Fajetha, a potem Talbinem, który jest nad chatą Cavalorna. Dowiadujemy się, że Wenzela i jego ekipę pojmali orkowie. Wracamy do Garonda, a ten prosi nas o uwolnienie paladynów. Udajemy się do miasta orków i teraz musimy uzyskać reputację by dostać się do Ur thralla ( Patrz wątek orków).  
+Gadamy z wodzem, który wpuści nas do kopalni jeśli:  
+  - Mamy powyżej 40 retoryki  
+  - Zrobione zadanie "Mroczne Rytuały"
+  
 Po spełnieniu powyższych warunków, robimy zadania opisane w wątku orków, co kończy się uwolnieniem Wenzela. Po wszystkim wracamy do Garonda
 
 ## Nieproszony gość
