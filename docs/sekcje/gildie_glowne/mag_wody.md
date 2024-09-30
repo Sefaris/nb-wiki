@@ -1,9 +1,9 @@
 # Mag wody
 
-> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md).  
+> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](Sekcje/Gildie_Poboczne/Gildia_Zlodziei.md).  
 > Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
 
-## Przyjęcie do magów wody
+## Przyjęcie do Magów Wody
 
 Aby zostać nowicjuszem wody, musimy wykonać jedno z poniższych zadań:  
 Gdzie są zaginieni ludzie, Handlarz bronią dla bandytów lub zebrać ornamenty Nefariusa  

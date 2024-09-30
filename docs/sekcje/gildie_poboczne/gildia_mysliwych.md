@@ -1,6 +1,6 @@
 # Gildia Myśliwych
 
-## Dołączenie do myśliwych
+## Droga do obozu myśliwych
 
 Żeby dołączyć do myśliwych trzeba udać się do ich obozu (Obóz znajduje się obok schodów do farmy Bangara) i zagadać z Falkiem. Należy do niego zagadać 3 razy, aż zleci nam przyniesienie 3 skór cieniostwora. Najłatwiej je zdobyć:  
 - W namiocie obok wilków Pepe na farmie Onara  
@@ -26,13 +26,13 @@ Falk prosi nas o przyniesienie mu 20 skór wilka, które powinniśmy zdobyć bez
 
 Po oddaniu Falkowi skór wilka, ten wysyła nas po specjalne strzał do Bospera. Nie możemy otworzyć listu, bo w innym wypadku, Falk się na nas obrazi. Ze strzałami wracamy do myśliwego, a zadanie się kończy
 
-## Ranne zwierze
+## Ranne zwierzę
 
 > UWAGA Quest należy zrobić od razu po jego rozpoczęciu , jeśli tego nie zrobimy Kieł umrze po 2-3 dniach.
 
 Myśliwy Nix mówi nam że jego wilk Kieł został ranny i prosi nas byśmy udali się do Sagitty po lekarstwo. Idziemy do Sagitty która każe nam przynieść składniki na lekarstwo ( Szczaw królewski, korzeń leczniczy, leśna jagoda i bagienne ziele) , przynosimy składniki , zabieramy lekarstwo i wracamy do Nixa. Teraz trzeba poczekać kilka dni aż Kieł wyzdrowieje i wrócić do Nixa po nagrodę.
 
-## Kusza Dragomira (zadanie z podstawki)
+## Kusza Dragomira
 
 Dragomir mówi nam że zgubił kuszę obok słonecznego kręgu, idziemy tam zabieramy kuszę i oddajemy Dragomirowi.
 
@@ -68,7 +68,7 @@ Pytami się Groma o naukę oprawiania zwierząt ten będzie nas uczył, jeśli p
 
 Grom prosi nas o przyniesienie mu dwóch skór trolla. Jeśli mamy je w ekwipunku możemy mu je dać od razu, a jeśli nie, to zabijamy dwa trolle niedaleko Groma.
 
-## Wielki myśliwy
+## Najlepszy łowca
 
 Aby poruszyć to zadanie, potrzebujemy poparcia conajmniej 7 myśliwych.
 - Nix poprze nas, jeśli udało nam się uzdrowić Kła.

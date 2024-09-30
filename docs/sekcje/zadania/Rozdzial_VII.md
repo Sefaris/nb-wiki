@@ -49,30 +49,6 @@ Gadamy z Diego na farmie Onara. Mówi nam, że chciałby skorzystać z pomocy st
 
 Cavalorn prosi nas o pomoc w dostaniu się do farmy Onara. Wystarczy się tam teleportować, a Cavalorn powinien pojawić się w pobliżu.
 
-## Opiekunowie
-
-Zadanie zaczyna się jak przyjmiemy ofertę Dagotha na początku gry. Po zabiciu smoka ożywieńca na Irdorath pojawia się Dagoth. Okazuje się, że opiekunowie nas zdradzili. Dagoth znika, a my musimy pokonać cztery demony. Gadamy z Pyrokarem w klasztorze i wykonujemy zadanie  
-Dziwne rzeczy, po czym znów gadamy z Pyrokarem  
-Zadanie ruszymy dalej dopiero po zebraniu armii i po tym jak dostaniemy zadanie od Lee- Potężni patroni orków. Pyrokar mówi nam, że opiekunowie w jakiś sposób pomagają orkom.  
-Udajemy się do Netbeka, który przygotowywuje nas do walki z opiekunami.  
-Musimy zdobyć moc trzech bogów oraz artefakt zdolny zranić opiekunów.  
-Moc Adanosa dostaniemy po pomodleniu się do pulpitu w Czyśćcu Adanosa (trzeba zrobić zadanie Zemsta Pradawnych), natomiast moc Innosa i Beliara jak zadania Wola Innosa i Wola Beliara.  
-Po uzyskaniu mocy bogów pytamy Netbeka o broń przeciw opiekunom. Powie on nam, że potrzebujemy do tego elementów czterech żywiołów.  
-W takim razie aby zdobyć te elementy wykonujemy zadanie Potężni patroni orków i Śniący. Dodatkowo potrzebny będzie przedmiot w który zaklniemy moc żywiołów:
-
-1. Wojownik  
-   Musimy wykonać miecz z czarnej rudy. Netbek wysyła nas od Darriona u któregowybieramy jaki miecz chcemy zrobić. 1H to pięć kawałków czarnej rudy, natomiast 2H to 10 kawałków.  
-   Darrion powie nam, że orkowie mogą coś wiedzieć o czarnej rudzie, więc gadamy z Ur-Thrallem.  
-   Kiedy mamy już składniki i wybraliśmy u Darriona który miecz chcemy, to kujemy go w kuźni.
-
-2. Mag  
-   Netbek mówi nam że do stworzenia runy potrzebujemy kamienia runicznego. Idziemy do Saturasa, który wysyła nas do Starej Wieży Xardasa, skąd bierzemy runę.
-
-Kiedy mamy już miecz, bądź runę, potrzebujemy teraz zwoju, który będzie w stanie przenieść moc żywiołów na broń. Idziemy do Pyrokara, czekamy dzień i dostajemy zwój.  
-Jak już mamy zdobyte moce żywiołów (Zadania Potężni patroni orków i Śniący) używamy zwoju i tak oto mamy broń na opiekunów.
-
-Udajemy się teraz do lokacji gdzie przebywają Opiekunowie , przeniesiemy się tam runą którą dostaliśmy od Stonnosa po wykonaniu zadań dla Opiekunów (musimy mieć tez założoną koronę demonów z zadania Śniący). Lokacja będzie wypełniona demonami, po zabiciu których okazuje się, że przejście do Stonnosa jest zamknięte. Idziemy tam gdzie pulpity z książkami, zabijamy strażnika i przechodzimy do sal Vakhana. Idziemy cały czas przed siebie, zabijamy demona i bossa na końcu.  
-Z ciała bossa zabieramy serce i kładziemy na ołtarzu za areną z bossem. Teraz pojawi się kolejny boss trudniejszy od poprzedniego. Tego też zabijamy i wracamy do lokacji opiekunów. Teraz wrota do Stonnosa będą otwarte, więc gadamy z opiekunem po czym zabijamy.
 
 ## Dziwne rzeczy
 
@@ -478,50 +454,6 @@ Gonzales prosi nas, abyśmy dowiedzieli gdzie odbędzie się spotkanie. Idziemy 
 
 Po tym jak Haniar uciekł, bierzemy Gonzalesa i idziemy teraz do świątyni, gdzie wybijamy wszystkich asasynów, nie zapominamy też o tych w jaskini Osaira. Teraz musimy znaleźć sekretne przejście, a w tym celu czytamy zwój na jednym z ołtarzy w głównej sali w świątyni i pokazujemy go Gonzalesowi. Teraz modlimy się do posągu Beliara i otwiera się przejście. Trafimy do pokoju z teleportem na środku, plądrujemy wszystko co się da i przechodzimy przez teleport. Czeka nas tam walka z kilkoma przeciwnikami, po czym dochodzimy do Haniara, gdzie pojawia się Gonzales i po krótkiej rozmowie zabijamy typa.  
 Teraz pozostaje tylko zabić demona i Cor Kaloma.
-
-# Bezgraniczna potęga, Ekspedycja magów ognia
-
-## UWAGA: Zadania te można zrobić zarówno w Rozdziale 4 jak i 7. Jeśli zrobimy te zadania w 4 rozdziale dostajemy tylko 70% bonusu do statystyk, jeśli w 7 rozdziale dostajemy normalnie 100%.
-
-## Bezgraniczna potęga
-
-Uwaga: Trzeba rozpocząć to zadanie przed 4 rozdziałem, jako że później Hokurn zostaje łowcą smoków.
-
-Na farmie Onara spotykamy najemnika Hokurna, który mówi nam o magicznym artefakcie mającym nieograniczoną moc. Historię tą usłyszał od więźnia w Górniczej Dolinie, jednego z nowicjuszy w sekcie na bagnie. Idąc tym tropem kierujemy się do nowego obozu bractwa w Khorinis, gdzie spotykamy Baala Yunikorna, ale żeby pojawił się dialog o artefakcie, musimy mieć na sobie opaskę bractwa i dać mu skręty.
-
-W zamian dowiadujemy się, że kiedy był w Starym Obozie podsłuchał przypadkiem rozmowę dwóch starszych strażników, którzy rozmawiali o artefakcie. Teraz pozostaje nam odszukać jednego z tych strażników i znajdujemy go w Jarkendarze obok Thorusa. Nazywa się Kirzharts. Dajemy mu teraz bryłki rudy, a on wysyła nas do magów ognia w Górniczej Dolinie. Idziemy do Miltena, który opowiada nam o zaginionym Lexie. Znajduje się on obok Jaskini Bólu Wykonując misję dla Gomeza, otworzymy sobie wejście do krypty. Wewnątrz na samym dole czytamy książkę na stojaku i dowiadujemy się, że tylko sługa Beliara może nam zdradzić miejsce przechowywania artefaktu. Teraz musimy zdobyć czaszkę demona (np. tego z bagien w Górniczej Dolinie) i położyć ją na piedestale.
-
-Po przyzwaniu kapłanki Beliara Avabyul ,dowiadujemy się, że Beliar pożąda tego artefaktu i jest w stanie nam pomóc, jeśli go oddamy. Avabyul opowiada nam teraz o Janusie Dwulicowym.  
-Znajdujemy go w najbardziej oddalonym miejscu w lokacji Śnieżne Góry Orków (Zobaczcie mapę śnieżnych gór orków w dziale z zadaniami w tej lokacji - Punkt 13) . Stoi przed wielkimi wrotami i pozwoli nam przez nie przejść gdy przyniesiemy mu duszę awatara Beliara. Mowa tu o smoku z Doliny Cieni, Azgalorze lub o Awatarze Beliara z Irdorath.
-
-Klikamy w przycisk z przodu ołtarzyka przed Janusem i przechodzimy przez bramę. Nie ma co się wybierać do środka, jeśli nie zrobiliśmy zadania “Ekspedycja Magów Ognia”. Z runą z tego zadania idziemy eksplorować jaskinie, gdzie natkniemy się na golema, którego traktujemy runą. Teraz spokojnie przechodzimy przez most. Idziemy po schodach na górę i spotykamy strażnika artefaktu. Niestety artefaktu nie dostaniemy ale możemy wybrać jeden z poniżej wymienionych bonusów:  
-25 siły / 25 zręczności / 50 many i 20 inteligencji / 175 zdrowia i 50 wytrzymałości (4R)  
-35 siły / 25 zręczności / 70 many i 30 inteligencji / 250 zdrowia i 100 wytrzymałości (7R)
-
-Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janus, który okazuje się martwy a dalej stoi kapłanka Beliara. Po krótkiej rozmowie dochodzi do walki, zabijamy ją, a zadanie się kończy.
-
-## Ekspedycja magów ognia
-
-Czytając pulpity w pomieszczeniu z Talomonem, dostaniemy wpis do dziennika. Udajemy się teraz do Pyrokara, a następnie do Xardasa, który każe nam przynieść jego zapiski z piętra wieży.  
-UWAGA: Dla osób, które będą robić tą misję w siódmym rozdziale, pamiętnik i klucz znajdziemy na stole na górze w wieży Xardasa.
-
-Po rozmowie z Xardasem musimy się udać do Zatopionej Wieży Xardasa.  
-Po otwarciu skrzyni dostajemy w ręce pierwszą część "Kronik Stonnosa", o których była mowa w pamiętniku mrocznego maga. Czytamy i dowiadujemy się, że musimy znaleźć kolejne części. Jest ich w sumie 6. Pierwszą już mamy:
-
-2. Drugi tom znajdziemy w tajnym pokoju u Kreola (przycisk na kominku)
-3. Trzeci tom jest obok ołtarzu z Łzą Adanosa.
-4. Czwarty tom znajduje się w skrzyni na końcu miasta umarłych.
-5. Piąty tom ma przy sobie strażnik sfery w orkowej kopalni.
-6. Szósty tom zdobędziemy po pokonaniu Azgalora z Doliny Cieni
-
-Po przeczytaniu wszystkich kronik dowiadujemy się, że golem jest nieśmiertelny i jedynie krew bogów może go zabić. Idziemy do Pyrokara i mówimy mu o problemie. Ten wykona nam specjalną runę, którą odbieramy następnego dnia. Mając już runę ruszamy na poszukiwanie kopców magicznej rudy:
-
-1. Pierwszy znajdujemy na samym dole w Starej Kopalni
-2. Drugi w Kopalni Orków, niedaleko Windy
-3. Trzeci w Kopalni Orków, w pomieszczeniu z demonem za mostem
-4. Czwarty w obozie przyjaznego klanu w Śnieżnych Górach Orków (Zaleca się to zrobić po ukończeniu wątku ze Starym przyjacielem Lee, jako że staną się oni agresywni)
-5. Piąty w obozie wrogiego klanu w Śnieżnych Górach Orków (Zaleca się to zrobić przy okazji zadania “Wojna klanów)  
-   Po piątym naładowaniu pojawia się nam nowy wpis i mamy gotową runę na golema. Znajdujemy go robiąc misję Bezgraniczna Potęga. Po zabiciu golema misja się kończy.
 
 # Śnieżne góry orków
 

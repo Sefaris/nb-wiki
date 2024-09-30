@@ -1,4 +1,4 @@
-# Opis zmiennych w pliku gothic.ini
+# Gothic.ini
 
 ## Ogólne zmienne
 

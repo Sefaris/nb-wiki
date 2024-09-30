@@ -1,9 +1,9 @@
 # Mag ognia
 
-> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md).  
+> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](Sekcje/Gildie_Poboczne/Gildia_Zlodziei.md).  
 > Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
 
-## Jak się dostać do klasztoru
+## Jak dostać się do klasztoru
 
 Aby zostać nowicjuszem. musimy mieć 1000 złota i owce (kupimy od Pepe za 100 sztuk złota). Ewentualnie pozostaje "Ułatwione przyjęcie do klasztoru".
 

@@ -158,14 +158,14 @@ Po wejściu do miasta można zauważyć, że mistrzowie nie chcą z nami rozmawi
 #### __Pablo__
 
 Udajemy sie do Pablo, który na początek każe nam zdobyć strój obywatela.  
-Ubranie można kupić od Hanny za 100 sztuk złota (lub 50 jeśli należymy do [Gildii Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md?id=gildia-złodziei)), lub znaleźć na jednym z dachów w Górnym Mieście, do którego można się wkraść nocą z jednego ze straganów koło rynku.  
+Ubranie można kupić od Hanny za 100 sztuk złota (lub 50 jeśli należymy do [Gildii Złodziei](Sekcje/Gildie_Poboczne/Gildia_Zlodziei.md)), lub znaleźć na jednym z dachów w Górnym Mieście, do którego można się wkraść nocą z jednego ze straganów koło rynku.  
 Druga opcja jest zdecydowanie lepsza, ponieważ zdobywamy wtedy osiągnięcie `Biedny arystokrata` oraz dodatkowe doświadczenie.  
   
 Gdy już mamy strój to wracamy do Pablo, który każe nam zdobyć popracie od wpływowych mieszkańców z dzielnicy portowej.  
 Ludzie, dla których musimy wykonać zadania:
 - Brahim - [Atrament dla Brahima](#atrament-dla-brahima)
 - Carla - [Węgiel dla Carla](#węgiel-dla-carla)
-- Edda - [Figurka Eddy](#figurka-eddy)
+- Edda - [FFigurka dla Eddy](#figurka-dla-eddy)
 - Garvell - [Narzędzie dla Garvella](#narzędzie-dla-garvella)
 - Halvor - [Delikatesy](#delikatesy)
 - Kardif - [Szantażysta Moe](#szantażysta-moe)
@@ -189,7 +189,7 @@ __Zleca: Lehmar__
 
 Lehmar każe nam zabić typa który pożyczył pieniądze i się więcej nie pojawił. Chodzi o typa w magazynie w porcie.
 
-## Figurka Eddy
+## Figurka dla Eddy
 __Zleca: Edda__
 
 Edda mówi nam, że skradziono jej statuetkę Innosa. Statuetka znajduje się w skrzyni w magazynie portowym, trzeba zabić strażnika i zabrać klucz do skrzyni.
@@ -209,7 +209,7 @@ __Zleca: Carl__
 
 Carl prosi nas, abyśmy przynieśli 5 bryłek węgla. Węgiel można znaleźć w magazynie niedaleko Martina i w spalonej chacie obok Skipa.
 
-## Narzędzie dla Garvella
+## Narzędzia dla Garvella
 __Zleca: Garvell__
 
 Garvell prosi nas, abyśmy mu przynieśli piłę, smołę i 2 młotki. Wszystkie składniki znajdziemy obok Garvella, Martina i Thorbena.
@@ -284,6 +284,11 @@ __Zleca: Fernando__
 
 Fernando chce zdobyć Podręcznik Retoryki, który jest w posiadaniu Gallahada. Były mag nie chce go oddać po dobroci, więc idziemy do Ignaza, który prosi nas o wysłanie do niego Gallahada po zioła. Wracamy do Gallahada, rozmawiamy z nim i czekamy, aż wyjdzie z chaty i zabieramy książkę ze stołu. Po przeczytaniu oddajemy ją Fernando i otrzymujemy upragniony list.
 
+## Prośba Ignaza
+__Zleca: Ignaz__
+
+Ignaz prosi nas o przypomnienie Gallahadowi, że ten miał przynieść mu paczkę ziół
+
 ## Tajemnicze spotkanie
 __Zleca: Gerbrandt__
 
@@ -344,10 +349,21 @@ __Zleca: Jack__
 
 Jack mówi nam, że bandyci zajęli jego latarnię. Idziemy do latarni, zabijamy bandytów i wracamy do Jacka.
 
+## Bimber
+
+Enhim na farmie Akila oferuje nam sprzedaż łoju kretoszczura do otwarcia Bimbrowni Vino. Targujemy się z nim do jak najniższej kwoty, po czym okazuje się, że wcale go nie miał.
+
 ## Broń dla Gonzalesa
 __Zleca: Gonzales__
 
 Gonzales z karczmy Kardifa zgodzi się nauczyć nas odporności na gorąco, jeśli przyniesiemy mu specjalną broń. Jest nią miecz asasyna, który otrzymamy od Parcivala za zadanie „Przewaga Taktyczna”
+
+## Czarna skóra
+__Zleca: Raoul__
+
+> Zadanie dostępne po dołączeniu do jakiejkolwiek gildii
+
+Raoul prosi nas o przyniesienie skóry czarnego trolla. Tą z Khorinis lepiej oddać Falkowi, ale kolejną zdobędziemy już w Jarkendarze.
 
 ## Człowiek pod obliczem bestii
 __Zleca: Ignaz__
@@ -518,6 +534,7 @@ __Zleca: Brian__
 Zadanie można uzyskać tylko jeśli nauczyliśmy się ostrzenia broni. Brian prosi nas, abyśmy przynieśli mu osełkę. Osełka znajduje się na półce obok Ramireza w siedzibie gildii złodziei.
 
 ## Pancerz najemnika dla Jessego
+__Zleca: Jesse__
 
 Jeśli odwiedziliśmy już farmę Onara wracamy do Jessego, czyli bandyty, którego spotkaliśmy na początku gry niedaleko Cavalorna. Mówimy mu, żeby się udał na farmę , ale Jesse nie pójdzie , dopóki nie damy mu normalnego pancerza. Możemy dać mu jakikolwiek pancerz najemnika, jeśli natomiast należymy do innej gildii, to można oddać mu ubranie obywatela lub skórzany pancerz. Oddajemy pancerz Jessemu, a on udaje się na farmę Onara.
 
@@ -548,6 +565,11 @@ Co do ostatniego ornamentu idziemy do kamiennego kręgu obok farmy Lobarta, gada
 
 Bengar mówi nas o groźnym wilku, który grasuje w okolicy. Znajdziemy go między wodospadami, a gospodą Orlana. Zabijamy zwierzę, po czym wracamy do Bengara po nagrodę.
 
+## Problem Fregyala
+__Zleca: Fregyal__
+
+Musimy zabić zębacza, który znajduje się gdzieś niedaleko wejścia do jaskini Freygala.
+
 ## Problemy ze strażą
 __Zleca: Farim__
 
@@ -566,7 +588,7 @@ __Zleca: Jack__
 
 Jack opowiada nam o przeklętej latarni na morzu. Płyniemy tam i wspinamy się na samą górę. Wciskamy znak na ścianie i dostajemy wpis obok dziwnego szkieletu. Schodzimy teraz piętro niżej, gdzie znajdziemy pierścień z imieniem zaczynającym się na Ha. Rozmawiamy z Haradem, Hakonem i Halvorem, za co dostaniemy dodatkowego expa. Udajemy się teraz do Hanny, która opowiada nam tragiczną historię. Teraz idziemy do Xardasa, który daje nam zwój przyzwania ducha. Czytamy go na szczycie latarni, po czym schodzimy na dół i rozmawiamy z widmem. Teraz musimy znaleźć pirata. W pierwszej kolejności idziemy do Kardifa, który odeśle nas do Jacka. Po zadaniu z fajką Greg zagada do nas, mówiąc kim jest Kelvar. Z tymi informacjami idziemy do niego i następnego dnia przypływamy do latarni i wykonujemy zalecenia ducha. Jeśli zapalimy latarnie mając 40 retoryki, Jack przeżyje i zadanie się zakończy.
 
-## Przepisy win dla Goraxa
+## Receptury win dla Goraxa
 
 Gorax prosi nas o przyniesienie mu receptur win:
 
@@ -577,6 +599,7 @@ Gorax prosi nas o przyniesienie mu receptur win:
 Receptury warto przeczytać przed oddaniem Goraxowi. (Grzanego wina nie da się wytworzyć)
 
 ## Przesyłka dla Lariusa
+__Zleca: Baal Orun__
 
 > Aby otrzymać zadanie, należy mieć założoną Przepaskę nowicjusza.
 
@@ -621,6 +644,8 @@ __Zleca: Paladyn na statku__
 
 Zadanie zleca Paladyn strzegący statku. Magowie Ognia, Wody oraz Czarnoksiężnicy mogą je zrobić w 1 rozdziale, Paladyni w 3, a reszta dopiero w V akcie. W zadaniu chodzi o to, by zabić szczury w ładowni statku.
 
+## Ścieżka szamana
+
 ## Śmierdząca bestia Erola
 
 Po tym jak oddamy mu 3 tabliczki, gadamy z Erolem pod jego chatą, mówi nam o bestii mieszkającej niedaleko jego chaty. Musimy zabić bossa topielca na wysepce na środku jeziora (tam, gdzie jeden ze skarbów Grega). Po ubiciu bestii wracamy do Erola.
@@ -629,6 +654,11 @@ Po tym jak oddamy mu 3 tabliczki, gadamy z Erolem pod jego chatą, mówi nam o b
 __Zleca: Notatka z ciała Faarharta__
 
 Po zabiciu bandyty Faarharta dowiadujemy się, że Wulfgar posiada pokaźny skarb. Idziemy do pokoju Wulfgara w koszarach, gdzie za skrzynią podnosimy notatkę. Udajemy się teraz do jaskini z widmem, między Grimbaldem, a Słonecznym Kręgiem. Z nieumarłymi możemy wybiec, podnieść notatkę i klucz, a następnie uciec. Teraz czytamy znalezioną notatkę i wchodzimy w interakcje z obrazem Rhobara w pokoju Wulfgara, co skutkuje przesunięciem się regału. Zabieramy zawartość skrzyń, a zadanie się kończy.
+
+## Tajemnicza paczka Rigeliona
+__Zleca: Notka w ciele Rigeliona__
+
+Po zabiciu Rigeliona znajdujemy notkę, która wspomina o opuszczonej kaplicy niedaleko Farmy Onara. Wystarczy pójść ją odwiedzić.
 
 ## Torba pełna rudy
 __Zleca: Wąż__

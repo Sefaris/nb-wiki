@@ -60,10 +60,6 @@ Zadanie zleca Xardas jak przyniesiemy mu jeden kryształ duszy. Wypadają one z 
 Bengar mówi nam, że rolnicy uciekli i prosi o załatwienie ochrony na farmie.  
 Najpierw udajemy się do Wilka i oferujemy mu pracę na farmie Bengara, ten się zgadza jak mu zapłacimy. Teraz idziemy do Malaka i mówimy że najemnicy chronią farmę, po czym rolnicy wracają. Na koniec idziemy do Bengara.
 
-## Bimber
-
-Enhim na farmie Akila oferuje nam sprzedaż łoju kretoszczura do otwarcia Bimbrowni Vino. Targujemy się z nim do jak najniższej kwoty, po czym okazuje się, że wcale go nie miał.
-
 ## Rogi cieniostwora dla Bustera
 
 Buster będzie od nas skupywał rogi cieniostwora za złoto i expa. Zadanie kończy się w 5 rozdziale, gdy już od nas nie skupuje.

@@ -32,10 +32,11 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 
 ## Autorzy
 
-- Członkowie Teamu Sefaris: docsify serve docs
+- Członkowie Teamu Sefaris:
 
-  - [Sebastian](https://github.com/sebastiansobek)
+  - [Sebastian](https://github.com/met0rii)
   - [Tulipan](https://github.com/tulipanov)
+  - [fyryNy](https://github.com/fyryNy)
 
 - Inni:
 

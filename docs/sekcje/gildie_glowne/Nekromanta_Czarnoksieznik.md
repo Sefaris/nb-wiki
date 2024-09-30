@@ -1,8 +1,6 @@
-# Nekromanta/Mroczny Rycerz/Czarnoksiężnik
+# Nekromanta/Czarnoksiężnik
 
-## Mroczny Rycerz
 
-Aby zostać Mrocznym Rycerzem, musimy wykonać zadanie "Horror na cmentarzu" i przeczytać notatkę z ciała Rigeliona. Teraz udajemy się do jaskini, która znajduje się w kaplicy głęboko w lesie za farmą Onara. Tam spotykamy Mrocznego Mentora i zgadzamy się na współpracę z nim. Musimy zabić paladyna, aby dowieść naszej wartości. Słabszy paladyn na potrzeby zadania respi się pod mostem obok Martwej Harpii. Zabijamy go dużą kulą ognia lub innym czarem. Po wszystkim wracamy do Mentora i oficjalnie zostajemy rycerzem.
 
 ## Ścieżka Beliara
 
@@ -14,6 +12,7 @@ Po wykonaniu tego zadania oficjalnie zostajemy Nekromantą lub Czarnoksiężniki
 ## Posążek Beliara
 __Zleca: Xardas__
 
+Posążek można znaleźć w ciele Rigelion z zadania Horror na cmentarzu lub na skałach między Martwą Harpią, a mostem bandytów.
 
 ## Droga Ciemności
 
@@ -39,6 +38,8 @@ Xardas zleca byśmy przynieśli mu pewną księgę która jest w posiadaniu Gall
 
 ## Necromonicon
 
+> Misję również można zrobić po prostu zdobywając Święty Płomień i odnosząc księgę Xardasowi.
+
 Xardas prosi nas, abyśmy przynieśli mu starożytną księgę - Necronomicon. Według wskazówek nekromanty była ona niegdyś w posiadaniu potężnego nekromanty - Nergala. Teraz udajemy się do doliny za farmą Onara (Tam, gdzie 2 trolle i Grom) i odnajdujemy tam zamkniętą wieżę. Niestety Xardas nie ma do niej klucza i zleca nam jego odnalezienie.
 
 Musimy udać się aż do Górniczej Doliny i przedostać się za palisadę orków. Dostajemy się do Wieży Mgieł przez kopalnię od dołu i rozmawiamy z nekromantą Kreolem. Po krótkiej rozmowie Kreol daje nam klucz, z którym wracamy do wieży Nergala, zabijamy jego sługusów i czytamy pulpit na środku. Pojawia się mag, który dzięki naszej pomocy ląduje w krainie Beliara. Zabieramy z jego ciała prochy i wracamy do Xardasa, a ten opowiada nam o pewnym rytuale .
@@ -46,8 +47,6 @@ Musimy udać się aż do Górniczej Doliny i przedostać się za palisadę orkó
 Czekamy kilka dni i gdy wszystko będzie gotowe, idziemy się przespać, a następnie stajemy na jednym z rogów pentagramu (Obok Xardasa) -Odpala się rytuał podczas którego Xardas rozmawia z Nergalem. Jeśli się poruszymy, przerwiemy rytuał i będziemy mogli zdobyć dodatkowe PN’y za Nergala. Po wszystkim Xardas mówi nam gdzie jest Necronomicon.
 
 Udajemy się w stronę plaży Skipa i płyniemy dalej, aż odnajdziemy wieżę na kamiennej plaży Wchodzimy do środka, za pomocą zaklęcia Święty Płomień (które znajdziemy w jaskini w kotlinie obok wschodniej bramy) zabijamy Mrocznego Golema i przechodzimy przez otwarte kraty. Lądujemy na szczycie wieży, gdzie jest księga (Jeżeli mamy umiejętność posługiwania się językiem demonów Lenga możemy ją przeczytać). Wracamy do Xardasa oddajemy księgę.
-
-### Misję również można zrobić po prostu zdobywając Święty Płomień i odnosząc księgę Xardasowi.
 
 ## Dumni i bezbronni
 

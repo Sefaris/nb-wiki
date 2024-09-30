@@ -1,10 +1,10 @@
 # Gildia Kupców
 
-Są 2 sposoby na dołączenie do gildii kupców:
-- Pomożemy Erolowi w zadaniu Napadnięci kupcy wtedy dostajemy list polecający
-- Pomagamy Nigelowi odzyskać złoto (zadanie "Dług Kupca" w wątku zabójców) i wtedy również dostajemy list polecający
-
-List ten dajemy Lutero w górnym mieście i dołączamy do gildii kupców.
+> Są 2 sposoby na dołączenie do gildii kupców:  
+> - Pomożemy Erolowi w zadaniu Napadnięci kupcy wtedy dostajemy list polecający
+> - Pomagamy Nigelowi odzyskać złoto (zadanie "Dług Kupca" w wątku zabójców) i wtedy również dostajemy list polecający
+>
+> List ten dajemy Lutero w górnym mieście i dołączamy do gildii kupców.
 
 ## Napadnięci kupcy
 
@@ -18,7 +18,8 @@ Lutero daje nam listę i każe iść po przesyłkę do Bengara, a potem zanieś�
 
 Lutero daje nam 500 sztuk złota i każe kupić wino w Klasztorze po rozsądnej cenie. Idziemy do klasztoru do Goraxa i zaczynamy negocjacje.
 
-> Targowanie tak niskiej ceny jest opcjonalne, a Czarnoksiężnik może to zrobić dialogiem
+> Najlepsza oferta, którą można wytargować, to 50 sztuk złota lub mniej
+> Taką cenę można uzyskać automatycznie będąc Czarnoksiężnikiem lub posiadając conajmniej 50 retoryki
 
 Maksymalnie można zejść do 50 sztuk złota i to polecam, bo dostaniecie od Lutero 1 retoryki. Podczas ustalania ceny zniżamy cenę o 10%, a jak nastrój spadnie za nisko, to podwyższamy o 5%, aż nastrój Goraxa wróci do normy i robimy tak, aż cena wyniesie poniżej 50 złota.  
 Wino zanosimy Lutero.

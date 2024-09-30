@@ -31,13 +31,13 @@ Cassia każe nam przynieść pierścień Constantino, który znajduje się w jeg
 
 Ramirez prosi nas o przyniesienie sekstansu, który można ukraść Brahimowi lub otrzymać za pozbycie się bandytów z latarni morskiej Jacka.
 
-## Gdzie jest Rączka
+## Gdzie jest Rączka?
 
 Gdy pytamy Cassie o jej mentora ona opowiada nam o Rączce, zleca odnalezienie go. Rączka znajduje się na plaży w Forcie Azgan. Gadamy z nim a potem wracamy do Cassi.
 
 ## Znudzony Jasper
 
-### Uwaga: Zadanie to można ukończyć, tylko jeśli nie dołączyliśmy jeszcze do gildii zabójców.
+> Zadanie to można ukończyć, tylko jeśli nie dołączyliśmy jeszcze do gildii zabójców.
 
 Zostaniemy zaczepieni przez Jaspera, który poprosi nas, abyśmy poszli na plac i zamówili muzykę. Idziemy do Charlotte i zamawiamy muzykę za 100 monet. Wracamy do Jaspera.
 
