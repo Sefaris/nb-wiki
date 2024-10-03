@@ -1,6 +1,6 @@
 # Potępiony
 
-### Aby móc dołączyć do gildi potępionych najpierw należy pobrać plugin AB_PathOfTheDamned_Mod oraz wrzucić go do folderu "Data", jest to gilida główna więc nie możemy przynależeć do żadnej innej,zalecane również jest dokończenie lub niezaczynanie zadań ograniczonych czasowo ponieważ po rozmowie z Remusem w "Martwej Harpii" mija czas w grze i niektóre zadania triggerują swój warunek czasowy.
+> Aby móc dołączyć do gildi potępionych najpierw należy pobrać plugin `AB_PathOfTheDamned_Mod` oraz wrzucić go do folderu `Data`, jest to gilida główna więc nie możemy przynależeć do żadnej innej,zalecane również jest dokończenie lub niezaczynanie zadań ograniczonych czasowo ponieważ po rozmowie z Remusem w "Martwej Harpii" mija czas w grze i niektóre zadania triggerują swój warunek czasowy.
 
 ## Nieznajomy z Tawerny
 
@@ -13,15 +13,18 @@ Spotykamy w tawernie nieznajomego o imieniu Remus,rozmawiamy z nim, daję nam ł
  ## Mikstura wybawienia
 
 Remus mówi nam o klątwię słońca ciążącej na potępionych,wspomina nam on o miksturze która może zdjąć tę klątwę,prosi nas o zdobycie składników na nią i przyniesienie ich mu
--Słoneczny aloes:znajduję się obok czarnych trolli
--Esencja arcydemona:należy zabić jakiegoś arcydemona w grze znajduję się ich kilka
--Kwiat kaktusa:jeden znajduje się w oazie z bossem "Kajma", a drugi przy małym wodospadzie przy ścianie mapy
--trzy sztuki czarnej rudy:czarnej rudy jest sporo w świecie gry,prędzej czy później podczas eksploracji się znajdzie
--krew opętanego maga:item pojawią się w 2 magach: 1.Itu'Seld z zadania Mroczna sieć, 2.Mag z obozu bractwa na bagnie
--Ponad to Remus prosi nas o przyniesienie mu jeszcze 8 fiolek smoczej krwii
+- **Słoneczny aloes:** znajduję się obok czarnych trolli 
+- Esencja arcydemona:należy zabić jakiegoś arcydemona w grze znajduję się ich kilka
+- Kwiat kaktusa:jeden znajduje się w oazie z bossem "Kajma", a drugi przy małym wodospadzie przy ścianie mapy
+- trzy sztuki czarnej rudy:czarnej rudy jest sporo w świecie gry,prędzej czy później podczas eksploracji się znajdzie
+- krew opętanego maga:item pojawią się w 2 magach: 
+  - Itu'Seld z zadania Mroczna sieć, 
+  - Mag z obozu bractwa na bagnie,
+- Ponad to Remus prosi nas o przyniesienie mu jeszcze 8 fiolek smoczej krwii
+
 Aby ukończyć to zadanie trzeba ukończyć zadania zlecone nam przez Remusa lub Fryderyka,po wykonaniu zadań rozmawiamy z Remusem i udajemy się na szczyt wieży w celu przeprowadzenia rytuału,podczas niego mamy dwie opcję:
-1.Zdradzić Remusa i mieć możliwość zdjęcia klątwy z siebie
-2.Nie zdradzić Remusa za co dostajemy w nagrodę bardzo fajną miksturę do statystyk
+1. Zdradzić Remusa i mieć możliwość zdjęcia klątwy z siebie
+2. Nie zdradzić Remusa za co dostajemy w nagrodę bardzo fajną miksturę do statystyk
 
  ## Zaopatrzenie Zamku
 
