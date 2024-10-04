@@ -22,13 +22,17 @@ Po uwolnieniu Benneta z więzienia, podczas rozmowy z nim na farmie Onara popros
 
 Lobart mówi nam, że jego żona zachorowała i mamy udać się po lekarstwo do Vatrasa. Idziemy do Vatrasa, bierzemy lekarstwo i dajemy Hildzie.
 
-## Ktoś coś zgubił
+## Ktoś coś zgubił?
+
+> Zwiadowca może te zadanie zrobić dopiero w 4 rozdziale, pozostali w 3
 
 Hanna mówi, że przypadkiem sprzedała ważne dokumenty kartografowi w porcie. Idziemy do Brahima, odkupujemy starą mapę i oddajemy Hannie.
 
+> Będąc zwiadowcą należy pamiętać, żeby przeczytać mapę oraz wykopać skarb z kluczem.
+
 ## Obawy Sagitty
 
-## UWAGA: Zadanie należy zrobić w 3 rozdziale , w 4 akcie będzie martwa.
+> UWAGA: Zadanie należy zrobić w 3 rozdziale , w 4 akcie będzie martwa.
 
 Sagitta martwi się o zakapturzone postaci w okolicy. Idziemy do Lee i prosimy o ochronę dla Sagitty.
 

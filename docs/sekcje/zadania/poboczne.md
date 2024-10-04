@@ -71,6 +71,10 @@ __Zleca: Xardas__
 
 Zadanie zlecone na początku gry, można je wykonać dopiero po zakończeniu [wątku z orkami](#wątek-orków) (zabicie demona w starym obozie bractwa na bagnach oraz w kopalni orków).
 
+> Jedynym problem może okazać się boss widmo. Podczas walki z nim, gdy pojawi się napis o niewrażliwości, musimy przebić jedno serce w kapliczce (Koniecznie od lewego do prawego).
+
+Udajemy się do leża Śniącego, zabijamy nekromantę i odzyskujemy Uriziela. Udajemy się teraz do Xardasa, u którego możemy zadecydować o losie Uriziela i Maski Śniącego.
+
 ## Żywy lub Martwy
 __Zleca: Notatki z tablicy ogłoszeń w koszarach__
 

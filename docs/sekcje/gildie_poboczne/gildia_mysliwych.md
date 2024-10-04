@@ -85,7 +85,7 @@ Teraz idziemy do Falka, który zleca nam zabicie Slokersa, który losowo pojawia
 
 [![_slokers.jpg]](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/ "_slokers.jpg]")](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)
 
-## Dzik (Rozdział 2)
+## Dzik Barema (Rozdział 2)
 
 Barem mówi nam że w lesie na północy pojawił się niebezpieczny dzik.  
 Dzik znajduje się niedaleko kamiennego kręgu w lesie na północy (Nad gorzelnią Vina), zabijamy go i wracamy do Barema,
@@ -122,7 +122,7 @@ Teraz musimy znaleźć samicę polnego pełzacza . Znajduję się ona w okolicy 
 
 Nix prosi nas, abyśmy przynieśli mu skórę cieniostwora.
 
-## Róg smoczego zębacza
+## Róg smoczego zębacza (Rozdział 2)
 
 Alfred prosi nas o przyniesienie rogu smoczego zębacza, który zdobędziemy min. w Górniczej Dolinie.
 

@@ -642,7 +642,7 @@ Alwin skarży się, że Fellan cały czas tłucze młotkiem. Prosi nas, abyśmy 
 ## Szczury pokładowe
 __Zleca: Paladyn na statku__
 
-Zadanie zleca Paladyn strzegący statku. Magowie Ognia, Wody oraz Czarnoksiężnicy mogą je zrobić w 1 rozdziale, Paladyni w 3, a reszta dopiero w V akcie. W zadaniu chodzi o to, by zabić szczury w ładowni statku.
+Zadanie zleca Paladyn strzegący statku. Magowie Ognia/Wody, Czarnoksiężnicy i Zwiadowcy mogą je zrobić w 1 rozdziale, Paladyni w 3, a reszta dopiero w V akcie. W zadaniu chodzi o to, by zabić szczury w ładowni statku.
 
 ## Ścieżka szamana
 
@@ -668,6 +668,11 @@ Zadanie zleca Wąż w karczmie Kardifa. Prosi on nas o odzyskanie torby rudy, kt
 ## Wino z Archolos
 __Zleca: Vadius__
 > Zadanie z dodatku `Droga Potępionych`
+
+## Wycieczka do miasta
+__Zleca: Karras__
+
+Karras z klasztornej biblioteki prosi nas o przyniesienie trzech zwoi zapomnienia (Możemy je kupić od Ignaza).
 
 ## Względy Canthara
 __Zleca: Canthar__

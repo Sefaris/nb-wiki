@@ -37,11 +37,12 @@ __Zleca: Lares__
 
 Lares wspomina nam o ciele, które zostało znalezione niedaleko wschodniej bramy miasta. Ciało było kompletnie pozbawione krwi, przez co podejrzewamy, że pojawił się nowy potępiony. Kierujemy się do wschodniej bramy i spotykamy handlarza Johna który wspomina nam, że kilka dni temu widział nieznajomego w kapturze niedaleko miasta. Idziemy do Remusa i konfrontujemy go z tym co wiemy, jednak Remus temu zaprzecza. Wracamy z powrotem do Johna i mówi nam że widział kogoś pasującego do opisu zmierzającego do Martwej Harpii. Po przybyciu do karczmy zagaduje nas Orlan i wręcza nam notatkę, czytamy i obok karczmy spotykamy potępionego imieniem Fergus. Tłumaczy nam on, że miał silne pragnienie i nie chciał, aby tak wyszło. Przy okazji chce on, żeby Remus pomógł mu osiedlić się w Khorinis. Informujemy Remusa, że znaleźliśmy mordercę, i kończymy zadanie.
 
-## Nieznajomy z Tawerny
+## Nieznajomy z tawerny
+__Zleca: Remus__
 
 Spotykamy w tawernie nieznajomego o imieniu Remus i rozmawiamy z nim. Daje on nam łyk wina, po czym budzimy się w schowku za karczmą Orlana. Czytamy notatkę z ziemi i kierujemy się do zamku Remusa. Po rozmowie z nim kończymy zadanie.
 
-## Pierwsza Krew
+## Pierwsza krew
 __Zleca: Remus__
 
 Remus zleca nam zdobycie 10 fiolek z ludzką krwią, za pomocą runy, którą od niego dostajemy. Kupujemy od Fryderyka fiolki, a potem w nocy używamy runy na śpiących npctach. Po zebraniu krwi wracamy do Remusa i kończymy zadanie.
@@ -61,7 +62,7 @@ __Zleca: Fergus__
 
 Fergus prosi nas, abyśmy poprosili w jego imieniu Remusa o spotkanie. Po rozmowie Remus przystaję na propozycję spotkania i określa miejsce, wracamy do Fergusa i o północy idziemy na umówione miejsce. Wszystko jednak okazuje się być tylko pułapką Łowców Demonów. Po rozmowie zadanie się kończy.
 
-## Zaopatrzenie Zamku
+## Zaopatrzenie zamku
 __Zleca: Fryderyk__
 
 Zadanie zleca nam Fryderyk po uprzedniej rozmowie z Remusem. Wręcza on nam listę rzeczy potrzebnych Remusowi do jego eksperymentów, zbieramy potrzebne mu przedmioty, zanosimy i kończymy zadanie.

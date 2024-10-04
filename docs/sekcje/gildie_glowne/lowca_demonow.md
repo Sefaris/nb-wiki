@@ -1,6 +1,7 @@
 # Łowca demonów
 
-### Aby zostać Łowcą Demonów, nie możemy przynależeć do żadnej innej gildii, a następnie udać się do paladyna o imieniu Angel, który stacjonuje w porcie, nieopodal Esmeraldy. Po zapłaceniu 1000 sztuk złota i wręczeniu mu stałej mikstury, zostaniemy rekrutem
+> Aby zostać Łowcą Demonów, nie możemy przynależeć do żadnej innej gildii, a następnie udać się do paladyna o imieniu Angel, który stacjonuje w porcie, nieopodal Esmeraldy.  
+> Po zapłaceniu 1000 sztuk złota i wręczeniu mu stałej mikstury możemy zostać rekrutem.
 
 ## Siedziba zakonu
 

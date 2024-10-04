@@ -1,5 +1,7 @@
 # Zadania - Rozdział 2
 
+# Khorinis
+
 ## Informacja dla Salandrila
 
 Uwaga: Zadanie dostaniemy dopiero po uzyskaniu klucza na przełęcz od Hagena.
@@ -8,7 +10,7 @@ Salandril prosi nas byśmy się dowiedzieli jaka jest sytuacja z rudą w Górnic
 
 ## Pazury zębacza
 
-**Uwaga: W tym zadaniu ważna jest kolejność**  
+> W tym zadaniu ważna jest kolejność**
 Lutero prosi nas byśmy przynieśli mu pazury rzadkiego zębacza. Idziemy do GD do obozu Fajetha i przyjmujemy zadanie polegające na zabiciu zębaczy, a następnie gadamy z Bilgotem. Bilgot powie na o wyjątkowym zębaczu przywódcy stada pod warunkiem, że go wyprowadzimy z GD.  
 **Koniecznie się zgadzamy**, idziemy do wieży strażniczej i zabijamy przywódcę stada i zanosimy pazury Lutero.
 
@@ -39,13 +41,13 @@ Thorben mówi nam, że jego siostrzenica zaginęła i prosi nas o pomoc. Możemy
 
 ## Bandyci Ragnara
 
-**Zadanie dostępne tylko wtedy kiedy daliśmy Ragnarowi 100 sztuk złota w 1 rozdziale.**
+> Zadanie dostępne tylko wtedy kiedy daliśmy Ragnarowi 100 sztuk złota w 1 rozdziale.
 
 Ragnara spotkamy w porcie w magazynie portowym. Okazuje się, że został strażnikiem miejskim i Andre dał mu zadanie wyeliminowania bandytów obok południowej bramy. Bandyci znajdują się na cmentarzu, więc zabijamy ich i wracamy do Ragnara.
 
 ## Asystent Neorasa
 
-**Zadanie dostępne jeśli daliśmy Ragnarowi 1000 złota w 1 rozdziale.**
+> Zadanie dostępne jeśli daliśmy Ragnarowi 1000 złota w 1 rozdziale.
 
 Ragnar znajduje się teraz w klasztorze i mówi nam, że chciałby zostać asystentem Neorasa, ale musi znaleźć rzadką roślinę: Trollest. Na potrzeby zadania jeden pojawia się obok Trolli przy Gromie, ale można mu też dać z własnej kieszeni. Po otrzymaniu rośliny Ragnar daje nam nagrodę.
 
@@ -67,38 +69,17 @@ Vatras każe nam skontaktować się z Orlanem, a on opowie szczegóły. Orlan m�
 
 ## Zlecenie Vatrasa
 
-UWAGA: Zadanie dostępne po wykonaniu zadania Zlecenie Wodnego Kręgu.
+> Zadanie dostępne po wykonaniu zadania [Zlecenie Wodnego Kręgu](#zlecenie-wodnego-kręgu).
 
 Vatras mówi nam, że jeden z członków wodnego kręgu został napadnięty i okradziony przez bandytów niedaleko piramid. Zleca nam ich zabicie i odzyskanie skradzionych rzeczy. Idziemy w okolice piramid zabijamy bandytów i wracamy do Vatrasa.
 
-
 ## Zapiski Saturasa
 
-Uwaga: Zadanie dostępne po wykonaniu zadania "List do Lee"
+> Zadanie dostępne po wykonaniu zadania [List do Lee](#list-do-lee)
 
 Lee daje nam klucz i każe odzyskać wpisy magów wody ze skrzyni w Nowym Obozie. Znajduje się ona na prawo od lodowego smoka. Zabieramy wpisy, zanosimy je do Lee, po czym ten każe nam je zanieść do Saturasa.
 
-## Magia Guru
 
-Uwaga: Zadanie dostępne po wykonaniu zadania "Zapiski Saturasa"
-
-Saturas mówi nam, że interesował się kiedyś magią Guru, ale badania zostały porzucone po upadku Bariery. Mówi on nam także, że wysłał do obozu Bractwa jednego z magów wody. Norolas znajduje się w małym obozie za palisadą w GD obok Draxa i Ratforda.  
-NOrolas mówi nam że na bagnach roi się od nieumarłych i prosi nas o udanie się po księgę Y'beriona . Mamy dwie opcje:
-
-- Wybić wszystkich nieumarłych z demonem na czele (którego będziemy mogli przyzwać dopiero w zadaniu "Mroczne Rytuały"), zabrać księgę Y'beriona i wrócić do Norolasa.
-- Tworzymy specjalny eliksir który pozwoli nam się poruszać wśród nieumarłych.
-W tym celu musimy przynieść Norolasowi przepis i składniki do niego.  
-Przepis znajduje się w Kamiennej Fortecy w zamkniętej skrzyni na piętrze. Klucz do tej skrzyni jest w innej skrzyni w sekretnej komnacie pilnowanej przez bossa Demona. Jak już zdobędziemy klucz otwieramy skrzynię z przepisem.  
-Mamy już przepis, więc pozostało rozejrzeć się za składnikami. Wszystko poza czarną koniczyną i prochami nekromanty pewnie już mamy. Czarna koniczyna i prochy nekromanty znajdują się w Jaskini Bólu za mostem obok starej wieży Xardasa (Dostaniemy się tam w trakcie zadania "Antyki")  
-Wracamy do Norolasa ze składnikami, on tworzy dla nas miksturę, wypijamy ją i idziemy prosto do świątyni obozu Bractwa. Po wszystkim wracamy do Norolasa.
-
-Na koniec, gdy przyniesiemy księgę Nerolasowi, on każe nam ją zanieść Saturasowi.
-
-## Sekret magii Guru
-
-> Zadanie dostaniemy jak odczekamy jeden dzień po wykonaniu zadania Magia Guru.
-
-Saturas po przeczytaniu księgi Yberiona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas nas prosi, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała skała, czytamy ją i wracamy do Saturasa.
 
 
 ## Niebezpieczny eksperyment
@@ -109,55 +90,20 @@ Jeśli Daron jeszcze żyje, zleci nam przetestowanie pierścienia. Zakładamy go
 
 Druid Freygal prosi nas o zabicie bestii niedaleko jego jaskini, idziemy przed jaskinie i zabijamy zębacza po czym wracamy do druida.
 
-## Wycieczka do miasta
-
-Karras z klasztornej biblioteki prosi nas o przyniesienie trzech zwoi zapomnienia (Możemy je kupić od Ignaza).
-
-
 ## Czarny humor
 
 W notatce znalezionej przy podejrzanym typie, urzędującym w jaskini po lewo od wschodniej bramy, znajdziemy dziwnego skręta. Po wypaleniu go pojawimy się w świecie snu, gdzie spotykamy Vatrasa mówiącego nam o strażnikach i wieży. Zabijamy wszystko co napotkamy, a następnie wracamy do maga, który proponuje nam współprace z Beliarem, po której się budzimy.
 
-## Wiadomość dla Isgarotha (Rozdział 2)
+## Wiadomość dla Isgarotha
 
 Vatras nas prosi byśmy zanieśli list do Isgarotha, który jest w kaplicy po drodze do klasztoru. Po doręczeniu listu wracamy do Vatrasa po nagrodę.
 
-## List do Lee (Rozdział 2)
+## List do Lee
 
 Vatras daje nam list, który musimy zanieść do Lee. Zanosimy list i wracamy do Vatrasa.
 
-# Fort Azgan
 
-## Dostęp do Fortu Azgan dostaniemy robiąc zadanie dla gildii kupców: Zapasy Paladynów
-
-## Polowanie dla Orto
-
-Orto chce się udać na polowanie. Musimy pójść do Lorda Varusa i uzyskać zgodę, z którą wracamy do Orto.
-
-## Siła tradycji
-
-Ferdinand chce srebrny puchar, aby popijać z niego wino. **Nie oddajemy mu go z własnej kieszeni**. Idziemy do Rayne'a, któremu musimy pomóc z magazynem. Otrzymamy za to nie tylko puchar, ale też szczaw królewski.
-
-## Kurier Ferdinanda
-
-Ferdinand mówi nam, że jakiś czas temu miał się pojawić kurier z winem z Khorinis. Idziemy do Matteo i pytamy o kuriera, a ten mówi, że niedawno wyszedł w kierunku farmy Lobarta. Idziemy na farmę Lobarta, a po drodze natrafiamy na kuriera zabitego przez wargów. Zabieramy wina z jego ciała i wracamy do Ferdinanda.
-
-## Kłopot Rayne'a
-
-Rayne mówi nam, że przydałaby mu się pomoc w magazynie. Pytamy nieimiennych paladynów, aż pojawi się wpis w dzienniku. Idziemy teraz do Varusa i mówimy o problemie. Wracamy do Rayne'a.
-
-## Talizman Glanza
-
-Glanz mówi nam, że zgubił swój mieszek, w którym był cenny dla niego pierścień. Sakiewka leży na plaży niedaleko Rączki. Otwieramy sakiewkę i oddajemy pierścień Glanzowi.
-
-## Magazyn paladynów
-
-Lord Varus mówi nam, że zgubił klucz do magazynu. Udajemy się do Rączki (znajduje się na plaży) i pytamy, czy mógłby dorobić klucz do magazynu. Rączka się zgodzi, ale tylko pod warunkiem, że paladyni go nie aresztują. Idziemy do Varusa, a następnie do Rączki. Następnego dnia znajdziemy Rączkę na ławce obok magazynu, po czym wracamy do Varusa.
-
-## Jeśli chcemy dostać się do magazynu, musimy odkupić od Rączki klucz, a na strażnikach użyć zwoju strachu lub snu
-
-
-# Magowie Wody
+# Jarkendar - Magowie Wody
 
 ## Zatopione miasto
 
@@ -184,7 +130,7 @@ Merdarion zleca nam aktywowanie wszystkich kamieni teleportacyjnych w Jarkendarz
 
 ## Dziwne ruiny
 
-Merdarion opowiada nam o dziwnych ruinach w kanionie i chce, abyśmy je zbadali. Chodzi o teleport na pustynię Adanosa (jak odblokować opisane jest w wątku pustynia Adanosa).  
+Merdarion opowiada nam o dziwnych ruinach w kanionie i chce, abyśmy je zbadali. Chodzi o teleport na pustynię Adanosa (jak odblokować opisane jest w wątku Pustynia Adanosa).  
 Po użyciu teleportu i dostaniu się na pustynię wracamy do Merdariona.
 
 ## Posiadłości budowniczych
@@ -219,15 +165,37 @@ Cronos prosi nas o przyniesienie 50 sztuk surowego mięsa, które powinniśmy ju
 
 Cronos nas prosi, abyśmy udali się do piratów i zawarli z nimi umowę. Idziemy do Grega, a ten zgodzi się, pod warunkiem, że zapłacimy mu 5 000 sztuk złota. Cenę można zmniejszyć o połowę, jeśli mamy 40 retoryki. Płacimy piratowi należność i wracamy do Cronosa.
 
-## Eskorta Northa
+## Eskorta Norta
 
-Po wykonaniu zadania "Interesy z piratami" Cronos poprosi nas o zaprowadzenie Northa do obozu piratów. Zabieramy Northa ze schodków piramidy, po czym prowadzimy przed obóz piratów (sam do nas zagada). Trzeba mieć na uwadze, że po drodze respią się dodatkowe moby.
+Po wykonaniu zadania "Interesy z piratami" Cronos poprosi nas o zaprowadzenie Norta do obozu piratów. Zabieramy Northa ze schodków piramidy, po czym prowadzimy przed obóz piratów (sam do nas zagada). Trzeba mieć na uwadze, że po drodze respią się dodatkowe moby.
 
 ## Pozostałości dawnej świetności
 
 Po dotarciu na pustynię Adanosa wracamy do Jarkendaru i gadamy z Saturasem, a potem idziemy do Riordiana, który zleca nam przyniesienie starych tabliczek. Jest ich na Pustyni łącznie 23, ale Riordian będzie zadowolony już po 15.
 
-# Piraci
+## Magia Guru
+
+Uwaga: Zadanie dostępne po wykonaniu zadania "Zapiski Saturasa"
+
+Saturas mówi nam, że interesował się kiedyś magią Guru, ale badania zostały porzucone po upadku Bariery. Mówi on nam także, że wysłał do obozu Bractwa jednego z magów wody. Norolas znajduje się w małym obozie za palisadą w GD obok Draxa i Ratforda.  
+NOrolas mówi nam że na bagnach roi się od nieumarłych i prosi nas o udanie się po księgę Y'beriona . Mamy dwie opcje:
+
+- Wybić wszystkich nieumarłych z demonem na czele (którego będziemy mogli przyzwać dopiero w zadaniu "Mroczne Rytuały"), zabrać księgę Y'beriona i wrócić do Norolasa.
+- Tworzymy specjalny eliksir który pozwoli nam się poruszać wśród nieumarłych.
+W tym celu musimy przynieść Norolasowi przepis i składniki do niego.  
+Przepis znajduje się w Kamiennej Fortecy w zamkniętej skrzyni na piętrze. Klucz do tej skrzyni jest w innej skrzyni w sekretnej komnacie pilnowanej przez bossa Demona. Jak już zdobędziemy klucz otwieramy skrzynię z przepisem.  
+Mamy już przepis, więc pozostało rozejrzeć się za składnikami. Wszystko poza czarną koniczyną i prochami nekromanty pewnie już mamy. Czarna koniczyna i prochy nekromanty znajdują się w Jaskini Bólu za mostem obok starej wieży Xardasa (Dostaniemy się tam w trakcie zadania "Antyki")  
+Wracamy do Norolasa ze składnikami, on tworzy dla nas miksturę, wypijamy ją i idziemy prosto do świątyni obozu Bractwa. Po wszystkim wracamy do Norolasa.
+
+Na koniec, gdy przyniesiemy księgę Nerolasowi, on każe nam ją zanieść Saturasowi.
+
+## Sekret magii Guru
+
+> Zadanie dostaniemy jak odczekamy jeden dzień po wykonaniu zadania Magia Guru.
+
+Saturas po przeczytaniu księgi Yberiona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas nas prosi, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała skała, czytamy ją i wracamy do Saturasa.
+
+# Jarkendar - Piraci
 
 ## Polowanie na szczury
 
@@ -288,8 +256,16 @@ Abigail prosi nas o odzyskanie swojej szpady. Znajduje się ona za drzewem, mię
 
 Po wykonaniu zadania ze szpadą, Abigail prosi nas, abyśmy dostarczyli jej naszyjnik Hannie. Gdy dotrzemy do gospody, zamiast Hanny spotkamy Gaspara. Rozmawiamy z nim i dowiadujemy się, że Hanna siedzi w więzieniu. Rozmawiamy po kolei z Lordem Andre, Hakonem i Abigail. Potem wracamy do Khorinis i rozmawiamy z Gasparem .Teraz musimy porozmawiać z Coragonem i wybrać opcje: "Czy wydarzyło się coś nowego?" Następnie kupujemy od niego pierścień. Teraz musimy iść do Joe, który znajduje się w karczmie Kardiffa (o ile uwolniliśmy go z wieży przy Thorbenie). Rozmawiamy z nim o pierścieniu i wysyłamy go do Andre. Teraz sami idziemy do Lorda Andre, a potem wracamy do gospody oddać Hannie naszyjnik. Przy okazji oddajemy też pierścień Hakonowi i wracamy do Abigail.
 
-### UWAGA: Hanna w nagrodę da wam mieszek, po jego otwarciu dostaniecie klucz do skrzyni na wyspie złodziei w której znajdują się skradzione narzędzia Matteo.
+> Hanna w nagrodę da wam mieszek, po jego otwarciu dostaniecie klucz do skrzyni na wyspie złodziei w której znajdują się skradzione narzędzia Matteo.
 
+## Magazyn piratów
+__Zleca: Bartholomew__
+
+> Zadanie zleca dopiero po powrocie Grega do obozu.
+
+Musimy się dowiedzieć kto kradnie jedzenie z magazynu. Idziemy najpierw do Grega, później do Francisa, a na końcu do Silvera, który daje nam klucz do magazynu (warto tam teraz pójść i zlootować). Wracamy do Grega i oddajemy mu kluc.  
+Teraz idziemy pogadać z Bonesem, który odsyła nas do Liveseya.
+Możemy się zgodzić na porpozycje Liveseya i nie wspominac Gregowi kto ukradł klucz
 
 ## Polowanie na brzytwiaki
 
@@ -306,6 +282,11 @@ Zadanie zleca Saturas. Mówi nam, że jeśli chcemy dostać się do obozu bandyt
 - Wykopać szkatułkę z księgą rachunkową Francisa. Znajdziemy ją w skarbie w pierwszej kopalni, jaką napotkamy w kopalni.
 
 Nieważne w jaki sposób dostaniemy klucz, wchodzimy do chaty Grega i ją plądrujemy. Pojawia się Greg, a żeby dostać zbroję bandytów, musimy oczyścić kanion z brzytwiaków.
+
+## Zuchwały pirat
+__Zleca: Silver__
+
+Po oczyszczeniu plaży, Silver wyzywa nas wo walki na pięsci.
 
 ## Szpiegowanie bandytów
 
@@ -404,7 +385,9 @@ Zadanie zleca Saturas, polega ono na przejściu wszystkich pułapek w świątyni
 
 ## Złoto Scatty'ego (Rozdział 4)
 
-Scatty prosi nas o przyniesienie złota ze skrzyni, przy której zawsze stał. Idziemy do obozu, zabieramy 500 samorodków ze skrzyni i oddajemy Scatty'emu. W nagrodę dostajemy połowę złota.# Górnicza Dolina Cz. 1
+Scatty prosi nas o przyniesienie złota ze skrzyni, przy której zawsze stał. Idziemy do obozu, zabieramy 500 samorodków ze skrzyni i oddajemy Scatty'emu. W nagrodę dostajemy połowę złota.
+
+# Górnicza Dolina
 
 ## Złe wieści
 
@@ -518,8 +501,6 @@ Drax w obozie za palisadą zleca nam przyniesienie pierścienia który ma Kruk. 
 
 Po przyniesieniu pierścienia Kruka Draxowi zagada do nas Ratford. Zleci on nam udanie się do Fiska z pozdrowieniami. Idziemy do Fiska i dostajemy paczkę, którą oddajemy Ratfordowi.
 
-# Górnicza Dolina Cz. 2
-
 ## Zaginieni bez wieści
 
 Garond chce się dowiedzieć co się stało z dwoma grupami Paladynów Wenzela i Alberta.  
@@ -549,3 +530,15 @@ UWAGA: Za to zadanie dostaniecie miecz potrzebny w zadaniu Broń dla Gonzalesa.
 Myśliwy Gestath opowiada o królowej Harpii i prosi o przyniesienie jej serca. Harpia znajduje się w Kamiennej Fortecy na drodze do kamiennego smoka. Zabijamy królową i oddajemy serce Gestathowi.  
 **Uwaga: Po tym zadaniu nauczy on nas za darmo smoczej krwi**
 
+## Tajemniczy portal
+__Zleca: Lord Hagen__
+
+Zanim będziemy mogli wyruszyć do Górniczej Doliny, Hagen każe nam się dowiedzieć wszystkiego na temat portalu, który odkryli Magowie Wody.  
+Musimy zrobić cały wątek w Jarkendarze.
+
+## Stary przyjaciel Lee
+
+Zadanie dostaniemy od Lee w drugim rozdziale. Lee prosi o odnalezienie jego starego przyjaciela Dariusa. Idziemy do Śnieżnych Gór Orków i szukamy drewnianego fortu (punkt 2 na mapie). Włamujemy się do małego magazynu w forcie, pojawia się najemnik Adelhard i dowiadujemy się o losie Dariusa. Teraz jak wyjdziemy z fortu to na lewo na wzgórzach powinien być ork szaman (punkt 4 na mapie). Gor-Kar jest jedynym orkiem, który póki co nas nie atakuje, więc opowie nam o wojnie klanów, po czym wyśle nas do lidera. Obóz orków znajduje się tu (punkt 6 na mapie):
+
+[![](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)  
+Teraz należy podejść do jednego ze strażników bramy i pokazać mu 50 bryłek rudy dla wodza. Idziemy teraz do Grum-Loka, który zgadza się nam pomóc, pod warunkiem że zrobimy zadanie “Trofeum dla Grum-Loka". Teraz gadamy z Dariusem, a następnie z Grum-Lokiem, który zgadza się go uwolnić, po zakończeniu zadania "Cena wolności" i "Wojna klanów". Wykonujemy oba zadania i wreszcie Darius może się wydostać z gór orków. Wracamy do Lee.
