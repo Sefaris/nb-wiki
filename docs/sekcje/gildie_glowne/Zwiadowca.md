@@ -1,5 +1,23 @@
 # Zwiadowca
 
+> Kolejność wykonywania zadań:  
+> 1. [Dłużnik Gunnara](#dłużnik-gunnara)
+> 2. [Liczenie owiec](#liczenie-owiec)
+> 3. [Dołączenie do zwiadowców](#dołączenie-do-zwiadowców)
+> 4. [Infiltracja gildii złodziei](#infiltracja-gildii-złodziei)
+> 5. [Tajemnica starej wieży](#tajemnica-starej-wieży)
+> 6. [Stare ruiny](#stare-ruiny)
+> 7. [Sztandar Ognia (Rozdział 2)](#sztandar-ognia-rozdział-2)
+> 8. [Orkowa galera (Rozdział 3)](#orkowa-galera-rozdział-3)
+> 9. [W pogoni za mrokiem (Rozdział 3)](#w-pogoni-za-mrokiem-rozdział-3)
+> 10. [Skarb Rączki](#skarb-rączki)
+> 11. [Na tropie zdrady (Rozdział 4)](#na-tropie-zdrady-rozdział-4)
+>
+> Zadania dodatkowe:  
+> 1. [Likwidacja orkowych najemników (Rozdział 2)](#likwidacja-orkowych-najemników-rozdział-2)
+> 2. [Sabotaż](#sabotaż)
+
+
 ## Dłużnik Gunnara
 __Zleca: Gunnar__
 
@@ -33,7 +51,7 @@ Po przeczytaniu notatki idziemy do Lorda Andre i zdajemy mu raport, po rozmowie 
 ## Likwidacja orkowych najemników (Rozdział 2)
 __Zleca: Allen__
 
-> Aby rozpocząć questa, musimy najpierw zdobyć ulumulu od orkowych najemników w GD.
+> Aby rozpocząć questa, musimy najpierw zdobyć Ulu-Mulu od orkowych najemników w GD.
 
 Allen zleca nam zabicie orkowych najemników w Górniczej Dolinie, zabijamy ich i wracamy do Allena.
 
