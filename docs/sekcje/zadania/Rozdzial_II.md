@@ -542,3 +542,6 @@ Zadanie dostaniemy od Lee w drugim rozdziale. Lee prosi o odnalezienie jego star
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)  
 Teraz należy podejść do jednego ze strażników bramy i pokazać mu 50 bryłek rudy dla wodza. Idziemy teraz do Grum-Loka, który zgadza się nam pomóc, pod warunkiem że zrobimy zadanie “Trofeum dla Grum-Loka". Teraz gadamy z Dariusem, a następnie z Grum-Lokiem, który zgadza się go uwolnić, po zakończeniu zadania "Cena wolności" i "Wojna klanów". Wykonujemy oba zadania i wreszcie Darius może się wydostać z gór orków. Wracamy do Lee.
+
+## Dowody
+__Zleca: Lord Hagen__

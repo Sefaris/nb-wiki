@@ -14,10 +14,11 @@ W rozmowie z bandytą należy wybrać następujące opcje dialogowe:
 3. Z kim powinienem porozmawiać?
 4. Skąd mam wiedzieć, że to nie jest pułapka?
 5. Ktoś już próbował mnie wykołować...
-6. Byłem skazańcem w Kolonii Górniczej
-Da nam to `Retoryka +1`  
+6. Byłem skazańcem w Kolonii Górniczej  
+
+Da nam to bonus [`Retoryka +1`].
   
-Później pytamy kto wyznaczył nagrodę za nas i oferujemy mu 10 sztuk złota za informację. Należy wcześniej wyrzucić/schować gdzieś całe złoto jakie mamy, da nam to `Retoryka +1`.  
+Później pytamy kto wyznaczył nagrodę za nas i oferujemy mu 10 sztuk złota za informację. Należy wcześniej wyrzucić/schować gdzieś całe złoto jakie mamy, da nam to kolejny bonus [`Retoryka +1`].  
 Przy okazji rozpoczyna to zadanie [Listy gończe](#listy-gończe).
   
 Bierzemy również od Jessiego nasz portret i informujemy go, że niedługo rozpęta się tu piekło. Gdy Jesse ucieknie w inne miejsce to wracamy do Cavalorna i atakujemy bandytów.  
@@ -26,8 +27,8 @@ Po pokonaniu bandytów bieżące zadanie się kończy, a rozpoczyna nowe [Magowi
 ## Bandyci przy farmie Lobarta
 __Zleca: Maleth__
 
-Maleth zleca nam pozbycie się bandytów. Są to ci sami bandyci, którzy [napadli na Cavalorna](#bandyci-cavalorna), więc istnieje szansa, że to zadanie zostało już wykonane.
-Wystarczy poinformować Maletha, że problem rozwiązany, a także poinformować Jessiego, że farmerzy są wkurzeni.
+Maleth zleca nam pozbycie się bandytów. Są to ci sami bandyci, co w zadaniu [Bandyci Cavalorna](#bandyci-cavalorna), więc istnieje szansa, że to zadanie zostało już wykonane.
+Wystarczy poinformować Maletha, że problem rozwiązany, a także poinformować Jessego, że farmerzy są wkurzeni.
 
 ## Bezsenność Vino
 __Zleca: Vino__
@@ -44,23 +45,25 @@ Zadanie zaczyna się po spotkaniu Grega obok farmy Lobarta. Pyta nas o sposób d
 > Należy uważać, aby w czasie robienia tego zadania nie sprzedać jego kosztowności
 
 - Obok obozu myśliwych (schodki na farmę Bengara)
-- Na wysepce obok chaty Erola
+- Na wysepce na jeziorze obok chaty Erola
 - Obok wodospadu niedaleko przejścia do Górniczej Doliny
-- Za farmą Bengara
+- Za stodołą na farmie Bengara
 
 Po wykopaniu wszystkiego wracamy do Grega.
 
 ## Droga do miasta Khorinis
+__Zleca: Canthar/Maleth/Strażnik miejski__
 
 Tutaj jest kilka sposobów:
 
 1. Możemy wziąć glejt od Canthara.
 2. Możemy dostać się do miasta za pomocą stroju Farmera (lepiej oddać go Gregowi)
-3. Powiedzieć strażnikowi, że mamy Zioła Constantina (dostajemy 1 retoryki i exp)
+3. Możemy powiedzieć strażnikowi, że mamy Zioła Constantina (bonus [`Retoryka +1` i dodatkowe doświadczenie])
 4. Dostać się od strony morza
 
-Ja polecam najpierw wejść od strony morza, a potem południową bramą robiąc zadanie od Lestera. W tym celu okrążamy miasto i dostajemy się do niego przez plażę. Jest tam tabliczka do teleportu znajdująca się obok zniszczonej wieży.  
-Za pomocą tej tabliczki aktywujcie teleport obok miasta, który znacznie nam w przyszłości pomoże. Teraz idziemy do Laresa, a następnie do strażników bramy lub Lothara.
+Najlepiej okrążyć miasto i od strony plaży Skipa przeskoczyć przez mur lub przepłynąć do portu, żeby porozmawiać najpierw z Laresem (bonus [`Zręczność +1`]), a następnie teleportować się do południowej bramy, żeby porozmawiać ze strażnikiem, i powiedzieć mu, że mamy zioła dla Constantina.
+
+> Jeśli wchodzimy od strony morza należy pamiętać, żeby wcześniej zabrać glejt od Canthara, bo zmienia mu sie rutyna i stracimy możliwość wykonania jego zadania [Względy Canthara](#względy-canthara).
 
 ## Listy gończe
 __Zleca: Jesse__
@@ -69,8 +72,9 @@ Dowiadujemy się, że bandyci nas szukają. Ich herszt to Dexter i ukrywa się w
 Zadanie kończy się po rozmowie z Dexterem.
 
 ## Magowie Wody
+__Zleca: Cavalorn__
 
-Rozmawiamy z Vatrasem na temat magów wody i ich pracy, po czym odstajemy od niego ornament. Idziemy pogadać z Laresem i po tym jak załatwimy mu zmiennika, idziemy odnieść Ornament do magów wody. Dajemy ornament Nefariusowi, który zleca nam zebranie wszystkich ornamentów (patrz zadanie Portal) Po zebraniu ornamentów, musimy stać się członkiem wodnego kręgu, a także rozpocząć akt 2, po czym przedostać się do Jarkendaru.
+Rozmawiamy z Vatrasem na temat magów wody i ich pracy, po czym odstajemy od niego ornament. Idziemy pogadać z Laresem i po tym jak załatwimy mu zmiennika, idziemy odnieść Ornament do magów wody. Dajemy ornament Nefariusowi, który zleca nam zebranie wszystkich ornamentów (patrz zadanie [Portal](#portal)) Po zebraniu ornamentów, musimy stać się członkiem wodnego kręgu, a także rozpocząć akt 2, po czym przedostać się do Jarkendaru.
 
 ## Mrok północy dla Lestera
 __Zleca: Lester__  
@@ -86,16 +90,29 @@ Lobart mówi nam o dziwnych gościach obok kamiennego kręgu. Okazuje się, że 
 ## Oko Innosa
 __Zleca: Xardas__
 
+Musimy zdobyć Oko Innosa
+1. Dołączamy do gildii.
+2. Rozmawiamy z Lordem Hagenem.
+3. Robimy wątek Jarkendaru, aż do walki z Krukiem i jego ucieczki.  
+   > Jeśli zrobiliśmy wcześniej zadanie [Umowa z Onarem](/Sekcje/Gildie_Poboczne/Gildia_Kupcow.md?id=umowa-z-onarem), możemy pominąć Jarkendar i pójść od razu do GD
+4. Rozmawiamy ponownie z Hagenem i udajemy się do Górniczej Doliny po [Dowody](/Sekcje/Zadania/Rozdzial_II.md?id=Dowody) na istnienie smoków.
+5. Po powrocie z GD z dowodami, rozmawiamy z Hagenem, a następnie udajemy się do klasztoru porozmawiać z Pyrokarem.
+6. Odszukujemy zniszczone Oko Innosa w Słonecznym Kręgu.
+7. Idziemy do Vatrasa, który mówi nam o rytuale naprawy amuletu.
+8. Uwalniamy Benneta z więzienia ([Bennet siedzi w więzieniu](/Sekcje/Zadania/Rozdzial_III.md?id=bennet-siedzi-w-więzieniu)) i dajemy mu amulet do naprawy.
+9. Sprowadzamy Xardasa i Pyrokara do Słonecznego Kręgu.
+10. Przynosimy naprawione Oko Innosa do Słonecznego Kręgu i czekamy aż magowie zakończą rytuał.
+
 ## Patelnia dla Hildy
 __Zleca: Hilda__
 
-Hilda zleca nam kupno patelni od Canthara, który powinien siedzieć na ławce przy wejściu do domu. Patelnie można również znaleźć leżącą w świecie i zaoszczędzić przy tym cenne 5 sztuk złota.
+Hilda zleca nam kupno patelni od Canthara, który powinien siedzieć na ławce przed domem. Patelnie można również znaleźć leżącą w świecie i zaoszczędzić przy tym cenne 5 sztuk złota.
 
 ## Robocze ubranie od Lobarta
 __Zleca: Lobart__
 
 Aby zdobyć ubranie farmera, musimy je kupić od Lobarta. Wykonując zadania na farmie można obniżyć cenę ubrania.  
-Przy pierwszej rozmowie z Lobartem, po wybraniu opcji, że jesteśmy za farmerami, otrzymujemy bonus `Retoryka +1`.  
+Przy pierwszej rozmowie z Lobartem, po wybraniu opcji, że jesteśmy za farmerami, otrzymujemy bonus [`Retoryka +1`].  
   
 Zadania na farmie, które obniżą cenę ubrania:
 1. [Bandyci przy farmie Lobarta](#bandyci-przy-farmie-lobarta)
@@ -115,6 +132,7 @@ Aby rozpocząć zadanie, przy pierwszej rozmowie z Cavalornem, gdy zapyta dokąd
 Zadanie polega na przyniesieniu mu jego torby z rudą, która znajduje się w jego starej chacie w Górniczej Dolinie.
 
 ## Wodny krąg
+__Zleca: Cavalorn__
 
 W drodze do miasta idąc od wieży Xardasa spotkamy Cavalorna, który walczy z goblinami. Pomagamy mu w walce i następnie z nim rozmawiamy. Mówimy mu, że idziemy do miasta, a on informuje nas, że jest członkiem wodnego kręgu. Mówi także, że został okradziony przez bandytów. Proponujemy mu pomoc w rozprawieniu się z bandytami. Gdy bandyci są już martwi, przeszukujemy Brago, bierzemy list i rozmawiamy z Cavalornem. Idziemy do miasta, a następnie rozmawiamy z Vatrasem, przekazujemy mu wiadomość od Cavalorna. Mówimy mu, że chcemy dołączyć do Wodnego Kręg. Vatras daje nam ornament, a my dajemy go Laresowi z którym idziemy do magów wody. Teraz musimy zebrać dla Nefariusa wszystkie ornamenty. Po ich zebraniu mówimy o tym Vatrasowi, po czym ten zgadza się na przyjęcie nas do Wodnego Kręgu. Idziemy do Martwej Harpii gadamy z Orlanem, po czym zjawia się cała ekipa. Gadamy z Laresem i oficjalnie dołączamy do wodnego kręgu, a na koniec wracamy do Vatrasa i oddajemy Laresowi jego pierścień wodnego kręgu.
 
@@ -126,7 +144,7 @@ Lobart zleca nam, abyśmy zebrali rzepę i potem ją mu przynieśli. Wystarczy 1
 ## Za butelkę wina
 __Zleca: Vino__
 
-Wystarczy dać Vino butelkę wina. Wino dostajemy za wykonanie zadania od [Maletha](#bandyci-przy-farmie-lobarta).
+Wystarczy dać Vino butelkę wina. Wino dostajemy np. za wykonanie zadania od [Maletha](#bandyci-przy-farmie-lobarta).
 
 ## Zioła dla Constantina
 __Zleca: Lester__
@@ -165,7 +183,7 @@ Gdy już mamy strój to wracamy do Pablo, który każe nam zdobyć popracie od w
 Ludzie, dla których musimy wykonać zadania:
 - Brahim - [Atrament dla Brahima](#atrament-dla-brahima)
 - Carla - [Węgiel dla Carla](#węgiel-dla-carla)
-- Edda - [FFigurka dla Eddy](#figurka-dla-eddy)
+- Edda - [Figurka dla Eddy](#figurka-dla-eddy)
 - Garvell - [Narzędzie dla Garvella](#narzędzie-dla-garvella)
 - Halvor - [Delikatesy](#delikatesy)
 - Kardif - [Szantażysta Moe](#szantażysta-moe)
@@ -221,6 +239,9 @@ Garvell prosi nas, abyśmy mu przynieśli piłę, smołę i 2 młotki. Wszystkie
 
 ## Szacunek mistrzów
 
+Zadanie kończy się po dostaniu się do Górnego Miasta, aby się do niego dostać musimy należeć do jakiejś gildii, zostać czeladnikiem lub po prostu wykonać zadania mistrzów.  
+Jeśli należymy do gildii lub jesteśmy czeladnikiem, to przy rozmowie ze strażnikiem dostaniemy bonus [`Retoryka +1`].
+
 ## Czeladnik Khorinis
 
 Należy zostać Czeladnikiem u jednego z mistrzów.  
@@ -239,17 +260,20 @@ Aby zostać czeladnikiem, należy najpierw wykonać zadania dla mistrzów:
 ## Wielkie wyzwanie
 __Zleca: Harad__
 
-Harad chce broń orka. Zgodę Harada można też uzyskać zabijając bandytów obok farmy Akila którzy napadli kupca Hakona.
+Harad chce broń orka. Zgodę Harada można też uzyskać zabijając bandytów obok farmy Akila, którzy napadli kupca Hakona.
 
 ## Błogosławieństwo bogów
 __Zleca: Thorben__
 
-Thorben prosi nas byśmy uzyskali błogosławieństwo od Innosa i Adanosa. Błogosławieństwo Adanosa dostaniemy od Vatrasa za darmo. Błogosławieństwo Innosa natomiast od maga ognia Darona. Jeśli ktoś chce zyskać, a nie stracić złoto to polecam wyrzucić złoto z ekwipunku (tylko gdzieś w ustronnym miejscu by npc nie zabrali) i zagadać do Darona. W rozmowie z Daronem wybrać opcję jestem biedakiem, a wtedy dostaniecie +1 retoryki i 20 sztuk złota i teraz dopiero spytać o błogosławieństwo. Nie zapomnijcie na końcu zabrać swojego złota które upuściliście z ekwipunku .
+Thorben prosi nas byśmy uzyskali błogosławieństwo od Innosa i Adanosa.  
+- Błogosławieństwo Adanosa dostaniemy od Vatrasa za darmo.  
+- Błogosławieństwo Innosa natomiast od maga ognia Darona (trzeba zapłacić) lub Isgarotha (za darmo).  
+  Najlepiej wyrzucić lub schować całe złoto jakie mamy i porozmawiać z Daronem i wybrać opcję `Jestem biedakiem!`, da nam to bonus [`Retoryka +1`] oraz 20 sztuk złota, a następnie udać się do Isgarotha po darmowe błogosławieństwo.
 
 ## Rośliny dla Constantina
 __Zleca: Constantino__
 
-Constantino daje nam listę ziół, a my mamy mu przynieść te zioła. Idziemy do Zurisa który nam powie gdzie szukać ziół. Wracamy do Constantino i koniec zadania.
+Constantino daje nam listę ziół, które mamy mu przynieść. Idziemy do Zurisa, który nam powie gdzie ich szukać. Po zebraniu wracamy do alchemika.
 
 ## Matteo i Gritta
 __Zleca: Matteo__
@@ -258,14 +282,13 @@ Matteo prosi nas o odzyskanie długu od Gritty. Idziemy do Gritty i mówimy o d�
 
 1. Zastraszamy ją sprzedaniem jej ubrań (Dostaniemy +1 retoryki i 100 złota)
 2. Płacimy za nią (Dostaniemy wino +1 do zręczności)  
-   Z pieniędzmi wracamy do Matteo, a zadanie się kończy.
+
+Z pieniędzmi wracamy do Matteo, a zadanie się kończy.
 
 ## Skóry dla Bospera
 __Zleca: Bosper__
 
 Bosper prosi nas o przyniesienie 6 wilczych skór. Można je uzyskać na polowaniu z Bartokiem jeśli nauczyliście się skórowania. Ewentualnie można je znaleźć w namiotach obok obozu zbieraczy ziela przy farmie Lobarta, w karczmie Martwa Harpia lub w obozie obok Pepe.
-
-Po zostaniu czeladnikiem uzyskujemy dostęp do górnego miasta.
 
 # Khorinis - Wątek Gallahada
 
@@ -282,7 +305,7 @@ Salandril prosi nas, abyśmy przynieśli mu orkową miksturę. Po tej rozmowie n
 ## Podręcznik retoryki
 __Zleca: Fernando__
 
-Fernando chce zdobyć Podręcznik Retoryki, który jest w posiadaniu Gallahada. Były mag nie chce go oddać po dobroci, więc idziemy do Ignaza, który prosi nas o wysłanie do niego Gallahada po zioła. Wracamy do Gallahada, rozmawiamy z nim i czekamy, aż wyjdzie z chaty i zabieramy książkę ze stołu. Po przeczytaniu oddajemy ją Fernando i otrzymujemy upragniony list.
+Fernando chce zdobyć Podręcznik Retoryki, który jest w posiadaniu Gallahada. Były mag nie chce go jednak oddać. Idziemy do Ignaza i wykonujemy zadanie [Prośba Ignaza](#prośba-ignaza). Gdy Gallahad pójdzie do Ignaza to zabieramy książkę ze stołu, czytamy ją i oddajemy Fernando w zamian za upragniony list.
 
 ## Prośba Ignaza
 __Zleca: Ignaz__
@@ -292,11 +315,15 @@ Ignaz prosi nas o przypomnienie Gallahadowi, że ten miał przynieść mu paczk�
 ## Tajemnicze spotkanie
 __Zleca: Gerbrandt__
 
-**Bardzo ważne jest stawienie się na spotkanie tego samego dnia**  
-Gerbrandt daje nam list i sakiewkę. O północy mamy spotkać się z nieznajomym w gospodzie Orlana. O północy rozmawiamy z Orlanem o naszym spotkaniu, a następnie udajemy się do ostatniego pokoju na piętrze. Podczas rozmowy z nieznajomym wybieramy opcje:  
-Cóż… Ja → Proszę, weź ten list i sakiewkę → Nie mogę ci tego powiedzieć → Głupie czy nie, walczmy!  
-Do walki nie dochodzi, a z informacjami wracamy do Gerbrandta, co otwiera nam możliwość dołączenia do gildii zabójców.  
-**Jeśli zepsujemy to zadanie, to można kupić od Brahima sfałszowany list rekomendacyjny**
+> Bardzo ważne jest stawienie się na spotkanie tego samego dnia
+
+Gerbrandt daje nam list i sakiewkę. O północy mamy spotkać się z nieznajomym w gospodzie Orlana. Gdy wybije odpowiednia godzina to rozmawiamy z Orlanem o naszym spotkaniu, a następnie udajemy się do ostatniego pokoju na piętrze.  
+Podczas rozmowy z nieznajomym wybieramy opcje:  
+`No cóż, ja...` → `Proszę, weź ten mieszek i list.` → `Twoje groźby nie robią na mnie wrażenia!` → `Głupio czy nie - walczmy!`  
+Do żadnej walki nie dochodzi, za to otrzymujemy bonus [`Retoryka +1`].  
+Wracamy do Gerbrandta, co otwiera nam możliwość dołączenia do gildii zabójców.
+
+> Jeśli zepsujemy to zadanie, to można kupić od Brahima sfałszowany list rekomendacyjny
 
 ## Wykwintne jedzenie
 __Zleca: Gallahad__
