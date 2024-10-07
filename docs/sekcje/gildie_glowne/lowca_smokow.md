@@ -54,6 +54,7 @@ Jak jesteśmy najemnikiem to Baltram nie będzie chciał z nami handlować. Będ
 __Zleca: Torlof__
 
 > Jest to jedno z zadań związanych z testem Torlofa.  
+
 Mamy udać się na farmę Bengara i rozprawić z patrolem straży miejskiej. Idziemy do Bengara i rozmawiamy z nim, następnie zabijamy strażników miejskich i wracamy do Torlofa.
 
 ## Oferta pokoju
