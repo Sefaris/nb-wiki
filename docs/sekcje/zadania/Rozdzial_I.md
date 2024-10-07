@@ -277,7 +277,7 @@ __Zleca: Matteo__
 
 Matteo prosi nas o odzyskanie długu od Gritty. Idziemy do Gritty i mówimy o długu, po czym mamy dwa rozwiązania;
 
-1. Zastraszamy ją sprzedaniem jej ubrań (Dostaniemy +1 retoryki i 100 złota)
+1. Zastraszamy ją sprzedaniem jej ubrań (Dostaniemy bonus [`Retoryka +1`] i 100 sztuk złota)
 2. Płacimy za nią (Dostaniemy wino +1 do zręczności)  
 
 Z pieniędzmi wracamy do Matteo, a zadanie się kończy.
@@ -334,16 +334,16 @@ __Zleca: Gallahad__
 
 Po zagadaniu do Gallahada dwa razy dowiadujemy się, że był kiedyś miejskim magiem i chce powrócić na swoją pozycję. Potrzebuje do tego listów polecających od wpływowych osób z górnego miasta, którymi są Gerbrandt, Lutero, Fernando i Salandril. Można też wziąć list od Valentino, ale nie jest on zbyt znaczący dla Gallahada.
 
-Po zebraniu wszystkich listów polecających zanosimy je Gallahadowi, a następnie udajemy się do Lariusa. Musimy z nim porozmawiać przed ratuszem około 13.  
+Po zebraniu wszystkich listów polecających zanosimy je Gallahadowi, a następnie udajemy się do Lariusa. Musimy z nim porozmawiać przed ratuszem między godziną 12 a 14.
 
 > Jeśli mamy dostęp do ratusza robiąc to zadanie, to nie można z nim pogadać w środku, bo uzna, że przeszkadzamy mu w pracy
 
-Po pozytywnej reakcji Lariusa wracamy do Gallahada, który oddaje nam swoją chatę do użytku i każe zgłosić się po nagrodę w ratuszu. Następnego dnia wracamy i mamy do wyboru:  
+> Jeśli Larius się na nas obrazi, to możemy skorzystać ze zwoju zapomnienia
+
+Po pozytywnej reakcji Lariusa dostajemy bonus [`Retoryka +1`] i możemy teraz wrócić do Gallahada, który oddaje nam swoją chatę do użytku i każe zgłosić się po nagrodę w ratuszu. Następnego dnia wracamy i mamy do wyboru:  
 - Złoto (Nieopłacalne)
 - Dwie mikstury stałe (Wybieramy na gildiach wojowniczych)
 - Naukę magii (Konieczne na gildiach magicznych)
-
-> Jeśli Larius się na nas obrazi, to możemy skorzystać ze zwoju zapomnienia
 
 ## Zemsta na Regisie
 __Zleca: Valentino__
@@ -384,7 +384,8 @@ __Zleca: Ehnim__
 
 > Zadanie niedostępne dla Magów Ognia/Wody
 
-Enhim na farmie Akila oferuje nam sprzedaż łoju kretoszczura do otwarcia Bimbrowni Vino. Targujemy się z nim do jak najniższej kwoty, po czym okazuje się, że wcale go nie miał.
+Enhim na farmie Akila oferuje nam sprzedaż łoju kretoszczura do otwarcia Bimbrowni Vino.  
+Targujemy się z nim do jak najniższej kwoty, za co dostajemy bonus [`Retoryka +1`], a na końcu i tak okazuje się, że wcale go nie miał.
 
 ## Broń dla Gonzalesa
 __Zleca: Gonzales__
@@ -504,7 +505,7 @@ Kamienne tabliczki są porozmieszczane w różnych lokacjach. Zadanie kończy si
 ## Klienci Coragona
 __Zleca: Coragon__
 
-Coragon skarży się na brak klientów. Idziemy do Martina i rozmawiamy z nim o problemie. Następnego dnia wracamy do Coragona, a zadanie się kończy.
+Coragon skarży się na brak klientów. Idziemy do Martina i rozmawiamy z nim o problemie, za co dostajemy bonus [`Retoryka +1`]. Następnego dnia wracamy do Coragona, a zadanie się kończy.
 
 ## Klucz Constantino
 __Zleca: Constantino__
@@ -519,7 +520,8 @@ Jora mówi nam, że Rengaru go okradł. Wykonujemy zadanie [Bezczelny złodziej]
 ## Leniwy farmer
 __Zleca: Till__
 
-Till na farmie Sekoba skarży się, że Bronko nic nie robi i wyłudza haracz. Targujemy się z Tillem aż do 100 złotych monet, po czym obijamy mordę Bronko. Po wszystkim wracamy do Tilla.
+Till na farmie Sekoba skarży się, że Bronko nic nie robi i wyłudza haracz. Targujemy się z Tillem, aż do 100 złotych monet, za co dostajemy bonus [`Retoryka +1`]. 
+Idziemy obić mordę Bronko, a po wszystkim wracamy do Tilla.
 
 ## Lucia
 __Zleca: Bromor__
@@ -536,15 +538,18 @@ Od Bartoka możemy się dowiedzieć, że Bosperowi skradziono łuk, który znajd
 ## Magiczny dziennik
 __Zleca: Vatras__
 
-Vatras mówi nam, że ktoś ukradł mu dziennik. Idziemy do Cassii i jak mamy 15 retoryki to wybieramy odpowiednią opcję i dowiadujemy się, że dziennik ma Ramirez. Idziemy do Ramireza i jeśli mamy 20 retoryki odda nam dziennik za darmo, jeśli nie mamy retoryki płacimy 100 złota.  
-> Jeśli zabiliśmy Atilie, nie ma możliwości dostania dziennika za darmo
+Vatras mówi nam, że ktoś ukradł mu dziennik. Idziemy do Cassii i jak mamy 15 retoryki to wybieramy odpowiednią opcję (dostaniemy wtedy bonus [`Retoryka +1`]) i dowiadujemy się, że dziennik ma Ramirez. Idziemy do Ramireza i jeśli mamy 20 retoryki odda nam dziennik za darmo (dostaniemy wtedy kolejny bonus [`Retoryka +1`]), jeśli nie mamy retoryki płacimy 100 złota.  
+> Jeśli zabiliśmy Attilę, nie ma możliwości dostania dziennika za darmo
 
 Na końcu czytamy dziennik i oddajemy go Vatrasowi.
 
 ## Miecz Alrika
 __Zleca: Alrik__
 
-Alrik mówi nam, że sprzedał swój miecz kupcowi o imieniu Jora i prosi, abyśmy go odzyskali. Miecz od Jory możemy kupić za 50 sztuk złota, albo uzyskać za darmo. W tym celu należy nie rozmawiać z Jorą o mieczu, aż do momentu, gdy oddamy mu skradzione złoto. Z mieczem wracamy do Alrika.
+Alrik mówi nam, że sprzedał swój miecz kupcowi o imieniu Jora i prosi, abyśmy go odzyskali.  
+Miecz od Jory możemy kupić za 50 sztuk złota, albo uzyskać za darmo.  
+Aby zdobyć miecz za darmo należy najpierw wykonać zadanie ze schwytaniem złodzieja, a dopiero później zapytać go o miecz. Dodatkowo dostaniemy wtedy bonus [`Retoryka +1`].  
+Gdy już zdobędziemy miecz to wracamy do Alrika.
 
 ## Mikstury dla Vatrasa
 __Zleca: Vatras__
@@ -570,6 +575,8 @@ Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po 
 - Robi wrażenie!
 - Moje myśli płyną podobnym torem, co twoje.
 - Rozumiem ich.
+
+Dostajemy za to bonus [`Retoryka +1`]
 
 Teraz powinna się odpalić cutscenka jak Loa schodzi na dół latarni, po jej zakończeniu schodzimy na dół i zaraz po wyjściu z latarni skręcamy w prawo za latarnię. Po cutscence otrzymujemy 5PN, a zadanie się kończy.
 
@@ -638,7 +645,7 @@ Musimy zabić zębacza, który znajduje się gdzieś niedaleko wejścia do jaski
 ## Problemy ze strażą
 __Zleca: Farim__
 
-Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc. Wracamy do Farima.
+Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc, dodatkowo dostajemy bonus [`Retoryka +1`]. Wracamy do Farima.
 
 ## Proste przyjemności
 __Zleca: Ogrodnik__
@@ -816,7 +823,8 @@ Rozmawiamy z niewolnikami, a następnie mówimy Valeranowi o naszej decyzji:
 ## Zakazane pastwisko
 __Zleca: Balthasar__
 
-Balthasar z farmy Sekoba mówi nam, że Bengar zabrania mu wyprowadzać owce na swoje pastwiska. Idziemy do Bengara i dowiadujemy się, że nie lubi on Balthasara. Bengar się zgodzi dopiero, kiedy pozbędziemy się strażników miejskich w zadaniu [Odpędzić straż](Sekcje/Gildie_Glowne/Lowca_Smokow.md?id=odpędzić-straż), lub gdy należymy do jakiejś gildii. Wracamy do Balthasara.
+Balthasar z farmy Sekoba mówi nam, że Bengar zabrania mu wyprowadzać owce na swoje pastwiska. Idziemy do Bengara i dowiadujemy się, że nie lubi on Balthasara. Bengar się zgodzi dopiero, kiedy pozbędziemy się strażników miejskich w zadaniu [Odpędzić straż](Sekcje/Gildie_Glowne/Lowca_Smokow.md?id=odpędzić-straż), lub gdy należymy do jakiejś gildii.  
+Gdy Bengar się zgodzi dostajemy bonus [`Retoryka +1`], a my możemy wrócić do Balthasara.
 
 ## Zatopiony statek
 __Zleca: Farim__
@@ -829,7 +837,8 @@ Po zrobieniu poprzedniego zadania Farim opowiada nam o kupieckim statku, który 
 > Aby je otrzymać musimy posiadać conajmniej 10 retoryki lub posiadać umiejętność czarnej magii.
 
 Musimy się włamać do klasztoru dachem i zagadać do Parlana, ale musi to być pierwsze wejście do klasztoru, bo jeśli już tam byliśmy wcześniej, w zadaniu dla kupców albo po dołączeniu jako nowicjusz, to zadanie przepadnie.  
-W rozmowie z Parlanem wybieramy opcję z retoryką lub czarną magią, po czym zleci on nam zadanie, aby kupić od Lehmara relikwię magów ognia (Wymagane 1000 sztuk złota, aby Lehmar otworzył sklep). Po kupnie przedmiotu wracamy do Parlana po nagrodę.
+W rozmowie z Parlanem wybieramy opcję z retoryką lub czarną magią, za co dodatkowo dostajemy bonus [`Retoryka +1`], po czym zleci on nam zadanie, aby kupić od Lehmara relikwię magów ognia (Wymagane 1000 sztuk złota, aby Lehmar otworzył sklep).  
+Po kupnie przedmiotu wracamy do Parlana po nagrodę.
 
 ## Złota misa Bromora
 __Zleca: Bromor__
