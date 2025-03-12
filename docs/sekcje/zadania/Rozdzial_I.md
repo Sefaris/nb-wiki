@@ -42,7 +42,7 @@ __Zleca: Greg__
 
 Zadanie zaczyna się po spotkaniu Grega obok farmy Lobarta. Pyta nas o sposób dostania się do miasta, więc oddajemy mu strój farmera. Później spotykamy go obok tawerny Martwa Harpia, gdzie towarzyszymy mu w drodze do jaskini z goblinami. Pozbywamy się goblinów w jaskini, wykopujemy mieszek i odnosimy go Gregowi. Zdradza on nam wtedy położenie 4 kolejnych skrytek.  
 
-> Należy uważać, aby w czasie robienia tego zadania nie sprzedać jego kosztowności
+> Należy uważać, aby w czasie robienia tego zadania nie sprzedać jego kosztowności, są one oznaczone imieniem Grega nie licząc mieszka ze złotem - jest to zwykły mieszek 100 monet.
 
 - Obok obozu myśliwych (schodki na farmę Bengara)
 - Na wysepce na jeziorze obok chaty Erola
