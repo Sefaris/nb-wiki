@@ -269,8 +269,7 @@ __Zleca: Thorben__
 Thorben prosi nas byśmy uzyskali błogosławieństwo od Innosa i Adanosa.  
 - Błogosławieństwo Adanosa dostaniemy od Vatrasa za darmo.  
 - Błogosławieństwo Innosa natomiast od maga ognia Darona (trzeba zapłacić) lub Isgarotha (za darmo).  
-  Najlepiej wyrzucić lub schować całe złoto jakie mamy i porozmawiać z Daronem i wybrać opcję `Jestem biedakiem!`, da nam to bonus [`Retoryka +1`] oraz 20 sztuk złota, a następnie udać się do Isgarotha po darmowe błogosławieństwo.
-
+  Najlepiej wyrzucić lub schować całe złoto jakie mamy i porozmawiać z Daronem i wybrać opcję `Jestem biedakiem!`, da nam to bonus [`Retoryka +1`] oraz 20 sztuk złota, a następnie zapytać się go ile wynosi ofiara mając w ekwipunku 11 sztuk złota.
 ## Rośliny dla Constantina
 __Zleca: Constantino__
 
