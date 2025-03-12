@@ -352,7 +352,7 @@ Po pozytywnej reakcji Lariusa dostajemy bonus [`Retoryka +1`] i możemy teraz wr
 ## Zemsta na Regisie
 __Zleca: Valentino__
 
-Valentino prosi nas, abyśmy pobili Regisa. Bijemy go i wracamy do zleceniodawcy.
+Valentino prosi nas, abyśmy pobili Regisa. Gadamy z nim, wyprowadzamy za miasto, bijemy go, gadamy z nim ponownie 2 razy by odpalił kwestię dotyczącą pobicia i wracamy do Valentina, który sam do nas zagaduje.
 
 # Khorinis - Miasto i okolice
 
