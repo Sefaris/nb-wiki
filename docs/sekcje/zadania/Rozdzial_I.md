@@ -274,6 +274,7 @@ Thorben prosi nas byśmy uzyskali błogosławieństwo od Innosa i Adanosa.
 __Zleca: Constantino__
 
 Constantino daje nam listę ziół, które mamy mu przynieść. Idziemy do Zurisa, który nam powie gdzie ich szukać. Po zebraniu wracamy do alchemika.
+> Constantino nie zabiera nam ziół, które mu przynieśliśmy.
 
 ## Matteo i Gritta
 __Zleca: Matteo__
