@@ -681,7 +681,7 @@ __Zleca: Baal Orun__
 
 > Aby otrzymać zadanie, należy mieć założoną Przepaskę nowicjusza.
 
-Baal Orun daje nam przesyłkę, którą mamy oddać Lariusowi. Larius znajduje się w ratuszu, w górnym mieście, więc musimy być obywatelem miasta, by się do niego dostać. Larius siedzi na ławce od godziny 12 do 14, zakładamy opaskę nowicjuszam, gadamy z nim i oddajemy mu przesyłkę, a w zamian Larius daje nam sakiewkę, którą oddajemy Baal Orunowi.  
+Baal Orun daje nam przesyłkę, którą mamy oddać Lariusowi. Larius znajduje się w ratuszu, w górnym mieście, więc musimy być obywatelem miasta, by się do niego dostać. Larius siedzi na ławce od godziny 12 do 14, zakładamy opaskę nowicjusza, gadamy z nim i oddajemy mu przesyłkę, a w zamian Larius daje nam sakiewkę, którą oddajemy Baal Orunowi.  
 Jeśli nie zamierzacie dołączać do Bractwa, sakiewkę można otworzyć. Jest w niej 1000 złota, a zadanie i tak zostanie anulowane jak dołączymy do innej gildii.
 > Jeżeli Larius nie wychodzi z ratusza pomimo poprawnej godziny należy oddalić się poza zasięg rysowania NPC i wrócić.
 
@@ -694,9 +694,9 @@ Zadanie zleca Bartok. Mówi, że gdzieś zaginął jego przyjaciel, Trokar. Cia�
 ## Ranny ork
 __Zleca: Ur-Karras__
 
-> UWAGA: To zadanie musi być wykonane przed wejściem do Miasta Orków, bo w innym wypadku ork umrze
+> UWAGA: To zadanie musi być wykonane przed wejściem do 3 rozdziału, bo w innym wypadku ork umrze
 
-Obok zrujnowanej wieży niedaleko Niclasa będzie ranny ork, Ur-Karras. Mówi nam on, że odniósł poważną ranę, teraz musimy go uleczyć. Idziemy do Salandrila, kupujemy zwój leczniczy za 500 złota i wracamy do rannego orka. Gadamy z orkiem i leczymy go podczas rozmowy. Koniec zadania, Ur-Karrasa spotkamy później w mieście orków.
+Obok zrujnowanej wieży niedaleko Niclasa będzie ranny ork, Ur-Karras. Mówi nam on, że odniósł poważną ranę, teraz musimy go uleczyć. Idziemy do Salandrila, kupujemy zwój leczniczy za 300 złota i wracamy do rannego orka. Gadamy z orkiem i leczymy go podczas rozmowy. Koniec zadania, Ur-Karrasa spotkamy później w mieście orków.
 
 ## Riordian
 __Zleca: Saturas__
@@ -711,12 +711,13 @@ Dodatkowo pytamy się jej o przeznaczenie tej mikstury, a będzie ona dla nas wa
 ## Srebro Coragona
 __Zleca: Coragon__
 
-Coragon mówi nam, że ukradziono mu srebra. Srebra znajdują się w tej samej skrzyni, co łuk Bospera, w kanałach.
+Coragon mówi nam, że ukradziono mu srebra. Srebra znajdują się w tej samej skrzyni, co łuk Bospera, w kanałach. W nagrodę otrzymujemy piwo +2 many i +5 HP.
+> skrzynia wymaga otwierania zamków
 
 ## Syn marnotrawny
 __Zleca: Holger__
 
-W klasztorze zaczepi nas nowicjusz Holger. Prosi nas on, abyśmy przekazali list jego ojcu, Alwinowi. Od Alwina dostajemy informację zwrotną, z którą idziemy do Holgera, który przeniesie się teraz do Khorinis, gdzie będziemy mogli z nim handlować.
+W klasztorze zaczepi nas nowicjusz Holger. Prosi nas on, abyśmy przekazali list jego ojcu, Alwinowi. Od Alwina dostajemy informację zwrotną, z którą idziemy do Holgera, który przeniesie się teraz do Khorinis, gdzie będziemy mogli z nim handlować. Holger w nagrodę dam nam zwój małej burzy ognistej.
 
 ## Szalony Fellan
 __Zleca: Alwin__
@@ -726,7 +727,7 @@ Alwin skarży się, że Fellan cały czas tłucze młotkiem. Prosi nas, abyśmy 
 ## Szczury pokładowe
 __Zleca: Paladyn na statku__
 
-> Magowie Ognia/Wody, Czarnoksiężnicy oraz Zwiadowcy mogą zrobić te zadanie w 1 rozdziale, Paladyni w 3 rozdziale, a pozostali dopiero w 5 rozdziale.
+> Magowie Ognia/Wody/Mroku oraz Zwiadowcy mogą zrobić te zadanie w 1 rozdziale, Paladyni w 3 rozdziale, a pozostali dopiero w 5 rozdziale.
 
 Zadanie zleca Paladyn strzegący statku. W zadaniu chodzi o to, by zabić szczury w ładowni statku.
 
@@ -747,6 +748,7 @@ Ork w mrocznym lesie, za latarnią Jacka, daje nam możliwość zostania szamane
 - Zabić wielkiego dzika, który jest w okolicy
 
 Po wykonaniu wszystkich zadań wystarczy ponownie porozmawiać z orkiem. Zadanie się kończy i od teraz możemy zostać szamanem.
+> Jeżeli gramy magiem ognia to zadanie warto wykonać nawet gdy nie mamy zamiaru zostać szamanem w celu uzyskania dodatkowego serca kamiennego golema i języka ognistego jaszczura
 
 ## Śmierdząca bestia Erola
 __Zleca: Erol__
@@ -761,7 +763,8 @@ Po zabiciu bandyty Faarharta dowiadujemy się, że Wulfgar posiada pokaźny skar
 ## Tajemnicza paczka Rigeliona
 __Zleca: Notka w ciele Rigeliona__
 
-Po zabiciu Rigeliona znajdujemy notkę, która wspomina o opuszczonej kaplicy niedaleko Farmy Onara. Wystarczy pójść ją odwiedzić.
+Po zabiciu Rigeliona znajdujemy notkę, która wspomina o opuszczonej kaplicy niedaleko Farmy Onara. Spotykamy tam mrocznego rycerza i oddajemy mu paczkę.
+> zawartość paczki można odzyskać poprzez zabicie mrocznego rycerza.
 
 ## Torba pełna rudy
 __Zleca: Wąż__
@@ -777,20 +780,20 @@ W karczmie Kardifa znajduje się Vadius, który wspomina nam o winie, które zos
 ## Wycieczka do miasta
 __Zleca: Karras__
 
-Karras z klasztornej biblioteki prosi nas o przyniesienie trzech zwoi zapomnienia (Możemy je kupić od Ignaza).
+Karras z klasztornej biblioteki prosi nas o przyniesienie trzech zwojów zapomnienia (Możemy je kupić od Ignaza lub znaleźć).
 
 ## Względy Canthara
 __Zleca: Canthar__
 
 Canthar prosi nas, abyśmy odzyskali jego stoisko na targu. Mówi nam, abyśmy podłożyli Sarze fałszywy list mówiący, że handluje ona bronią z Onarem.  
 
-> Koniecznie trzeba wsadzić Sarę do więzienia, w innym wypadku będziecie mieć problemy z Gildią Zabójców oraz Gildią Kupców.
+> Wsadzenie Canthara do więzienia skutkuje zmianami w zadaniach gildii zabójców oraz kupców.
 
 ## Zabójca orków
 __Zleca: Harad__
 
 Po wykonaniu zadania Wielkie wyzwanie pytamy Harada o jego przeszłość wtedy ten zleca nam misję byśmy przynieśli mu amulet orka elity. W lesie nieopodal farmy Akila pojawi się specjalny ork, chociaż może być to dowolny czarny ork wojownik.  
-Zabijamy orka, zabieramy amulet i oddajemy go Haradowi.
+Zabijamy orka, zabieramy amulet i oddajemy go Haradowi. Nagrodą jest miecz 1H siła więc z zadaniem warto pospieszyć się jedynie gdy gramy pod tarczownika.
 
 > Ork elita na tym etapie jest ciężkim przeciwnikiem, dlatego warto skorzystać z pomocy Laresa, gdy wybieramy się z nim po ornament.
 
@@ -825,7 +828,7 @@ Rozmawiamy z niewolnikami, a następnie mówimy Valeranowi o naszej decyzji:
     - Po prostu zabije was wszystkich - Bonus za odwagę - 3000 expa, 2000 złota i 500 expa od niewolników.  
     - Puść niewolników - Musimy zabić wszystkich, ale dostajemy +35 karmy u Innosa, 1000 expa oraz 500 expa i 2000 złota za uwolnienie niewolników.
 
-> Najkorzystniej wybrać jedną z opcji, w której Valeran przeżyje, czyli albo zrezygnować na początku, albo z nimi współpracować. Jest on bardzo potrzebny do zadania [Asystent](Sekcje/Gildie_Poboczne/Gildia_Kupcow.md?id=asystent-rozdział-3)
+> Najkorzystniej wybrać jedną z opcji, w której Valeran przeżyje, czyli albo zrezygnować na początku, albo z nimi współpracować. Jest on najlepszym wyborem z zadania [Asystent](Sekcje/Gildie_Poboczne/Gildia_Kupcow.md?id=asystent-rozdział-3), gdyż daje nam wtedy książkę zwiększającą władanie broniami 1h i 2h o 1%, a następnie 1 many lub 2 HP za oddanie jej Galahadowi.
 
 ## Zakazane pastwisko
 __Zleca: Balthasar__
