@@ -566,11 +566,11 @@ __Zleca: Loa__
 
 O 18 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga; Za żaden nie przyjmujemy nagrody)
 
-- Poezja Myrtańska (Sprzedaje ją Matteo)
+- Poezja Myrtańska (Sprzedaje ją Matteo, czytamy -> oddajemy Galahadowi -> odkupujemy od Galahada -> zanosimy do Loi)
 - Naszyjnik z czarnych pereł (Po odzyskaniu narzędzi Matteo zgadza się on go zrobić, ale musimy mu przynieść 5 czarnych pereł i sztabkę złota)
 - Niebieska Malwa (Kwiat znajdziemy po ukończeniu wątku Jarkendaru, niedaleko teleportu do Złotego Smoka)
 
-Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po oddaniu wszystkich przedmiotów Loa nas zaczepia i prosi o spotkanie w nocy w latarni Jacka tego samego dnia. Udajemy się do latarni Jacka o 00:00, a Loa powinna na nas czekać na szczycie Latarni. Wybieramy odpowiednie opcje dialogowe po kolei:
+Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po oddaniu wszystkich przedmiotów Loa nas zaczepia i prosi o spotkanie w nocy w latarni Jacka tego samego dnia. Udajemy się do latarni Jacka o 00:00, a Loa powinna na nas czekać na szczycie Latarni. Polecam zrobić zapis o ~23:00 na wypadek nie pojawienia się Loi. Wybieramy odpowiednie opcje dialogowe po kolei:
 
 - Robi wrażenie!
 - Moje myśli płyną podobnym torem, co twoje.
@@ -579,6 +579,7 @@ Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po 
 Dostajemy za to bonus [`Retoryka +1`]
 
 Teraz powinna się odpalić cutscenka jak Loa schodzi na dół latarni, po jej zakończeniu schodzimy na dół i zaraz po wyjściu z latarni skręcamy w prawo za latarnię. Po cutscence otrzymujemy 5PN, a zadanie się kończy.
+> Na utrudnionym nightmare dostajemy 3PN zamiast 5
 
 ## Nowa broń dla Skipa
 __Zleca: Skip__
@@ -605,17 +606,18 @@ Możemy mu oddać jeden z poniższych pancerzy:
 - Skórzany pancerz - +750 doświadczenia
 - Ciężki skórzany pancerz - +1500 doświadczenia
 
-Oddajemy pancerz Jessemu, a on udaje się na farmę Onara.
+Oddajemy pancerz Jessemu, a on w podzięce oferuje nam pierścień ochrony (dobry w 1r) i udaje się na farmę Onara.
 
 ## Pierwsza mikstura
 __Zleca: Constantino__
 
-Zadanie otrzymamy, jeśli potrafimy stworzyć jakąkolwiek miksturę i nie jesteśmy czeladnikiem Constantino. Pytamy go o naukę alchemii, a on daje nam recepturę, według której przygotowujemy eliksir. Niestety nam się to nie udaje, więc idziemy do Salandrila, który nam mówi, że ta receptura to bzdura. Wracamy do Constantino, który chwali nas za spostrzegawczość i od tej pory naucza nas alchemii.
+Zadanie otrzymamy gdy tylko gdy potrafimy już stworzyć jakąkolwiek miksturę. Pytamy Constantina o naukę alchemii, a ten daje nam recepturę, według której przygotowujemy miksturę. Nie udaje się nam, więc idziemy do Salandrila, który mówi, że ta receptura to bzdura. Wracamy do Constantino, który chwali nas za spostrzegawczość i od tej pory naucza nas alchemii.
 
 ## Piracki handel
 __Zleca: Skip__
 
-Na plaży niedaleko Khorinis spotykamy Skipa, ten prosi nas byśmy udali się do Baltrama po dostawę. Idziemy do Baltrama odbieramy dostawę , dajemy ją Skipowi. Skip daje nam 2 butelki rumu które zanosimy Baltramowi.
+Na plaży niedaleko Khorinis spotykamy Skipa, ten prosi nas byśmy udali się do Baltrama po dostawę. Idziemy do Baltrama, odbieramy dostawę i dajemy ją Skipowi. Skip daje nam 2 butelki rumu które zanosimy Baltramowi.
+> Możemy teraz odkupić od Baltrama rum i wykorzystać go do zadania [Jedzenie dla Farima](#jedzenie-dla-farima)
 
 ## Pomoc dla Laresa
 __Zleca: Lares__
