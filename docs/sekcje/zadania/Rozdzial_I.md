@@ -371,11 +371,6 @@ __Zleca: Reven__
 
 Przed karczmą Martwa Harpia znajduję się kobieta o imieniu Reven, powie nam ona, że napadli i okradli ją bandyci. Bandyci znajdują się na drodze z Martwej Harpii do farmy Bengara, zabijamy ich i wracamy do zleceniodawcy.
 
-## Bandyci w latarni morskiej Jacka
-__Zleca: Jack__
-
-Jack mówi nam, że bandyci zajęli jego latarnię. Idziemy do latarni, zabijamy bandytów i wracamy do Jacka.
-
 ## Bimber
 __Zleca: Ehnim__
 
@@ -416,6 +411,11 @@ __Zleca: Ignaz__
 
 Po wykonaniu zadania [Eksperyment](#eksperyment) Ignaz opowie nam o nieudanym eksperymencie na jego uczniu. Teraz po kolei rozmawiamy z Miką, Akilem i Orlanem, a na końcu udajemy się do Sagitty. Podczas rozmowy z nią pojawi się wspomniany uczeń, którego musimy odczarować. Vatras daje nam zwój, który przywróci świadomość bestii. Wracamy do jaskini, rozmawiamy z zielarką i używamy zwoju stojąc przy cieniostworze. Po wszystkim jeszcze raz gadamy z Sagittą i wracamy do Ignaza po nagrodę, którą jest zwój zmniejszenia (warto użyć do zabicia czarnego trolla)
 
+## Bandyci w latarni morskiej Jacka
+__Zleca: Jack__
+
+Jack mówi nam, że bandyci zajęli jego latarnię. Idziemy do latarni, zabijamy bandytów i wracamy do Jacka.
+
 ## Fajka Jacka
 __Zleca: Jack__
 
@@ -435,7 +435,7 @@ Udajemy się do obozu Dextera niedaleko farmy Onara, mówimy strażnikowi imię 
 ## Głodny skazaniec
 __Zleca: Ragnar__
 
-> UWAGA: To zadanie należy zrobić przed 3 rozdziałem, bo w innym wypadku zginie.
+> UWAGA: To zadanie należy zrobić przed 3 rozdziałem, bo w innym wypadku skazaniec zginie.
 
 Niedaleko cmentarza przy Martwej Harpii jak pójdziecie wąską ścieżką, traficie na spalone chaty z jaszczurami, będzie tam mała jaskinia w środku spotkacie skazańca Ragnara. Po rozmowie z nim możemy zaoferować mu 50, 100, 1000 sztuk złota i od tego zależy do jakiej gildii dołączy Ragnar i ile zadań dostaniemy.  
 - 50 sztuk złota - Ragnar dołączy do Najemników (nie ma dodatkowych zadań)
