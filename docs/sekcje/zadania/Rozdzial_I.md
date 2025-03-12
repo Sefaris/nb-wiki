@@ -361,13 +361,6 @@ __Zleca: Vatras__
 
 Vatras daje nam amulet z ognikiem i wspomina, że więcej możemy się o nim dowiedzieć od Riordiana. Po rozmowie z Riordianem zadanie się kończy.
 
-## Atak cieniostwora
-__Zleca: Vatras__
-
-> Zadanie jest dostępne po wykonaniu zadania [Mikstury dla Vatrasa](#mikstury-dla-vatrasa)
-
-Vatras mówi nam o bestii atakującej mieszkańców Khorinis. Chodzi o cieniostwora w jaskini obok latarni Jacka. Zabijamy go i wracamy do Vatrasa.
-
 ## Badania Salandrila
 __Zleca: Salandril__
 
