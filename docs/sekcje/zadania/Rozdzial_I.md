@@ -396,11 +396,6 @@ __Zleca: Raoul__
 
 Raoul prosi nas o przyniesienie skóry czarnego trolla. Tą z Khorinis lepiej oddać Falkowi, ale kolejną zdobędziemy już w Jarkendarze.
 
-## Człowiek pod obliczem bestii
-__Zleca: Ignaz__
-
-Po wykonaniu zadania [Eksperyment](#eksperyment) Ignaz opowie nam o nieudanym eksperymencie na jego uczniu. Teraz po kolei rozmawiamy z Miką, Akilem i Orlanem, a na końcu udajemy się do Sagitty. Podczas rozmowy z nią pojawi się wspomniany uczeń, którego musimy odczarować. Vatras daje nam zwój, który przywróci świadomość bestii. Wracamy do jaskini, rozmawiamy z zielarką i używamy zwoju stojąc przy cieniostworze. Po wszystkim jeszcze raz gadamy z Sagittą i wracamy do Ignaza po nagrodę.
-
 ## Do dna
 __Zleca: Randolph__
 
@@ -416,6 +411,11 @@ __Zleca: Ignaz__
 
 Ignaz prosi nas, abyśmy przetestowali zaklęcie zapomnienia. Najprościej po prostu ukraść coś z półki Ignazowi, uciec przed nim i rzucić czar, gdy stoi przy pulpicie/stole alchemicznym. Po użyciu zaklęcia rozmawiamy z Ignazem, który od teraz będzie z nami handlował i uczył nas alchemii.
 
+## Człowiek pod obliczem bestii
+__Zleca: Ignaz__
+
+Po wykonaniu zadania [Eksperyment](#eksperyment) Ignaz opowie nam o nieudanym eksperymencie na jego uczniu. Teraz po kolei rozmawiamy z Miką, Akilem i Orlanem, a na końcu udajemy się do Sagitty. Podczas rozmowy z nią pojawi się wspomniany uczeń, którego musimy odczarować. Vatras daje nam zwój, który przywróci świadomość bestii. Wracamy do jaskini, rozmawiamy z zielarką i używamy zwoju stojąc przy cieniostworze. Po wszystkim jeszcze raz gadamy z Sagittą i wracamy do Ignaza po nagrodę, którą jest zwój zmniejszenia (warto użyć do zabicia czarnego trolla)
+
 ## Fajka Jacka
 __Zleca: Jack__
 
@@ -425,6 +425,7 @@ Zadanie to otrzymamy po oswobodzeniu latarni Jacka. Idziemy do Grega i zagadujem
 __Zleca: Farmerzy na farmie Akila__
 
 Zadanie pojawia się automatycznie w rozmowie z wieśniakami na farmie Akila. Trzeba zabić dwóch najemników, robimy to sami lub idziemy do Miki, który zgadza się nam pomóc, jeśli wcześniej mu zapłaciliśmy.
+> Na pzm. nightmare nie możemy korzystać z pomocy Miki
 
 ## Gdzie są zaginieni ludzie?
 __Zleca: Vatras__
