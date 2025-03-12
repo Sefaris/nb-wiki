@@ -329,7 +329,7 @@ Wracamy do Gerbrandta, co otwiera nam możliwość dołączenia do gildii zabój
 ## Wykwintne jedzenie
 __Zleca: Gallahad__
 
-Gallahad prosi o przyniesienie mu 3 butelek wina, sera, szynki, miodu i winogrona. Powinniśmy już mieć wszystko poza winogronami, które zbieramy w klasztorze lub kupujemy od kupców w mieście.
+Gallahad prosi o przyniesienie mu 3 butelek wina, sera, szynki, miodu i winogrona. Powinniśmy już mieć wszystko poza winogronami, które zbieramy w klasztorze, znajdujemy w piwnicy Coragona lub kupujemy od kupców w mieście.
 
 ## Zadanie Gallahada
 __Zleca: Gallahad__
