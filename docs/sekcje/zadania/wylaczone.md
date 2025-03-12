@@ -19,6 +19,13 @@ __Zleca: Hilda__
 
 Hilda prosi nas, abyśmy udali się do miasta i znaleźli kowala, który naostrzy dla nas nóż. Zrobi to dla nas Carl za niewielką opłatą. Z naostrzonym nożem wracamy do Hildy.
 
+## Atak cieniostwora
+__Zleca: Vatras__
+
+> Zadanie jest dostępne po wykonaniu zadania [Mikstury dla Vatrasa](#mikstury-dla-vatrasa)
+
+Vatras mówi nam o bestii atakującej mieszkańców Khorinis. Chodzi o cieniostwora w jaskini obok latarni Jacka. Zabijamy go i wracamy do Vatrasa.
+
 ## Błąd Lorda Andre
 __Zleca: Andre__
 > Zadanie dostępne tylko po wykonaniu zadania "Horror na cmentarzu"
