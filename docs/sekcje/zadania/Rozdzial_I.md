@@ -214,7 +214,7 @@ Lehmar każe nam zabić typa który pożyczył pieniądze i się więcej nie poj
 ## Figurka dla Eddy
 __Zleca: Edda__
 
-Edda mówi nam, że skradziono jej statuetkę Innosa. Statuetka znajduje się w skrzyni w magazynie portowym, trzeba zabić strażnika i zabrać klucz do skrzyni.
+Edda mówi nam, że skradziono jej statuetkę Innosa. Statuetkę znajdziemy w domu Constantino nad jego pracownią w dzielnicy mistrzów lub w magazynie portowym, trzeba zabić strażnika i zabrać klucz do skrzyni.
 
 ## Atrament dla Brahima
 __Zleca: Brahim__
