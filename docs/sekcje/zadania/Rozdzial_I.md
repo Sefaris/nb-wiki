@@ -477,6 +477,7 @@ __Zleca: Farim__
 
 Po zrobieniu zadania ze strażą Farim prosi nas o przyniesienie specjalnej zupki. Zupę zrobi Edda jeśli przyniesiemy jej 10 ryb, 5 serafisów, czerwony pieprz (który kupimy od Zurisa), ser i rum (z zadania "Piracki Handel").  
 Edda robi nam zupkę, którą zanosimy Farimowi.
+> Edda godzi się nam pomóc tylko w konkretnych godzinach kiedy stoi przy kotle.
 
 ## Jedzenie dla ubogich
 __Zleca: Vatras__
