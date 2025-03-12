@@ -553,7 +553,7 @@ Gdy już zdobędziemy miecz to wracamy do Alrika.
 ## Mikstury dla Vatrasa
 __Zleca: Vatras__
 
-Vatras prosi nas byśmy udali się do Salandrila i dowiedzieli się co z dostawą eliksirów. Dostajemy kilka eliksirów i wracamy do Vatrasa.
+Vatras daje nam złoto, prosząc byśmy udali się do Salandrila i zakupili dla niego mikstury many. Kupujemy kilka eliksirów i wracamy z nimi do Vatrasa.
 
 ## Narzędzia Matteo
 __Zleca: Matteo__
