@@ -61,7 +61,9 @@ Tutaj jest kilka sposobów:
 3. Możemy powiedzieć strażnikowi, że mamy Zioła Constantina (bonus [`Retoryka +1` i dodatkowe doświadczenie])
 4. Dostać się od strony morza
 
-Najlepiej okrążyć miasto i od strony plaży Skipa przeskoczyć przez mur lub przepłynąć do portu, żeby porozmawiać najpierw z Laresem (bonus [`Zręczność +1`]), a następnie teleportować się do południowej bramy, żeby porozmawiać ze strażnikiem, i powiedzieć mu, że mamy zioła dla Constantina.
+Można okrążyć miasto i od strony plaży Skipa przeskoczyć przez mur lub przepłynąć do portu, żeby porozmawiać najpierw z Laresem (bonus [`Zręczność +1`]), a następnie teleportować się do południowej bramy, żeby porozmawiać ze strażnikiem, i powiedzieć mu, że mamy zioła dla Constantina.
+
+Kolejną opcją na uzyskanie `Zręczność +1` od Laresa jest wypicie słabszej mikstury szybkości i wbiegnięcie w las naprzeciw jaskini bandytów Cavalorna cały czas trzymając się prawej ściany. Następnie skaczemy do wody, widzimy statek paladynów i płyniemy w kierunku miasta.
 
 > Jeśli wchodzimy od strony morza należy pamiętać, żeby wcześniej zabrać glejt od Canthara, bo zmienia mu sie rutyna i stracimy możliwość wykonania jego zadania [Względy Canthara](#względy-canthara).
 
