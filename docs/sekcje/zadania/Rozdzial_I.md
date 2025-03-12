@@ -623,12 +623,13 @@ Na plaży niedaleko Khorinis spotykamy Skipa, ten prosi nas byśmy udali się do
 __Zleca: Lares__
 
 Lares prosi nas o znalezienie mu zastępcy. Zakładamy pierścień wodnego kręgu i gadamy z Baltramem, po czy wracamy do Laresa.
+> pierścień Laresa możemy również pokazać Orlanowi by ten już teraz dał nam klucz do pokoju oraz do teleportu.
 
 ## Portal
 __Zleca: Nefarius__
 
 Nefarius zleca nam zebranie wszystkich ornamentów:
-- W kamiennym kręgu w lesie na północy, idziemy tam z Laresem (Tylko na poziomie Gothic)
+- W kamiennym kręgu w lesie na północy, idziemy tam z Laresem (Lares pomaga nam tylko na poziomie Gothic)
 - W kamiennym kręgu obok farmy Sekoba
 - Ostatni ma Lothar (trzeba najpierw odwiedzić kamienny krąg koło farmy Lobarta)
   
@@ -637,12 +638,13 @@ Zbieramy wszystkie części ornamentu i wracamy do Nefariusa, który wraz z pozo
 ## Problem Bengara
 __Zleca: Bengar__
 
-Bengar mówi nas o groźnym wilku, który grasuje w okolicy. Znajdziemy go między wodospadami, a gospodą Orlana. Zabijamy zwierzę, po czym wracamy do Bengara po nagrodę.
+Bengar mówi nas o groźnym wilku, który grasuje w okolicy. Znajdziemy go niedaleko obok topielców idąc w kierunku gospody Orlana. Zabijamy zwierzę, po czym wracamy do Bengara po nagrodę.
 
 ## Problem Fregyala
 __Zleca: Fregyal__
 
 Musimy zabić zębacza, który znajduje się gdzieś niedaleko wejścia do jaskini Freygala.
+> Zadanie to otwiera możliwość gry pod trucizny.
 
 ## Problemy ze strażą
 __Zleca: Farim__
@@ -661,6 +663,7 @@ __Zleca: Jack__
 > Xardas nie zagada nas odnośnie zwoju, jeśli nie nacisnęliśmy znaku na ścianie  
 
 Jack opowiada nam o przeklętej latarni na morzu. Płyniemy tam i wspinamy się na samą górę. Wciskamy znak na ścianie i dostajemy wpis obok dziwnego szkieletu. Schodzimy teraz piętro niżej, gdzie znajdziemy pierścień z imieniem zaczynającym się na Ha. Rozmawiamy z Haradem, Hakonem i Halvorem, za co dostaniemy dodatkowego expa. Udajemy się teraz do Hanny, która opowiada nam tragiczną historię. Teraz idziemy do Xardasa, który daje nam zwój przyzwania ducha. Czytamy go na szczycie latarni, po czym schodzimy na dół i rozmawiamy z widmem. Teraz musimy znaleźć pirata. W pierwszej kolejności idziemy do Kardifa, który odeśle nas do Jacka. W trakcie zadania [Fajka Jacka](#fajka-jacka) Greg zagada do nas, mówiąc kim jest Kelvar. Z tymi informacjami idziemy do niego i w nocy przypływamy do latarni i wykonujemy zalecenia ducha. Jeśli zapalimy latarnie mając 40 retoryki, Jack przeżyje i zadanie się zakończy.
+> Jack w podzięce da nam szpadę zdolną ranić duchy
 
 ## Receptury win dla Goraxa
 __Zleca: Gorax__
@@ -678,13 +681,15 @@ __Zleca: Baal Orun__
 
 > Aby otrzymać zadanie, należy mieć założoną Przepaskę nowicjusza.
 
-Baal Orun daje nam przesyłkę, którą mamy oddać Lariusowi. Larius znajduje się w ratuszu, w górnym mieście, więc musimy być obywatelem miasta, by się do niego dostać. Larius około godziny 13 wychodzi z ratusza i siada na ławce, więc wtedy zakładamy opaskę nowicjusza i gadamy z Lariusem. Oddajemy mu przesyłkę, a w zamian Larius daje nam sakiewkę, którą oddajemy Baal Orunowi.  
+Baal Orun daje nam przesyłkę, którą mamy oddać Lariusowi. Larius znajduje się w ratuszu, w górnym mieście, więc musimy być obywatelem miasta, by się do niego dostać. Larius siedzi na ławce od godziny 12 do 14, zakładamy opaskę nowicjuszam, gadamy z nim i oddajemy mu przesyłkę, a w zamian Larius daje nam sakiewkę, którą oddajemy Baal Orunowi.  
 Jeśli nie zamierzacie dołączać do Bractwa, sakiewkę można otworzyć. Jest w niej 1000 złota, a zadanie i tak zostanie anulowane jak dołączymy do innej gildii.
+> Jeżeli Larius nie wychodzi z ratusza pomimo poprawnej godziny należy oddalić się poza zasięg rysowania NPC i wrócić.
 
 ## Przyjaciel Bartoka
 __Zleca: Bartok__
 
 Zadanie zleca Bartok. Mówi, że gdzieś zaginął jego przyjaciel, Trokar. Ciało Trokara leży między farmą Akila, a kamiennym kręgiem w lesie. Wokół ciała jest masa orków i wargów, którzy mogą sprawić problemy. Z pierścieniem Trokara wracamy do Bartoka.
+> Zadanie można łatwo wykonać podczas wykonywania zadania na dołączenie do zwiadowców (zadanie można wykonać nawet gdy nie zamierzamy zostać zwiadowcą).
 
 ## Ranny ork
 __Zleca: Ur-Karras__
