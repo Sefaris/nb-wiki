@@ -472,12 +472,22 @@ __Zleca: Garvell__
 
 Garvell chce się dowiedzieć, dlaczego Paladyni przybyli do miasta. Rozmawiamy najpierw z Rangarem i dajemy mu piwa, aż się nie wygada, a my otrzymamy retorykę. Wracamy do Garvella i mówimy, czego udało nam się dowiedzieć. Resztę informacji możemy uzyskać od Hagena pod koniec 1 rozdziału albo od Andre, jeśli jesteśmy strażnikami miejskimi. Wracamy do Garvella z informacjami.
 
+## Problemy ze strażą
+__Zleca: Farim__
+
+Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc, dodatkowo dostajemy bonus [`Retoryka +1`]. Wracamy do Farima.
+
 ## Jedzenie dla Farima
 __Zleca: Farim__
 
 Po zrobieniu zadania ze strażą Farim prosi nas o przyniesienie specjalnej zupki. Zupę zrobi Edda jeśli przyniesiemy jej 10 ryb, 5 serafisów, czerwony pieprz (który kupimy od Zurisa), ser i rum (z zadania "Piracki Handel").  
 Edda robi nam zupkę, którą zanosimy Farimowi.
 > Edda godzi się nam pomóc tylko w konkretnych godzinach kiedy stoi przy kotle.
+
+## Zatopiony statek
+__Zleca: Farim__
+
+Po zrobieniu poprzedniego zadania Farim opowiada nam o kupieckim statku, który zatonął między Przeklętą latarnią, a wyspą nieopodal. Nurkujemy do szczątków statku, podnosimy paczkę i ją otwieramy, a zadanie się kończy.
 
 ## Jedzenie dla ubogich
 __Zleca: Vatras__
@@ -645,11 +655,6 @@ __Zleca: Fregyal__
 
 Musimy zabić zębacza, który znajduje się gdzieś niedaleko wejścia do jaskini Freygala.
 > Zadanie to otwiera możliwość gry pod trucizny.
-
-## Problemy ze strażą
-__Zleca: Farim__
-
-Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc, dodatkowo dostajemy bonus [`Retoryka +1`]. Wracamy do Farima.
 
 ## Proste przyjemności
 __Zleca: Ogrodnik__
@@ -835,11 +840,6 @@ __Zleca: Balthasar__
 
 Balthasar z farmy Sekoba mówi nam, że Bengar zabrania mu wyprowadzać owce na swoje pastwiska. Idziemy do Bengara i dowiadujemy się, że nie lubi on Balthasara. Bengar się zgodzi dopiero, kiedy pozbędziemy się strażników miejskich w zadaniu [Odpędzić straż](Sekcje/Gildie_Glowne/Lowca_Smokow.md?id=odpędzić-straż), lub gdy należymy do jakiejś gildii.  
 Gdy Bengar się zgodzi dostajemy bonus [`Retoryka +1`], a my możemy wrócić do Balthasara.
-
-## Zatopiony statek
-__Zleca: Farim__
-
-Po zrobieniu poprzedniego zadania Farim opowiada nam o kupieckim statku, który zatonął między Przeklętą latarnią, a wyspą nieopodal. Nurkujemy do szczątków statku, podnosimy paczkę i ją otwieramy, a zadanie się kończy.
 
 ## Zarzuty Parlana
 
