@@ -10,9 +10,8 @@ Salandril prosi nas byśmy się dowiedzieli jaka jest sytuacja z rudą w Górnic
 
 ## Pazury zębacza
 
-> W tym zadaniu ważna jest kolejność**
 Lutero prosi nas byśmy przynieśli mu pazury rzadkiego zębacza. Idziemy do GD do obozu Fajetha i przyjmujemy zadanie polegające na zabiciu zębaczy, a następnie gadamy z Bilgotem. Bilgot powie na o wyjątkowym zębaczu przywódcy stada pod warunkiem, że go wyprowadzimy z GD.  
-**Koniecznie się zgadzamy**, idziemy do wieży strażniczej i zabijamy przywódcę stada i zanosimy pazury Lutero.
+Zgadzamy się, idziemy do wieży strażniczej, zabijamy przywódcę stada i zanosimy pazury Lutero.
 
 ## Człowiek z pierścieniem
 
