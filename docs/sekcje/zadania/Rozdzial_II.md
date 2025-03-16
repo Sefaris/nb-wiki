@@ -281,15 +281,17 @@ Nieważne w jaki sposób dostaniemy klucz, wchodzimy do chaty Grega i ją plądr
 ## Zuchwały pirat
 __Zleca: Silver__
 
-Po oczyszczeniu plaży, Silver wyzywa nas wo walki na pięsci.
+Po oczyszczeniu jaskini na plaży, Silver wyzywa nas na walkę na pięści.
+> Pierścienie Alrika i Skipa będą tutaj pomocne.
 
 ## Szpiegowanie bandytów
 
-Greg prosi nas byśmy dowiedzieli się co się dzieje w obozie bandytów. Idziemy do obozu dowiadujemy się o kopalni złota i mówimy Gregowi.
+Greg prosi nas byśmy dowiedzieli się co się dzieje w obozie bandytów. Idziemy do obozu, dowiadujemy się o kopalni złota i mówimy Gregowi.
 
 ## Gorzałka Bartholomewa
 
 Po tym jak oddamy Samuelowi recepturę na Młot Lou to Barthomolew zleca nam, abyśmy przynieśli mu jedną flaszkę Młotu Lou (Jeśli mamy 40 retoryki dostaniemy 100 złota i expa). Oddajemy mu Młot Lou od samuela, a ten następnie będzie chciał 20 flaszek. Nie musimy płacić własnym złotem, wystarczy powiedzieć Samuelowi od długu, a ten odda nam flaszki za darmo. Wracamy do zleceniodawcy i w nagrodę dostajemy klucz do magazynu z jedzeniem.
+> Najcenniejszą rzeczą w magazynie jest zwój zmniejszenia potwora.
 
 ## Ukryty łup
 
@@ -300,8 +302,7 @@ Sam skarb znajdziemy podążając za filmikiem lub uważnie czytając notatkę.
 
 ## Dostać się do obozu bandytów
 
-Żeby wejść do obozu musimy albo wykonać zadania do Franka albo go zabić. Polecam zrobić zadania, chociaż nawet po ich wykonaniu Franko nie będzie nas chciał wpuścić, więc go zabijamy.  
-Po rozmowie z Ramonem i możemy wejść do obozu.
+By wejść do obozu musimy zabić Franka. Polecam najpierw wykonać jego zadania dla expa. Po walce gadamy z Ramonem.
 
 ## Polowanie na błotne węże
 
@@ -309,7 +310,7 @@ Franko prosi nas, abyśmy pomogli Loganowi z pozbyciu się błotnych węży. Zna
 
 ## Kamienna tabliczka na bagnie
 
-Franko prosi nas, abyśmy udali się do świątyni na bagnie i przynieśli tabliczkę.
+Franko prosi nas, abyśmy udali się do świątyni na bagnie i przynieśli zieloną tabliczkę.
 
 ## Fatalna sprawa
 
@@ -324,6 +325,7 @@ Stal ma Juan znajdujący się w jaskini na północny wschód bagien. Przynosimy
 ## Stal Huno
 
 Podczas zadania z zamachem na Estebana, trop doprowadzi nas do Huno, który powie nam gdzie znaleźć osobę odpowiedzialną za zamach. Przynosimy mu paczkę stali, którą mieli dostarczyć piraci. Zabijamy Juana w jaskini na bagnach, zabieramy paczkę i oddajemy Huno.
+> Huno sprzedaje więcej stali po oddaniu mu paczki.
 
 ## Paczka pełna wytrychów
 
@@ -331,17 +333,18 @@ Fisk zleca nam odzyskanie jego paczki wytrychów. Paczkę ma Juan, więc zabijam
 
 ## Trzy kamienie, trzech kopaczy
 
-Thorus wpuści nas do kopalni jeśli sprowadzimy trzech kopaczy, wybór kogo wybierzemy zależy od nas może to być: Logan, Paul, Lennar, Emilio ,Finn lub Tom.
+Thorus wpuści nas do kopalni jeśli sprowadzimy trzech kopaczy, to kogo wybierzemy zależy od nas, mogą to być: Logan, Paul, Lennar, Emilio, Finn lub Tom.
 
 ## Zielony nowicjusz
 
-W obozie bandytów spotykamy Fortuno, który mówi cały czas o jakimś zielonym nowicjuszu. Chodzi o skręt, którego receptura jest w skrzyni Fortuno. Robimy skręta w wiaderku obok niego lub na stole alchemicznym i oddajemy nowicjuszowi.
+W obozie bandytów spotykamy Fortuno, który mówi cały czas o jakimś zielonym nowicjuszu. Chodzi o skręt, którego receptura jest w skrzyni obok niego. Robimy 2 skręty w wiaderku lub na stole alchemicznym, jednego palimy, a drugiego oddajemy nowicjuszowi.
 
 ## Meandry umysłu
 
 ## Uwaga: Do zrobienia mikstury potrzebujemy wiedzy na temat usuwania trucizn z żądeł, której uczy Edgor na lewo od wyjścia z obozu bandytów.
 
 Fortuno mówi nam że wciąż nie odzyskał całej pamięci. Udajemy się do Miguela i dostajemy recepturę na miksturę przemiany umysłu. Czytamy, zbieramy składniki. (czerwony pıeprz można kupić u Zurisa, Sagitty), robimy miksturę i oddajemy Fortuno. Ten mówi na o rytuale który przeprowadził Kruk. Na końcu idziemy do Saturasa i mówimy mu o wszystkim, co powiedział Fortuno.
+> Fortuno wróci do obozu w Khorinis, porozmawiaj z nim tam by otrzymać bonus +1 many
 
 ## Mocna gorzałka
 
@@ -350,18 +353,19 @@ Snaf chce wypróbować nowy przepis na gulasz. Musimy zebrać składniki, a nast
 
 ## Gwardzista Kruka
 
-Pytamy Thorusa o pancerz gwardzisty, a dostaniemy go dopiero po walce z Krukiem, jak ten ucieknie na Pustynie Adanosa.
+Pytamy Thorusa o pancerz gwardzisty, dostaniemy go dopiero po walce z Krukiem.
 
 ## Dojście do świątyni
 
-Strażnik świątyni nie chce nas wpuścić. W tym celu musimy udać się do kopalni i zabić pełzacze, a następnie porozmawiać z Garezem. Pojawi się Bloodwyn, którego zabijamy i pokazujemy głowę strażnikowi, co odblokuje nam wejście do świątyni.
+Strażnik świątyni nie chce nas wpuścić. W tym celu musimy udać się do kopalni i zabić pełzacze, a następnie porozmawiać z Garazem. Pojawi się Bloodwyn, którego zabijamy i pokazujemy głowę strażnikowi, co odblokuje nam wejście do świątyni.
 
 ## Moc strażnika umarłych
 
 **Uwaga: Po pójściu do Quahodrona należy wrócić do Myxira i Saturasa, bo jeśli pójdziemy prosto do Kruka, to zadanie zawiśnie w dzienniku.**  
-Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysyła nas do Myxira. Dostajemy zaklęcie i udajemy się do Grobowca Quahodrona, gdzie za pomocą zaklęcia przyzywamy Quahodrona. Potrzebujemy do tego znajomości języka kapłanów lub wojowników. Zanim duch nam zaufa musimy odpowiedzieć na kilka pytań, odpowiadamy w tej kolejności: 1.Strażnicy Umarłych 2. Kasta Wojowników 3. Kapłani 4. Kasta Wojowników  
-5\. Uczeni 6. Uzdrowiciele 7. Nie wiem  
-Jak podamy odpowiedzi to Quahodron da nam klucz do świątyni.
+Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysyła nas do Myxira. Dostajemy zaklęcie i udajemy się do Grobowca Quahodrona, gdzie za pomocą zaklęcia przyzywamy Quahodrona. Potrzebujemy do tego znajomości języka kapłanów lub wojowników. Zanim duch nam zaufa musimy odpowiedzieć na kilka pytań, odpowiadamy w tej kolejności: 1.Strażnicy Umarłych 2.Kasta Wojowników 3.Kapłani 4.Kasta Wojowników  
+5.Uczeni 6.Uzdrowiciele 7.Nie wiem  
+Po podaniu odpowiedzi Quahodron da nam klucz do świątyni.
+> Nie trzeba oddawać Saturasowi wszystkich 5 kolorowych tabliczek przed wejściem do świątyni.
 
 ## Kruk
 
@@ -370,27 +374,32 @@ Później dostajemy się na pustynię Adanosa i tam ostatecznie pokonujemy Kruka
 
 ## Niewolnicy Kruka
 
-Zadanie zleca Vatras. Mamy uwolnić porwanych ludzi z Khorinis. Niewolnicy znajdują się w kopalni złota w obozie bandytów. Aby ich uwolnić, trzeba najpierw pokazać strażnikowi więźniów głowę Bloodwyna, a wtedy ten wyśle nas do Thorusa po zgodę na uwolnienie więźniów.
+Zadanie zleca Vatras. Mamy uwolnić porwanych ludzi z Khorinis. Niewolnicy znajdują się w kopalni złota w obozie bandytów. Aby ich uwolnić, trzeba najpierw pokazać strażnikowi więźniów głowę Bloodwyna, a wtedy ten wyśle nas do Thorusa po zgodę na uwolnienie więźniów. Rozmawiamy o tym z Vatrasem i Saturasem.
 
 ## Komnaty Adanosa
 
 Zadanie zleca Saturas, polega ono na przejściu wszystkich pułapek w świątyni Adanosa i dostaniu się do Kruka.
 
-## W 4 rozdziale obóz bandytów zostaje napadnięty przez orków. Przeżywają tylko:Snaf Fisk Tom Scatty Thorus Miguel i KinzhartsW 5 rozdziale część z nich przenosi się do Khorinis.
+## W 4 rozdziale obóz bandytów zostaje napadnięty przez orków. Przeżywają tylko: Snaf Fisk Tom Scatty Thorus Miguel i Kinzharts. W 5 rozdziale część z nich przenosi się do Khorinis.
 
 ## Złoto Scatty'ego (Rozdział 4)
 
 Scatty prosi nas o przyniesienie złota ze skrzyni, przy której zawsze stał. Idziemy do obozu, zabieramy 500 samorodków ze skrzyni i oddajemy Scatty'emu. W nagrodę dostajemy połowę złota.
+> Scatty atakuje nas w 5 rozdziale jeżeli w 4 rozdziale nie oddaliśmy mu jego połowy, a zadanie zostaje anulowane.
 
 # Górnicza Dolina
 
 ## Złe wieści
 
-Będąc pierwszy raz w GD schodząc z przełęczy spotkamy Jergana, który zleci nam zaniesienie wieści o śmierci brata do Orika w zamku..
+Będąc pierwszy raz w GD schodząc z przełęczy spotkamy Jergana. Zleci nam zaniesienie wieści o śmierci paladyna do Orika w zamku..
 
 ## Ślady ciemności
 
 Zadanie zleca Jergan, jeśli po raz pierwszy jesteśmy w GD. Prosi on nas, abyśmy dowiedzieli się co się stało z Paladynem, który niegdyś go uratował. Wracamy się do góry ścieżką i znajdujemy orka i martwego paladyna. Zabijamy go, po czym wracamy do Jergana i dowiadujemy się także o sekretnym wejściu do zamku. Idziemy do podwodnej jaskini obok mostu do zamku i nurkujemy do tunelu, którym dojdziemy do podziemi zamku.
+
+## Prośba Orika
+
+Orik prosi żebyśmy przynieśli mu statuetkę Innosa, którą z pewnością już mamy.
 
 ## Topielce Kervo
 
@@ -409,10 +418,6 @@ Brutus nauczy nas siły jeśli przyniesiemy mu 200 sztuk złota. Możemy dać mu
 
 Milten mówi nam, że Gorn siedzi w więzieniu. Idziemy do Garonda, a ten żąda 1000 złota.  
 Możemy zapłacić z własnej kieszeni lub iść do Diego i Miltena po kasę. Płacimy Garondowi i wyciągamy Gorna z więzienia, który będzie teraz przebywał tam gdzie Milten.
-
-## Prośba Orika
-
-Orik prosi żebyśmy przynieśli mu statuetkę Innosa, którą z pewnością już mamy.
 
 ## Zapasy węgla
 
@@ -440,7 +445,7 @@ Billgot prosi nas o wyprowadzenie go z Górniczej Doliny, w zamian za informacje
 
 ## Przewodnik Diego
 
-Diego chce się wydostać z Górniczej Doliny do Khorinis. Odprowadzamy go przed kopalnie łączącą GD z Khorinis. Warto wcześniej wziąć go na Plac Wymian, gdzie dostaniemy dodatkowego expa i osiągnięcie.  
+Diego chce się wydostać z Górniczej Doliny do Khorinis. Odprowadzamy go przed kopalnie łączącą GD z Khorinis. Warto wcześniej wziąć go na Plac Wymian, gdzie dostaniemy dodatkowego expa, miecz pod zręczność i osiągnięcie.  
 Prowadzimy go mniej więcej taką drogą:  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739934501951/3CE7D23FF85CA8D66B7BE8CCB9FF6FE0AD4707E0/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739934501951/3CE7D23FF85CA8D66B7BE8CCB9FF6FE0AD4707E0/)
 
@@ -455,6 +460,7 @@ Marcos prosi nas, abyśmy udali się do Garonda i poprosili o wsparcie dla palad
 ## Ruda Wrzoda
 
 Na płaskowyżu nad Starym Miastem Orków spotkamy Wrzoda, który pilnuje dużego ładunku rudy. Rozmawiamy z nim, następnie z Garondem i jeszcze raz z Wrzodem.
+> Ponowna rozmowa z Wrzodem jest zbędna i daje nam tylko odrobinę expa
 
 ## Ucieczka
 
@@ -466,7 +472,7 @@ Angar znajduje się przy ognisku za palisadą, zleca on nam przyniesienie swojeg
 
 ## Nieprzyjemna okolica
 
-Engrom, myśliwy obozujący nad chatą Cavalorna, prosi nas o pozbycie się goblinów z pobliskiej jaskini. Pozbywamy się ich i wracamy po nagrode..
+Engrom, myśliwy obozujący nad chatą Cavalorna, prosi nas o pozbycie się goblinów z pobliskiej jaskini. Pozbywamy się ich i wracamy po nagrodę..
 
 ## Posiłki dla Alberta
 
@@ -476,25 +482,28 @@ Albert jest przywódcą paladynów w małym obozie pod leśnym obozem Netbeka. P
 ## Statek wojenny orków
 
 Drugie zadanie Alberta  
-Albert zleca nam, abyśmy udali się na orkowy drakkar nieopodal i zniszczyli mechanizm w jego ładowni. Podpalamy go w środku przy pomocy pochodni, a po wszystkim wracamy do Alberta.  
+Albert zleca nam, abyśmy udali się na orkowy drakkar nieopodal i zniszczyli mechanizm w jego ładowni. Podpalamy go w środku przy pomocy pochodni, a po wszystkim wracamy do Alberta. Warto zabić również orków na statku, gdyż umożliwi nam to otrzymanie kolejnego zadania z Alberta.  
 **W tym zadaniu nie pomoże nam Ulu-Mulu, a jedynie orkowa zbroja, którą dostaniemy za wątek kopalni orków (Będzie ona działać aż do zniszczenia mechanizmu)**
+> Można również skorzystać z mikstury niewidzialności
 
 ## Wojenne plany orków
 
 Trzecie zadanie Alberta  
-Zabijamy orków na Drakkarze łącznie z Hersztem. Z ciała Herszta zbieramy notatkę i pokazujemy ją Albertowi. Jest napisana w języku orków, więc przetłumaczyć może nam ją Ur-Shak lub robimy to sami (Należy przeczytać kartkę język orków, a następnie notatkę) Okazuje się, że orkowie budują nowy taran do ataku na zamek. Albert daje nam 2 ludzi i każe pozbyć się orków. Trafimy na nich przy wyłomie w palisadzie, zabijamy ich i wracamy do Alberta.
+Zabijamy orków na Drakkarze łącznie z Hersztem. Z ciała Herszta zbieramy notatkę i pokazujemy ją Albertowi. Jest napisana w języku orków, więc przetłumaczyć może nam ją Ur-Shak lub robimy to sami (Należy przeczytać kartkę język orków w starej wieży Xardasa, a następnie notatkę) Okazuje się, że orkowie budują nowy taran do ataku na zamek. Albert daje nam 2 ludzi i każe pozbyć się orków. Trafimy na nich przy wyłomie w palisadzie, zabijamy ich i wracamy do Alberta.
+> Nie musimy brać ze sobą paladynów Alberta, wystarczy obok nich nie przechodzić.
 
 ## Dziwne stworzenie
 
 Na skałach obok starej wieży Xardasa spotykamy gadającego goblina. Uderzamy go, a on prosi nas on o przyniesienie zwoju wygnania znajdującego się w starej wieży Xardasa. Idziemy do biblioteki na górze wieży Xardasa i zabieramy zwój wygnania. Wracamy do goblina, rozmawiamy z nim i używamy zwoju. Na końcu otwieramy skrzynie zabieramy broń goblinów wymaganą do innego zadania na pustyni.
+> Jako mroczna gildia lepiej jest dostać ten zwój od samego Xardasa, a drugi leżący w starej wieży oddać Galahadowi do zadania gildyjnego.
 
 ## Pierścień Kruka
 
-Drax w obozie za palisadą zleca nam przyniesienie pierścienia który ma Kruk. Pierścień zdobędziemy zabijając ostatecznie Kruka na pustyni Adanosa, po czym go oddajemy Draxowi.
+Drax w obozie za palisadą zleca nam przyniesienie pierścienia który ma Kruk. Pierścień zdobędziemy po walce z Krukiem w świątyni Adanosa.
 
 ## Pozdrowienia od Ratforda
 
-Po przyniesieniu pierścienia Kruka Draxowi zagada do nas Ratford. Zleci on nam udanie się do Fiska z pozdrowieniami. Idziemy do Fiska i dostajemy paczkę, którą oddajemy Ratfordowi.
+Po przyniesieniu pierścienia Kruka Draxowi zagada do nas Ratford. Zleci on nam udanie się do Fiska z pozdrowieniami. Idziemy do Fiska i dostajemy paczkę, którą oddajemy Ratfordowi. W nagrodę dostajemy od niego szczaw królewski.
 
 ## Zaginieni bez wieści
 
@@ -502,7 +511,7 @@ Garond chce się dowiedzieć co się stało z dwoma grupami Paladynów Wenzela i
 - **Grupa Alberta**  
 Jest pod obozem Netbeka za palisadą, gadamy z Albertem wracamy do Garonda.  
 - **Grupa Wenzela**  
-Tutaj musimy pogadać z Jerganem w kopalni Fajetha, a potem Talbinem, który jest nad chatą Cavalorna. Dowiadujemy się, że Wenzela i jego ekipę pojmali orkowie. Wracamy do Garonda, a ten prosi nas o uwolnienie paladynów. Udajemy się do miasta orków i teraz musimy uzyskać reputację by dostać się do Ur thralla ( Patrz wątek orków).  
+Tutaj musimy pogadać z Jerganem w kopalni Fajetha, a potem Talbinem, który jest nad chatą Cavalorna. Dowiadujemy się, że Wenzela i jego ekipę pojmali orkowie. Wracamy do Garonda, a ten prosi nas o uwolnienie paladynów. Udajemy się do miasta orków gdzie musimy uzyskać reputację by dostać się do Ur thralla (Patrz wątek orków).  
 Gadamy z wodzem, który wpuści nas do kopalni jeśli:  
   - Mamy powyżej 40 retoryki  
   - Zrobione zadanie "Mroczne Rytuały"
@@ -519,24 +528,26 @@ Netbek prosi nas, abyśmy pozbyli się wielkiego trolla w jego lesie. Chodzi o b
 Parcival zleca nam zabicie orków kuszników, herszta, a także pobliskich wojowników, którzy znajdują się na tym klifie. Po zabiciu wszystkich wracamy do Parcivala po nagrodę.  
 UWAGA: Za to zadanie dostaniecie miecz potrzebny w zadaniu Broń dla Gonzalesa.  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935099257/63652F643D0BF7E2106C45D81DCC7D2DCC7E3F74/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935099257/63652F643D0BF7E2106C45D81DCC7D2DCC7E3F74/)
+> Jeżeli nie możemy zakończyć zadania to znaczy, że pominęliśmy paru orków. Po walce najlepiej odejść od klifów poza zasięg rysowania NPC, wrócić i przejść całe od nowa uwzględniając jaskinię, w której siedzą Herszt i pająk.
 
 ## Serce królowej Harpii
 
 Myśliwy Gestath opowiada o królowej Harpii i prosi o przyniesienie jej serca. Harpia znajduje się w Kamiennej Fortecy na drodze do kamiennego smoka. Zabijamy królową i oddajemy serce Gestathowi.  
 **Uwaga: Po tym zadaniu nauczy on nas za darmo smoczej krwi**
+> Serce dalej można oddać Gestachowi gdy znajduje się on w obozie myśliwych.
 
 ## Tajemniczy portal
 __Zleca: Lord Hagen__
 
 Zanim będziemy mogli wyruszyć do Górniczej Doliny, Hagen każe nam się dowiedzieć wszystkiego na temat portalu, który odkryli Magowie Wody.  
-Musimy zrobić cały wątek w Jarkendarze.
+By otrzymać klucz na przełęcz musimy pokonać Kruka w świątyni Adanosa.
 
 ## Stary przyjaciel Lee
 
-Zadanie dostaniemy od Lee w drugim rozdziale. Lee prosi o odnalezienie jego starego przyjaciela Dariusa. Idziemy do Śnieżnych Gór Orków i szukamy drewnianego fortu (punkt 2 na mapie). Włamujemy się do małego magazynu w forcie, pojawia się najemnik Adelhard i dowiadujemy się o losie Dariusa. Teraz jak wyjdziemy z fortu to na lewo na wzgórzach powinien być ork szaman (punkt 4 na mapie). Gor-Kar jest jedynym orkiem, który póki co nas nie atakuje, więc opowie nam o wojnie klanów, po czym wyśle nas do lidera. Obóz orków znajduje się tu (punkt 6 na mapie):
+Zadanie dostaniemy od Lee w drugim rozdziale. Lee prosi o odnalezienie jego starego przyjaciela Dariusa. Idziemy do Śnieżnych Gór Orków i szukamy drewnianego fortu (punkt 2 na mapie). Włamujemy się do małego magazynu w forcie, pojawia się najemnik Adelhard i dowiadujemy się o losie Dariusa. Wyjdząc z fortu na lewo na wzgórzach powinien być ork szaman (punkt 4 na mapie). Gor-Kar jest jedynym orkiem, który póki co nas nie atakuje, więc opowie nam o wojnie klanów, po czym wyśle nas do lidera. Obóz orków znajduje się tu (punkt 6 na mapie):
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)  
-Teraz należy podejść do jednego ze strażników bramy i pokazać mu 50 bryłek rudy dla wodza. Idziemy teraz do Grum-Loka, który zgadza się nam pomóc, pod warunkiem że zrobimy zadanie “Trofeum dla Grum-Loka". Teraz gadamy z Dariusem, a następnie z Grum-Lokiem, który zgadza się go uwolnić, po zakończeniu zadania "Cena wolności" i "Wojna klanów". Wykonujemy oba zadania i wreszcie Darius może się wydostać z gór orków. Wracamy do Lee.
+Podchodzimy do strażnika bramy i pokazujemy mu 50 bryłek rudy dla wodza. Idziemy do Grum-Loka, który zgodzi się uwolnić Dariusa w zamian za trofeum białego trolla. Po oddaniu trofeum gadamy z Dariusem i wracamy do Lee.
 
 ## Dowody
 __Zleca: Lord Hagen__
