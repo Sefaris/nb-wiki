@@ -16,6 +16,7 @@ Zgadzamy się, idziemy do wieży strażniczej, zabijamy przywódcę stada i zano
 ## Człowiek z pierścieniem
 
 Po tym jak wejdziemy do chaty Grega, Xardas zleci nam przyniesienie mu pierścienia Grega. Idziemy do pirata, który mówi, że nie może go ściągnąć. Wracamy do Xardasa, który sugeruje nam zabicie nieumarłego, na którym ciąży klątwa. Idziemy na południową plażę, a tam w jaskini czeka na nas Kapitan Drake, którego zabijamy, a Greg zgodzi się oddać nam pierścień, z którym wracamy do Xardasa.
+> Drake'a możemy zabić przed przyjęciem zadania
 
 ## Pierścień Ulfa
 
