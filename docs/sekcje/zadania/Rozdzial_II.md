@@ -184,9 +184,8 @@ Na koniec, gdy przyniesiemy księgę Nerolasowi, on każe nam ją zanieść Satu
 
 ## Sekret magii Guru
 
-> Zadanie dostaniemy jak odczekamy jeden dzień po wykonaniu zadania Magia Guru.
-
 Saturas po przeczytaniu księgi Yberiona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas nas prosi, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała skała, czytamy ją i wracamy do Saturasa.
+> Rozmowa z Freygalem nie jest potrzebna do znalezienia i odczytania tabliczki.
 
 # Jarkendar - Piraci
 
@@ -201,6 +200,7 @@ Po polowaniu na szczury pytamy Jacka dlaczego go tak nazwano, a wtedy ten opowia
 ## Wieża
 
 Henry mówi że nieopodal na wzgórzu jest wieża, w której siedzą, to też prosi nas o ich zabicie. Idziemy do wieży zabijamy bandytów i wracamy do Henry'ego.
+> Zadanie nie pojawia się jeżeli zabiliśmy bandytów wcześniej.
 
 ## Drewno na palisadę
 
@@ -208,7 +208,7 @@ Idąc z Jackiem w stronię kanionu, napotykamy Malcolma. Prosi on nas, abyśmy u
 
 ## Malcolm
 
-Po rozmowie z Henrym o drewnie wracając z powrotem do Malcolma okazuje się, że go nie ma, a w jaskini wyżej siedzi Owen, który poprosi nas o odnalezienie Malcolma. Zaraz za Owenem jest dziura, w którą należy wskoczyć. W podwodnej grocie odnajdziemy martwego Malcolma i topielce. Wydostać się z groty można jedyne przez jezioro. Po wszystkim należy opowiedzieć Owenowi o jego przyjacielu.
+Po rozmowie z Henrym o drewnie wracając z powrotem do Malcolma okazuje się, że go nie ma, a w jaskini wyżej siedzi Owen, który poprosi nas o odnalezienie Malcolma. Zaraz za Owenem jest dziura, w którą należy wskoczyć. W podwodnej grocie odnajdziemy martwego Malcolma i topielce. Wydostać się z groty można jedyne przez jezioro lub teleportacją. Po wszystkim należy opowiedzieć Owenowi o jego przyjacielu.
 
 ## Mięso dla Morgana
 
@@ -247,7 +247,7 @@ Abigail prosi nas o odzyskanie swojej szpady. Znajduje się ona za drzewem, mię
 
 ## Prezent dla Hanny
 
-Po wykonaniu zadania ze szpadą, Abigail prosi nas, abyśmy dostarczyli jej naszyjnik Hannie. Gdy dotrzemy do gospody, zamiast Hanny spotkamy Gaspara. Rozmawiamy z nim i dowiadujemy się, że Hanna siedzi w więzieniu. Rozmawiamy po kolei z Lordem Andre, Hakonem i Abigail. Potem wracamy do Khorinis i rozmawiamy z Gasparem .Teraz musimy porozmawiać z Coragonem i wybrać opcje: "Czy wydarzyło się coś nowego?" Następnie kupujemy od niego pierścień. Teraz musimy iść do Joe, który znajduje się w karczmie Kardiffa (o ile uwolniliśmy go z wieży przy Thorbenie). Rozmawiamy z nim o pierścieniu i wysyłamy go do Andre. Teraz sami idziemy do Lorda Andre, a potem wracamy do gospody oddać Hannie naszyjnik. Przy okazji oddajemy też pierścień Hakonowi i wracamy do Abigail.
+Po wykonaniu zadania ze szpadą, Abigail prosi nas, abyśmy dostarczyli jej naszyjnik Hannie. Gdy dotrzemy do gospody, zamiast Hanny spotkamy Gaspara. Rozmawiamy z nim i dowiadujemy się, że Hanna siedzi w więzieniu. Rozmawiamy po kolei z Lordem Andre, Hakonem i Abigail. Wracamy do Khorinis, pytamy się karczmarza Coragona "Czy wydarzyło się coś nowego?" i kupujemy od niego pierścień. Teraz musimy iść do Joe, który znajduje się w karczmie Kardiffa (o ile uwolniliśmy go z wieży przy Thorbenie). Rozmawiamy z nim o pierścieniu i wysyłamy go do Andre. Teraz możemy iść jeszcze do Gaspara lub od razu do Lorda Andre, a potem do gospody oddać Hannie naszyjnik. Przy okazji oddajemy też pierścień Hakonowi i wracamy do Abigail.
 
 > Hanna w nagrodę da wam mieszek, po jego otwarciu dostaniecie klucz do skrzyni na wyspie złodziei w której znajdują się skradzione narzędzia Matteo.
 
