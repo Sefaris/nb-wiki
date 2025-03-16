@@ -49,11 +49,11 @@ Ragnar znajduje się teraz w klasztorze i mówi nam, że chciałby zostać asyst
 
 ## Polny drapieżnik
 
-Uwaga : Zadanie dostępne po wykonaniu zadania "Polowanie na rzadkie potwory"
+Uwaga : Zadanie dostępne po zabiciu polnej bestii podczas wykonywania zadania "Polowanie na rzadkie potwory"
 
 Akil mówi nam, że po części ponosi winę za pojawienie się przerośniętej polnej bestii, bo kupił środek na szkodniki od niejakiego Avanisa. Idziemy do tawerny Orlana i gadamy z Avanisem, który odsyła nas do Ignaza. Ignaz nic nie chce nam powiedzieć, więc wychodzi z jego domu, a za płotem znajdujemy notatkę. Czytamy ją i wracamy do alchemika, po czym mamy 2 opcje:  
-- Nic nie mówimy o Avanisie, Ignaz będzie lekko zdenerwowany, wracamy do Akila.
-- Mówimy Ignazowi, że Avanis ukradł fiolę, aby użyć jej na polne bestie. Wracamy do Akila i opowiadamy o wszystkim.
+- Nic nie mówimy o Avanisie, Ignaz będzie lekko zdenerwowany, wracamy do Akila. (gorsza nagroda)
+- Mówimy Ignazowi, że Avanis ukradł fiolę, aby użyć jej na polne bestie. Wracamy do Akila i opowiadamy o wszystkim. (lepsza nagroda)
 
 ## Zlecenie Wodnego Kręgu
 
@@ -71,17 +71,13 @@ Vatras mówi nam, że jeden z członków wodnego kręgu został napadnięty i ok
 > Zadanie dostępne po wykonaniu zadania [List do Lee](#list-do-lee)
 
 Lee daje nam klucz i każe odzyskać wpisy magów wody ze skrzyni w Nowym Obozie. Znajduje się ona na prawo od lodowego smoka. Zabieramy wpisy, zanosimy je do Lee, po czym ten każe nam je zanieść do Saturasa.
-
+> Możemy je zanieść od razu do Saturasa.
 
 
 
 ## Niebezpieczny eksperyment
 
-Jeśli Daron jeszcze żyje, zleci nam przetestowanie pierścienia. Zakładamy go, przenosi nas do Słonecznego Kręgu i wracamy zdać relacje Daronowi.
-
-## Problem Feygala
-
-Druid Freygal prosi nas o zabicie bestii niedaleko jego jaskini, idziemy przed jaskinie i zabijamy zębacza po czym wracamy do druida.
+Daron zleca nam przetestowanie pierścienia. Zakładamy go, przenosi nas do Słonecznego Kręgu i wracamy zdać relacje Daronowi.
 
 ## Czarny humor
 
