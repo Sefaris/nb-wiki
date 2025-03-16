@@ -127,7 +127,7 @@ Po użyciu teleportu i dostaniu się na pustynię wracamy do Merdariona.
 
 ## Posiadłości budowniczych
 
-Po aktywowaniu drugiego teleportu Merdarion powie nam, że Saturas chce się z nami widziec. Ten udziela nam pewnych informacji na temat Jarkendaru oraz każe nam iść do Riordiana. Riordian prosi o sprawdzenie posiadłości budowniczych (miejsca gdzie znajdujemy kolorowe tabliczki). Po odwiedzeniu ich wracamy do Riordiana i zdajemy raport.
+Po aktywowaniu drugiego teleportu Merdarion powie nam, że Saturas chce się z nami widziec. Ten udziela nam pewnych informacji na temat Jarkendaru oraz każe nam iść do Riordiana. Prosi on o sprawdzenie posiadłości budowniczych (miejsca gdzie znajdujemy kolorowe tabliczki). Po odwiedzeniu ich wracamy do maga i zdajemy raport.
 
 ## Orkowie w kanionie
 
