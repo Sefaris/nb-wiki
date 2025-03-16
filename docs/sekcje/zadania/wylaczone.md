@@ -26,6 +26,12 @@ __Zleca: Vatras__
 
 Vatras mówi nam o bestii atakującej mieszkańców Khorinis. Chodzi o cieniostwora w jaskini obok latarni Jacka. Zabijamy go i wracamy do Vatrasa.
 
+## Pogromca owiec
+
+Zadanie dostępne w 2r po zrobieniu wcześniejszych dwóch zadań dla Pepe z wilkami i z pobiciem Bulka.
+
+Pepe na farmie Onara mówi nam, że coś porywa jego owce. Idziemy do jaskini niedaleko jeziora przy obozie, gdzie zabijaliśmy dla niego wilki. Tam zabijamy bossa goblinów i wracamy do Pepe.
+
 ## Błąd Lorda Andre
 __Zleca: Andre__
 > Zadanie dostępne tylko po wykonaniu zadania "Horror na cmentarzu"
