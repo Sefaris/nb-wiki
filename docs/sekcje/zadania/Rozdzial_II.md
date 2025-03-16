@@ -256,9 +256,9 @@ __Zleca: Bartholomew__
 
 > Zadanie zleca dopiero po powrocie Grega do obozu.
 
-Musimy się dowiedzieć kto kradnie jedzenie z magazynu. Idziemy najpierw do Grega, później do Francisa, a na końcu do Silvera, który daje nam klucz do magazynu (warto tam teraz pójść i zlootować). Wracamy do Grega i oddajemy mu kluc.  
-Teraz idziemy pogadać z Bonesem, który odsyła nas do Liveseya.
-Możemy się zgodzić na porpozycje Liveseya i nie wspominac Gregowi kto ukradł klucz
+Musimy się dowiedzieć kto kradnie jedzenie z magazynu. Idziemy najpierw do Grega, później do Francisa, a na końcu do Silvera, który daje nam klucz do magazynu (warto tam teraz pójść i zlootować). Wracamy do Grega i oddajemy mu klucz.  
+Teraz idziemy pogadać z Bonesem, który odsyła nas do Liveseya, okazuje się, że to on jest złodziejem.
+Możemy wydać Liveseya Gregowi za więcej expa lub zostawić go w spokoju za więcej złota.
 
 ## Polowanie na brzytwiaki
 
@@ -269,10 +269,12 @@ Po oczyszczeniu kanionu wracamy do Grega.
 
 ## Zbroja bandyty
 
-Zadanie zleca Saturas. Mówi nam, że jeśli chcemy dostać się do obozu bandytów, to musimy mieć zbroję taką jak oni. Musimy dostać się do chaty Grega. Możemy to zrobić na 3 sposoby:  
-- Pobić Francisa
+Zadanie zleca Saturas. Mówi nam, że jeśli chcemy dostać się do obozu bandytów, to musimy mieć zbroję taką jak oni. Musimy dostać się do chaty Grega. Możemy to zrobić na 4 sposoby:  
+- okraść Francisa
+- Pobić go
 - Zapłacić Francisowi złotem
 - Wykopać szkatułkę z księgą rachunkową Francisa. Znajdziemy ją w skarbie w pierwszej kopalni, jaką napotkamy w kopalni.
+> Lepiej szantażować go księgą po dostaniu się do chaty Grega, da nam wtedy 500 złota
 
 Nieważne w jaki sposób dostaniemy klucz, wchodzimy do chaty Grega i ją plądrujemy. Pojawia się Greg, a żeby dostać zbroję bandytów, musimy oczyścić kanion z brzytwiaków.
 
