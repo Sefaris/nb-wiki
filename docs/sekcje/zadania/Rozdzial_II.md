@@ -539,8 +539,7 @@ Myśliwy Gestath opowiada o królowej Harpii i prosi o przyniesienie jej serca. 
 ## Tajemniczy portal
 __Zleca: Lord Hagen__
 
-Zanim będziemy mogli wyruszyć do Górniczej Doliny, Hagen każe nam się dowiedzieć wszystkiego na temat portalu, który odkryli Magowie Wody.  
-By otrzymać klucz na przełęcz musimy pokonać Kruka w świątyni Adanosa.
+Zanim będziemy mogli wyruszyć do Górniczej Doliny, Hagen każe nam się dowiedzieć wszystkiego na temat portalu, który odkryli Magowie Wody. By otrzymać klucz na przełęcz musimy pokonać Kruka w świątyni Adanosa.
 
 ## Stary przyjaciel Lee
 
@@ -551,3 +550,6 @@ Podchodzimy do strażnika bramy i pokazujemy mu 50 bryłek rudy dla wodza. Idzie
 
 ## Dowody
 __Zleca: Lord Hagen__
+
+Zadanie główne, którego wykonanie pozwoli nam przejść do 3 rozdziału. Idziemy do GD, gadamy z Garondem i przynosimy mu wieści od 3 grup zbieraczy. Daje on nam list do Lorda Hagena.
+> W momencie, w którym zapytamy Garonda: "co z listem do Lorda Hagena" tracimy możliwość teleportacji poza górniczą dolinę i automatycznie przechodzimy do 3 rozdziału gdy tylko opuścimy ją przechodząc do Khorinis.
