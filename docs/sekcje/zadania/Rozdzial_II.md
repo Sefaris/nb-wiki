@@ -81,7 +81,8 @@ Daron zleca nam przetestowanie pierścienia. Zakładamy go, przenosi nas do Sło
 
 ## Czarny humor
 
-W notatce znalezionej przy podejrzanym typie, urzędującym w jaskini po lewo od wschodniej bramy, znajdziemy dziwnego skręta. Po wypaleniu go pojawimy się w świecie snu, gdzie spotykamy Vatrasa mówiącego nam o strażnikach i wieży. Zabijamy wszystko co napotkamy, a następnie wracamy do maga, który proponuje nam współprace z Beliarem, po której się budzimy.
+Pod mostem niedaleko tawerny Orlana stoi bandyta, zabijamy go i znajdujemy dziwnego skręta. Po wypaleniu go pojawimy się w świecie snu, gdzie spotykamy Vatrasa mówiącego nam o strażnikach i wieży. Zabijamy wszystko co napotkamy, a następnie wracamy do maga, który proponuje nam współprace z Beliarem, po której się budzimy.
+> Na skałach przy topielcach leży potka +15hp, podnieś ją przed opuszczeniem lokacji.
 
 ## Wiadomość dla Isgarotha
 
@@ -101,6 +102,7 @@ Nefarius opowiada na o cywilizacji budowniczych, a my w celu zdobycia większej 
 ## Runa budowniczych
 
 Nefarius prosi nas o dowód na to, że architekci używali magicznych run. Jedyna runa w Jarkendarze to przyzwanie kamiennego strażnika, która znajduje się w komnacie za areną walki z Krukiem.
+> Nefarius zgodzi się wziąć runę dopiero po użyciu jej na ołtarzu w bibliotece.
 
 ## Receptura Nefariusa
 
@@ -108,6 +110,7 @@ Nefarius prosi nas o dowód na to, że architekci używali magicznych run. Jedyn
 
 Nefarius prosi nas, abyśmy udali się do kopalni Nowego Obozu i przynieśli mu przepis. Przepis ten znajduje się w skrzyni w miejscu, gdzie w Gothic 1 był ranny ork. Oddajemy przepis i przynosimy mu składniki: grog, perły, dwa serca ognistego golema.  
 Oddajemy składniki i dostajemy eliksir dający +15 obrony przed magią.
+> ogniste golemy spotkasz na pustyni Adanosa lub w górniczej dolinie na drodze do ognistego smoka
 
 ## Relikty
 
@@ -124,7 +127,7 @@ Po użyciu teleportu i dostaniu się na pustynię wracamy do Merdariona.
 
 ## Posiadłości budowniczych
 
-Saturasa każe nam iść do Riordiana, a ten z kolei zleca nam odnalezienie 5 świątyń budowniczych. Po
+Po aktywowaniu drugiego teleportu Merdarion powie nam, że Saturas chce się z nami widziec. Ten udziela nam pewnych informacji na temat Jarkendaru oraz każe nam iść do Riordiana. Riordian prosi o sprawdzenie posiadłości budowniczych (miejsca gdzie znajdujemy kolorowe tabliczki). Po odwiedzeniu ich wracamy do Riordiana i zdajemy raport.
 
 ## Orkowie w kanionie
 
@@ -144,7 +147,7 @@ Jeden z nowych członków wodnego kręgu poszedł na bagna w celu obadania sytua
 
 ## Zastępstwo za Lance'a
 
-Po dostarczeniu wieść Saturasowi na temat śmierć Lenca ten prosi żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quachodrona .
+Po dostarczeniu wieść Saturasowi na temat śmierć Lenca ten prosi żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quachodrona.
 
 ## Zapasy dla magów wody
 
@@ -167,7 +170,7 @@ Po dotarciu na pustynię Adanosa wracamy do Jarkendaru i gadamy z Saturasem, a p
 Uwaga: Zadanie dostępne po wykonaniu zadania "Zapiski Saturasa"
 
 Saturas mówi nam, że interesował się kiedyś magią Guru, ale badania zostały porzucone po upadku Bariery. Mówi on nam także, że wysłał do obozu Bractwa jednego z magów wody. Norolas znajduje się w małym obozie za palisadą w GD obok Draxa i Ratforda.  
-NOrolas mówi nam że na bagnach roi się od nieumarłych i prosi nas o udanie się po księgę Y'beriona . Mamy dwie opcje:
+Norolas mówi nam że na bagnach roi się od nieumarłych i prosi nas o udanie się po księgę Y'beriona . Mamy dwie opcje:
 
 - Wybić wszystkich nieumarłych z demonem na czele (którego będziemy mogli przyzwać dopiero w zadaniu "Mroczne Rytuały"), zabrać księgę Y'beriona i wrócić do Norolasa.
 - Tworzymy specjalny eliksir który pozwoli nam się poruszać wśród nieumarłych.
@@ -177,6 +180,7 @@ Mamy już przepis, więc pozostało rozejrzeć się za składnikami. Wszystko po
 Wracamy do Norolasa ze składnikami, on tworzy dla nas miksturę, wypijamy ją i idziemy prosto do świątyni obozu Bractwa. Po wszystkim wracamy do Norolasa.
 
 Na koniec, gdy przyniesiemy księgę Nerolasowi, on każe nam ją zanieść Saturasowi.
+> Mikstura nie jest dostępna w trybie utrudniony nightmare
 
 ## Sekret magii Guru
 
