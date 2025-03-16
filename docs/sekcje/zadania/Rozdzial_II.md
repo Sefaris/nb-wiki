@@ -25,14 +25,7 @@ Ulf mówi nam, że zgubił gdzieś w lesie swój pierścień. Pierścień leży 
 
 ## Dziwna prośba Constantino
 
-Constantino prosi nas, abyśmy przynieśli mu fiolkę z trucizną. Znajduje się ona w skrzyni w Gorzelni Vino w lesie na północy.
-
-## Pogromca owiec
-
-Zadanie dostępne po zrobieniu wcześniejszych dwóch zadań dla Pepe z wilkami i z pobiciem Bulka.
-
-Pepe na farmie Onara mówi nam, że coś porywa jego owce. Idziemy do jaskini niedaleko jeziora przy obozie, gdzie zabijaliśmy dla niego wilki. Tam zabijamy bossa goblinów i wracamy do Pepe.
-
+Constantino prosi nas, abyśmy przynieśli mu fiolkę z trucizną. Znajduje się ona w skrzyni w Gorzelni Vino w lesie na północy niedaleko kamiennego kręgu, kratę otwieramy łojem kretoszczura.
 
 ## Podejrzany handlarz
 
