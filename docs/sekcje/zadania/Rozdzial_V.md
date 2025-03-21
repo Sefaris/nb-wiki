@@ -53,9 +53,7 @@ Jak sama nazwa zadania wskazuje, zbieramy ekipę do wypłynięcia na Irdorath. W
 
 
 
-## Dziwne odgłosy w świątyni
 
-Mitras (mag który był z Myxirem) zleca nam zbadanie dziwnych dźwięków pochodzących z dużej piramidy. Idziemy w nocy do piramidy, zabijamy truposza i wracamy do Mitrasa.
 
 # Jarkendar
 
