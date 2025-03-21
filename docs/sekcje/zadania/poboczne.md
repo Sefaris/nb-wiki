@@ -37,6 +37,7 @@ Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Kos
 __Zleca: Pulpit w piwnicy Klasztoru__
 
 > Wykonanie tego zadania jest wymagane do ukończenia: [Bezgraniczna potęga](#bezgraniczna-potęga).
+
 > Można je zrobić nawet w 2 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
 
 Czytając pulpit w piwnicy klasztoru magów ognia w pomieszczeniu z Talomonem, dostaniemy wpis do dziennika. Udajemy się teraz do Pyrokara, a następnie do Xardasa, który każe nam przynieść jego zapiski z piętra wieży. Czytamy dziennik i oddajemy go Xardasowi.
