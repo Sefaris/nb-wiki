@@ -216,3 +216,9 @@ Sylvio znajduje się w leżu lodowego smoka. Chce się wydostać z GD, więc mó
 ## Zemsta na Sylvio
 
 Idziemy na drakkar, gdzie zgromadzili się już łowcy smoków. Rozmawiamy z Ratfordem w ładowni, gdzie okazuje się, że Sylvio mu nie zapłacił. Idziemy się z nim rozmówić, przy czym dochodzi do walki, w której go zabijamy. Złoto oddajemy Ratfordowi, a zadanie się kończy.
+
+# Rozdział 6
+
+> Po pokonaniu smoka ożywieńca wybieramy opcję powrotu do Khorinis w rozmowie z kapitanem statku
+
+## xxx
