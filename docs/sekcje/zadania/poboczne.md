@@ -115,7 +115,7 @@ Zabicie Senyaka przy pomocy krzyża żywiołów niszczy jego duszę sprawiając,
 
 Zadanie jest trochę pogmatwane. Jeżeli nie wiesz na co się zdecydować to najwięcej korzyści uzyskasz gdy: 
 1. zdobędziesz Mora Ulartu zabijając przy tym wszystkich paladynów z Etlu
-2. tworzysz krzyż żywiołów potrafiąc już oprawiać smoki (uczy Gestach)
+2. tworzysz krzyż żywiołów
 3. zabijesz demona Senyaka z wykorzystaniem Mora Ulartu bez użycia krzyża żywiołów
 4. duszą Senyaka ulepszasz szpon lub oddajesz ją Beliarowi jeżeli szpon został zniszczony
 5. Krzyż żywiołów wykorzystujesz do zabicia smoka Adanara, którego nie da się zranić w inny sposób.
