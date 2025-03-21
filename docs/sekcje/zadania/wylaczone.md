@@ -162,6 +162,10 @@ Zakładamy koronę Adanosa i teraz mamy dwie opcję:
 
 Polecam wybrać opcję drugą czyli walkę gdyż dostaniemy więcej doświadczenia, potężny miecz , a do tego punkty nauki za pokonanie bossa. Po wszystkim wracamy do Saturasa i Vatrasa.
 
+## Dziwne odgłosy w świątyni
+
+Mitras (mag który był z Myxirem) zleca nam zbadanie dziwnych dźwięków pochodzących z dużej piramidy. Idziemy w nocy do piramidy, zabijamy truposza i wracamy do Mitrasa.
+
 ## Chromanin
 
 Zadanie daje Kreol podczas robienia wątku Mroczny zakon.  
