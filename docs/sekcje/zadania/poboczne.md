@@ -97,7 +97,7 @@ Udajemy się do leża Śniącego, zabijamy nekromantę i odzyskujemy Uriziela. U
 
 Zadanie rozpoczyna po pokonaniu Kruka w koszmarze. Zabieramy szpon z jego zwłok i zanosimy do Ashtara.
 
-Musimy zdecydować czy chcemy go używać czy zniszczyć. Zniszczenie szponu daje nam kilka PN i jest zalecane jeżeli gramy paladynem, gdyż posiadanie szponu uniemożliwia konsekrację miecza łzami Innosa.
+Musimy zdecydować czy chcemy go używać czy zniszczyć. Zniszczenie szponu daje nam kilka PN i jest zalecane jeżeli gramy paladynem, gdyż posiadanie szponu uniemożliwia konsekrację miecza łzami Innosa. Bez szpona spokojnie da się grać, szczególnie, że istnieją silniejsze bronie, ale z drugiej strony nagroda za jego zniszczenie jest mało zauważalna na tym etapie gry. Decyzja nie wpłynie znacząco na Twoją grę.
 
 Dowiadujemy się również, że na wolność wydostał się demon Senyak - to dla niego szpon został stworzony przez Beliara. Demona trzeba pokonać, jednak musimy zdecydować w jaki sposób. Niezależnie od tego co postanowiliśmy zrobić ze szponem to i tak bardziej opłaca się nam najpierw zdobyć "Mora Ulartu" czyli runę do kradzieży dusz. W tym celu wykonujemy zadanie [Mora Ulartu](#mora-ulartu).
 
