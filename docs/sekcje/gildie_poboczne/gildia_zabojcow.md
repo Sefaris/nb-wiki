@@ -1,8 +1,10 @@
 # Gildia Zabójców
 
 > Są dwa sposoby aby dostać się do gildii zabójców:
-> 1. Wykonuj zadanie Gallahada, wykonaj zadanie Gerbrandta i następnie zapytaj kim był człowiek, którego spotkałeś. Powie ci, że przekonasz się jeśli o 22:30-23:00 pójdziesz za budynek paladynów, Idziemy tam i z daleka obserwujemy, jak nieznajomy z tawerny zabija Wambo. Teraz konfrontujemy Asmala i możemy dołączyć do gildii zabójców.
+> 1. Wykonując zadanie Gallahada poproś Gerbrandta o napisanie listu. Ten zleci Ci zadanie zaniesienia notatki i mieszka do karczmy Orlana o północy. Podczas rozmowy z nieznajomym powiedz mu prawdę, że to nie Ty jesteś zleceniodawcą, lecz nie wydaj kto nim jest. Później zapytaj Gerbranta kim był człowiek, którego spotkałeś. Powie ci, że przekonasz się jeśli o 22:30-23:00 pójdziesz za budynek paladynów w górnym mieście. Idziemy tam i z daleka obserwujemy, jak nieznajomy z tawerny zabija Wambo. Teraz konfrontujemy Asmala i możemy dołączyć do gildii zabójców.
 > 2. Tylko jeśli jesteś w milicji! Dołącz do gildii złodziei w Khorinis. Następnie dowiesz się o zabójcach od Ramireza. Idź do Lorda Andre, który da ci zadanie. Idź teraz do Cassii, potem do Ramireza, a potem na plac wisielców i porozmawiaj z Gilianem. Następnej nocy idź do domku przy ławce na której siedzi Jack, a spotkasz Giliana. Teraz możemy dołączyć do gildii jako strażnik miejski.
+
+Ważne: przed każdym zabójstwem zapisuj grę i porozmawiaj z ofiarą, pozwoli to uniknąć błędów i negatywnych konsekwencji.
 
 ## Kara dla Wambo
 __Zleca: Gilian__
@@ -21,7 +23,8 @@ __Zleca: Asmal__
 
 > Przed zabiciem Lehmara należy wykonać zadanie "Zarzuty Parlana" oraz warto wykupić jego interesujący nas asortyment
 
-Asmal zleca nam zabicie Lehmara, więc udajemy się do domu lichwiarza, gdzie okazuje się, że towarzyszy mu nowy ochroniarz - Blizna. Około 23 przesiadują oni na końcu molo obok Esmeraldy, gdzie możemy ich bez świadków zabić. Po wszystkim wracamy do Asmala po nagrodę.
+Asmal zleca nam zabicie Lehmara, więc udajemy się do domu lichwiarza, gdzie okazuje się, że towarzyszy mu nowy ochroniarz. Około 23 przesiadują oni na końcu molo obok Esmeraldy, gdzie możemy ich bez świadków zabić. Po wszystkim wracamy do Asmala po nagrodę.
+> Ochroniarza możesz potraktować zaklęciem snu, a dopiero później powiedzieć Lehmarowi, że go zabijesz.
 
 ## Błąd Canthara
 __Zleca: Asmal__
@@ -31,8 +34,7 @@ Tym razem Asmal zleca nam zabicie Canthara. Po 22 siedzi on na ławce za jego st
 ## Dług kupca
 __Zleca: Asmal__
 
-Asmal każe nam odzyskać dług od Nigela w karczmie Martwa Harpia. Idziemy do Nigela i możemy go zabić albo mu pomóc (polecam tą drugą opcję). Dowiadujemy się od niego, że został okradziony przez bandytów, którzy siedzą w jaskini z teleporterem obok wschodniej bramy Khorinis. Zabijamy ich, a sakiewkę oddajemy Nigelowi, który udaje się na farmę Onara. Po trzech dniach należy do niego wrócić, gdzie zwróci on nam należność, a także będzie z nami handlował.  
-Co do Asmala, to albo nam płaci za zabicie Nigela, albo zwraca nam część wyłożonych za niego pieniędzy.
+Asmal każe nam odzyskać dług od Nigela w karczmie Martwa Harpia. Idziemy do Nigela i możemy go zabić albo mu pomóc (polecam tą drugą opcję). Dowiadujemy się od niego, że został okradziony przez bandytów, którzy siedzą w jaskini z teleporterem obok wschodniej bramy Khorinis. Zabijamy ich, a sakiewkę oddajemy Nigelowi, który udaje się na farmę Onara. Gadamy z nim jeszcze raz i zwróci on nam należność, a także będzie z nami handlował. Zdecydowanie bardziej opłaca się zostawić Nigela przy życiu.
 
 ## Przyjaciel z dzieciństwa
 __Zleca: Asmal__
@@ -63,3 +65,5 @@ __Zleca: Nigel__
 
 ## Tajemniczy nieznajomy
 __Zleca: Gerbrandt__
+
+Zadanie istnieje w dzienniku po to by upewnić gracza i przypominać mu, że ma przyjść do górnego miasta o 22:30.
