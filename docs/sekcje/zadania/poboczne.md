@@ -91,31 +91,40 @@ Zadanie zlecone na początku gry, można je wykonać dopiero po zakończeniu [w�
 Udajemy się do leża Śniącego, zabijamy nekromantę i odzyskujemy Uriziela. Udajemy się teraz do Xardasa, u którego możemy zadecydować o losie Uriziela i Maski Śniącego.
 > Jeżeli zrobiliśmy to zadanie w 5 rozdziale to idziemy do Kreola.
 
-# Lokacje/Dungeony
+# Szpon Beliara
 
 ## Szpon Beliara, Artefakty starożytności, Mora Ultaru
 
 Zadanie rozpoczyna się jak pokonamy Kruka na pustyni i pokażemy szpon Złotemu Smokowi.
 
-Kiedy zdobędziemy szpon i pokażemy szpon złotemu smokowi będziemy mieli 3 opcje:  
-- Oddać szpon złotemu smokowi (nie polecam)  
-- Unicestwić Senyaka krzyżem żywiołów (nie polecam)  
-- Uwięzić duszę Senyaka w szponie Beliara (można wsadzić ją w szpon lub uwolnić go i pokonać jeszcze raz dla PN'ów)
+Kiedy zdobędziemy szpon pokazujemy go Ashtarowi i musimy zdecydować czy chcemy go używać czy zniszczyć. Zniszczenie szponu daje nam kilka PN i jest zalecane jeżeli gramy paladynem, gdyż posiadanie szponu uniemożliwia posiadanie miecza błogosławionego łzami Innosa.
 
-Jeśli zdecydujemy się zniszczyć demona to potrzebujemy 4 sfer żywiołów, aby wykonać runę krzyż żywiołów. Jeśli natomiast chcemy wzmocnić szpon duszą Senyaka potrzebna nam będzie runa Mora ultaru.  
+Dowiadujemy się również, że na wolność wydostał się demon Senyak - to dla niego szpon został stworzony przez Beliara. Demona trzeba pokonać, jednak musimy zdecydować w jaki sposób. Niezależnie od tego co postanowiliśmy zrobić ze szponem to i tak bardziej opłaca się nam najpierw zdobyć "Mora Ulartu" czyli runę do kradzieży dusz. W tym celu wykonujemy zadanie [Mora Ultaru](#mora-ulartu).
+
+Oprócz tego Ashtar proponuje nam stworzenie kolejnej runy zwanej "krzyż żywiołów", która to potrafi natychmiast zabić prawie każde stworzenie i można jej użyć tylko 1 raz. Do stworzenia jej potrzebujemy 4 sfer żywiołów:
 - Sfera ognia w Starej Kopalni (obok kopalni Marcosa)  
 - Sfera wody w Opuszczonej Kopalni (nad przełęczą Górniczej Doliny)  
 - Sfera ciemności w Zatopionej Wieży Xardasa  
 - Sfera skały w Kopalni Orków (dostęp do niej dostaniemy w wątku orków i tam was odsyłam)  
 
-Teraz idziemy do Smoka, który uczy nas jak zrobić runę, a samemu popełnia samobójstwo.
+Teraz idziemy do Smoka, który uczy nas jak zrobić runę, oddaje nam również swoje serce będące jej składnikiem poświęcajac tym samym swoje życie.
 
-## Mora Ultaru
+Mając mora ulartu możemy ukraść duszę demona by następnie uwięzić ją w szponie Beliara ulepszając go. Można również oddać ją Beliarowi w zamian za HP jeżeli zniszczyliśmy szpon.
 
-Udajemy się do Xardasa i pytamy o runę, ten nam mówi że Beliar dam nam runę w zamian za inny artefakt amulet Triamar. Idziemy teraz do portu, a przed posągiem paladyna w porcie powinien pojawić się paladyn Melchior. Po krótkiej rozmowie dojdzie do walki, więc obijamy paladyna, a ten wyjawia nam, że amulet znajduje się na wyspie Etlu, a klucz ma sam Hagen. Okradamy Hagena lub odkupujemy klucz od ogrodnika. Idziemy teraz do Xardasa i mówimy o wszystkim. Teraz możemy udać się na Etlu i zabrać amulet albo w sposób pokojowy albo zabić wszystkich paladynów .
+Zadanie jest trochę pogmatwane. Jeżeli nie wiesz na co się zdecydować to najwięcej korzyści uzyskasz gdy: 
+1. zdobędziesz Mora Ulartu zabijając przy tym wszystkich paladynów z Etlu
+2. tworzysz krzyż żywiołów potrafiąc już oprawiać smoki (uczy Gestach)
+3. zabijesz demona Senyaka z wykorzystaniem Mora Ulartu bez użycia krzyża żywiołów
+4. duszą Senyaka ulepszasz szpon lub oddajesz ją Beliarowi jeżeli szpon został zniszczony
+5. Krzyż żywiołów wykorzystujesz do zabicia smoka Adanara, którego nie da się zranić w inny sposób.
 
-1. Jeśli chcemy uzyskać amulet w pokojowy sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie mogą tego zrobić paladyn i mag ognia).  
-   Wyrzucacie szpon zanim się pomodlicie do Beliara, pojawia się Zigos, który po krótkiej rozmowie zgadza się na pomóc, jeśli zabijemy innego sługę Beliara Fellangora. Fellangor potrafi przybierać formę innych ludzi, dlatego dostajemy amulet od Zigosa, który zakładamy przed każdą rozmową.
+## Mora Ulartu
+
+Udajemy się do Xardasa i pytamy o runę, ten nam mówi że Beliar dam nam runę w zamian za inny artefakt amulet Triamar. Idziemy teraz do portu, a przed posągiem paladyna w porcie powinien pojawić się paladyn Melchior. Szantażujemy go, a ten wyjawia nam, że amulet znajduje się na wyspie Etlu, a klucz ma sam Hagen. Okradamy Hagena lub odkupujemy klucz od ogrodnika. Idziemy teraz do Xardasa i mówimy o wszystkim. Teraz możemy udać się na Etlu i zabrać amulet w sposób pokojowy lub zabić wszystkich paladynów. Wejście do Etlu znajduje się w jaskini przy zbieraczach ziela niedaleko czarnego trolla.
+> Zabicie paladynów jest bardziej opłacalną opcją, jeżeli jednak nie chcemy tego robić to polecam zaopatrzyć się w miksturę niewidzialności.
+
+Jeśli chcemy uzyskać amulet w "pokojowy" sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie mogą tego zrobić paladyn i mag ognia). Przed modlitwą zapisz grę.  
+> Jeżeli nie zniszczyłeś szponu, ani go jeszcze nie posiadłeś za karmę to pamiętaj by wyrzucić go z ekwipunku przed modlitwą o pomoc. Pojawia się Zigos, który po krótkiej rozmowie zgadza się na pomóc, jeśli zabijemy szalonego Fellangora, który kiedyś był sługą Beliara. Fellangor potrafi przybierać formę innych ludzi, dlatego dostajemy od Zigosa amulet, który zakładamy przed każdą rozmową z Fellangorem.
 
 Fellangor objawia się jako:  
 Fellan - W spalonej chacie, między Martwą Harpią, a wykopaliskami magów wody \[Cały dzień\]
@@ -174,26 +183,14 @@ Rupert:
 22-23 Przy zębaczach naprzeciw wieży z mrocznym golemem  
 23-24 Niedaleko orka gdzie zostajesz Szamanem
 
-Kiedy dopadniemy Fellangora mamy 2 opcje:  
-- Używamy amuletu i kończymy zadanie od Zigosa  
-- Przyjmujemy pierścień od Fellangora zawalając zadanie Zigosa (Opcja jest opłacalna jedynie na magu)
+Po trzecim wykryciu Fellangora mamy 2 opcje:  
+- Używamy amuletu, gadamy z Zigosem i dostajemy nagrodę  
+- Przyjmujemy pierścień od Fellangora zawalając zadanie Zigosa (bardzo opłacalne tylko jeżeli nie umiemy wytwarzać własnej biżuterii)
 
-Jeśli wysłaliśmy Fellangora do krainy Beliara, dostajemy od Zigosa amulet pozwalający zmieniać formę.
+Jeśli zabiliśmy Fellangora to dostajemy od Zigosa amulet pozwalający zmieniać formę. Idziemy na Etlu, nie zbliżamy się do obozu paladynów i kradniemy rybakowi jego wygląd. Następnie idziemy do obozu paladynów i próbujemy ukraść szkatułkę. Paladyni raczej i tak nas zaatakują i bardzo ciężko będzie ujść z życiem. Zdecydowanie lepszą opcją jest skorzystanie z mikstury niewidzialności.
 
-1. Idziemy na Etlu, używamy amuletu i zabieramy szkatułkę z kluczem. (Po użyciu amuletu nie wolno nam wyciągać broni ani używać magii).
-2. Zabijamy wszystkich Paladynów i zabieramy szkatułkę
-3. Używamy mikstury czarnej mgły i zabieramy szkatułkę.
+Jeżeli wolimy drogę bojową to po prostu wchodzimy do obozu paladynów i zabijamy wszystko co się rusza, a następnie zabieramy szkatułkę z kluczem.
 
-Niezależnie w który sposób zdecydujemy się zdobyć szkatułkę, udajemy się na drugi koniec wyspy, a będzie tam kaplica z pilnującymi jej dwoma Paladynami. Pozbywamy się paladynów, otwieramy wejście do kaplicy za pomocą klucza, który zdobyliśmy wcześniej w obozie paladynów i zabieramy amulet z ołtarza. W kaplicy wciskamy przycisk na ścianie i za kaplicą otworzy się teleport powrotny.
+Mając klucz udajemy się na drugi koniec wyspy, będzie tam kaplica z pilnującymi jej dwoma Paladynami. Pozbywamy się paladynów, otwieramy wejście do kaplicy za pomocą klucza, który zdobyliśmy wcześniej w obozie paladynów i zabieramy amulet z ołtarza. W kaplicy wciskamy przycisk na ścianie i za kaplicą otworzy się teleport powrotny.
 
-Wracamy do Xardasa i mówimy ze mamy amulet. Teraz udajemy się do posągu Beliara i próbujemy wymienić amulet na Mora Ultaru. Szansa na otrzymanie runy zależna jest od naszej karmy i gildii. Im więcej karmy Beliara, tym lepiej.
-
-Kiedy mamy już Mora Ultaru i 4 sfery żywiołów wracamy do Złotego smoka. Po krótkiej rozmowie dostajemy jego serce i róg pozwalający wezwać Senyaka. Tworzymy runę krzyża żywiołów, ale lepiej ją zostawić na innego bossa, ponieważ niszczy ona dusze Senyaka. Przyzywamy Senyaka rogiem, w dialogu wybieramy opcje z użyciem Mora Ultaru, po czym go zabijamy ręcznie.
-
-## Szpon Beliara
-
-Zadanie zacznie się w rozmowie z Złotym smokiem, a kończy się ulepszeniu/oddaniu szponu.  
-Ulepszacie szpon duszą Senyaka przy kapliczce Beliara, a następnie po rozmowie z Kreolem/Xardasem wsadzacie do niego duszę.
-
-
-
+Wracamy do Xardasa i mówimy ze mamy amulet. Teraz udajemy się do posągu Beliara i próbujemy wymienić amulet na Mora Ultaru. Szansa na otrzymanie runy zależna jest od naszej karmy i gildii. Im więcej karmy Beliara, tym lepiej. Runę użyj od razu, powinna pojawić się informacja o nowej umiejętności: "łowca dusz". Znowu idziemy do Xardasa pochwalić mu się faktem zdobycia runy.
