@@ -474,6 +474,10 @@ Angar znajduje się przy ognisku za palisadą, zleca on nam przyniesienie swojeg
 
 Engrom, myśliwy obozujący nad chatą Cavalorna, prosi nas o pozbycie się goblinów z pobliskiej jaskini. Pozbywamy się ich i wracamy po nagrodę..
 
+## Ur-Shak
+
+Ur-Shaka spotykamy na klifie pomiędzy starą wieżą Xardasa i obozem Fajetha. Został on wygnany ze wspólnoty orków i bardzo pragnie tam wrócić. Jeżeli w międzyczasie zamordowaliśmy Hosh-Paka i powiedzieliśmy o tym Ur-Shakowi to ten się na nas obrazi i musimy rzucić na niego czar zapomnienia (ten sam, który sprzedaje Ignaz), wtedy znowu będzie z nami gadał. Dopiero po ukończeniu całej serii trudnych zadań w wątku orków, z których ostatnim będzie zabić Azgalora w dolinie cienia uzyskamy prawo do prośby o to by przywrócić naszego szamana do łask. Po tym jak Ur-Thrall wyrazi zgodę idziemy do Ur-Shaka by mu o tym powiedzieć i dostajemy 1PN w nagrodę.
+
 ## Posiłki dla Alberta
 
 Pierwsze zadanie Alberta  
