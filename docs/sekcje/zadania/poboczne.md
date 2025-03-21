@@ -21,7 +21,8 @@ Na dachu wieży Xardasa (musimy wejść na szczyt wieży i wyjść przez okno) z
 ## Żywy lub Martwy
 __Zleca: Notatki z tablicy ogłoszeń w koszarach__
 
-[![](https://steamuserimages-a.akamaihd.net/ugc/1619563003222744326/8840BB650FDCF18FC2B080036251E244C96DCCC0/)](https://steamuserimages-a.akamaihd.net/ugc/1619563003222744326/8840BB650FDCF18FC2B080036251E244C96DCCC0/)Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Koszarach. Musimy dopaść imiennych bandytów i przynieść ich głowy Andre:
+[![](https://steamuserimages-a.akamaihd.net/ugc/1619563003222744326/8840BB650FDCF18FC2B080036251E244C96DCCC0/)](https://steamuserimages-a.akamaihd.net/ugc/1619563003222744326/8840BB650FDCF18FC2B080036251E244C96DCCC0/)
+Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Koszarach. Musimy dopaść imiennych bandytów i przynieść ich głowy Andre:
 
 1. **Farhaart** - Aby do niego dotrzeć, należy wyjść przez wschodnią bramę Khorinis i kierować się w lewo(nie idziemy w górę do latarni, tylko cały czas zostajemy na dole). Natrafiamy na jaskinię i kierujemy się w lewą odnogę, aż natrafimy na bandytów.  
 2. **Kurdupel** - Znajduje się on w jaskini z notatką Halvora. Idąc z farmy Akila do Mrocznego Lasu, zbaczamy ze ścieżki i trzymamy się skał po lewej stronie.  
