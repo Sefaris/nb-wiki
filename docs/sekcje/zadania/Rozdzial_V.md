@@ -19,7 +19,7 @@ Mamy trzy osoby które mogą zostać kapitanem Esmeraldy:
 
 ## Powrót do wieży
 
-Pyrokar zleca nam oczyszczenie wieży Xardasa z nieumarłych, co robimy, zyskując tym samym Jorgena jako kapitana statku.
+Po dowiedzeniu się gdzie czai się nieprzyjaciel pytamy się Pyrokara czy możemy wziąć Jorgena, a ten zleca nam oczyszczenie wieży Xardasa z nieumarłych, zabijamy wszystko wliczając bossa na szczycie wieży i wracamy do Pyrokara.
 
 ## Nie można podróżować bez załogi
 
