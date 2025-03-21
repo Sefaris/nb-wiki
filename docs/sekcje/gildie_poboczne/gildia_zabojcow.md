@@ -8,6 +8,7 @@
 __Zleca: Gilian__
 
 Gilian zleca nam zabicie Wambo strażnika z górnego miasta. Najlepiej to zrobić w nocy w ustronnym miejscu, czyli po 22:30 za domem paladynów.
+> Zadanie dostępne tylko jeżeli dołączyliśmy w sposób alternatywny jako strażnik miejski.
 
 ## Gaduła
 __Zleca: Asmal__
