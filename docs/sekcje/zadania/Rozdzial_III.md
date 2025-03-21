@@ -124,6 +124,7 @@ Kiedy Erol będzie już w obozie prosi on nas o początkowe zasoby do obozu czyl
 
 Teraz możemy przystąpić do rekrutacji członków do obozu  
 Teraz mamy zorganizować dostawców żywności i górników do wydobywania rudy.  
+
 **Dostawcy żywności:**  
 - Farim i Niclas (od razu, wystarczy zagadać)  
 - Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)  
