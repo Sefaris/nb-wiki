@@ -122,8 +122,7 @@ Zanim zaczniemy rekrutację musimy najpierw udać się do naszego obozu i pogada
 Teraz musimy znaleźć zarządcę. Mogą to być Valeran lub Erol. Polecam Erola, gdyż Valeran przyda wam się do zadania dla kupców. Pytamy się Erola czy zostanie zarządcą obozu, a ten się zgadza, jeśli będziemy go opłacać.  
 Kiedy Erol będzie już w obozie prosi on nas o początkowe zasoby do obozu czyli 5 000 złota, 50 sztuk pieczonego mięsa, 25 ryb i 5 bochenków chleba (pojawi się u Baltrama do kupna)
 
-Teraz możemy przystąpić do rekrutacji członków do obozu  
-Teraz mamy zorganizować dostawców żywności i górników do wydobywania rudy.  
+Teraz Erol mówi nam, że mamy zorganizować więcej ludzi: 
 
 **Dostawcy żywności:**  
 - Farim i Niclas (od razu, wystarczy zagadać)  
