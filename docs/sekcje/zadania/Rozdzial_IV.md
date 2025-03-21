@@ -6,6 +6,11 @@
 
 Zabijamy orków wzdłuż drogi do Khorinis i gadamy z Lobartem.
 
+## Oddziały orków
+
+Orkowie rozpoczynają inwazję na Khorinis. Gadamy z Lordem Hagenem, a następnie z Ingmarem. Naszym celem jest odnaleźć bazę, w której przebywa główny herszt i zabić go. Urzęduje on w jaskini na końcu ścieżki tam gdzie szliśmy na polowanie z Bartokiem. Po zabiciu go gadamy o tym z Ingmarem. Dodatkowo możemy znaleźć przy nim mapę, na której pokazane są wszystkie orkowe patrole na całej wyspie. Możemy więc wyłowić je wszystkie, a pierścienie hersztów zanieść Hagenowi. Od pewnego momentu uzna on, że przynieśliśmy wystarczająco, ale możemy mu je oddawać do końca gry w zamian za expa.
+> Często oddział orków łączyć się będzie z grupą jaszczuroludzi strzegących smoczych jaj. Warto więc pamiętać o zbieraniu ich gdy będziemy polować na orków.
+
 ## Smocze jaja
 
 Po pokazaniu Bennetowi smoczego jaja i zgodzeniu się na sprzedaż daje on nam mapę jaskiń w Khorinis. Od teraz możemy mu je sprzedawać po 350 złota. Zadanie jest nieopłacalne, jako że z jaj możemy zrobić miksturę Embrala Firgasto w 6 rozdziale.
