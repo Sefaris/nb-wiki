@@ -95,9 +95,9 @@ Udajemy się do leża Śniącego, zabijamy nekromantę i odzyskujemy Uriziela. U
 
 ## Szpon Beliara, Artefakty starożytności, Mora Ultaru
 
-Zadanie rozpoczyna się jak pokonamy Kruka na pustyni i pokażemy szpon Złotemu Smokowi.
+Zadanie rozpoczyna po pokonaniu Kruka w koszmarze. Zabieramy szpon z jego zwłok i zanosimy do Ashtara.
 
-Kiedy zdobędziemy szpon pokazujemy go Ashtarowi i musimy zdecydować czy chcemy go używać czy zniszczyć. Zniszczenie szponu daje nam kilka PN i jest zalecane jeżeli gramy paladynem, gdyż posiadanie szponu uniemożliwia posiadanie miecza błogosławionego łzami Innosa.
+Musimy zdecydować czy chcemy go używać czy zniszczyć. Zniszczenie szponu daje nam kilka PN i jest zalecane jeżeli gramy paladynem, gdyż posiadanie szponu uniemożliwia konsekrację miecza łzami Innosa.
 
 Dowiadujemy się również, że na wolność wydostał się demon Senyak - to dla niego szpon został stworzony przez Beliara. Demona trzeba pokonać, jednak musimy zdecydować w jaki sposób. Niezależnie od tego co postanowiliśmy zrobić ze szponem to i tak bardziej opłaca się nam najpierw zdobyć "Mora Ulartu" czyli runę do kradzieży dusz. W tym celu wykonujemy zadanie [Mora Ultaru](#mora-ulartu).
 
