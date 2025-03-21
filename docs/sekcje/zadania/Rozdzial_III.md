@@ -127,10 +127,12 @@ Teraz mamy zorganizować dostawców żywności i górników do wydobywania rudy.
 **Dostawcy żywności:**  
 - Farim i Niclas (od razu, wystarczy zagadać)  
 - Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)  
+
 **Kopacze:**  
 - Wąż (40 retoryki i oddana ruda z zadania "Torba pełna rudy")  
 - Snipes (50 retoryki i oddana ruda z zadania "Torba pełna rudy")  
 - Grimes i jego kumpel (Rozmawiamy z Grimesem, a ten planuje uciec, więc musimy przygotować 3 zwoje snu i przyjść nazajutrz. Na miejscu okazuje się, że były niepotrzebne, więc odprowadzamy ich przed kopalnie łączącą Khorinis z GD. Pojawiają się wtedy przy bramie przełęczy, skąd prowadzimy ich do obozu.  
+
 **Ochroniarze:**  
 - Gayvern (zgodzi się od razu)  
 - Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)  
