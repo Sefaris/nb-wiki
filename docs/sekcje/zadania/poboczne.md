@@ -37,6 +37,7 @@ Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Kos
 __Zleca: Pulpit w piwnicy Klasztoru__
 
 > Wykonanie tego zadania jest wymagane do ukończenia: [Bezgraniczna potęga](#bezgraniczna-potęga).
+> Można je zrobić nawet w 2 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
 
 Czytając pulpit w piwnicy klasztoru magów ognia w pomieszczeniu z Talomonem, dostaniemy wpis do dziennika. Udajemy się teraz do Pyrokara, a następnie do Xardasa, który każe nam przynieść jego zapiski z piętra wieży. Czytamy dziennik i oddajemy go Xardasowi.
 
@@ -62,22 +63,24 @@ Po naładowaniu pojawia się nam nowy wpis i mamy gotową runę na golema. Znajd
 __Zleca: Hokurn__
 
 > Zadanie powiązane z [Ekspedycja Magów Ognia](#ekspedycja-magów-ognia).  
-> Zadanie można zrobić nawet w 2 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
+> Można je zrobić nawet w 2 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
 
-> Trzeba rozpocząć to zadanie przed 4 rozdziałem, jako że później Hokurn zostaje łowcą smoków.
+> Zadanie trzeba rozpocząć przed 4 rozdziałem, jako że później Hokurn zostaje łowcą smoków.
 
-Na farmie Onara spotykamy najemnika Hokurna, który mówi nam o magicznym artefakcie mającym nieograniczoną moc. Historię tą usłyszał od więźnia w Górniczej Dolinie, jednego z nowicjuszy w sekcie na bagnie. Idąc tym tropem kierujemy się do nowego obozu bractwa w Khorinis, gdzie spotykamy Baala Yunikorna, ale żeby pojawił się dialog o artefakcie, musimy mieć na sobie opaskę bractwa i dać mu skręty.
+Na farmie Onara spotykamy najemnika Hokurna, który mówi nam o magicznym artefakcie mającym nieograniczoną moc. Historię tą usłyszał od więźnia w Górniczej Dolinie, jednego z nowicjuszy w sekcie na bagnie. Idąc tym tropem kierujemy się do nowego obozu bractwa w Khorinis, gdzie spotykamy Baala Yunikorna, któremu oferujemy skręty (musimy mieć je w ekwipunku).
 
-W zamian dowiadujemy się, że kiedy był w Starym Obozie podsłuchał przypadkiem rozmowę dwóch starszych strażników, którzy rozmawiali o artefakcie. Teraz pozostaje nam odszukać jednego z tych strażników i znajdujemy go w Jarkendarze obok Thorusa. Nazywa się Kirzharts. Dajemy mu teraz bryłki rudy, a on wysyła nas do magów ognia w Górniczej Dolinie. Idziemy do Miltena, który opowiada nam o zaginionym Lexie. Znajduje się on obok Jaskini Bólu Wykonując misję dla Gomeza, otworzymy sobie wejście do krypty. Wewnątrz na samym dole czytamy książkę na stojaku i dowiadujemy się, że tylko sługa Beliara może nam zdradzić miejsce przechowywania artefaktu. Teraz musimy zdobyć czaszkę demona (np. tego z bagien w Górniczej Dolinie) i położyć ją na piedestale.
+W zamian dowiadujemy się, że kiedy był w Starym Obozie podsłuchał przypadkiem rozmowę dwóch starszych strażników, którzy rozmawiali o artefakcie. Teraz pozostaje nam odszukać jednego z tych strażników, znajdujemy go w Jarkendarze obok Thorusa, nazywa się Kirzharts. Dajemy mu teraz bryłki rudy, a on wysyła nas do magów ognia w Górniczej Dolinie. Idziemy do Miltena, który opowiada nam o zaginionym Lexie. Znajduje się on obok wejścia do Jaskini Bólu niedaleko starej wieży Xardasa. Wejście do jaskini odblokowane zostanie dopiero podczas wykonywania zadania "Antyki" dla gildii kupców w 3 rozdziale. Wewnątrz na samym dole czytamy książkę na stojaku i dowiadujemy się, że tylko sługa Beliara może nam zdradzić miejsce przechowywania artefaktu. Teraz musimy zdobyć czaszkę demona (np. ze starego obozu sekty lub kopalni orków) i położyć ją na piedestale.
 
-Po przyzwaniu kapłanki Beliara Avabyul ,dowiadujemy się, że Beliar pożąda tego artefaktu i jest w stanie nam pomóc, jeśli go oddamy. Avabyul opowiada nam teraz o Janusie Dwulicowym.  
-Znajdujemy go w najbardziej oddalonym miejscu w lokacji Śnieżne Góry Orków (Zobaczcie mapę śnieżnych gór orków w dziale z zadaniami w tej lokacji - Punkt 13) . Stoi przed wielkimi wrotami i pozwoli nam przez nie przejść gdy przyniesiemy mu duszę awatara Beliara. Mowa tu o smoku z Doliny Cieni, Azgalorze lub o Awatarze Beliara z Irdorath.
+Po przyzwaniu kapłanki Beliara Avabyul dowiadujemy się, że Beliar pożąda tego artefaktu i jest w stanie nam pomóc, jeśli go oddamy. Avabyul opowiada nam teraz o Janusie Dwulicowym.  
+Znajdujemy go w najbardziej oddalonym miejscu w lokacji Śnieżne Góry Orków (Patrz mapa śnieżnych gór orków w dziale z zadaniami w tej lokacji - Punkt 13). Stoi przed wielkimi wrotami i pozwoli nam przez nie przejść gdy przyniesiemy mu duszę awatara Beliara. Możemy ją zdobyć z Azgalora - smoka z Doliny Cieni lub z Kruka w koszmarze.
 
-Klikamy w przycisk z przodu ołtarzyka przed Janusem i przechodzimy przez bramę. Nie ma co się wybierać do środka, jeśli nie zrobiliśmy zadania [Ekspedycja Magów Ognia](#ekspedycja-magów-ognia). Z runą z tego zadania idziemy eksplorować jaskinie, gdzie natkniemy się na golema, którego traktujemy runą. Teraz spokojnie przechodzimy przez most. Idziemy po schodach na górę i spotykamy strażnika artefaktu. Niestety artefaktu nie dostaniemy ale możemy wybrać jeden z poniżej wymienionych bonusów:  
-25 siły / 25 zręczności / 50 many i 20 inteligencji / 175 zdrowia i 50 wytrzymałości (4R)  
-35 siły / 25 zręczności / 70 many i 30 inteligencji / 250 zdrowia i 100 wytrzymałości (7R)
+Klikamy w przycisk z przodu ołtarzyka przed Janusem i przechodzimy przez bramę. Dalej warto iść dopiero po naładowaniu runy z zadania [Ekspedycja Magów Ognia](#ekspedycja-magów-ognia). Z runą idziemy eksplorować jaskinie, gdzie natkniemy się na golema, z którym rozmawiamy, a następnie traktujemy runą. Idziemy dalej po schodach na górę i spotykamy strażnika artefaktu. Niestety artefaktu nie dostaniemy ale możemy wybrać jeden z poniżej wymienionych bonusów:  
+- 25 siły i 25 zręczności
+- 50 many i 20 inteligencji
+- 175 zdrowia i 50 wytrzymałości  
 
-Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janus, który okazuje się martwy a dalej stoi kapłanka Beliara. Po krótkiej rozmowie dochodzi do walki, zabijamy ją, a zadanie się kończy.
+Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janus, pokonany przez kapłankę Beliara. Po krótkiej rozmowie dochodzi do walki, zabijamy ją, a zadanie się kończy.
+> Kapłanka dropi najsileniejszą szablę w grze. 
 
 ## Świątynia Śniącego
 __Zleca: Xardas__
