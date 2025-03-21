@@ -52,7 +52,7 @@ Aby otrzymać to zadanie musimy dostarczyć truciznę Constantino oraz wykonać 
 > Przed wykonaniem tych zadań powinieneś najpierw ukończyć zadanie "Polny drapieżnik", które zleca Akil w trakcie wykonywania zadania "Polowanie na rzadkie potwory" od Falka.
 
 Kilka dni po wykonaniu zadań z trucizną i zwojami zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek rozmawiamy z Zurisem i udajemy się do domu Ignaza. Za płotem znajdujemy pustą butelkę bo truciźnie, pokazujemy ją Constantino i zgadzamy się mu pomóc.
-Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre. Wybór nie ma znaczenia, gdyż nagrody są takie same.
+Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre. Wybór nie ma znaczenia, gdyż nagrody są podobne.
 > Dla dodatkowego doświadczenia możemy również porozmawiać z Kardifem, Coragonem i Constantino zaraz po rozpoczęciu zadania u Lorda Andre.
 
 ## Wygnany farmer
@@ -62,6 +62,7 @@ Sekob mówi nam, że jego dom zajęli zakapturzone typy. Zabijamy i wracamy do S
 ## Kryształy duszy
 
 Zadanie zleca Xardas jak przyniesiemy mu jeden kryształ duszy. Wypadają one z Mrocznych Strażników, których znajdziemy min. na Pustyni Adanosa i w kopalniach ze sferami. Oddajemy kryształy i dostajemy specjalną miksturę podnoszącą statystyki.
+> Od tej pory możemy oddawać kryształy przy kaplicy Beliara za 5hp każdy.
 
 ## Samotność Bengara
 
@@ -70,7 +71,7 @@ Najpierw udajemy się do Wilka i oferujemy mu pracę na farmie Bengara, ten się
 
 ## Rogi cieniostwora dla Bustera
 
-Buster będzie od nas skupywał rogi cieniostwora za złoto i expa. Zadanie kończy się w 5 rozdziale, gdy już od nas nie skupuje.
+Buster będzie od nas skupował rogi cieniostwora za złoto i expa. Zadanie kończy się wraz z wejściem do 5 rozdziału, Buster przestaje wtedy skupować.
 
 ## Torlofa strach przed złym
 
@@ -102,7 +103,7 @@ Następnie dajemy je Serpentesowi i mówimy Salandrilowi, że stanie przed sąde
 
 ## Mroczna sieć
 
-Zadanie zleca Hagen, po wyciągnięciu Benneta z więzieniu. Musimy się dowiedzieć, kto stoi za morderstwem Lothara. Podnosimy pierścień spod mostu przy południowej bramie i udajemy się z nim do Vatrasa. Idziemy również do Hodgesa, który da nam zwój, pod warunkiem że mamy 50 retoryki. Teraz ponownie udajemy się do Vatrasa, który nazajutrz tworzy dla nas runę teleportacyjną do wieży maga. W środku eliminujemy silnego bossa i używamy runy, którą się tutaj przenieśliśmy. Wracamy zdać relacje Hagenowi.
+Zadanie zleca Hagen, po wyciągnięciu Benneta z więzienia. Musimy się dowiedzieć, kto stoi za morderstwem Lothara. Podnosimy pierścień spod mostu przy południowej bramie i udajemy się z nim do Vatrasa. Idziemy również do Hodgesa, który da nam zwój, pod warunkiem że mamy 50 retoryki. Teraz ponownie udajemy się do Vatrasa, który nazajutrz tworzy dla nas runę teleportacyjną do wieży maga. W środku eliminujemy silnego bossa i używamy runy, którą się tutaj przenieśliśmy. Wracamy zdać relacje Hagenowi.
 
 ## Ogniem i mieczem
 
@@ -112,17 +113,13 @@ Hagen zleca nam oczyszczenie ze zła obozu Dextera. Idziemy tam zabijamy poszuki
 
 ## Moja posiadłość
 
-Jest to wątek z naszym obozem. Po oczyszczeniu obozu Dextera Hagen chce nam dać na własność obóz i okoliczne kopalnie. Najpierw musimy dogadać się z Onarem, odda nam on obóz jak zapłacimy albo za darmo jak mamy 50 retoryki. Jak już uzyskamy zgodę Onara idziemy do Hagena i dostajemy dokument poświadczający, że obóz należy do nas, a także kilku ludzi do pomocy.
-
-## Co z kopalnią?
-
-Musimy się dowiedzieć czy w kopalni w naszym obozie jest magiczna ruda. Idziemy do Węża i prowadzimy go do kopalni. Wąż mówi że w kopalni nadal jest ruda oraz żeby załatwić ludzi, aby można było wznowić wydobycie. Idziemy teraz do Hagena i mówimy o rudzie i przystajemy na jego ofertę za bryłkę rudy.
+Po oczyszczeniu obozu Dextera Hagen chce nam dać na własność obóz i okoliczne kopalnie. Najpierw musimy dogadać się z Onarem, odda nam on obóz jak zapłacimy albo za darmo jak mamy 50 retoryki. Jak już uzyskamy zgodę Onara idziemy do Hagena i dostajemy dokument poświadczający, że obóz należy do nas, a także kilku ludzi do pomocy.
 
 ## Ludzie do obozu
 
-Zanim zaczniemy rekrutację musimy najpierw udać się do naszego obozu i zagadać ze strażnikiem oraz pokazać mu akt własności, a także ustalić hasło.
+Zanim zaczniemy rekrutację musimy najpierw udać się do naszego obozu i pogadać ze strażnikiem na moście.
 
-Teraz musimy znaleźć zarządcę. Mogą to być Valeran albo Erol. Polecam Erola, gdyż Valeran przyda wam się do zadania dla kupców. Pytamy się Erola czy zostanie zarządcą obozu, a ten się zgadza, jeśli będziemy go opłacać.  
+Teraz musimy znaleźć zarządcę. Mogą to być Valeran lub Erol. Polecam Erola, gdyż Valeran przyda wam się do zadania dla kupców. Pytamy się Erola czy zostanie zarządcą obozu, a ten się zgadza, jeśli będziemy go opłacać.  
 Kiedy Erol będzie już w obozie prosi on nas o początkowe zasoby do obozu czyli 5 000 złota, 50 sztuk pieczonego mięsa, 25 ryb i 5 bochenków chleba (pojawi się u Baltrama do kupna)
 
 Teraz możemy przystąpić do rekrutacji członków do obozu  
@@ -146,5 +143,9 @@ Po zebraniu powyższych osób Erol prosi o znalezienie uzdrowicielki, którą oc
 
 Ostatnie zadanie w obozie polega na znalezieniu schematu zbroi. Znajdziemy go w Opuszczonej Kopalni, tam gdzie Płomień Eligora dla gildii kupców.  
 Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
+
+## Co z kopalnią?
+
+Musimy się dowiedzieć czy w kopalni w naszym obozie jest magiczna ruda. Idziemy do Węża i prowadzimy go do kopalni. Wąż mówi że w kopalni nadal jest ruda oraz żeby załatwić ludzi, aby można było wznowić wydobycie. Idziemy teraz do Hagena i mówimy o rudzie i przystajemy na jego ofertę.
 
 > Na tym kończy się wątek naszego obozu. Jeśli mamy wystarczającą ilość kopaczy, to będzie on przynosił zyski, więc co jakiś czas możemy odbierać rudę/złoto
