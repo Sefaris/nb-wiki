@@ -99,7 +99,7 @@ Zadanie rozpoczyna po pokonaniu Kruka w koszmarze. Zabieramy szpon z jego zwłok
 
 Musimy zdecydować czy chcemy go używać czy zniszczyć. Zniszczenie szponu daje nam kilka PN i jest zalecane jeżeli gramy paladynem, gdyż posiadanie szponu uniemożliwia konsekrację miecza łzami Innosa.
 
-Dowiadujemy się również, że na wolność wydostał się demon Senyak - to dla niego szpon został stworzony przez Beliara. Demona trzeba pokonać, jednak musimy zdecydować w jaki sposób. Niezależnie od tego co postanowiliśmy zrobić ze szponem to i tak bardziej opłaca się nam najpierw zdobyć "Mora Ulartu" czyli runę do kradzieży dusz. W tym celu wykonujemy zadanie [Mora Ultaru](#mora-ulartu).
+Dowiadujemy się również, że na wolność wydostał się demon Senyak - to dla niego szpon został stworzony przez Beliara. Demona trzeba pokonać, jednak musimy zdecydować w jaki sposób. Niezależnie od tego co postanowiliśmy zrobić ze szponem to i tak bardziej opłaca się nam najpierw zdobyć "Mora Ulartu" czyli runę do kradzieży dusz. W tym celu wykonujemy zadanie [Mora Ulartu](#mora-ulartu).
 
 Oprócz tego Ashtar proponuje nam stworzenie kolejnej runy zwanej "krzyż żywiołów", która to potrafi natychmiast zabić prawie każde stworzenie i można jej użyć tylko 1 raz. Do stworzenia jej potrzebujemy 4 sfer żywiołów:
 - Sfera ognia w Starej Kopalni (obok kopalni Marcosa)  
