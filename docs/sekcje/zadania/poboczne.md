@@ -126,7 +126,9 @@ Udajemy się do Xardasa i pytamy o runę, ten nam mówi że Beliar dam nam runę
 > Zabicie paladynów jest bardziej opłacalną opcją, jeżeli jednak nie chcemy tego robić to polecam zaopatrzyć się w miksturę niewidzialności.
 
 Jeśli chcemy uzyskać amulet w "pokojowy" sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie mogą tego zrobić paladyn i mag ognia). Przed modlitwą zapisz grę.  
-> Jeżeli nie zniszczyłeś szponu, ani go jeszcze nie posiadłeś za karmę to pamiętaj by wyrzucić go z ekwipunku przed modlitwą o pomoc. Pojawia się Zigos, który po krótkiej rozmowie zgadza się na pomóc, jeśli zabijemy szalonego Fellangora, który kiedyś był sługą Beliara. Fellangor potrafi przybierać formę innych ludzi, dlatego dostajemy od Zigosa amulet, który zakładamy przed każdą rozmową z Fellangorem.
+> Jeżeli nie zniszczyłeś szponu, ani go jeszcze nie posiadłeś za karmę to pamiętaj by wyrzucić go z ekwipunku przed modlitwą o pomoc.
+
+Pojawia się Zigos, który po krótkiej rozmowie zgadza się na pomóc, jeśli zabijemy szalonego Fellangora, który kiedyś był sługą Beliara. Fellangor potrafi przybierać formę innych ludzi, dlatego dostajemy od Zigosa amulet, który zakładamy przed każdą rozmową z Fellangorem.
 
 Fellangor objawia się jako:  
 Fellan - W spalonej chacie, między Martwą Harpią, a wykopaliskami magów wody \[Cały dzień\]
