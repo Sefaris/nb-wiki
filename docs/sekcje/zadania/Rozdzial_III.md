@@ -1,6 +1,6 @@
 # Zadania - Rozdział 3
 
-> Przed wejściem do tego rozdziału należy ukończyć zadanie "Horror na cmentarzu". Warto się także przygotować na jego krótkie trwanie, jako że nie opłaca się w nim siedzieć, ze względu na mocny ekwipunek w 4 rozdziale
+> Przed wejściem do tego rozdziału należy ukończyć zadania "Horror na cmentarzu", "Ranny ork", "Głodny skazaniec". Warto się także przygotować na jego krótkie trwanie, jako że nie opłaca się w nim siedzieć, ze względu na mocny ekwipunek w 4 rozdziale
 
 ## Złoto Diega
 
@@ -24,7 +24,7 @@ Lobart mówi nam, że jego żona zachorowała i mamy udać się po lekarstwo do 
 
 ## Ktoś coś zgubił?
 
-> Zwiadowca może te zadanie zrobić dopiero w 4 rozdziale, pozostali w 3
+> Zwiadowca może to zadanie zrobić dopiero w 4 rozdziale, pozostali w 3
 
 Hanna mówi, że przypadkiem sprzedała ważne dokumenty kartografowi w porcie. Idziemy do Brahima, odkupujemy starą mapę i oddajemy Hannie.
 
@@ -32,7 +32,7 @@ Hanna mówi, że przypadkiem sprzedała ważne dokumenty kartografowi w porcie. 
 
 ## Obawy Sagitty
 
-> UWAGA: Zadanie należy zrobić w 3 rozdziale , w 4 akcie będzie martwa.
+> UWAGA: Zadanie należy zrobić w 3 rozdziale, w 4 akcie będzie martwa.
 
 Sagitta martwi się o zakapturzone postaci w okolicy. Idziemy do Lee i prosimy o ochronę dla Sagitty.
 
@@ -42,14 +42,14 @@ Babo mówi nam, że Igaraz posiada jego prywatne dokumenty i szantażuje go. Idz
 
 ## Złodzieje owiec
 
-Akil mówi, że bandyci kradną owce z jego farmy. Znajdują się oni w jaskini tam gdzie wcześniej byli bandyci z notatką Halvora.
+Akil mówi, że bandyci kradną owce z jego farmy. Znajdują się oni w jaskini tam gdzie wcześniej byli bandyci z notatką Halvora. Idź ścieżką w głąb lasu, na lewo będzie jaskinia.
 
 ## Tajemnicze morderstwo
 
 Aby otrzymać to zadanie musimy dostarczyć truciznę Constantino oraz wykonać zadanie dla Karrasa z trzema zwojami zapomnienia.  
-Zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek porozmawiamy z Constantino, następnie z Kardifem, Coragonem i Zurisem. Po rozmowach udajemy się do domu Ignaza i za płotem znajdujemy pustą butelkę bo truciźnie. Pokazujemy ją Constantino i alchemik zgadza się pomóc.  
-Rozmawiamy ze strażnikiem wschodniej bramy i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre.  
-Lepiej jest kryć Karrasa i udać się do niego po nagrodę
+Zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek rozmawiamy z Zurisem i udajemy się do domu Ignaza. Za płotem znajdujemy pustą butelkę bo truciźnie, pokazujemy ją Constantino i zgadzamy się mu pomóc.
+Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre. Wybór nie ma znaczenia, gdyż nagrody są takie same.
+> Dla dodatkowego doświadczenia możemy również porozmawiać z Kardifem, Coragonem i Constantino zaraz po rozpoczęciu zadania u Lorda Andre.
 
 ## Wygnany farmer
 
