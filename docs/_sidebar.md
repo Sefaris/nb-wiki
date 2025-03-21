@@ -7,8 +7,6 @@
 - [Rozdział III](Sekcje/Zadania/Rozdzial_III.md)
 - [Rozdział IV](Sekcje/Zadania/Rozdzial_IV.md)
 - [Rozdział V](Sekcje/Zadania/Rozdzial_V.md)
-- [Rozdział VI](Sekcje/Zadania/Rozdzial_VI.md)
-- [Rozdział VII](Sekcje/Zadania/Rozdzial_VII.md)
 - [Poboczne](Sekcje/Zadania/Poboczne.md)
 - [Domyślnie wyłączone](Sekcje/Zadania/Wylaczone.md)
 
