@@ -6,9 +6,9 @@ Cała lokacja Khorinis została zalana przez nieumarłych. Najpierw walczymy z n
 
 Idziemy do Pyrokara, a ten daje nam klucze do trzech grobowców paladynów:
 
-1. Ulzar w jaskini przy cmentarzu obok tawerny Orlana
-2. Mirrat w jaskini pomiędzy Grimbaldem, a słonecznym kregiem
-3. Inubis na cmentarzu za farmą Onara
+- Ulzar w jaskini przy cmentarzu obok tawerny Orlana
+- Mirrat w jaskini pomiędzy Grimbaldem, a słonecznym kregiem
+- Inubis na cmentarzu za farmą Onara
 
 Po zabiciu Panów cienia idziemy do Pyrokara. Okazuje się, że plaga się nie skończyła, więc idziemy do Hagena, który opowiada nam o upadłym paladynie Ginnoku.  
 Grobowiec Ginnoka znajduje w jaskini w kotlince niedaleko wschodniej bramy Khorinis.
