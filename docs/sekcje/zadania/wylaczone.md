@@ -266,3 +266,166 @@ Musimy porozmawiać z naszą załogą w sprawie powrotu na Khorinis (nie zapomin
 ## Zebranie Załogi
 
 Mówimy o wypłynięciu z tym co pozostali jeszcze na brzegu, a następnie idziemy do kapitana i do kajuty.
+
+
+# Zadania - Rozdział 7
+
+## Wojna z orkami
+
+Jak tylko wrócimy z zapomnianej wyspy do Khorinis w naszej kajucie pojawi się Pyrokar, powie on nam że miasto padło a pozostałe miejsca na wyspie są oblegane. Da nam kilka run i każe udać się do Lorda Hagena. Robimy zadanie Pułapka a następnie udajemy się do fortu Azgan i gadamy z lordem Hagenem,który teraz się tam przeniósł z pozostałymi paladynami. Mamy zbadać sytuację paladynów w GD. T tym celu robimy zadanie Paladyni w Górniczej Dolinie i wracamy do Hagena i zdać relację. Teraz mamy zebrać armię do walki z orkami, a będą to :
+
+1. Magowie Ognia
+2. Myśliwi (Po zadaniu Zbroje dla myśliwych)
+3. Magowie Wody (Po zadaniu Rytuał oświecenia)
+4. Piraci (Po zadaniu Warunek Piratów)
+5. Najemnicy (Po zadaniu Broń z rudy dla najemników)
+6. Obóz Bractwa (Po zadaniu Przewaga szybkości)
+7. Diego i Cavalorn (Po zadaniach Niezawodni ludzie i Pomoc dla Cavalorna)
+
+Mówimy teraz Hagenowi, że wojska już zebrane. Czekamy teraz dzień, aż wszyscy się ustawią. Gadamy z Hagenem, a potem Lee, który mówi nam, że orkowie są nieśmiertelni. Musimy teraz wykonać zadanie "Potężni patronowie orków".  
+Teraz dochodzi do walki, z której oczywiście wychodzimy zwycięsko, a pod koniec gadamy z Lee.
+
+## Pułapka
+
+Zadanie otrzymujemy od Pyrokara. Po powrocie na Khorinis mag mówi nam, że miasto zostało podbite przez orków, a tylko Klasztor i Farma Onara odpierają ataki orków. Uprzedza nas też, że przebicie się przez miasto jest niemożliwe. Teraz możemy rozdzielić runy od Pyrokara między naszych towarzyszy, ale nie starczy dla wszystkich. Inni powinni się jakoś przebić przez hordy orków, ale niektórzy mogą także trafić do niewoli.(będą w celi w koszarach)
+
+## Niewinny
+
+Jeśli oszczędziliśmy Pedro na dworze Irdorath, to zgodziliśmy się wstawić za nim u Pyrokara. Idziemy teraz do Pyrokara i ten zgodzi się przebaczyć Pedrowi jeśli zapłacimy 5 000 złota.
+
+## Zadanie na zbieranie armii do wojny z orkami
+
+## Zbroje dla myśliwych
+
+Pytamy Falka o pomoc w walce z orkami, a ten zgodzi się jeśli przyniesiemy mu zbroje z pancerzy pełzaczy dla pozostałych myśliwych. Potrzebujemy 10 zbroi (100 płytek z pancerzy pełzacza). Idziemy do Wilka i dowiadujemy się, że przepis na nią jest w Górniczej Dolinie w dawnym  
+Nowym Obozie. Idziemy do leża lodowego smoka i otwieramy skrzynię kluczem od najemnika.  
+Jeśli nie mamy płytek, 50 sprzeda nam Raff, a 50 strażnik świątynny w obozie Netbeka.  
+Wykonujemy zbroje i oddajemy je Falkowi.
+
+## Przewaga szybkości
+
+Gadamy z Baal Orunem, a następnie z Gor na Koshem. Zgodzą się na dołączenie do wojny, jeśli przyniesiemy im 50 mikstur szybkości. (Mogą być też szybkie śledzie)
+
+## Broń z rudy dla najemników
+
+Idziemy do Lee. Najemnicy dołączą do wojny, jeśli przyniesiemy im broń z rudy. Idziemy do Hagena i dostajemy recepturę na miecze z magicznej rudy.  
+Idziemy znowu do Lee i pytamy ile potrzebuje mieczy. Kujemy 30 mieczy i oddajemy Lee.
+
+## Zaufani ludzie
+
+Gadamy z Diego na farmie Onara. Mówi nam, że chciałby skorzystać z pomocy starych przyjaciół. Idziemy na farmę Akila, gdzie gadamy z Thorusem i Scattym. Obok mostu przy farmie Akila będzie Cavalorn dla którego wykonujemy poniższe zadanie, po czym wracamy do Diego.
+
+## Pomoc dla Cavalorna
+
+Cavalorn prosi nas o pomoc w dostaniu się do farmy Onara. Wystarczy się tam teleportować, a Cavalorn powinien pojawić się w pobliżu.
+
+
+## Dziwne rzeczy
+
+Zadanie pojawi się w dzienniku jak uderzymy orka albo podejdziemy do jednego z posągów opiekunów. Zadanie się kończy jak pogadamy na ten temat z Pyrokarem.
+
+## Potężni patroni orków
+
+Po zebraniu armii na farmie Onara przed bitwą Lee mówi nam, że na orkach ciąży jakaś magia, przez co są nieśmiertelni. Idziemy do Pyrokara, a następnie do Netbeka, czekamy dzień i Netbek powie nam o stworzeniach żywiołów. **Golemy pojawią się dopiero po zabiciu Śniącego**  
+Musimy teraz zabić trzy golemy żywiołów, które znajdują się tam gdzie smoki kamienny, ognisty i lodowy. Po ich zabiciu wracamy do Lee.
+
+## Wola Beliara
+
+Beliar da nam swoją moc jak zabijemy Ur-Thralla. Zabijamy wodza orków, a potem modlimy się do kapliczki Beliara.
+
+## Wola Innosa
+
+Do walki z nim dochodzi po pokonaniu śniącego. Należy wybrać opcję, że nie oddasz mu serca podczas dialogu.# Khorinis Cz. 2
+
+## Bij zabij
+
+Po bitwie Hagen zleca nam wybicie pozostałych orków. Wystarczy wybić tych, którzy znajdują się przy farmie Sekoba, a zadanie samo się zakończy jak wybijecie odpowiednią ilość orków.
+
+## Magia runiczna
+
+Po bitwie Pyrokar mówi że jego runy nie działają, idziemy teraz po pytać innych, pytamy jednego z magów ognia, magów wody, guru, paladynów. Teraz sami próbujemy użyć runy okazuje się że działa. Wracamy do Pyrokara, który mówi nam że działa, tylko nasza magia ze względu na to że mamy błogosławieństwo bogów.
+
+## Oblężenie klasztoru
+
+Zadanie się pojawia w rozmowie z Pyrokarem. Wystarczy pójść i wybić wszystkich orków w okolicach klasztoru, po czym poinformować o tym Pyrokara.
+
+## Wyzwolenie Khorinis
+
+Zadanie zleca Hagen. Wystarczy wybić wszystkich orków w mieście łącznie z ich dowódcą w ratuszu. Po wszystkim wracamy do Hagena.
+
+## Wiadomość dla króla
+
+Po wyzwoleniu Khorinis rozmawiamy z Hagenem, nadszedł moment by udać się na kontynent. Musimy znaleźć kapitana i zebrać załogę. Kapitanem będzie Greg. Co do załogi to zabieramy wszystkich kompanów tj. Diega, Miltena, Gorna, Lee, Thorusa itd  
+Teraz udajemy się na statek i gadamy z kapitanem.
+
+## GRATULACJE UKOŃCZYŁEŚ WŁAŚNIE MODA!!!.
+
+# Jarkendar
+
+## Wiadomość o niebezpieczeństwie
+
+Zadanie daje nam Vatras, przebywający w klasztorze. W tym zadaniu musimy ostrzec Saturasa o orkowych hordach w Khorinis. Lepiej to zadanie wykonać podczas zbierania armii do wojny z orkami, czyli po zrobieniu zadania Paladyni w górniczej dolinie.
+
+## Warunek piratów
+
+Zadanie daje Greg, który dołączy do paladynów w zamian za statek. Idziemy do Hagena, który się zgadza, więc wracamy do Grega i czekamy dzień na odpowiedź piratów, którzy zgadzają się bez problemu.
+
+## Rytuał oświecenia
+
+Rozmawiamy z Saturasem na temat pomocy w walce z orkami. Saturas wysyła nas najpierw do biblioteki uczonych, aby znaleźć Riordiana. Idziemy do biblioteki i okazuje się, że Riordian nie żyje i po śmierci stał się zombie. Zabijamy go i zabieramy z ciała artefakt, po czym wracamy ze złymi wieściami do Saturasa. Teraz udajemy się do świątyni Adanosa i rozpoczyna się rytuał oświecenia w trakcie będzie nas atakować kilka fal wrogów, a na końcu boss demon.  
+Po skończeniu rytuału gadamy z Saturasem i Magowie Wody oficjalnie dołączają do wojny.  
+UWAGA: Riordiana można wskrzesić przy pulpicie w piramidzie prawdy na pustyni Adanosa, ale nie pojawi się on już w grze.
+
+# Górnicza Dolina
+
+## Paladyni w górniczej dolinie
+
+Lord Hagen prosi nas byśmy udali się do Górniczej doliny i zbadali sytuację paladynów. Idziemy do GD schodzimy w dół przełęczy i spotykamy grupę paladynów Nathana. Gadamy z Nathanem i okazuje się ze zamek padł, mamy teraz dwie opcje:
+
+1. Przygotowujemy szturm na zamek. W tym celu musimy zapewnić sobie wsparcie łowców smoków, którzy znajdują się w jaskini obok wodospadu. Teraz robimy zadanie Szturm na zamek.
+
+2. Uwalniamy paladynów w sposób pokojowy. Zakładamy Ulu mulu i idziemy do zamku, gdzie gadamy z Garondem, który znajduje się w więzieniu.  
+   Następnie gadamy z Ur-Shakiem, który znajduje się w siedzibie magów ognia. Ur-Shak powie nam, że przywódca Hag-Tar chce obalić Ur-Thralla. Idziemy do przywódcy zamku i teraz mamy trzy opcje. W zależności od naszego wyboru, wykonujemy zadania:  
+   Zlecenie Hag-Tara / Śmiertelny pojedynek / Przywódca orków  
+   W każdym razie po wybraniu jednego ze sposobów Hag-Tar zgadza się na uwolnienie paladynów, więczabieramy Garonda i innych na przełęcz (polecam otworzyć sobie bramę, bo wydostanie paladynów przez taran jest upierdliwe)  
+   Odprowadzamy Garonda do Nathana, po czym zabijamy grupkę orków obok przejścia do Khorinis. Teraz przenosimy się do Khorinis i idziemy do bramy na przełęczy, gdzie napotkamy paladynów walczących z orkami, którym oczywiście pomagamy.
+
+## Ocaleni
+
+Nathan zleca nam uwolnienie paladynów z zamku. Robimy jak w zadaniu wyżej. Zadanie się kończy po sprowadzeniu paladynów do Khorinis i rozmowie z Nathanem.
+
+## Szturm na zamek
+
+Mówimy Nathanowi o szturmie na zamek. Paladyn mówi, że przydałoby się więcej ludzi. Idziemy do łowców smoków, którzy znajdują się w jaskini obok wodospadu. Po walce z orkami rozmawiamy z Kurganem i mówimy, aby dołączyli do paladynów podczas szturmu na zamek. Możemy zagrozić Kurganowi, że wydamy orkom położenie łowców smoków albo zapłacić mu 50 000 złota. Polecam pierwszą opcję gdyż nie będzie żadnych konsekwencji. Teraz szturmujemy zamek i odbijamy paladynów.
+
+## UWAGA: Trzy zadania niżej są jeśli wybierzemy pokojowe uwolnienie paladynów, można wykonać tylko jedno z nich, w zależności która opcję wybierzemy.
+
+## Zlecenie Hag tara
+
+Hag-Tar zleca nam zabicie łowców smoków, którzy znajdują się w jaskini obok wodospadu. Zabijamy i wracamy do Hag-Tara. Okazuje się, że ork nas oszukał i pozostaje szturmem odbić zamek.
+
+## Śmiertelny pojedynek
+
+Po wybraniu dialogu ze złotem, mamy stoczyć pojedynek z Hag-Tarem w leżu ognistego smoka. Po pokonaniu orka poprosi nas on milczeniu o jego porażce. Zgadzamy się, a zamian Hag-Tar uwolni paladynów i da nam orkową miksturę.
+
+## Przywódca orków
+
+W rozmowie z Ur-Shakiem dowiemy się, że Hag tar planuje obalić Ur-Thralla. Idziemy do przywódcy orków i dostajemy zadania zabić Ur-Thralla,  
+Teraz idziemy do miasta orków i informujemy go o zdradzie Hag tara. Ur-Thrall daje nam totem siły i teraz mamy dwie opcje :
+
+1. Dajemy totem Hag-Tarowi po czym ten uwolni paladynów, a Ur-Thrall nie będzie zachwycony.
+2. Zabijamy Hag-Tara w uczciwym pojedynku, oddajemy totem Ur-Thrallowi po czym ten sam uwolni paladynów.
+
+## Dług honoru
+
+Zadanie otrzymujemy od Nathana. Po wykonaniu zadania "Ocalali" będąc już w Khorinis rozmawiamy z Udarem. Paladyn proponuje nam pomoc w spłaceniu długu honoru Nathana. Następnie rozmawiamy z Nathanem i prowadzimy go do cmentarza obok Martwej Harpii. Zobaczymy tam Udara walczącego z orkami, więc pomagamy paladynowi. Po zabiciu orków wystarczy pogadać z Udarem i Nathanem, a zadanie się kończy.
+
+## Śniący
+
+Zadanie pojawia się w dzienniku po rozmowie z Nekromantą w Świątyni Śniącego.  
+Kiedy pytamy Netbeka o potężnych patronów orków powie on nam, że cały obóz cierpi na bóle głowy. Idziemy teraz do Świątyni Śniącego, przebijamy się przez nowych wrogów do leża, gdzie okazuje się, że Śniący powrócił. Zostaniemy uśpieni, więc czekamy aż Bezi wstanie po czym uciekamy ze świątyni. Idziemy do Netbeka, a ten wysyła nas do Kreola. Kreol w zamian za pomoc w walce żąda serca Śniącego, więc się na to zgadzamy. Kreol stworzy dla nas runę przyzwania Eligora, ale potrzebujemy do tego ofiary.Musimy dać jeden z trzech artefaktów:  
+Oko Innosa (jeśli nie jesteśmy magiem ognia albo paladynem)  
+Koronę Adanosa(jeśli nie jesteśmy magiem wody)  
+Maskę Śniącego
+
+Czekamy dzień i Kreol daje nam runę wezwania Eligora. Idziemy teraz do pentagramu w Starej Wieży Xardasa i wzywamy Eligora. Demon da nam koronę demonów w zamian za połowę naszych punktów życia. Zgadzamy się, zakładamy koronę i ruszamy do walki ze Śniącym. Walka z nim jest prosta, jako że z takim ekwipunkiem nie wyrządza on nam większych szkód. Po zabiciu demona idziemy do Netbeka, a potem do Kreola.
