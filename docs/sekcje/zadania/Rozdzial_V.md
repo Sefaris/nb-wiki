@@ -50,23 +50,3 @@ Jak sama nazwa zadania wskazuje, zbieramy ekipę do wypłynięcia na Irdorath. W
 11. Girion (port Khorinis)
 12. Biff (jaskinia w GD, w której zatrzymali się łowcy smoków, obok wodospadu, następnie wejście na przełęcz w Khorinis)
 13. Mario (karczma portowa w Khorinis)
-
-
-
-
-
-# Jarkendar
-
-
-
-## Oczyść teleporty z nieumarłych
-
-Zadanie zleca Saturas. Po prostu mamy pozbyć się nieumarłych przy kamieniach teleportujących po jednej i drugiej stronie.
-
-## Główny kapłan budowniczych
-
-Zadanie daje Rademes, mamy zabić Kardimona, który znajduje się w bibliotece w kanionie. Zakładamy koronę Adanosa, zabijamy Kardimona i wracamy do Rademesa.
-
-## Klątwa starożytnych
-
-Zadanie pojawia się w rozmowie z Rademesem, mamy zdjąć klątwę z pradawnych. Idziemy do “wielkiej piramidy” na Pustyni Adanosa, a dokładniej do Czyśćca Adanosa. Wchodzimy z nim w interakcje, a klątwa zostaje zdjęta (pod warunkiem, że zrobiliśmy Koszmar Kruka)
