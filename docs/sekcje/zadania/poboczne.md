@@ -109,8 +109,9 @@ Oprócz tego Ashtar proponuje nam stworzenie kolejnej runy zwanej "krzyż żywio
 
 Teraz idziemy do Smoka, który uczy nas jak zrobić runę, oddaje nam również swoje serce będące jej składnikiem poświęcajac tym samym swoje życie.
 
-Mając Mora Ulartu możemy ukraść duszę demona by następnie uwięzić ją w szponie Beliara ulepszając go. Można również oddać ją Beliarowi w zamian za HP jeżeli zniszczyliśmy szpon. Musimy jednak pokonać demona w sposób konwencjonalny.
-Zabicie Senyaka przy pomocy krzyża żywiołów niszczy jego duszę sprawiając, że nie możemy jej ukraść.
+Mając Mora Ulartu możemy ukraść duszę demona by następnie uwięzić ją w szponie Beliara ulepszając go. Można również oddać ją Beliarowi w zamian za HP jeżeli zniszczyliśmy szpon. Musimy jednak wtedy pokonać demona w sposób konwencjonalny.
+
+Zabicie Senyaka przy pomocy krzyża żywiołów niszczy jego duszę sprawiając, że nie możemy jej ukraść. Oznacza to więc wybór pomiędzy łatwą walką bez nagrody w postaci duszy demona lub lepszą nagrodą za trudniejszą walkę i wysiłek wynikający ze zdobywania Mora Ulartu. 
 
 Zadanie jest trochę pogmatwane. Jeżeli nie wiesz na co się zdecydować to najwięcej korzyści uzyskasz gdy: 
 1. zdobędziesz Mora Ulartu zabijając przy tym wszystkich paladynów z Etlu
