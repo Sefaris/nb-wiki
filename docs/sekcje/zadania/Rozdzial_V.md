@@ -2,8 +2,8 @@
 
 ## Sekob tęskni za żoną
 
-Sekob mówi że gdzieś przepadła jego żona, prosi o jej znalezienie i sprowadzenie z powrotem na farmę. Rosi znajduje się z Tilem na drodze z tawerny Orlana do jeziora (niedaleko jaskini Sagitty).  
-W rozmowie zdradzi nam, że nie mogła wytrzymać z mężem i uciekła. Poprosi cię o odprowadzenie w bezpieczne miejsce (patrz zadanie :Ucieczka Rosi ). Możemy przyprowadzić ją do Sekoba i wykonać to zadanie, ale bardziej opłaca się spełnić jej prośbę.
+Sekob mówi że gdzieś przepadła jego żona, prosi o jej znalezienie i sprowadzenie z powrotem na farmę. Rosi znajduje się z Tilem na drodze z tawerny Orlana do jaskini Sagitty.  
+W rozmowie zdradzi nam, że nie mogła wytrzymać z mężem i uciekła. Poprosi cię o odprowadzenie w bezpieczne miejsce. Po odprowadzeniu jej rozmawiamy z Sekobem.
 
 ## Ucieczka Rosi
 
@@ -11,11 +11,11 @@ Na drodze z tawerny Orlana do jeziora spotkamy Rosi. Powie nam, że już nie mog
 
 ## Kto będzie dowodził moim okrętem?
 
-Tutaj mamy trzy osoby które mogą zostać kapitanem Esmeraldy:
+Mamy trzy osoby które mogą zostać kapitanem Esmeraldy:
 
-Jorgen- Pyrokar zgodzi się puścić Jorgena jeśli wykonamy zadanie powrót do wieży  
-Jack - Zgodzi się jak znajdziemy kogoś do pilnowania jego latarni , będzie to Brian czeladnik Harada  
-Torlof- Zgodzi się jeśli wpuścimy orków do zamku w Górniczej Dolinie, a potem zapłacimy 2000 złota (nie polecam).
+- Jorgen - Pyrokar zgodzi się puścić Jorgena jeśli zabijemy nieumarłych w wieży Xardasa.
+- Jack - zgodzi się jak znajdziemy kogoś do pilnowania jego latarni, będzie to Brian czeladnik Harada  
+- Torlof - zgodzi się jeśli wpuścimy orków do zamku w Górniczej Dolinie, a potem zapłacimy 2000 złota. (Opłacalne tylko dla gildii Beliara)
 
 ## Powrót do wieży
 
