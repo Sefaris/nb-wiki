@@ -10,6 +10,10 @@ Diego prosi nas o przyniesienie jego sakiewki ze złotem. Znajdziemy ją w ciele
 
 Diego daje nam list, który mamy przekazać Gerbrandtowi. Idziemy do górnej części miasta i dajemy mu list. Gerbrant wynosi się z domu, mówimy o tym Diego.
 
+## Pedro zdrajca
+
+Zadanie pojawia się w dzienniku gdy dowiadujemy się o kradzieży Oka Innosa. Rozwiązujemy je w 6 rozdziale gdy spotykamy Pedro, niezależnie od tego co z nim zrobimy.
+
 ## Bennet siedzi w więzieniu
 
 Okazuje się, że Bennet jest podejrzany o zabójstwo paladyna Lothara. Teraz gadamy z Hodgesem i Lee po czym idziemy do Hagena. Hagen mówi nam, że Cornelius jest świadkiem, więc idziemy do niego i mamy kilka opcji by zdobyć dziennik. Możemy go pobić, okraść lub wymusić by sam oddał dziennik. W każdym razie czytamy go i mówimy o wszystkim Hagenowi, na koniec udajemy się do Benneta.
