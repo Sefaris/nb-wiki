@@ -146,6 +146,8 @@ Parcival mówi, że jeden z orków próbował dostać się po taranie do zamku, 
 
 W trakcie zadania Ślady Ciemności trafiamy na cienia Świstaka, który chce się wydostać z podziemi zamku. Chodzimy kilka razy między Świstakiem, a Garondem aż misja się zakończy.
 
+# Jarkendar
+
 ## Zemsta Pradawnych
 
 Zadanie zleca Vatras po ukończeniu wątku Mroczny Zakon.  
@@ -165,6 +167,18 @@ Polecam wybrać opcję drugą czyli walkę gdyż dostaniemy więcej doświadczen
 ## Dziwne odgłosy w świątyni
 
 Mitras (mag który był z Myxirem) zleca nam zbadanie dziwnych dźwięków pochodzących z dużej piramidy. Idziemy w nocy do piramidy, zabijamy truposza i wracamy do Mitrasa.
+
+## Oczyść teleporty z nieumarłych
+
+Zadanie zleca Saturas. Po prostu mamy pozbyć się nieumarłych przy kamieniach teleportujących po jednej i drugiej stronie.
+
+## Główny kapłan budowniczych
+
+Zadanie daje Rademes, mamy zabić Kardimona, który znajduje się w bibliotece w kanionie. Zakładamy koronę Adanosa, zabijamy Kardimona i wracamy do Rademesa.
+
+## Klątwa starożytnych
+
+Zadanie pojawia się w rozmowie z Rademesem, mamy zdjąć klątwę z pradawnych. Idziemy do “wielkiej piramidy” na Pustyni Adanosa, a dokładniej do Czyśćca Adanosa. Wchodzimy z nim w interakcje, a klątwa zostaje zdjęta (pod warunkiem, że zrobiliśmy Koszmar Kruka)
 
 ## Chromanin
 
