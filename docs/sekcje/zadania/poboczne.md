@@ -36,8 +36,8 @@ Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Kos
 ## Bezgraniczna potęga
 __Zleca: Hokurn__
 
-> Zadanie powiązane z zadaniem [Ekspedycja Magów Ognia](#ekspedycja-magów-ognia).  
-> Zadania te można zrobić zarówno w Rozdziale 4 jak i 7. Jeśli zrobimy te zadania w 4 rozdziale dostajemy tylko 70% bonusu do statystyk, jeśli w 7 rozdziale dostajemy normalnie 100%.
+> Zadanie powiązane z [Ekspedycja Magów Ognia](#ekspedycja-magów-ognia).  
+> Zadanie można zrobić nawet w 2 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
 
 > Trzeba rozpocząć to zadanie przed 4 rozdziałem, jako że później Hokurn zostaje łowcą smoków.
 
