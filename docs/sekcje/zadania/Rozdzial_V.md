@@ -1,5 +1,19 @@
 # Zadania - Rozdział 5
 
+## Mroczny zakon
+
+Cała lokacja Khorinis została zalana przez nieumarłych. Najpierw walczymy z nieumarłymi przy obydwóch bramach Khorinis. Następnie gadamy z Lordem Hagenem, Pyrokarem i udajemy się do Kreola. Ten mówi nam, że pladze nieumarłych winni są paladyni, którzy po śmierci wstali z grobów.
+
+Idziemy do Pyrokara, a ten daje nam klucze do trzech grobowców paladynów:
+
+1. Ulzar w jaskini przy cmentarzu obok tawerny Orlana
+2. Mirrat w jaskini pomiędzy Grimbaldem, a słonecznym kregiem
+3. Inubis na cmentarzu za farmą Onara
+
+Po zabiciu Panów cienia idziemy do Pyrokara. Okazuje się, że plaga się nie skończyła, więc idziemy do Hagena, który opowiada nam o upadłym paladynie Ginnoku.  
+Grobowiec Ginnoka znajduje w jaskini w kotlince niedaleko wschodniej bramy Khorinis.
+Idziemy tam, zabijamy nieumarłych i szalonego krzyżowca Ginnoka, po czym wracamy do Hagena, a zadanie dobiega końca.
+
 ## Sekob tęskni za żoną
 
 Sekob mówi że gdzieś przepadła jego żona, prosi o jej znalezienie i sprowadzenie z powrotem na farmę. Rosi znajduje się z Tilem na drodze z tawerny Orlana do jaskini Sagitty.  
@@ -23,36 +37,23 @@ Po dowiedzeniu się gdzie czai się nieprzyjaciel pytamy się Pyrokara czy może
 
 ## Nie można podróżować bez załogi
 
-Jak sama nazwa zadania wskazuje, zbieramy ekipę do wypłynięcia na Irdorath. Do wyboru mamy:
+Jak sama nazwa zadania wskazuje, zbieramy ekipę do wypłynięcia na Irdorath. Warto zabrać wszystkich ze względu na expa:
 
-1. Lester
-2. Milten
-3. Gorn
-4. Diego
-5. Vatras
-6. Lares
-7. Bennet
-8. Angar znajduje się w obozie Bractwa
-9. Lee
-10. Wilk
-11. Girion
-12. Biff
-13. Mario
+1. Lester (wieża Xardasa)
+2. Milten (klasztor)
+3. Gorn (farma Onara)
+4. Diego (Khorinis)
+5. Vatras (Khorinis)
+6. Lares (Khorinis)
+7. Bennet (farma Onara)
+8. Angar (obóz bractwa)
+9. Lee (farma Onara)
+10. Wilk (farma Onara tylko jeśli nie znaleźliśmy mu pracy u Bengara)
+11. Girion (port Khorinis)
+12. Biff (jaskinia w GD, w której zatrzymali się łowcy smoków, obok wodospadu, następnie wejście na przełęcz w Khorinis)
+13. Mario (karczma portowa w Khorinis)
 
-## Mroczny zakon
 
-Kiedy po zabiciu smoków przeniesiemy się do Khorinis zacznie się V rozdział, a miasto zostanie zaatakowanie przez nieumarłych.  
-Idziemy do Lorda Hagena, który wysyła nas do Pyrokara, po czym udajemy się do Kreola. Pomoże on nam, jeśli wykonamy dla niego zadanie - Chromanin. Kreol mówi nam, że pladze nieumarłych winni są paladyni, którzy po śmierci wstali z grobu.
-
-Idziemy do Pyrokara, a ten daje nam klucze do trzech grobowców paladynów:
-
-1. Ulzar jego grób znajduje się w jaskini przy cmentarzu obok tawerny Orlana
-2. Mirrat jego grób znajduje się w jaskini pomiędzy Grimbaldem, a słonecznym kregiem
-3. Inubis jego grób znajduje się na cmentarzu za farmą Onara
-
-Po zabiciu Panów cieni idziemy do Pyrokara. Okazuje się, że plaga się nie skończyła, więc idziemy do Hagena, który opowiada nam o upadłym paladynie Ginnoku.  
-Grobowiec Ginnoka znajduje w jaskini niedaleko wschodniej bramy Khorinis.  
-Idziemy tam zabijamy nieumarłych i szalonego krzyżowca Ginnoka, po czym wracamy do Hagena, a zadanie dobiega końca.
 
 ## Dziwne odgłosy w świątyni
 
