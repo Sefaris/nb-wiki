@@ -47,7 +47,8 @@ Akil mówi, że bandyci kradną owce z jego farmy. Znajdują się oni w jaskini 
 ## Tajemnicze morderstwo
 
 Aby otrzymać to zadanie musimy dostarczyć truciznę Constantino oraz wykonać zadanie dla Karrasa z trzema zwojami zapomnienia.
-> Przed wykonaniem tych zadań powinieneś najpierw ukończyć zadanie "Polny drapieżnik", które zleca Akil w trakcie wykonywania zadania "Polowanie na rzadkie potwory" od Falka. 
+> Przed wykonaniem tych zadań powinieneś najpierw ukończyć zadanie "Polny drapieżnik", które zleca Akil w trakcie wykonywania zadania "Polowanie na rzadkie potwory" od Falka.
+
 Kilka dni po wykonaniu zadań z trucizną i zwojami zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek rozmawiamy z Zurisem i udajemy się do domu Ignaza. Za płotem znajdujemy pustą butelkę bo truciźnie, pokazujemy ją Constantino i zgadzamy się mu pomóc.
 Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre. Wybór nie ma znaczenia, gdyż nagrody są takie same.
 > Dla dodatkowego doświadczenia możemy również porozmawiać z Kardifem, Coragonem i Constantino zaraz po rozpoczęciu zadania u Lorda Andre.
