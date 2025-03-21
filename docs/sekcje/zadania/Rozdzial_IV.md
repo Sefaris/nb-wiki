@@ -1,41 +1,42 @@
 # Zadania - Rozdział 4
 
-> W czwartym rozdziale Magów Wody znajdziemy przy portalu do Khorinis, a bandytów którzy przeżyli w jaskini u piratów, na północnej plaży.Kluczowe rzeczy przed wejściem w 4 rozdział to kupienie szczawiu od Miguela, uratowanie Sagitty i nauka przetapiania orkowej broni u Dobara
+> W czwartym rozdziale Magów Wody znajdziemy przy portalu do Khorinis, a bandytów którzy przeżyli w jaskini u piratów, na północnej plaży. Rzeczy do zrobienia przed wejściem w 4 rozdział to kupienie szczawiu od Miguela, uratowanie Sagitty i nauka przetapiania orkowej broni u Dobara.
 
 ## Wiadomości dla Vatrasa
 
-Mamy udać się do Jarkendaru i dowiedzieć się co się dzieje u magów wody. Kiedy już odwiedzimy magów wody wracamy do Vatrasa.
+Mamy udać się do Jarkendaru i dowiedzieć się co się dzieje u magów wody. Kiedy już całkowicie wykonamy zadania Saturasa związane z inwazją orków wracamy do Vatrasa.
 
 ## Lobarta problem z orkami
 
-Zadanie dostępne dla Paladynów i łowców smoków. Lobart zleca nam zabicie oddziału orków w okolicy.
+Zabijamy orków wzdłuż drogi do Khorinis i gadamy z Lobartem.
 
 ## Smocze jaja
 
-Bennet daje nam mapę jaskiń w Khorinis i prosi o przyniesienie do niego smoczych jaj. Nie opłaca się robić tego zadania, jako że z jaj możemy zrobić Embarle na Irdorath.
+Po pokazaniu Bennetowi smoczego jaja i zgodzeniu się na sprzedaż daje on nam mapę jaskiń w Khorinis. Od teraz możemy mu je sprzedawać po 350 złota. Zadanie jest nieopłacalne, jako że z jaj możemy zrobić miksturę Embrala Firgasto w 6 rozdziale.
 
 ## Smocze jajo dla Neorasa
 
-Neoras prosi nas o przyniesienie jednego smoczego jaja. Przynosimy i po kilku dniach dostajemy miksturę zwiększającą siłę.
+Neoras prosi nas o przyniesienie jednego smoczego jaja. Przynosimy i po kilku dniach dostajemy miksturę zwiększającą siłę +3.
 
 ## Próba Ragnara
 
-Zadanie dostępne jak w 2 rozdziale wykonaliśmy zadanie asystent Neorasa. Ragnar prosi byśmy przynieśli mu runę ognisty pocisk. Znaleźliśmy ją podczas robienia wątku głównego w skrzyni na farmie Sekoba.
+Zadanie dostępne jeżeli wykonaliśmy zadanie asystent Neorasa. Ragnar prosi byśmy przynieśli mu runę ognisty pocisk. Znaleźliśmy ją podczas robienia wątku głównego w skrzyni na farmie Sekoba.
 
 ## Tajemnica starej księgi
 
-Czytamy księgę, którą dał nam Ragnar po wykonaniu zadania Test Ragnara. Książka mówi o różdżce zdolnej przyzwać smoka i o miejscu zwanym Amon Shen (chodzi o wieżę gdzie znajduje się Mroczny Golem i Necronomicon). Idziemy tam i zabieramy notatkę ze stołu i wyczytujemy z niej tylko imię Kreol. Wiadomo o kogo chodzi idziemy do Kreola i teraz mamy zebrać 4 kawałki różdżki :
+Czytamy księgę, którą dał nam Ragnar po wykonaniu zadania Próba Ragnara. Książka mówi o różdżce zdolnej przyzwać smoka i o miejscu zwanym Amon Shen (chodzi o wieżę gdzie znajduje się Mroczny Golem i Necronomicon). Idziemy tam i zabieramy notatkę ze stołu i wyczytujemy z niej tylko imię Kreol. Wiadomo o kogo chodzi idziemy do Kreola i teraz mamy zebrać 4 kawałki różdżki. Są one w posiadaniu następujących bossów:
 
-Pierwszy ma Nekromanta w Świątyni śniącego  
-Drugi fragment ma Cor Kalom w wątku lasu asasynów  
-Trzeci odłamek ma Pan Cieni Inubis (dostęp w 5 rozdziale)  
-Czwarty odłamek dostaniemy od Kreola, jak zbierzemy trzy pozostałe
+- Nekromanta w Świątyni śniącego  
+- Cor Kalom w wątku lasu asasynów  
+- Pan Cieni Inubis (dostęp w 5 rozdziale)
+
+Czwarty odłamek dostaniemy od Kreola, po zebraniu trzech pozostałych.
 
 Gadamy z Kreolem, a ten mówi nam o reszcie potrzebnych składników. Poza fragmentami różdżki potrzebne są także 4 czaszki smoka i jedno oko smoka. Oko możemy zdobyć zabijając Azgalora lub Adanara (krzyżem żywiołów). Ewentualnie podczas samobójstwa Ashtara.
 
-Po zebraniu wszystkich składników wytwarzamy różdżkę na kowadle i cieszymy się czaderskim smokiem, który jest dobry tylko w teorii, bo tak naprawdę odstaje na takim etapie gry.# Wątek orków Cz. 1
+Po zebraniu wszystkich składników wytwarzamy różdżkę na kowadle i cieszymy się czaderskim smokiem, który jest dobry tylko w teorii, bo tak naprawdę odstaje na takim etapie gry.
 
-
+# Wątek orków Cz. 1
 
 ## Orkowie w dolinie
 
