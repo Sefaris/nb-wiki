@@ -46,6 +46,8 @@ Akil mówi, że bandyci kradną owce z jego farmy. Znajdują się oni w jaskini 
 
 ## Tajemnicze morderstwo
 
+> Zadanie dostępne jest już w 2 rozdziale jeżeli możemy już dostać się do biblioteki magów.
+
 Aby otrzymać to zadanie musimy dostarczyć truciznę Constantino oraz wykonać zadanie dla Karrasa z trzema zwojami zapomnienia.
 > Przed wykonaniem tych zadań powinieneś najpierw ukończyć zadanie "Polny drapieżnik", które zleca Akil w trakcie wykonywania zadania "Polowanie na rzadkie potwory" od Falka.
 
