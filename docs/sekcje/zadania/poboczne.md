@@ -33,6 +33,31 @@ Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Kos
 6. **Dexter i Góra** - Znajdują się oni w obozie Dextera, czyli nieopodal farmy Onara.  
 7. **Hannibal** - Znajduje się on na nowych terenach obok wieży Xardasa. Idąc ścieżką skręcamy w lewo przed jaskinią z bandytami Cavalorna. Stamtąd idziemy cały czas prosto, aż natkniemy się na ścieżkę w górę, gdzie znajdziemy jego obóz.
 
+## Ekspedycja Magów Ognia
+__Zleca: Pulpit w piwnicy Klasztoru__
+
+> Wykonanie tego zadania jest wymagane do ukończenia: [Bezgraniczna potęga](#bezgraniczna-potęga).
+
+Czytając pulpit w piwnicy klasztoru magów ognia w pomieszczeniu z Talomonem, dostaniemy wpis do dziennika. Udajemy się teraz do Pyrokara, a następnie do Xardasa, który każe nam przynieść jego zapiski z piętra wieży. Czytamy dziennik i oddajemy go Xardasowi.
+
+Kolejnym krokiem jest otwarcie skrzyni w Zatopionej Wieży Xardasa w Górniczej Dolinie. Znajdujemy tam pierwszą część "Kronik Stonnosa", o których była mowa w pamiętniku mrocznego maga. Czytamy i dowiadujemy się, że musimy znaleźć kolejne części. Nie musimy znajdować ani czytać ich w kolejności, liczy się tylko przeczytanie każdej:
+
+- Drugi tom znajdziemy w tajnym pokoju u Kreola (przycisk na kominku)
+- Trzeci tom jest przy ołtarzu z Łzą Adanosa.
+- Czwarty tom znajduje się w skrzyni na końcu miasta umarłych.
+- Piąty tom ma przy sobie strażnik sfery w orkowej kopalni.
+- Szósty tom zdobędziemy po pokonaniu Azgalora z Doliny Cieni
+
+Po przeczytaniu wszystkich kronik dowiadujemy się, że golem jest nieśmiertelny i jedynie krew bogów może go zabić. Idziemy do Pyrokara i mówimy mu o problemie. Ten wykona nam specjalną runę, którą odbieramy następnego dnia. Runę musimy naładować energią kopca magicznej rudy. Wystarczy tylko jedno takie ładowanie, wybieramy więc jeden z kopców:
+
+- na samym dole w Starej Kopalni
+- w Kopalni Orków, niedaleko Windy
+- w Kopalni Orków, w pomieszczeniu z demonem za mostem
+- w obozie przyjaznego klanu w Śnieżnych Górach Orków (Zaleca się to zrobić po ukończeniu wątku ze Starym przyjacielem Lee, jako że staną się oni agresywni)
+- w obozie wrogiego klanu w Śnieżnych Górach Orków (Można to zrobić przy okazji zadania “Wojna klanów", choć nie trzeba)  
+
+Po naładowaniu pojawia się nam nowy wpis i mamy gotową runę na golema. Znajdujemy go robiąc misję [Bezgraniczna potęga](#bezgraniczna-potęga). Po zabiciu golema zadanie się kończy.
+
 ## Bezgraniczna potęga
 __Zleca: Hokurn__
 
@@ -53,34 +78,6 @@ Klikamy w przycisk z przodu ołtarzyka przed Janusem i przechodzimy przez bramę
 35 siły / 25 zręczności / 70 many i 30 inteligencji / 250 zdrowia i 100 wytrzymałości (7R)
 
 Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janus, który okazuje się martwy a dalej stoi kapłanka Beliara. Po krótkiej rozmowie dochodzi do walki, zabijamy ją, a zadanie się kończy.
-
-## Ekspedycja Magów Ognia
-__Zleca: Pulpit w piwnicy Klasztoru__
-
-> Zadanie powiązane z zadaniem [Bezgraniczna potęga](#bezgraniczna-potęga).  
-> Zadania te można zrobić zarówno w Rozdziale 4 jak i 7. Jeśli zrobimy te zadania w 4 rozdziale dostajemy tylko 70% bonusu do statystyk, jeśli w 7 rozdziale dostajemy normalnie 100%.
-
-Czytając pulpity w pomieszczeniu z Talomonem, dostaniemy wpis do dziennika. Udajemy się teraz do Pyrokara, a następnie do Xardasa, który każe nam przynieść jego zapiski z piętra wieży.  
-Dla osób, które będą robić tą misję w siódmym rozdziale, pamiętnik i klucz znajdziemy na stole na górze w wieży Xardasa.
-
-Po rozmowie z Xardasem musimy się udać do Zatopionej Wieży Xardasa.  
-Po otwarciu skrzyni dostajemy w ręce pierwszą część "Kronik Stonnosa", o których była mowa w pamiętniku mrocznego maga. Czytamy i dowiadujemy się, że musimy znaleźć kolejne części. Jest ich w sumie 6. Pierwszą już mamy:
-
-1. Drugi tom znajdziemy w tajnym pokoju u Kreola (przycisk na kominku)
-2. Trzeci tom jest obok ołtarzu z Łzą Adanosa.
-3. Czwarty tom znajduje się w skrzyni na końcu miasta umarłych.
-4. Piąty tom ma przy sobie strażnik sfery w orkowej kopalni.
-5. Szósty tom zdobędziemy po pokonaniu Azgalora z Doliny Cieni
-
-Po przeczytaniu wszystkich kronik dowiadujemy się, że golem jest nieśmiertelny i jedynie krew bogów może go zabić. Idziemy do Pyrokara i mówimy mu o problemie. Ten wykona nam specjalną runę, którą odbieramy następnego dnia. Mając już runę ruszamy na poszukiwanie kopców magicznej rudy:
-
-1. Pierwszy znajdujemy na samym dole w Starej Kopalni
-2. Drugi w Kopalni Orków, niedaleko Windy
-3. Trzeci w Kopalni Orków, w pomieszczeniu z demonem za mostem
-4. Czwarty w obozie przyjaznego klanu w Śnieżnych Górach Orków (Zaleca się to zrobić po ukończeniu wątku ze Starym przyjacielem Lee, jako że staną się oni agresywni)
-5. Piąty w obozie wrogiego klanu w Śnieżnych Górach Orków (Zaleca się to zrobić przy okazji zadania “Wojna klanów)  
-
-Po piątym naładowaniu pojawia się nam nowy wpis i mamy gotową runę na golema. Znajdujemy go robiąc misję [Bezgraniczna potęga](#bezgraniczna-potęga). Po zabiciu golema misja się kończy.
 
 ## Świątynia Śniącego
 __Zleca: Xardas__
