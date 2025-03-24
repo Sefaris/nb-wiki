@@ -66,18 +66,18 @@ Zadanie zleca Gomez. Należy wykonać w odpowiedniej kolejności trzy poniższe 
 
 ## Czarna Brendy (Rozdział 3)
 
-Zadanei dostajemy od Lutero. Mówi nam, że zaginął gdzieś jego posłaniec, który miał mu przynieść 5 butelek czarnej brandy. W tym celu udajemy się do Martwej Harpii i idziemy w kierunku farmy Akila. Benchel został zaatakowany przez bandytów. Zabijamy bandytów, po czym odprowadzamy Benchela do miasta. Gdy dotrzemy na miejsce Benchel twierdzi, że nie chce już pracować dla Lutero, po czym oddaje nam brandy i każe samemu je dostarczyć.
+Zadanie dostajemy od Lutero. Mówi nam, że zaginął gdzieś jego posłaniec, który miał mu przynieść 5 butelek czarnej brandy. Udajemy się do Martwej Harpii i na rozdrożu widzimy człowieka otoczonego przez bandytów. Zabijamy bandytów, po czym odprowadzamy Benchela do miasta. Gdy dotrzemy na miejsce Benchel twierdzi, że nie chce już pracować dla Lutero, po czym oddaje nam brandy i każe samemu je dostarczyć.
+> Przed pójściem do karczmy polecam wyczyścić trasę do miasta, jednak śmierć Benchela nie psuje zadania
 
 ## Asystent (Rozdział 3)
 
 Po odejściu Benchela Lutero szuka nowego pomocnika. Mamy do wyboru 3 osoby:
 
-- Valeran znajduje się w Martwej Harpii, jeśli wsadziliśmy Fernando do więzienia (lub jest martwy, jeśli zabiliśmy go w zadaniu "Zagubiony Bandyta"
+- Valeran siedzi na ławeczce w górnym mieście lub jest martwy, jeśli zabiliśmy go w zadaniu "Zagubiony Bandyta"
 - Gayvern znajduje się karczmie Kardifa
-- Maxi stoi obok Zurisa na placu targowym
+- Maxi słucha kazań Vatrasa
 
-Najlepszym wyborem jest Valeran, jako że reszta ochotników przyda nam się do obozu.  
-Odprowadzamy go do Lutero, a zadanie się kończy.
+Najlepszym wyborem jest Valeran, gdyż w nagrodę da nam książkę +1% 1H/2H, jeżeli jednak go zabiliśmy to lepszy jest Maxi, gdyż Gayverna możemy rekrutować na strażnika do swojego obozu.
 
 ## Ochrona dla Sary (Rozdział 3)
 
@@ -95,5 +95,7 @@ Sara mówi, że strażnik więzienia Boltan ma jej klucz. Możemy go odkupić, p
 
 Sara prosi nas o spłacenie długo u Harada. Idziemy do Harada i płacimy 2 000 złota, a następnie wracamy do Sary
 
-Po wykonaniu wszystkich powyższych zadań stajemy się oficjalnie mistrzem gildii kupców. Lutero daje nam pierścień szefa gildii złodziei, ale nie przyda się on nam do niczego. U członków gildii kupców takich jak: Salandril, Sara, Lutero, Jora, Erol, Matteo i Nigel pojawił się nowy asortyment [m.in](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fm.in). szczawie i mikstury stałe.  
+Po wykonaniu wszystkich powyższych zadań stajemy się oficjalnie członkiem gildii kupców. Lutero daje nam pierścień gildii kupców i od teraz pozostali członkowie gildii (Salandril, Sara, Lutero, Jora, Erol, Matteo i Nigel) 
+będą sprzedawać nam dodatkowe przedmioty takie jak szczawie lub mikstury stałe. [m.in](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fm.in).
+> nie trzeba zakładać pierścienia
 
