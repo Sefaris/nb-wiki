@@ -50,6 +50,7 @@ Musimy udać się aż do Górniczej Doliny i przedostać się za palisadę orkó
 Czekamy kilka dni i gdy wszystko będzie gotowe, idziemy się przespać, a następnie stajemy na jednym z rogów pentagramu. Odpala się rytuał podczas którego Xardas rozmawia z Nergalem. Po wszystkim Xardas mówi nam gdzie jest Necronomicon. Lepszą opcją jednak jest wyjść z pentagramu wbrew poleceniom Xardasa co przerwie rytuał czego skutkiem będzie walka z bossem, które pokonanie daje dodatkowe PN’y. 
 
 Udajemy się w stronę plaży Skipa i płyniemy dalej, aż odnajdziemy wieżę na kamiennej plaży. Wchodzimy do środka, za pomocą zaklęcia Święty Płomień (które znajdziemy w jaskini w kotlinie obok wschodniej bramy) zabijamy Mrocznego Golema i przechodzimy przez otwarte kraty. Lądujemy na szczycie wieży, gdzie jest księga, którą może przeczytać jedynie każda mroczna gildia. Wracamy do Xardasa i oddajemy księgę.
+> Zwój Święty Płomień możemy kupić u Sengratha lub znaleźć w jaskini w kotlince idąc prosto ze wschodniej bramy Khorinis. Można go też ukraść Ingmarowi
 
 ## Dumni i bezbronni (2 rozdział)
 
