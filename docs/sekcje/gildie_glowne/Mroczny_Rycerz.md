@@ -6,4 +6,4 @@ Aby zostać Mrocznym Rycerzem, musimy wykonać zadanie [Horror na cmentarzu](Sek
 
 ## Kolejne zadania
 
-Gildia wykorzystuje zadania mrocznych magów, możemy więc brać zadania poboczne od Xardasa
+Gildia wykorzystuje zadania mrocznych magów, możemy więc brać zadania poboczne od Xardasa, a nawet przeczytać Necronomicon
