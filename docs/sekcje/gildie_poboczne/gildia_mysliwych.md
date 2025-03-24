@@ -34,6 +34,10 @@ Po oddaniu Falkowi skór wilka, ten wysyła nas po specjalne strzał do Bospera.
 
 Myśliwy Nix mówi nam że jego wilk Kieł został ranny i prosi nas byśmy udali się do Sagitty po lekarstwo. Idziemy do Sagitty która każe nam przynieść składniki na lekarstwo ( Szczaw królewski, korzeń leczniczy, leśna jagoda i bagienne ziele), przynosimy składniki, zabieramy lekarstwo i wracamy do Nixa. Teraz trzeba poczekać 1 dzień, aż Kieł wyzdrowieje i wrócić do Nixa po nagrodę.
 
+## Zagubiony łowca
+
+Po tym jak Kieł już wyzdrowiał dowiadujemy się od Nixa o innym myśliwym, który miał pupila. Idziemy do Bospera, który skieruje nas w okolice plaży przy wschodniej bramie. W wieży znajdziemy bandytów, martwego Heina, a także wilka. Czytamy notatkę, karmimy wilka serem i mięsem, po czym go głaszczemy. Wracamy teraz do Nixa, który wręczy nam runę, dzięki której będziemy mogli przyzywać i expić naszego wilczka.
+
 ## Kusza Dragomira
 
 Dragomir mówi nam że zgubił kuszę obok słonecznego kręgu, idziemy tam zabieramy kuszę i oddajemy Dragomirowi.
@@ -110,6 +114,25 @@ W tym celu udajemy się do Jarkendaru, gdzie musimy zebrać 5 notatek:
 
 Teraz musimy znaleźć samicę polnego pełzacza . Znajduję się ona w okolicy domu uzdrowicieli na bagnie. Zabijamy ją, zabieramy z ciała amulet Bena i zanosimy go Falkowi.
 
+## Polowanie na rzadkie stwory (Rozdział 2)
+
+Falk zleca nam zabicie 3 unikatowych przeciwników.  
+- Mroczny zębacz znajduje się obok kamienia teleportacyjnego w lesie na północy (niedaleko kamiennego kręgu)  
+- Polna Bestia znajduje się obok farmy Akila, tam gdzie jest pełno zwykłych polnych bestii. Po jej zabiciu idź od razu pogadać z Akilem.
+- Smoczy zębacz znajduje się na lewo od wschodniej bramy Khorinis, tam gdzie zbieraliśmy zioła dla Constantina po lewo od wschodniej bramy  
+
+Po zabiciu wszystkich trzech potworów wracamy do Falka.
+
+## Polowanie na dziwne stwory (Rozdział 2)
+
+Po wykonaniu zadania z polowania na rzadkie potwory Falk daje nam nowe zadanie, mamy zabić trzech kolejnych unikatowych wrogów:
+
+- Drake na kamiennej plaży, którą znajdziemy płynąc wpław przy wybrzeżu w stronę Skipa  
+- Pełzacza w jaskini przy schodach pod Słonecznym Kręgiem  
+- Ogr w jaskini obok farmy Onara, tam gdzie goblin w zadaniu dla Pepe
+
+Po zabiciu wszystkich potworów wracamy do Falka.
+
 ## Dzik Barema (Rozdział 2)
 
 Barem mówi nam że w lesie na północy pojawił się niebezpieczny dzik.  
@@ -123,13 +146,20 @@ Falk mówi nam, że w mrocznym lesie na północy pojawił się oddział orków.
 
 Raff zleca nam zabicie Widmowego Cieniostwora, który zamieszkuje kotlinę pod wieżą Xardasa. Jest on ciężkim przeciwnikiem, więc nie ma co się za niego zbyt wcześnie zabierać. Po zabiciu tego monstrum wracamy ze skórą do Raffa.
 
-## Skóra cieniostwora(Rozdział 2)
+## Skóra cieniostwora (Rozdział 2)
 
 Nix prosi nas, abyśmy przynieśli mu skórę cieniostwora.
 
 ## Róg smoczego zębacza (Rozdział 2)
 
 Alfred prosi nas o przyniesienie rogu smoczego zębacza, który najszybciej zdobędziemy z prychającej bestii z 1 rozdziału.
+
+## Nowi myśliwi (Rozdział 2)
+
+Po zostaniu mistrzem myśliwych, Falk zleca nam znalezienie nowych ludzi do obozu.  
+Są nimi:
+- Bartok, który dołączy po zrobieniu zadania z Trokarem.  
+- Gestath, który zgodzi się od razu.
 
 ## Szczęście łowcy (Rozdział 3)
 
@@ -139,32 +169,3 @@ Nix mówi nam, że w okolicach wykopalisk pojawił się rzadki okaz zębacza. Je
 
 Falk mówi nam, że w okolicy farmy Bengara pojawiły się kąsacze. Rozprawiamy się z tymi bestiami i wracamy do zleceniodawcy.
 > Są wzdłuż drogi z przełęczy do karczmy Orlana.
-
-## Nowi myśliwi
-
-Po zostaniu mistrzem myśliwych, Falk zleca nam znalezienie nowych ludzi do obozu.  
-Są nimi:
-- Bartok, który dołączy po zrobieniu zadania z Trokarem.  
-- Gestath, który zgodzi się od razu.
-
-## Polowanie na rzadkie stwory
-
-Falk zleca nam zabicie 3 unikatowych przeciwników.  
-- Mroczny zębacz znajduje się obok kamienia teleportacyjnego w lesie na północy (niedaleko kamiennego kręgu)  
-- Polna Bestia (boss) znajduje się obok farmy Akila, tam gdzie jest pełno zwykłych polnych bestii.  
-- Smoczy zębacz znajduje się na lewo od wschodniej bramy Khorinis, tam gdzie zbieraliśmy zioła dla Constantina po lewo od wschodniej bramy  
-Po zabiciu wszystkich trzech potworów wracamy do Falka.
-
-## Polowanie na dziwne stwory
-
-Po wykonaniu zadania z polowaniena rzadkie potwory Falk daje nam nowe zadanie, mamy zabić trzech kolejnych unikatowych wrogów:
-
-- Drake na kamiennej plaży, którą znajdziemy płynąc wpław przy wybrzeżu w stronę Skipa  
-- Pełzacza w jaskini przy schodach pod Słonecznym Kręgiem  
-- Ogr w jaskini obok farmy Onara, tam gdzie goblin w zadaniu dla Pepe
-
-Po zabiciu wszystkich potworów wracamy do Falka.
-
-## Zagubiony łowca
-
-Po przyniesieniu lekarstwa dla Nixa dowiadujemy się o innym myśliwym, który miał pupila. Idziemy do Bospera, który skieruje nas w okolice plaży przy wschodniej bramie. W wieży znajdziemy bandytów, martwego Heina, a także wilka. Czytamy notatkę, karmimy wilka serem i mięsem, po czym go głaszczemy. Wracamy teraz do Nixa, który wręczy nam runę, dzięki której będziemy mogli przyzywać i expić naszego wilczka.# Pozostałe zadania
