@@ -16,7 +16,7 @@
 - [Mag Ognia](Sekcje/Gildie_Glowne/Mag_Ognia.md)
 - [Mag Wody](Sekcje/Gildie_Glowne/Mag_Wody.md)
 - [Mroczny Rycerz](Sekcje/Gildie_Glowne/Mroczny_Rycerz.md)
-- [Nekromanta/Czarnoksiężnik](Sekcje/Gildie_Glowne/Nekromanta_Czarnoksieznik.md)
+- [Nekromanta/Czarnoksiężnik/Przywolywacz](Sekcje/Gildie_Glowne/Nekromanta_Czarnoksieznik.md)
 - [Potępiony](Sekcje/Gildie_Glowne/Potepiony.md)
 - [Strażnik Miejski/Paladyn](Sekcje/Gildie_Glowne/Paladyn.md)
 - [Strażnik Świątynny/Guru](Sekcje/Gildie_Glowne/StraznikSwiatynny_Guru.md)
