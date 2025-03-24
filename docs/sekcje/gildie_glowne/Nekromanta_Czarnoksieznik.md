@@ -44,8 +44,6 @@ Xardas zleca byśmy przynieśli mu pewną księgę która jest w posiadaniu Gall
 
 Xardas prosi nas, abyśmy przynieśli mu starożytną księgę - Necronomicon. Według wskazówek nekromanty była ona niegdyś w posiadaniu potężnego nekromanty - Nergala. 
 
-//Teraz udajemy się do doliny za farmą Onara (Tam, gdzie 2 trolle i Grom) i odnajdujemy tam zamkniętą wieżę. Niestety Xardas nie ma do niej klucza i zleca nam jego odnalezienie.
-
 Musimy udać się aż do Górniczej Doliny i przedostać się za palisadę orków. Dostajemy się do Wieży Mgieł przez kopalnię od dołu i rozmawiamy z nekromantą Kreolem. Po krótkiej rozmowie Kreol daje nam klucz, z którym udajemy się do wieży Nergala za farmą Onara (Tam, gdzie 2 trolle i Grom), zabijamy nieumarłych i czytamy pulpit na środku. Pojawia się boss zombie, który dzięki naszej pomocy ląduje w krainie Beliara. Zabieramy z jego ciała prochy i wracamy do Xardasa, a ten opowiada nam o pewnym rytuale.
 > Klucz dostępny dla każdej gildii znajduje się również w skrzyni w ukrytym pomieszczeniu obok Kreola
 
