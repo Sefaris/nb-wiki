@@ -119,7 +119,7 @@ Teraz musimy znaleźć samicę polnego pełzacza . Znajduję się ona w okolicy 
 Falk zleca nam zabicie 3 unikatowych przeciwników.  
 - Mroczny zębacz znajduje się obok kamienia teleportacyjnego w lesie na północy (niedaleko kamiennego kręgu)  
 - Polna Bestia znajduje się obok farmy Akila, tam gdzie jest pełno zwykłych polnych bestii. Po jej zabiciu idź od razu pogadać z Akilem.
-- Smoczy zębacz znajduje się na lewo od wschodniej bramy Khorinis, tam gdzie zbieraliśmy zioła dla Constantina po lewo od wschodniej bramy  
+- Smoczy zębacz znajduje się na lewo wychodząc ze wschodniej bramy Khorinis.
 
 Po zabiciu wszystkich trzech potworów wracamy do Falka.
 
