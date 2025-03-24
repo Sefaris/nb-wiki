@@ -1,4 +1,4 @@
-# Nekromanta/Czarnoksiężnik
+# Nekromanta / Czarnoksiężnik / Mroczny Przywoływacz
 
 
 
