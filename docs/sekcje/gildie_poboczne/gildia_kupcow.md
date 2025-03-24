@@ -96,6 +96,6 @@ Sara mówi, że strażnik więzienia Boltan ma jej klucz. Możemy go odkupić, p
 Sara prosi nas o spłacenie długo u Harada. Idziemy do Harada i płacimy 2 000 złota, a następnie wracamy do Sary
 
 Po wykonaniu wszystkich powyższych zadań stajemy się oficjalnie członkiem gildii kupców. Lutero daje nam pierścień gildii kupców i od teraz pozostali członkowie gildii (Salandril, Sara, Lutero, Jora, Erol, Matteo i Nigel) 
-będą sprzedawać nam dodatkowe przedmioty takie jak szczawie lub mikstury stałe. [m.in](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fm.in).
+będą sprzedawać nam dodatkowe przedmioty takie jak szczawie lub mikstury stałe.
 > nie trzeba zakładać pierścienia
 
