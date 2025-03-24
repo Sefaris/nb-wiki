@@ -93,9 +93,11 @@ Aby poruszyć to zadanie, potrzebujemy poparcia conajmniej 7 myśliwych.
 
 Teraz idziemy do Falka, który zleca nam zabicie Slokersa, który losowo pojawia się w jednej z siedmiu lokacji na poniższej mapie. Kiedy już upolujemy ścierwojada, wracamy z jego skórą do Falka i zostajemy mistrzem myśliwych.
 
-[[_slokers.jpg]](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/ "_slokers.jpg]")]
+//[![_slokers.jpg]](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/ "_slokers.jpg]")]
 
-(https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)
+//(https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)
+
+[![](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)
 
 ## Poszukiwania
 
