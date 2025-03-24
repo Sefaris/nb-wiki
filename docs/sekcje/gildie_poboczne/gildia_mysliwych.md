@@ -2,7 +2,7 @@
 
 ## Droga do obozu myśliwych
 
-Żeby dołączyć do myśliwych trzeba udać się do ich obozu (Obóz znajduje się obok schodów do farmy Bangara) i zagadać z Falkiem. Należy do niego zagadać 3 razy, aż zleci nam przyniesienie 3 skór cieniostwora. Najłatwiej je zdobyć:  
+Żeby dołączyć do myśliwych trzeba udać się do ich obozu (Obóz znajduje się obok schodów do farmy Bangara) i zagadać z Falkiem. Zleci on nam przyniesienie 3 skór cieniostwora. Najłatwiej je zdobyć:  
 - W namiocie obok wilków Pepe na farmie Onara  
 - Przy bandytach w jaskini obok farmy Akila  
 - W namiocie bandytów za farmą Sekoba  
