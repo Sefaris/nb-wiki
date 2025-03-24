@@ -4,7 +4,7 @@
 
 ## Ścieżka Beliara
 
-Aby zostać Nekromantą lub Czarnoksiężnikiem, trzeba podczas rozmowy z Vatrasem spytać o inne gildie poza głównymi. Potem udajemy się do Xardasa i pytamy, czy przyjmie nas na nowicjusza. Xardas potrzebuje dnia do namysłu, po czym ostatecznie przyjmuje nas i daje nam szatę nowicjusza mroku.
+Aby zostać mrocznym magiem, trzeba podczas rozmowy z Vatrasem spytać o inne gildie poza głównymi. Potem udajemy się do Xardasa i pytamy, czy przyjmie nas na nowicjusza. Xardas potrzebuje dnia do namysłu, po czym ostatecznie przyjmuje nas i daje nam szatę nowicjusza mroku.
 
 Teraz pytamy Xardasa jak stać się pełnoprawnym magiem. W tym celu musimy spełnić pewne warunki: Posiadać 40 inteligencji i 80 many, a także wykonać zadanie Ścieżka Ciemności.  
 Po wykonaniu tego zadania oficjalnie zostajemy Nekromantą lub Czarnoksiężnikiem w zależności od wyboru po zakończeniu zadania.
@@ -16,12 +16,14 @@ Posążek można znaleźć w ciele Rigelion z zadania Horror na cmentarzu lub na
 
 ## Droga Ciemności
 
-Xardas każe nam zabić sługę Innosa, chodzi o pasterza owiec w klasztorze Opolosa. O godzinie 17 wychodzi on z klasztoru zapalić ziele, więc mamy idealną okazję, aby go zabić. Po wszystkim wracamy do Xardasa
+Xardas każe nam zabić sługę Innosa, może to być dowolny nowicjusz z klasztoru, lecz najlepszym celem będzie pasterz owiec Opolos. O godzinie 17 wychodzi on z klasztoru zapalić ziele, więc mamy idealną okazję, aby go zabić. Po wszystkim wracamy do Xardasa
 
-## Runa Xardasa
+## Runa Xardasa (2 rozdział)
 
-Xardas da nam runę zniszczenia ożywieńca, jeśli przyniesiemy mu 5 ektoplazm.  
-Jedną ektoplazmę sprzedaje Constantino, a drugą Salandril. Trzecią dostaniemy od Ramireza w drugim rozdziale, a dwie pozostałe najłatwiej zdobyć z ognistych cieniostworów w bibliotece w Jarkendarze. Po zebraniu ektoplazm wracamy do Xardasa i otrzymujemy darmową runę.
+> Zadanie dostępne tylko po wyborze klasy: "Nekromanta"
+
+Xardas da nam runę zniszczenia ożywieńca (bez wydatku PN), jeśli przyniesiemy mu 5 ektoplazm.
+Ektoplazmę sprzedają Constantino, Salandril i Ramirez, a dwie pozostałe najłatwiej zdobyć z ognistych cieniostworów w bibliotece w Jarkendarze, które pojawią się dopiero w końcowym etapie wątku Jarkendaru. By zdobyć runę szybciej będziemy musieli pokonać widma, które są na tym etapie bardzo silne. Po zebraniu ektoplazm wracamy do Xardasa i otrzymujemy darmową runę.
 
 ## Zapiski Xardasa
 
