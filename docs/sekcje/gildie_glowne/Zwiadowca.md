@@ -25,6 +25,11 @@ __Zleca: Gunnar__
 
 Gunnar prosi nas o znalezienie człowieka, któremu pożyczył złoto. Ciało znajdujemy niedaleko Groma, na skałach pod wieżą Dextera.
 
+## Liczenie owiec
+__Zleca: Notka w ciele mężczyzny z zadania [Dłużnik Gunnara](#dłużnik-gunnara)__
+
+Po przeczytaniu notatki idziemy do Lorda Andre i zdajemy mu raport, po rozmowie z Andre zaczepia nas Allen i proponuje nam [Dołączenie do zwiadowców](#dołączenie-do-zwiadowców).
+
 ## Dołączenie do zwiadowców
 __Zleca: Allen__
 
@@ -42,11 +47,6 @@ Musimy zinfiltrować gildię złodziei i dowiedzieć się jak najwięcej o Rącz
 Udajemy się do kanałow pod Khorinis, do pomieszczenia za zamkniętymi drzwiami, w którym jest skrzynia Rączki. Zabieramy z niej dziennik (Jeżeli skrzynia została już opróżniona wcześniej to dziennik i tak się w niej teraz pojawi) i czytamy go. Teraz idziemy do pustego pomieszczenia obok Attili i w środku używamy zaklęcia światła, otworzy się małe przejście w ścianie, przez które przechodzimy na przemianie.  
 ![Przejście w ścianie](https://i.imgur.com/wPuXb0b.jpeg)
 Zbieramy wszystko co tam znajdziemy, czytamy pulpit, a także sprawdzamy obrazek, który tam znaleźliśmy. Po wszystkim wracamy do Allena, kończymy bieżące zadanie i rozpoczynamy kolejne, [Tajemnica starej wieży](#tajemnica-starej-wieży).
-
-## Liczenie owiec
-__Zleca: Notka w ciele mężczyzny z zadania [Dłużnik Gunnara](#dłużnik-gunnara)__
-
-Po przeczytaniu notatki idziemy do Lorda Andre i zdajemy mu raport, po rozmowie z Andre zaczepia nas Allen i proponuje nam [Dołączenie do zwiadowców](#dołączenie-do-zwiadowców).
 
 ## Likwidacja orkowych najemników (Rozdział 2)
 __Zleca: Allen__
