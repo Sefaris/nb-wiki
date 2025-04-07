@@ -60,7 +60,7 @@ Będąc już w lokacji Masjafu, nie zbliżamy się na razie do żadnych miejsc g
 
 To zadanie ciągnie się aż do końca wątku asasynów.  
 Gadamy z Gonzalesem i mamy 2 opcje:  
-1. Zaatakować asasynów. Wybierając tą opcję możesz od razu skierować się tutaj: [Walka](##Swój-pośród-obcych-Część-2)
+1. Zaatakować asasynów. Wybierając tą opcję możesz od razu skierować się tutaj: [Walka](#Swój-pośród-obcych-Część-2).
 2. Udawać jednego z nich celem sabotażu (w każdej chwili będziemy mogli przerwać i zaatakować)
 
 Jeżeli wybraliśmy opcję 2 to wchodzimy w interakcję z ogniskiem i czekamy do 7:00. Teraz dopiero wybieramy opcję u Gonzalesa “Kiedy ruszamy”. Idziemy teraz do kotlinki i szukamy nowicjusza asasynów z niewolnikiem. Zabijamy gościa, automatycznie Bezi zakłada zbroję asasyna, po czym gadamy z niewolnikiem i teraz musimy odprowadzić go do Nrozasa do świątyni.
