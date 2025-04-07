@@ -2,11 +2,6 @@
 
 > Aby dołączyć do najemników trzeba zdobyć poparcie większość najemników (Zadania poniżej), a także przejść test Torlofa.
 
-## Bajer (Rozdział 4)
-__Zleca: Dar__
-
-Dar chce zaimponować Lee, więc prosi nas o przyniesienie pierścienia orkowego dowódcy, który powinniśmy już mieć, jeśli zabijaliśmy orków w Khorinis.
-
 ## Cztery wilki dla Pepe
 __Zleca: Pepe__
 
@@ -16,21 +11,16 @@ Pasterz Pepe mówi nam, że wilki podkradają mu owce. Wilki znajdują się nied
 __Zleca: Fester__
 
 Przed farmą Onara spotykamy Festera, który ma za zadanie pozbyć się polnych bestii z ich gniazda. Zgadzamy się mu pomóc w zamian za poparcie, idziemy zabić insekty, po czym okazuje się, że Fester nas oszukał. Obijamy mu mordę, a zadanie kończy się pomyślnie.
+> Wybór złota zamiast poparcia niczego nie zmienia.
 
 ## Gulasz
 __Zleca: Thekla__
 
-Po pobiciu Bullko lub zasłużeniu na gulasz w jakikolwiek inny sposób możemy zapytać Theklę dokładkę. Wtedy wysyła nas ona do Sagitty, u której dostajemy paczkę z ziołami, za którą otrzymamy kolejną porcję gulaszu.
+Po otrzymaniu pierwszego gulaszu możemy zapytać Thekle o dokładkę. Wtedy wysyła nas ona do Sagitty, u której dostajemy paczkę z ziołami, za którą otrzymamy kolejną porcję gulaszu.
 
-## Jeden z najemników
-__Zleca: Lee__
 
-Musimy przejść test Torlofa i zyskać poparcie większości najemników. Następnie udajemy się do Lee, potem Onara i znowu Lee. Oficjalnie stajemy się Najemnikiem.
 
-## Laboratorium Jacko
-__Zleca: Cipher__
 
-Cipher prosi nas, abyśmy przynieśli mu paczkę bagiennego ziela z laboratorium obok Nowego Obozu. Gorzelnia znajduje się w jaskini z bandytami, przy zatopionej chacie, na lewo od wejścia na lodowy biom.
 
 ## Lokaj Sędziego
 __Zleca: Lee__
@@ -65,10 +55,21 @@ __Zleca: Lee__
 
 Lee daje nam list, który musimy dostarczyć Hagenowi. Idziemy do Hagena i wracamy do Lee.
 
+## Za kilka ziół więcej
+__Zleca: Cipher__
+
+Cipher da nam swoje poparcie jeśli damy mu 10 skrętów bagiennego ziela.
+> Zadanie przepada jeżeli przed przyjęciem go oddaliśmy już paczkę Cipherowi.
+
 ## Paczka z zielem
 __Zleca: Cipher__
 
 Cipher mówi, że ktoś ukradł mu paczkę bagiennego ziela, podejrzewa Bodo. Gadamy z Bodo, a następnie z Darem. Okazuje się, że Dar ukradł paczkę, więc obijamy go, a on zdradza nam położenie paczki. Polecam powiedzieć Cipherowi o Darze (darmowy exp). Paczkę powinniśmy już mieć ze sobą, jako że zabiliśmy Millsa w zadaniu Dłużnik Lehmara. Oddajemy paczkę Cipherowi i na tym zadanie się kończy.
+
+## Laboratorium Jacko
+__Zleca: Cipher__
+
+Po oddaniu paczku z zielem Cipher prosi nas, abyśmy przynieśli mu kolejną paczkę, tym razem z laboratorium obok Nowego Obozu. Gorzelnia znajduje się w jaskini z bandytami, przy zatopionej chacie, na lewo od wejścia na lodowy biom.
 
 ## Pancerz z płytek pełzacza
 __Zleca: Wilk__
@@ -89,6 +90,11 @@ Rod prosi nas o przyniesienie mu 12 butelek ginu w zamian za zdradzenie sekretu 
 __Zleca: Pepe__
 
 Po wykonaniu zadania z wilkami dla Pepe mówi nam, że Bullko miał pilnować owiec, ale tego nie robi. Idziemy do Bullko, obijamy mu mordę i wracamy do Pepe.
+
+## Jeden z najemników
+__Zleca: Lee__
+
+Musimy przejść test Torlofa i zyskać szacunek większości najemników. Następnie udajemy się do Lee, potem Onara i znowu Lee. Oficjalnie stajemy się Najemnikiem.
 
 ## Szacunek
 __Zleca: Zdobycie poparcia od jednego z najemników__
@@ -132,18 +138,20 @@ Musimy pokonać 3 przydupasów Sylvia (jego samego też można) w walce:
 
 Dodatkowy bonus w postaci `2000 expa` i osiągnięcia `Zabić Sylvio` za pobicie wszystkich, w tym również Sylvio.
 
-## Za kilka ziół więcej
-__Zleca: Cipher__
 
-Cipher da nam swoje poparcie jeśli damy mu 10 łodyg bagiennego ziela.
 
 ## Złoto dla zielarza
 __Zleca: Wilk__
 
-Od Wilka dowiadujemy się, że w pobliskim lesie mieszka zielarz, a my przy okazji poszukiwań moglibyśmy zwrócić jego dług. Podążamy ścieżką prowadzącą przez obóz niedaleko Pepe, aż natkniemy się na zniszczony wóz przy dużej skale. Skręcamy wtedy w prawo i trafiamy prosto do jaskini.
+Od Wilka dowiadujemy się, że w pobliskim lesie mieszka zielarz, a my przy okazji poszukiwań moglibyśmy zwrócić jego dług. Dostajemy 200 złota, a gdy już będziemy chcieli je oddać to podążamy ścieżką prowadzącą przez obóz niedaleko Pepe, aż natkniemy się na zniszczony wóz przy dużej skale. Skręcamy wtedy w prawo i trafiamy prosto do jaskini.
 
 ## Zebrać czynsz
 __Zleca: Torlof__
 
 > Jest to jedno z zadań związanych z testem Torlofa.  
 Torlof prosi nas byśmy udali się do Sekoba i odebrali od niego czynsz. Farmer nie chce z nami gadać, więc go bijemy i odbieramy czynsz. Wracamy do Torlofa.
+
+## Bajer (Rozdział 4)
+__Zleca: Dar__
+
+Dar chce zaimponować Lee, więc prosi nas o przyniesienie pierścienia orkowego dowódcy, który powinniśmy już mieć, jeśli zabijaliśmy orków w Khorinis.
