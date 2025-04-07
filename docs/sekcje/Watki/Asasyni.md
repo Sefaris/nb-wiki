@@ -21,7 +21,7 @@ Teraz nowicjusz zaprowadzi nas do wejścia Lasu Asasynów za obozem Bractwa.
 
 Wracamy do Namiba i dostajemy amulet, który kładziemy na piedestale obok wejścia, co otwiera przed nami wejście do Lasu.
 
-# UWAGA: Pod żadnym pozorem nie wchodźcie tam sami. Zdecydowanie warto zrobić też zapis przed lokacją, jako że nie da się z niej wyjść, dopóki nie skończymy jej wątku.
+### UWAGA: Pod żadnym pozorem nie wchodźcie tam sami. Zdecydowanie warto zrobić też zapis przed lokacją, jako że nie da się z niej wyjść, dopóki nie skończymy jej wątku.
 
 Znowu gadamy z Namibem, a następnie idziemy do Gonzalesa i prowadzimy go do przejścia.
 > Można tepnąć się do obozu bractwa, a Gonzales będzie czekał już na nas za obozem.
