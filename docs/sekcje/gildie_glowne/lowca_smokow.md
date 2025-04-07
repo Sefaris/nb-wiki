@@ -2,30 +2,71 @@
 
 > Aby dołączyć do najemników trzeba zdobyć poparcie większość najemników (Zadania poniżej), a także przejść test Torlofa.
 
+## Jeden z najemników
+__Zleca: Lee__
+
+Musimy przejść test Torlofa i zyskać szacunek większości najemników. Następnie udajemy się do Lee, potem Onara i znowu Lee. Oficjalnie stajemy się Najemnikiem.
+
+## Szacunek
+__Zleca: Zdobycie poparcia od jednego z najemników__
+
+Jak sama nazwa wskazuje, zadanie polega na zebraniu poparcia najemników.
+
+- Buster - Po pokonaniu go w pojedynku
+- Cipher - Jeśli przyniesiemy mu skręty w zadaniu [Za kilka ziół więcej](#za-kilka-ziół-więcej)
+- Cord - Po nauczeniu sie walki bronią jednoręczną lub dwuręczną na conajmniej 30%
+- Jarvis - pokonać dla niego w walce co najmniej 3 przydupasów Sylvia
+- Raoul - pobić go
+- Rod - unieść jego miecz w zadaniu [Miecz Roda](#miecz-roda) lub pokonać go w walce
+- Sentenza - Jeśli zapłacimy mu 50 sztuk złota
+- Wilk - Po trafieniu w 3 tarcze strzelnicze w zadaniu [Strzał w dziesiątkę!](#strzał-w-dziesiątkę)
+
+Dodatkowo trzeba przejść próbę Torlofa.
+
+## Zebrać czynsz
+__Zleca: Torlof__
+
+Jest to jedno z zadań związanych z testem Torlofa.  
+Torlof prosi nas byśmy udali się do Sekoba i odebrali od niego czynsz. Farmer nie chce z nami gadać, więc go bijemy i odbieramy czynsz. Wracamy do Torlofa.
+> Jeżeli zamiast tego wybraliśmy odpędzenie strażników to czynsz zbierać będziemy w 2 rozdziale.
+
+## Odpędzić straż
+__Zleca: Torlof__
+
+Jest to jedno z zadań związanych z testem Torlofa.
+Mamy udać się na farmę Bengara i rozprawić z patrolem straży miejskiej. Idziemy do Bengara i rozmawiamy z nim, następnie zabijamy strażników miejskich i wracamy do Torlofa.
+Strażnikowi możemy też wcisnąć złoto za zostawienie farmera w spokoju dla +1 retoryki, a później i tak ich pozabijać i odebrać swoje złoto.
+> Jeżeli zamiast tego wybraliśmy zbieranie czynszu to odpędzać strażników będziemy w 2 rozdziale.
+
+## Ułatwione przyjęcie do najemników
+__Zleca: Lares/Cord__
+
+Vatras mówi nam, że możemy dołączyć do jednej z 3 gildii które mają największe wpływy. W tym celu rozmawiamy z Laresem. Jeżeli wybierzemy najemników to wyśle on nas do Corda. Zajmie się on naszym testem, który dostaniemy od Torlofa. Pomoże nam pod warunkiem, że dowiemy się od Dextera o Patricku. Idziemy do obozu bandytów, gadamy z hersztem, a następnie wracamy do Corda, dzięki czemu test Torlofa mamy z głowy.
+
+> Można również wziąć zadanie ułatwionego przyjęcia do innej gildii, a później pogadać z Lee czy wie coś o Wodnym Kręgu, wziąć zadanie od Torlofa, a na koniec pogadać z Cordem i poprosić go o pomoc.
+> Nie warto brać pomocy od Corda, gdyż wiąże się to jedynie z utratą expa za wykonanie tego zadania samemu.
+
 ## Cztery wilki dla Pepe
 __Zleca: Pepe__
 
 Pasterz Pepe mówi nam, że wilki podkradają mu owce. Wilki znajdują się niedaleko Pepe w obozie z namiotem, zabijamy je i wracamy do Pepe.
 
-## Gniazdo polnych bestii
-__Zleca: Fester__
+## Skopać tyłek Bullkowi
+__Zleca: Pepe__
 
-Przed farmą Onara spotykamy Festera, który ma za zadanie pozbyć się polnych bestii z ich gniazda. Zgadzamy się mu pomóc w zamian za poparcie, idziemy zabić insekty, po czym okazuje się, że Fester nas oszukał. Obijamy mu mordę, a zadanie kończy się pomyślnie.
-> Wybór złota zamiast poparcia niczego nie zmienia.
+Po wykonaniu zadania z wilkami dla Pepe mówi nam, że Bullko miał pilnować owiec, ale tego nie robi. Idziemy do Bullko, obijamy mu mordę i wracamy do Pepe.
+> Thekla da nam gulasz po obiciu Bulko
 
 ## Gulasz
 __Zleca: Thekla__
 
 Po otrzymaniu pierwszego gulaszu możemy zapytać Thekle o dokładkę. Wtedy wysyła nas ona do Sagitty, u której dostajemy paczkę z ziołami, za którą otrzymamy kolejną porcję gulaszu.
 
+## Gniazdo polnych bestii
+__Zleca: Fester__
 
-
-
-
-## Lokaj Sędziego
-__Zleca: Lee__
-
-Lee chce zdemaskować Sędziego, więc prosi nas, abyśmy udali się do Sędziego i zaoferowali mu współpracę. Musimy przed tym udać się do Vatrasa, który rzuci na nas stosowne zaklęcie. Jako test zaufania, musimy przynieść młot Innosa z klasztoru. Teraz sędzia każe nam odnaleźć zbiegłych więźniów i ich zabić. Pierwszy z nich jest w jaskini z bandytą Jesse. Rozmawiamy ze zbiegiem, a następnie idziemy do Martwej Harpii. W gospodzie znajduje się kolejny zbieg, który zdradza nam położenie ich przywódcy. Na farmie Onara spotykamy Morgaharda, który wręcza nam list, którego potrzebuje Lee. Odnosimy go do Lee, a zadanie się kończy.
+Przed farmą Onara spotykamy Festera, który ma za zadanie pozbyć się polnych bestii z ich gniazda. Zgadzamy się mu pomóc w zamian za poparcie, idziemy zabić insekty, po czym okazuje się, że Fester nas oszukał. Obijamy mu mordę, a zadanie kończy się pomyślnie.
+> Wybór złota zamiast poparcia niczego nie zmienia.
 
 ## Miecz Roda
 __Zleca: Rod__
@@ -38,22 +79,12 @@ Rod uważa nas za słabeusza i twierdzi, że nie dalibyśmy rady udźwignąć je
 Dodatkowy bonus w postaci 500 expa i osiągnięcia Bokser za pobicie Roda gołymi pięsciami gdy ten rusza na nas po odmowie oddania broni.
 > Jeżeli przegraliśmy zakład i oddaliśmy Rodowi miecz to dalej możemy go po prostu pobić i uzyskać jego szacunek
 
-## Odkupienie
-__Zleca: Baltram__
+## Sekretna technika Roda
+__Zleca: Rod__
 
-Jak jesteśmy najemnikiem to Baltram nie będzie chciał z nami handlować. Będziemy mogli to odpokutować, jeśli przyniesiemy mu 10 szynek i 10 butelek wina.
+Rod prosi nas o przyniesienie mu 12 butelek ginu w zamian za zdradzenie sekretu walki. Oddajemy mu tuzin butelek alkoholu, a on wręcza nam pierścień, który zwiększy nasze władanie bronią dwuręczną.
 
-## Odpędzić straż
-__Zleca: Torlof__
 
-> Jest to jedno z zadań związanych z testem Torlofa.  
-
-Mamy udać się na farmę Bengara i rozprawić z patrolem straży miejskiej. Idziemy do Bengara i rozmawiamy z nim, następnie zabijamy strażników miejskich i wracamy do Torlofa.
-
-## Oferta pokoju
-__Zleca: Lee__
-
-Lee daje nam list, który musimy dostarczyć Hagenowi. Idziemy do Hagena i wracamy do Lee.
 
 ## Za kilka ziół więcej
 __Zleca: Cipher__
@@ -71,46 +102,14 @@ __Zleca: Cipher__
 
 Po oddaniu paczku z zielem Cipher prosi nas, abyśmy przynieśli mu kolejną paczkę, tym razem z laboratorium obok Nowego Obozu. Gorzelnia znajduje się w jaskini z bandytami, przy zatopionej chacie, na lewo od wejścia na lodowy biom.
 
-## Pancerz z płytek pełzacza
-__Zleca: Wilk__
-
-Zadanie nam się aktywuje kiedy spytamy o zbroję z płytek (patrz zad. Zbroja Barema). 7 płytek daje nam Barem, a trzy z nich można znaleźć w jaskiniach z pełzaczami w Khorinis (lub kupić dwie od Lutero). Po zebraniu 10 sztuk idziemy z nimi do Wilka i następnego dnia odbieramy zbroję.
-
 ## Puchar Kharima
 __Zleca: Kharim__
 
 Na farmie Onara spotykamy starego znajomego Kharima. Prosi on nas o przyniesienie jego złotego pucharu, który wygrał na arenie. Znajdziemy go w miejscu areny Starego Obozu.
 
-## Sekretna technika Roda
-__Zleca: Rod__
 
-Rod prosi nas o przyniesienie mu 12 butelek ginu w zamian za zdradzenie sekretu walki. Oddajemy mu tuzin butelek alkoholu, a on wręcza nam pierścień, który zwiększy nasze władanie bronią dwuręczną.
 
-## Skopać tyłek Bullkowi
-__Zleca: Pepe__
 
-Po wykonaniu zadania z wilkami dla Pepe mówi nam, że Bullko miał pilnować owiec, ale tego nie robi. Idziemy do Bullko, obijamy mu mordę i wracamy do Pepe.
-
-## Jeden z najemników
-__Zleca: Lee__
-
-Musimy przejść test Torlofa i zyskać szacunek większości najemników. Następnie udajemy się do Lee, potem Onara i znowu Lee. Oficjalnie stajemy się Najemnikiem.
-
-## Szacunek
-__Zleca: Zdobycie poparcia od jednego z najemników__
-
-Jak sama nazwa wskazuje, zadanie polega na zebraniu poparcia najemników.
-
-- Buster - Po pokonaniu go w pojedynku
-- Cipher - Jeśli przyniesiemy mu skręty w zadaniu [Za kilka ziół więcej](#za-kilka-ziół-więcej)
-- Cord - Po nauczeniu sie walki bronią jednoręczną lub dwuręczną na conajmniej 30%
-- Jarvis - Jeśli pokonamy dla niego w walce conajmniej 3 przydupasów Sylvia
-- Raoul - Jeśli go pokonamy w walce
-- Rod - Jeśli damy radę unieść jego miecz w zadaniu [Miecz Roda](#miecz-roda) lub pokonamy go w walce
-- Sentenza - Jeśli zapłacimy mu 50 sztuk złota
-- Wilk - Po trafieniu w 3 tarcze strzelnicze w zadaniu [Strzał w dziesiątkę!](#strzał-w-dziesiątkę)
-
-Dodatkowo trzeba przejść próbę Torlofa.
 
 ## Strzał w dziesiątkę!
 __Zleca: Wilk__
@@ -119,12 +118,7 @@ __Zleca: Wilk__
 
 Wilk dla nam swoje poparcie jak trafimy z łuku w środek 3 tarcz. Tarcze znajdują się za kuchnią Eddy. Trzeba stać dokładnie przy słupku z wbitą strzałą i trafić z tego miejsca w środek 3 tarcz. Otrzymanie 50 expa oznacza, że ta tarcza jest już zaliczona. Po celnym trafieniu w każdą z tarcz wracamy do Wilka.
 
-## Ułatwione przyjęcie do najemników
-__Zleca: Lares/Cord__
 
-Vatras mówi nam, że możemy dołączyć do jednej z 3 gildii które mają największe wpływy. W tym celu rozmawiamy z Laresem. On wyśle nas do najemnika Corda. Zajmie się on naszym testem, który dostaniemy od Torlofa. Pomoże nam pod warunkiem, że dowiemy się od Dextera o Patricku. Idziemy do obozu bandytów, gadamy z hersztem, a następnie wracamy do Corda, dzięki czemu test Torlofa mamy z głowy.
-
-> Można również wziąć zadanie ułatwionego przyjęcia do innej gildii, a później pogadać z Lee czy wie coś o Wodnym Kręgu, wziąć zadanie od Torlofa, a na koniec pogadać z Cordem i poprosić go o pomoc.
 
 ## Wyzwanie Jarvisa
 __Zleca: Jarvis__
@@ -144,12 +138,28 @@ Dodatkowy bonus w postaci `2000 expa` i osiągnięcia `Zabić Sylvio` za pobicie
 __Zleca: Wilk__
 
 Od Wilka dowiadujemy się, że w pobliskim lesie mieszka zielarz, a my przy okazji poszukiwań moglibyśmy zwrócić jego dług. Dostajemy 200 złota, a gdy już będziemy chcieli je oddać to podążamy ścieżką prowadzącą przez obóz niedaleko Pepe, aż natkniemy się na zniszczony wóz przy dużej skale. Skręcamy wtedy w prawo i trafiamy prosto do jaskini.
+> Druid może wprowadzić nas w podgildię truciciela (można łączyć z najemnikiem)
 
-## Zebrać czynsz
-__Zleca: Torlof__
+## Dłużnik Gunnara
+__Zleca: Gunnar__
 
-> Jest to jedno z zadań związanych z testem Torlofa.  
-Torlof prosi nas byśmy udali się do Sekoba i odebrali od niego czynsz. Farmer nie chce z nami gadać, więc go bijemy i odbieramy czynsz. Wracamy do Torlofa.
+Gunnar prosi nas o znalezienie człowieka, któremu pożyczył złoto. Ciało znajdujemy niedaleko Groma, na skałach pod wieżą Dextera. Wracamy z wieściami do Gunnara
+> Zadanie dalej prowadzi nas do Andre gdzie pojawi się możliwość zostania zwiadowcą (osobna gildia)
+
+## Oferta pokoju
+__Zleca: Lee__
+
+Po zostaniu najemnikiem Lee daje nam list, który musimy dostarczyć Hagenowi. Idziemy do Hagena i wracamy do Lee.
+
+## Odkupienie
+__Zleca: Baltram__
+
+Ze względu na to, że jesteśmy najemnikiem Baltram nie chce z nami handlować. Możemy to odpokutować, jeśli przyniesiemy mu 10 szynek i 10 butelek wina.
+
+## Lokaj Sędziego  (Rozdział 3)
+__Zleca: Lee__
+
+Lee chce zdemaskować Sędziego, więc prosi nas, abyśmy udali się do Sędziego i zaoferowali mu współpracę. Musimy przed tym udać się do Vatrasa, który rzuci na nas stosowne zaklęcie. Jako test zaufania, musimy przynieść młot Innosa z klasztoru. Teraz sędzia każe nam odnaleźć zbiegłych więźniów i ich zabić. Pierwszy z nich jest w jaskini z bandytą Jesse. Rozmawiamy ze zbiegiem, a następnie idziemy do Martwej Harpii. W gospodzie znajduje się kolejny zbieg, który zdradza nam położenie ich przywódcy. Na farmie Onara spotykamy Morgaharda, który wręcza nam list, którego potrzebuje Lee. Odnosimy go do Lee, a zadanie się kończy.
 
 ## Bajer (Rozdział 4)
 __Zleca: Dar__
