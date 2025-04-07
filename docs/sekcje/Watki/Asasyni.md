@@ -9,26 +9,7 @@ W obozach zbieraczy gadamy z Shratem (Przy farmie Lobarta), Balamem (Przy jezior
 
 Darrion powie nam, że miecz pochodzi z Varantu, więc wykonujemy zadanie "Broń dla Gonzalesa", Gonzales siedzi w karczmie portowej lub z burdelu. Pokazujemy mu miecz i dowiadujemy się, że za porwaniami stoi Bractwo Masjafu. Wracamy do Namiba, a ten wysyła nas do Gor na Totha w celu wysłania strażników do obozu Balama, gdyż właśnie ten obóz może zostać napadnięty. Gadamy z Gor na Tothem po czym udajemy się do obozu Balama.
 
-Teraz wykonujemy kilka zadań dla Balama i strażnika Tiraxa (opisane niżej). Po wykonaniu ich udajemy się do Balama po 22 w nocy i gadamy z nim. Zaczyna się atak zabójców Masjafu, więc zabijamy napastników i zabieramy z ciała jednego z nich amulet, po czym wracamy z wieściami do Namiba, a ten odsyła nas do Parveza na targowisku. Jeden z nowicjuszy przeżył napad zabójców i musimy przygotować dla niego miksturę, w czym pomoże nam Baal Tyon.
-
-Składniki mikstury:  
-Akwamaryn, korzeń leczniczy, żuwaczki pełzacza, szczaw królewski, eliksir ducha (pojawia się u Zurisa na potrzeby zadania) i kaktus, który możemy znaleźć na Pustyni Adanosa lub zdobyć w Khorinis, a w tym celu
-idziemy do alchemików Salandrila, Constantino, Sagitty i Zurisa. Okazuje się, że kaktusa nabył ostatnio Neoras alchemik w klasztorze. Idziemy do niego i dostajemy kaktusa w zamian za czarną rudę lub za darmo jeżeli jesteśmy paladynem.
-
-Wracamy ze składnikami do Tyona i dostajemy miksturę, którą oddajemy Lokiemu.  
-Teraz nowicjusz zaprowadzi nas do wejścia Lasu Asasynów za obozem Bractwa.  
-> Można tepnąć się do obozu bractwa, a Loki będzie czekał już na nas za obozem.
-
-Wracamy do Namiba i dostajemy amulet, który kładziemy na piedestale obok wejścia, co otwiera przed nami wejście do Lasu.
-
-### UWAGA: Pod żadnym pozorem nie wchodźcie tam sami. Zdecydowanie warto zrobić też zapis przed lokacją, jako że nie da się z niej wyjść, dopóki nie skończymy jej wątku.
-
-Znowu gadamy z Namibem, a następnie idziemy do Gonzalesa i prowadzimy go do przejścia.
-> Można tepnąć się do obozu bractwa, a Gonzales będzie czekał już na nas za obozem.
-
-## UWAGA: Teraz musimy wykonać wszystkie zadania dla Masjafu (opisane w kolejnym dziale poradnika), dopiero po ukończeniu wszystkich zadań będzie można kontynuować zadanie z zaginionymi nowicjuszami.
-
-Kiedy już wykonamy wszystkie zadania dla Masjafu i dostaniemy się do ukrytej lokacji za posągiem Beliara w świątyni, zabijamy demona Nebirosa i dostajemy się do Cor Kaloma. Po krótkiej rozmowie zabijamy go, zabieramy z jego ciała runę i teleportujemy się do Khorinis, gdzie gadamy z Namibem. Polecam też po jednym dniu pogadać z Gonzalesem, który teraz przebywa w klasztorze, odda nam on swój ekwipunek.
+Teraz wykonujemy kilka zadań dla Balama i strażnika Tiraxa:
 
 ## Bagienne ziele dla Balama
 
@@ -54,16 +35,33 @@ Dzień po wykonaniu poprzedniego zadania Tirax poprosi nas o przyniesienie 3 skr
 
 Tirax prosi nas o przyniesienie owczych skór. Jeśli nie mamy takowych to zabijamy owce na farmie Onara. Idziemy też do Grimbalda, jako że da on nam 2 skóry cieniostwora, które możemy oddać strażnikom.
 
+Po wykonaniu zadań udajemy się do Balama po 22 w nocy i gadamy z nim. Zaczyna się atak zabójców Masjafu, więc zabijamy napastników i zabieramy z ciała jednego z nich amulet, po czym wracamy z wieściami do Namiba, a ten odsyła nas do Parveza na targowisku. Jeden z nowicjuszy przeżył napad zabójców i musimy przygotować dla niego miksturę, w czym pomoże nam Baal Tyon.
+
+Składniki mikstury:  
+Akwamaryn, korzeń leczniczy, żuwaczki pełzacza, szczaw królewski, eliksir ducha (pojawia się u Zurisa na potrzeby zadania) i kaktus, który możemy znaleźć na Pustyni Adanosa lub zdobyć w Khorinis, a w tym celu
+idziemy do alchemików Salandrila, Constantino, Sagitty i Zurisa. Okazuje się, że kaktusa nabył ostatnio Neoras alchemik w klasztorze. Idziemy do niego i dostajemy kaktusa w zamian za czarną rudę lub za darmo jeżeli jesteśmy paladynem.
+
+Wracamy ze składnikami do Tyona i dostajemy miksturę, którą oddajemy Lokiemu.  
+Teraz nowicjusz zaprowadzi nas do wejścia Lasu Asasynów za obozem Bractwa.  
+> Można tepnąć się do obozu bractwa, a Loki będzie czekał już na nas za obozem.
+
+Wracamy do Namiba i dostajemy amulet, który kładziemy na piedestale obok wejścia, co otwiera przed nami wejście do Lasu.
+
+### UWAGA: Pod żadnym pozorem nie wchodźcie tam sami. Zdecydowanie warto zrobić też zapis przed lokacją, jako że nie da się z niej wyjść, dopóki nie skończymy jej wątku.
+
+Znowu gadamy z Namibem, a następnie idziemy do Gonzalesa i prowadzimy go do przejścia.
+> Można tepnąć się do obozu bractwa, a Gonzales będzie czekał już na nas za obozem.
+
 # Wątek asasynów Masjaf Cz. 1
 
-Będąc już w lokacji Masjafu, nie zbliżamy się na razie do żadnych miejsc gdzie przebywają asasyni , w przeciwnym razie zaatakują jak nas tylko zobaczą. Po prostu idziemy prosto do Gonzalesa.
+Będąc już w lokacji Masjafu, nie zbliżamy się na razie do żadnych miejsc gdzie przebywają asasyni, w przeciwnym razie zaatakują jak nas tylko zobaczą. Po prostu idziemy prosto do Gonzalesa, który siedzi przy ognisku na lewo od miejsca, w którym wyszliśmy z jaskini
 
 ## Swój pośród obcych Część 1
 
 To zadanie ciągnie się aż do końca wątku asasynów.  
-Będąc już w nowej lokacji znajdujemy w niej Gonzalesa (siedzi obok ogniska), gadamy z nim i mamy 2 opcje:  
-- zaatakować asasynów  
-- robić dla nich zadania  
+Gadamy z Gonzalesem i mamy 2 opcje:  
+- zaatakować asasynów
+- udawać jednego z nich celem sabotażu
 
 Jeśli nie macie cierpliwości na zadania, można ich wszystkich po prostu wybić. Jeśli jednak robicie lokacje po raz pierwszy, to polecam jednak spróbować pokojowej wersji (zawsze można w środku przerwać i ich zaatakować)
 
@@ -206,4 +204,4 @@ Gonzales prosi nas, abyśmy dowiedzieli gdzie odbędzie się spotkanie. Idziemy 
 ## Swój pośród obcych Część 2
 
 Po tym jak Haniar uciekł, bierzemy Gonzalesa i idziemy teraz do świątyni, gdzie wybijamy wszystkich asasynów, nie zapominamy też o tych w jaskini Osaira. Teraz musimy znaleźć sekretne przejście, a w tym celu czytamy zwój na jednym z ołtarzy w głównej sali w świątyni i pokazujemy go Gonzalesowi. Teraz modlimy się do posągu Beliara i otwiera się przejście. Trafimy do pokoju z teleportem na środku, plądrujemy wszystko co się da i przechodzimy przez teleport. Czeka nas tam walka z kilkoma przeciwnikami, po czym dochodzimy do Haniara, gdzie pojawia się Gonzales i po krótkiej rozmowie zabijamy typa.  
-Teraz pozostaje tylko zabić demona i Cor Kaloma.
+Teraz pozostaje tylko zabić demona i Cor Kaloma. Po krótkiej rozmowie zabijamy go, zabieramy z jego ciała runę i teleportujemy się do Khorinis, gdzie gadamy z Namibem. Polecam też po jednym dniu pogadać z Gonzalesem, który teraz przebywa w klasztorze, odda nam on swój ekwipunek.
