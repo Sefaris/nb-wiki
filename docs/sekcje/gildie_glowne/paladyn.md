@@ -8,17 +8,18 @@
 Są 3 sposoby na dołączenie:  
 - Zostanie obywatelem miasta
 - Wykonanie zadania [Ułatwione przyjęcie do straży](#ułatwione-przyjęcie-do-straży)
-- Zabicie dla Andre gildii złodziei (nie polecam)
+- Zabicie członków gildii złodziei (nie polecam)
 
 ## Ułatwione przyjęcie do straży
 
 W trakcie rozmowy o gildiach z Vatrasem ten wysyła nas do Laresa. Idziemy do Laresa i w rozmowie z nim wybieramy, że chcemy dołączyć do straży, ten natomiast każe nam iść do Martina. Martin mówi, że ktoś podkrada nocą zapasy z magazynu, przychodzimy w nocy i okazuje się, że złodziejem jest Rangar, mówimy o tym Martinowi, a ten daje nam list polecający. Zanosimy list Lordowi Andre i możemy już dołączyć do straży.
+> Dużo lepiej jest wybrać ułatwione dołączenie do magów ognia, a do straży dostać się standardowo poprzez zostanie czeladnikiem
 
 ## Zadania dostępne tylko dla strażnika miejskiego
 
 ## Paczka pełna ziela
 
-Andre zleca nam przyniesienie paczki ziela. Paczka jest w magazynie portowym , zapewne już ją zdobyliście w zadaniu Dłużnik Lehmara. Zanosimy paczkę do Andre albo mówimy, że wrzuciliśmy ją do morza jeśli wcześniej daliśmy paczkę Cipherowi na farmie Onara.
+Andre zleca nam przyniesienie paczki ziela. Paczka jest w magazynie portowym, zapewne już ją zdobyliście w zadaniu Dłużnik Lehmara. Zanosimy paczkę do Andre lub mówimy, że wrzuciliśmy ją do morza jeśli wcześniej daliśmy paczkę Cipherowi na farmie Onara.
 
 ## Afera z zielem
 
@@ -40,22 +41,22 @@ Zadanie zleca Wulfgar, jeśli zrobiliście wszystkie poprzednie zadania. Mamy za
 
 ## Gildia zabójców w Khorinis
 
-> Zadanie dostępne tylko jeśli wcześniej nie zaczęliśmy wątku gildii zabójców.
-
-Andre daje nam zadanie zlikwidowania gildii zabójców. Aby dowiedzieć się o gildii, musimy być w gildii złodziei. Rozmawiamy z Cassią i Ramirezem, a następnie z Gillianem, który gra na placu wisielców na scenie. Następnego dnia spotykamy się z nim w domku niedaleko statku paladynów. Rozmawiamy z nim tam i dowiadujemy się, że naprawdę nazywa się Asmal i jest liderem gildii zabójców. Zadanie kończy się na zabiciu Asmala, ale najlepiej zrobić to po wykonaniu dla nich zadań, gdy mamy możliwość wyzwać go na pojedynek.
+1. Jeżeli jesteśmy już członkami gildii zabójców to po prostu wykonujemy wszystkie zadania. Na koniec rzucamy Asmalowi wyzwanie i zabijamy go. Zadanie kończymy u Andre
+2. Jeżeli nie dołączyliśmy jeszcze do gildii zabójców to będąc członkiem gildii złodziei rozmawiamy z Cassią i Ramirezem, a następnie z Gillianem, który gra na placu wisielców na scenie. Następnego dnia spotykamy się z nim w domku w porcie obok ławki na, której siedzi Jack. Dowiadujemy się, że Gillian naprawdę nazywa się Asmal i jest liderem gildii zabójców. Zadanie kończy się na zabiciu Asmala, ale najlepiej zrobić to po wykonaniu dla nich zadań, na koniec będziemy mieli możliwość wyzwać go na pojedynek.
 
 ## Awans na Paladyna (Rozdział 3)
 
-Paladynem możemy stać się w 3 rozdziale, w tym celu musimy uwolnić Benneta (patrz zadanie Uwolnić Benneta). Po uniewinnieniu Benneta możemy już oficjalnie dołączyć do Paladynów. Dostajemy pancerz rycerza i idziemy do Harada i wybieramy miecz jedno lub dwuręczny, a następnie udajemy się do Marduka, który nauczy nas konsekrować miecz.
+Paladynem możemy stać się w 3 rozdziale, w tym celu musimy uwolnić Benneta (patrz zadanie Uwolnić Benneta). Po uniewinnieniu Benneta możemy już oficjalnie dołączyć do Paladynów. Dostajemy pancerz rycerza, runę od Albrechta oraz idziemy do Harada i wybieramy miecz jedno lub dwuręczny. Następnie udajemy się do Marduka, który nauczy nas konsekrować miecz.
 
 ## Tajemna wiedza (Rozdział 3)
 
-Po przekuciu pancerza rycerza Harad powie nam, o dodatkowym wzmocnieniu pancerza, o którym powie nam Marduk. Idziemy do maga ognia, który wręcza nam modlitewnik. Z jego pomocą możemy konsekrować pancerz rycerza i paladyna (tego pierwszego się nie opłaca), pod warunkiem, że go przekuliśmy i mamy odpowiednią ilość złota.
+Po przekuciu pancerza rycerza Harad powie nam, że można go wzmocnić ponownie poprzez modlitwę. Idziemy więc do maga ognia Marduka, który wręcza nam modlitewnik. Od teraz możemy konsekrować przekuty pancerz rycerza, a w 4 rozdziale przekuty pancerz paladyna pod warunkiem, że mamy odpowiednią ilość złota.
+> Jeżeli masz zamiar szybko przechodzić do 4 rozdziału to w celu oszczędzania złota możesz pominąć konsekrację pancerza z 3 rozdziału.
 
 ## Zbezczeszczone kapliczki (Rozdział 3)
 
 Ulthar zleca nam oczyszczenie kapliczek Innosa. Nie wszystkie kapliczki są zbezczeszczone, więc warto kupić ich mapę od Brahima i się nią posłużyć. Kiedy dostaniemy odpowiedni wpis w dzienniku, wracamy do Ulthara po nagrodę.
 
-Hordy orkowych wojowników (Rozdział 4)
+## Hordy orkowych wojowników (Rozdział 4)
 
 Na moście przy farmie Bengara spotkamy orkowego przywódcę, który do nas zagada. Zabijamy go i zabieramy jego pierścień. Pokazujemy go Hagenowi, który będzie odtąd skupował od nas takie pierścienie. W jaskini za lasem z polowania z Bartokiem znajdziemy wodza orków, który posiada mapę obozów orków. Po oddaniu odpowiedniej ilości pierścieni, misja zakończy się samoistnie.
