@@ -2,9 +2,10 @@
 
 ## Zaginieni nowicjusze
 
-Zadanie zleca jeden ze strażników przy bramie do obozu Bractwa. Musimy udać się do Baal Namiba, który zleci nam sprawdzenie obozów zbieraczy ziela.  
-Idziemy kolejno do:  
-Shrata (Przy farmie Lobarta), Balama (Przy jeziorze obok czarnego trolla), a na końcu do Hanisa, nad kamiennym kręgiem w Mrocznym Lesie. Hanis się wykrwawia i ostatkiem sił mówi, że zaatakowano jego obóz. Udajemy się teraz do bimbrowni Vino i wykańczamy napastnika. Pokazujemy jego miecz Namibowi, po czym idziemy kolejno do Harada, Carla i Benneta, a na końcu udajemy się do Darriona w Obozie Netbeka.
+Zadanie zleca jeden ze strażników przy bramie do obozu Bractwa. Musimy udać się do Baal Namiba, który zleci nam sprawdzenie obozów zbieraczy ziela. Odwiedzamy wszystkie 3 obozy oraz gadamy z Baalem Parvezem na rynku.
+
+W obozach zbieraczy gadamy z Shratem (Przy farmie Lobarta), Balamem (Przy jeziorze obok czarnego trolla), z Hanisem (nad kamiennym kręgiem w Mrocznym Lesie). Hanis się wykrwawia i ostatkiem sił mówi, że zaatakowano jego obóz. Udajemy się teraz do bimbrowni Vino i wykańczamy napastnika. Pokazujemy jego miecz Namibowi, po czym idziemy kolejno do Harada, Carla i Benneta, a na końcu udajemy się do Darriona w Obozie Netbeka.
+> Możemy od razu iść do Netbeka
 
 Darrion powie nam, że miecz pochodzi z Varantu, więcudajemy się do starego znajomego Gonzalesa i pokazujemy mu miecz (o ile wcześniej wykonaliśmy zadanie Broń dla Gonzalesa). Dowiadujemy się, że za porwaniami stoi Bractwo Masjafu. Wracamy do Namiba, a ten wysyła nas do Gor na Totha w celu wysłania strażników do obozu Balama, gdyż właśnie ten obóz może zostać napadnięty. Gadamy z Gor na Tothem po czym udajemy się do obozu Balama.
 
