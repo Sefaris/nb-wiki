@@ -77,15 +77,13 @@ Rod uważa nas za słabeusza i twierdzi, że nie dalibyśmy rady udźwignąć je
 1. Oddajemy Rodowi miecz i zyskujemy jego poparcie.
 2. Nie oddajemy mu miecza, dochodzi do walki, po której zyskujemy jego poparcie (jeśli z nim wygramy).
 
-Dodatkowy bonus w postaci 500 expa i osiągnięcia Bokser za pobicie Roda gołymi pięsciami gdy ten rusza na nas po odmowie oddania broni.
+Dodatkowy bonus w postaci 500 expa i osiągnięcia Bokser za pobicie Roda gołymi pięściami gdy ten rusza na nas po odmowie oddania broni. Pomocny będzie tutaj pierścień Alrika i mikstura odporności na cios.
 > Jeżeli przegraliśmy zakład i oddaliśmy Rodowi miecz to dalej możemy go po prostu pobić i uzyskać jego szacunek
 
 ## Sekretna technika Roda
 __Zleca: Rod__
 
-Rod prosi nas o przyniesienie mu 12 butelek ginu w zamian za zdradzenie sekretu walki. Oddajemy mu tuzin butelek alkoholu, a on wręcza nam pierścień, który zwiększy nasze władanie bronią dwuręczną.
-
-
+Gdy uzyskaliśmy już szacunek Roda możemy się go zapytać o jego sekret, a ten prosi nas o przyniesienie mu 12 butelek ginu w zamian za zdradzenie sekretu walki. Po oddaniu alkoholu, wręcza nam pierścień, który zwiększy nasze władanie bronią dwuręczną o 5%.
 
 ## Za kilka ziół więcej
 __Zleca: Cipher__
@@ -103,37 +101,26 @@ __Zleca: Cipher__
 
 Po oddaniu paczku z zielem Cipher prosi nas, abyśmy przynieśli mu kolejną paczkę, tym razem z laboratorium obok Nowego Obozu. Gorzelnia znajduje się w jaskini z bandytami, przy zatopionej chacie, na lewo od wejścia na lodowy biom.
 
-## Puchar Kharima
-__Zleca: Kharim__
-
-Na farmie Onara spotykamy starego znajomego Kharima. Prosi on nas o przyniesienie jego złotego pucharu, który wygrał na arenie. Znajdziemy go w miejscu areny Starego Obozu.
-
-
-
-
-
 ## Strzał w dziesiątkę!
 __Zleca: Wilk__
 
 > W tej misji warto skorzystać z wolnego celowania, jeśli normalnie tego nie robimy
 
-Wilk dla nam swoje poparcie jak trafimy z łuku w środek 3 tarcz. Tarcze znajdują się za kuchnią Eddy. Trzeba stać dokładnie przy słupku z wbitą strzałą i trafić z tego miejsca w środek 3 tarcz. Otrzymanie 50 expa oznacza, że ta tarcza jest już zaliczona. Po celnym trafieniu w każdą z tarcz wracamy do Wilka.
-
-
+Wilk dla nam swoje poparcie jak trafimy z łuku w środek 3 tarcz za kuchnią Eddy. Trzeba stać dokładnie przy słupku z wbitą strzałą i trafić z tego miejsca w 3 tarcze. Otrzymanie 50 expa oznacza, że ta tarcza jest już zaliczona. Po 3 celnych trafieniach wracamy do Wilka.
 
 ## Wyzwanie Jarvisa
 __Zleca: Jarvis__
 
-Musimy pokonać 3 przydupasów Sylvia (jego samego też można) w walce:
+Musimy pokonać co najmniej 3 przydupasów Sylvia w walce:
 - Bullko
 - Fester
 - Raoul
 - Rod
 - Sentenza
+- Sylvio
 
-Dodatkowy bonus w postaci `2000 expa` i osiągnięcia `Zabić Sylvio` za pobicie wszystkich, w tym również Sylvio.
-
-
+Gdy już pogadamy z Jarvisem o pobiciach to za każdego dostajemy +500 exp, ponadto za pobicie Sylvio wpada achievement i kolejne 2000 exp.
+Daje nam to łącznie 5000 expa za rozmowę z Jarvisem po pobiciu wszystkich sześciu + exp i ekwipunek, które wpadają za samo wygranie walk.
 
 ## Złoto dla zielarza
 __Zleca: Wilk__
@@ -146,6 +133,11 @@ __Zleca: Gunnar__
 
 Gunnar prosi nas o znalezienie człowieka, któremu pożyczył złoto. Ciało znajdujemy niedaleko Groma, na skałach pod wieżą Dextera. Wracamy z wieściami do Gunnara
 > Zadanie dalej prowadzi nas do Andre gdzie pojawi się możliwość zostania zwiadowcą (osobna gildia)
+
+## Puchar Kharima
+__Zleca: Kharim__
+
+Na farmie Onara spotykamy starego znajomego Kharima. Prosi on nas o przyniesienie jego złotego pucharu, który wygrał na arenie. Znajdziemy go w miejscu areny Starego Obozu.
 
 ## Oferta pokoju
 __Zleca: Lee__
