@@ -1,11 +1,9 @@
 # Śnieżne góry orków
 
 Wejście do tej lokacji znajduje się w Wolnej Kopalni, nad miejscem gdzie w G1 był ork Tarrok.  
-Żeby w ogóle był sens tam iść, musicie mieć rozpoczęte zadanie Stary przyjaciel Lee, mieć wyuczoną odporność na zimno u Lee, a także posiadać orkową zbroję, którą otrzymamy za zadanie z orkową kopalnią
+Żeby w ogóle był sens tam iść, musimy mieć wyuczoną odporność na zimno (uczy Lee lub wypić miksturę od Neorasa). By móc rozpocząć zadania z orkami musimy także posiadać orkową zbroję, którą otrzymamy od Ur-Tralla za zadanie z orkową kopalnią.
 
-## W wersjach po 20.04.2023 cały wątek jest znacząco ułatwiony: Orkowie z klanu nie są nieśmiertelni, a Dariusa wypuszczają już po oddaniu skóry trolla
-
-## Tu macie mapę śnieżnych gór:
+## Mapa śnieżnych gór:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739929992329/F9BDC24039B3917155F61BC2309E19AF07084F29/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739929992329/F9BDC24039B3917155F61BC2309E19AF07084F29/)Punkt 1 to nasz punkt startu.
 
