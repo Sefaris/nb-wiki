@@ -5,18 +5,21 @@
 Zadanie zleca jeden ze strażników przy bramie do obozu Bractwa. Musimy udać się do Baal Namiba, który zleci nam sprawdzenie obozów zbieraczy ziela. Odwiedzamy wszystkie 3 obozy oraz gadamy z Baalem Parvezem na rynku.
 
 W obozach zbieraczy gadamy z Shratem (Przy farmie Lobarta), Balamem (Przy jeziorze obok czarnego trolla), z Hanisem (nad kamiennym kręgiem w Mrocznym Lesie). Hanis się wykrwawia i ostatkiem sił mówi, że zaatakowano jego obóz. Udajemy się teraz do bimbrowni Vino i wykańczamy napastnika. Pokazujemy jego miecz Namibowi, po czym idziemy kolejno do Harada, Carla i Benneta, a na końcu udajemy się do Darriona w Obozie Netbeka.
-> Możemy od razu iść do Netbeka
+> Możemy od razu iść do Darriona
 
-Darrion powie nam, że miecz pochodzi z Varantu, więcudajemy się do starego znajomego Gonzalesa i pokazujemy mu miecz (o ile wcześniej wykonaliśmy zadanie Broń dla Gonzalesa). Dowiadujemy się, że za porwaniami stoi Bractwo Masjafu. Wracamy do Namiba, a ten wysyła nas do Gor na Totha w celu wysłania strażników do obozu Balama, gdyż właśnie ten obóz może zostać napadnięty. Gadamy z Gor na Tothem po czym udajemy się do obozu Balama.
+Darrion powie nam, że miecz pochodzi z Varantu, więc wykonujemy zadanie "Broń dla Gonzalesa", Gonzales siedzi w karczmie portowej lub z burdelu. Pokazujemy mu miecz i dowiadujemy się, że za porwaniami stoi Bractwo Masjafu. Wracamy do Namiba, a ten wysyła nas do Gor na Totha w celu wysłania strażników do obozu Balama, gdyż właśnie ten obóz może zostać napadnięty. Gadamy z Gor na Tothem po czym udajemy się do obozu Balama.
 
-Teraz wykonujemy kilka zadań dla Balama i strażnika Tiraxa (opiszę je niżej), a po wykonaniu zadań udajemy się do Balama po 22 w nocy i gadamy z nim. Zaczyna się atak zabójców Masjafu, więc zabijamy napastników i zabieramy z ciała jednego z nich amulet, po czym wracamy z wieściami do Namiba. Teraz Namib odsyła nas do Parveza na targowisku, jako że jeden z nowicjuszy przeżył napad zabójców, Musimy dla niego przygotować miksturę, w czym pomoże nam Baal Tyon.  
-Musimy mu przynieść nastepujące składniki:  
-Akwamaryn, korzeń leczniczy, żuwaczki pełzacza, szczaw królewski, eliksir ducha ( na potrzeby zadania jeden pojawia się do kupienia u Zurisa) i kaktusa.  
-Możemy go znaleźć na Pustyni Adanosa lub zdobyć w Khorinis.  
-Idziemy do alchemików: Salandrila, Constantino, Sagitty, a teraz do Zurisa. Okazuje się, że kaktusa nabył ostatnio Neoras alchemik w klasztorze. Idziemy do niego i dostajemy kaktusa w zamian za czarną rudę.  
+Teraz wykonujemy kilka zadań dla Balama i strażnika Tiraxa (opisane niżej). Po wykonaniu ich udajemy się do Balama po 22 w nocy i gadamy z nim. Zaczyna się atak zabójców Masjafu, więc zabijamy napastników i zabieramy z ciała jednego z nich amulet, po czym wracamy z wieściami do Namiba, a ten odsyła nas do Parveza na targowisku. Jeden z nowicjuszy przeżył napad zabójców i musimy przygotować dla niego miksturę, w czym pomoże nam Baal Tyon.
+
+Składniki mikstury:  
+Akwamaryn, korzeń leczniczy, żuwaczki pełzacza, szczaw królewski, eliksir ducha (pojawia się u Zurisa na potrzeby zadania) i kaktus, który możemy znaleźć na Pustyni Adanosa lub zdobyć w Khorinis, a w tym celu
+idziemy do alchemików Salandrila, Constantino, Sagitty i Zurisa. Okazuje się, że kaktusa nabył ostatnio Neoras alchemik w klasztorze. Idziemy do niego i dostajemy kaktusa w zamian za czarną rudę lub za darmo jeżeli jesteśmy paladynem.
+
 Wracamy ze składnikami do Tyona i dostajemy miksturę, którą oddajemy Lokiemu.  
 Teraz nowicjusz zaprowadzi nas do wejścia Lasu Asasynów za obozem Bractwa.  
-Idziemy do Namiba po dostajemy amulet, kładziemy go na piedestale obok teleportu i otwiera się wejście do Lasu.
+> Można tepnąć się do obozu bractwa, a Loki będzie już na nas czekał za obozem.
+
+Wracamy do Namiba i dostajemy amulet, który kładziemy na piedestale obok wejścia, co otwiera przed nami wejście do Lasu.
 
 ## UWAGA: Pod żadnym pozorem nie wchodźcie tam sami. Zdecydowanie warto zrobić też zapis przed lokacją, jako że nie da się z niej wyjść, dopóki nie skończymy jej wątku.
 
