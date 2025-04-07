@@ -45,6 +45,9 @@ Rod uważa nas za słabeusza i twierdzi, że nie dalibyśmy rady udźwignąć je
 1. Oddajemy Rodowi miecz i zyskujemy jego poparcie.
 2. Nie oddajemy mu miecza, dochodzi do walki, po której zyskujemy jego poparcie (jeśli z nim wygramy).
 
+Dodatkowy bonus w postaci 500 expa i osiągnięcia Bokser za pobicie Roda gołymi pięsciami gdy ten rusza na nas po odmowie oddania broni.
+> Jeżeli przegraliśmy zakład i oddaliśmy Rodowi miecz to dalej możemy go po prostu pobić i uzyskać jego szacunek
+
 ## Odkupienie
 __Zleca: Baltram__
 
