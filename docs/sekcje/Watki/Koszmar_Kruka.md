@@ -2,7 +2,7 @@
 
 Wymagania:  
 2000 zdrowia i 400 siły lub 400 zręczności lub 600 many  
-###UWAGA: Lokacja jest bardzo trudna, a na dodatek nie da się z niej wyjść, dopóki nie skończymy jej całej. Warto się do niej dobrze przygotować, a także mieć osobny zapis, aby w razie czego móc się wrócić.
+### UWAGA: Lokacja jest bardzo trudna, a na dodatek nie da się z niej wyjść, dopóki nie skończymy jej całej. Warto się do niej dobrze przygotować, a także mieć osobny zapis, aby w razie czego móc się wrócić.
 
 Po rozmowie z Krukiem lądujemy w jego koszmarze. Wychodzimy z miejsca gdzie się zrespiliśmy, skręcamy w lewo i idziemy skrajem urwiska. Dotrzemy do niewielkiej przestrzeni z bossem jaszczuroczłekiem. Po pokonaniu bossa otwieramy kratę przyciskiem na ścianie i wchodzimy w interakcję z przełącznikiem. Rozmawiamy z duchem przy moście, a następnie przechodzimy na drugą stronę. Wybijamy przeciwników i przechodzimy tunelem do niewielkiego cmentarza.
 
