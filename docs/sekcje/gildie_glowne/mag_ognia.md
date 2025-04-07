@@ -120,6 +120,10 @@ Zanosimy księgi Karrasowi i zadanie się kończy.
 
 > Warto najpierw oddać je Gallahadowi dla 5 many, a następnie odkupić w handlu i dopiero wtedy oddać Karrasowi.
 
+## Zbezczeszczone kapliczki (Rozdział 3)
+
+Ulthar zleca nam oczyszczenie kapliczek Innosa. Nie wszystkie kapliczki są zbezczeszczone, więc warto kupić ich mapę od Brahima i się nią posłużyć. Kiedy dostaniemy odpowiedni wpis w dzienniku, wracamy do Ulthara po nagrodę.
+
 ## Poszukiwacze (3 Rozdział)
 
 W trzecim rozdziale gdy damy Pyrokarowi Almanach Opętanych (leży on obok kamiennego kręgu przy farmie Lobarta) otrzymamy od niego zadanie. Musimy odnaleźć wszystkie almanachy. Arcymag da nam listę osób opętanych i każe nam sprowadzić ich do klasztoru. Teraz idziemy do Karrasa i pytamy się, czy ma coś, co pomogłoby nam w walce z poszukiwaczami. Pokazujemy mu almanach i otrzymamy od niego amulet chroniący przed opętaniem.  
