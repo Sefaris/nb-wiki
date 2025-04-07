@@ -3,6 +3,8 @@
 Wymagania: Uprzednie zrobienie koszmaru Kruka  
 2500 zdrowia i 500 siły lub zręczności lub 900 many
 
+### Wykonaj osobny zapis przed wejściem do lokacji, nie można jej opuścić przed ukończeniem w całości.
+
 Po wejściu do lokacji spotykamy szkieleta Ile'Sila, z którym rozmawiamy.  
 Na początek zabijamy bossa pełzacza w tunelu po czym mówimy o tym lle Silowi. Teraz przechodzimy przez tunel i idziemy dalej prosto przed siebie, aż natrafimy na cmentarz. Czeka tam na nas najsilniejszy zombie w grze. 
 
