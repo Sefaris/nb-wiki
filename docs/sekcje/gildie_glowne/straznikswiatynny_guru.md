@@ -1,4 +1,4 @@
-# Strażnik Świątynny/Guru
+# Strażnik Świątynny / Guru
 
 ## Przyjęcie do Bractwa
 
@@ -11,8 +11,8 @@ Aby dołączyć do obozu Bractwa trzeba mieć opaskę nowicjusza (Daje Lester po
 Aby otrzymać to zadanie, musimy zagadać do Caina (znajduje się przed samym obozem), który da nam zebrane bagienne ziele, by je odnieść do Baal Cadara. Po oddaniu ziela Baal Cadar każe nam przynieść ziele od pozostałych obozów zbieraczy ziela:
 
 - pierwsza grupa zbieraczy znajduje się obok kamiennego kręgu na farmie Lobarta
-- druga grupa znajduje się na wzgórzu koło farmy Akila. Aby się tam dostać, musimy z płaskowyżu nad jego farmą udać się w kierunku Słonecznego Kręgu.
-- trzecia grupa znajduje się w lesie obok jeziora niedaleko Grimbalda i czarnego trolla.
+- druga grupa rezyduje na wzgórzu za farmą Akila. Możemy iść tam z płaskowyżu nad jego farmą w kierunku lasu lub od strony słonecznego kręgu po schodach w dół.
+- trzecia grupa jest niedaleko jeziora niedaleko Grimbalda i czarnego trolla.
 
 Po odwiedzeniu wszystkich 3 grup zanosimy ziele do Baal Cadara.
 
@@ -28,8 +28,8 @@ Aby otrzymać zgodę Namiba, musimy porozmawiać z nowicjuszem Harlokiem. Mówim
 
 ### Jest to decydujące zadanie o zostaniu Guru
 
-Baal Tyon znajduje się w namiocie nad kuźnią, zleca nam zdobycie przepisu który znajduje się w klasztorze. Receptura znajduje się w skrzyni w skarbcu.  
-Klucz do skarbca znajdziemy w skrzyni w prawym kącie prawego pokoju magów. Idziemy teraz do skarbca, zabieramy recepturę ze skrzyni i oddajemy ją Tyonowi.
+Baal Tyona znajdziemy w namiocie nad kuźnią, zleca nam zdobycie przepisu który znajduje się w klasztorze. Receptura znajduje się w skrzyni w skarbcu.  
+Klucz do skarbca znajdziemy w skrzyni w prawym kącie prawego pokoju magów. Idziemy do skarbca, zabieramy recepturę ze skrzyni i oddajemy ją Tyonowi.
 
 Teraz musimy przynieść mu składniki takie jak:  
 Język ognistego jaszczura (Sprzedaje go Lutero)  
@@ -42,9 +42,7 @@ Zanosimy składniki Tyonowi, a on tworzy dla nas miksturę, która na stałe pod
 
 ### Jest to decydujące zadanie na zostanie Strażnikiem Świątynnym
 
-Gor na Kosh zleca nam przyniesienie legendarnego artefaktu znanego jako Młot Tarakota.  
-Znajdziemy go w jaskini na wykopaliskach, a dokładniej w prawej odnodze, którą otworzymy za pomocą przełącznika w małej piramidzie. Sam młot znajduje się w skrzyni obok Królowej Pełzaczy. Wystarczy wlecieć tam na przemianie w krwiopijcę, otworzyć skrzynię i nie wchodzić w walkę z Królową. Po wszystkim teleportujemy się z jaskini i zanosimy młot do Gor na Kosha.  
-**W wersjach po 20.04.2023 Młot leży w skrzyni w środkowej piramidzie na wykopaliskach**
+Gor na Kosh zleca nam przyniesienie legendarnego artefaktu znanego jako Młot Tarakota. Znajdziemy go w dużej piramidzie na wykopaliskach, chronią go 2 szkielety, ale wystarczy pobiegać z nimi dookoła, wziąć młot i uciec.
 
 ## Po wykonaniu powyższych zadań możemy przyłączyć się albo do strażników świątynnych, albo do Guru.
 
@@ -56,13 +54,9 @@ Viran prosi nas o przyniesienie stalowych prętów. Należy odłożyć do jakiej
 
 Po zabraniu ziela dla Cadara, jeśli mamy 100 siły Hanis mówi nam, że na płaskowyżu nad farmą Akila(Tam, gdzie się pojawia 3 opiekun) znajdują się jaszczury, zabijamy je i wracamy do Hanisa. (Jeśli mamy 150 siły wtedy Hanis da nam eliksir siły)
 
-## Plany Paladynów (Rozdział 2)
-
-Baal Orun prosi nas, abyśmy obadali sytuację Paladynów w Górniczej Dolinie. W tym celu robimy zadanie Dowody dla Lorda Hagena, a kiedy wrócimy już z GD ze sprawozdaniem dla Hagena, to na końcu idziemy do Baala Oruna i mówimy mu o ich sytuacji.
-
 ## Poszukiwania Cor Angara (2 rozdział)
 
-Baal Orun każe nam odnaleźć Cor Angara . Znajduje się on w obozowisku Ratforda i Draxa za palisadą orków w Górniczej Dolinie. Gadamy z Angarem, ale ten wróci do obozu Bractwa tylko wtedy, gdy odzyskamy jego amulet (ma go szkielet mag obok opuszczonej Krypty gdzie w G1 byliśmy po kamień ogniskujący z Miltenem). Oddajemy amulet Angarowi, a ten wraca do Bractwa.
+Baal Orun każe nam odnaleźć Cor Angara. Siedzi on przy ognisku Ratforda i Draxa za palisadą orków w Górniczej Dolinie. Gadamy z Angarem, ale ten wróci do obozu Bractwa tylko wtedy, gdy odzyskamy jego amulet (ma go szkielet mag obok opuszczonej Krypty gdzie w G1 byliśmy po kamień ogniskujący z Miltenem). Oddajemy amulet Angarowi, a ten wraca do Bractwa.
 
 ## Przepis Kor Kaloma (Rozdział 2)
 
@@ -70,8 +64,7 @@ Baal Cadar prosi nas o przyniesienie receptury Cor Kaloma, która znajduje się 
 
 ## Opętani (Rozdział 3)
 
-**Zadanie to jest kompletnie nieopłacalne, jako że nagroda nie równa się kosztom zadania**  
-Bal Orun mówi nam, że nowicjusze skarżą się na bóle głowy i żebyśmy udali się do klasztoru. Idziemy do Pyrokara i kupujemy 20 butelek lekarstwa na opętanie, wracamy do Oruna, a potem mamy rozdać lekarstwa nowicjuszom. Jak już rozdamy lekarstwa wracamy do Baal Oruna.
+Baal Orun mówi nam, że nowicjusze skarżą się na bóle głowy i żebyśmy udali się do klasztoru. Idziemy do Pyrokara i kupujemy 20 butelek lekarstwa na opętanie, wracamy do Oruna, a potem mamy rozdać lekarstwa nowicjuszom. Jak już rozdamy lekarstwa wracamy do Baal Oruna.
 
 ## Dobre połączenia (Rozdział 5)
 
