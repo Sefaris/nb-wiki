@@ -17,13 +17,14 @@ idziemy do alchemików Salandrila, Constantino, Sagitty i Zurisa. Okazuje się, 
 
 Wracamy ze składnikami do Tyona i dostajemy miksturę, którą oddajemy Lokiemu.  
 Teraz nowicjusz zaprowadzi nas do wejścia Lasu Asasynów za obozem Bractwa.  
-> Można tepnąć się do obozu bractwa, a Loki będzie już na nas czekał za obozem.
+> Można tepnąć się do obozu bractwa, a Loki będzie czekał już na nas za obozem.
 
 Wracamy do Namiba i dostajemy amulet, który kładziemy na piedestale obok wejścia, co otwiera przed nami wejście do Lasu.
 
 ## UWAGA: Pod żadnym pozorem nie wchodźcie tam sami. Zdecydowanie warto zrobić też zapis przed lokacją, jako że nie da się z niej wyjść, dopóki nie skończymy jej wątku.
 
-Wracamy do Namiba, a następnie idziemy do Gonzalesa i prowadzimy go do przejścia.
+Znowu gadamy z Namibem, a następnie idziemy do Gonzalesa i prowadzimy go do przejścia.
+> Można tepnąć się do obozu bractwa, a Gonzales będzie czekał już na nas za obozem.
 
 ## UWAGA: Teraz musimy wykonać wszystkie zadania dla Masjafu (opisane w kolejnym dziale poradnika), dopiero po ukończeniu wszystkich zadań będzie można kontynuować zadanie z zaginionymi nowicjuszami.
 
