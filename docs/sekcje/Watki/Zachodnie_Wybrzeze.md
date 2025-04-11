@@ -25,24 +25,23 @@ Zadanie to zaczyna się wraz z przypłynięciem na Wybrzeże. Na plaży spotykam
 Po przeczytaniu rozmawiamy z Kormakiem, a następnie idziemy do tunelu, który jest na prawo od bagien, przy niewielkim jeziorku. Tam pokonujemy bossa kamiennych strażników i czytamy jego tabliczkę. 
 > Bossa można łatwo pokonać młotem Adanosa, który zdobędziemy robiąc Jarkendar
 
-Następnie udajemy się na równiny, gdzie w jaskini nieopodal wejścia znajdziemy goblina Maji, który będzie miał kamień aktywujący przejście w ruinach, którymi przeszliśmy na równinę.  
-Teraz czytamy stamtąd tabliczkę i zabieramy klucz do większej świątyni, którą z pewnością już mijaliśmy. Teraz idziemy do niej, zabieramy kolejną tablicę i po przeczytaniu jej wracamy do Kormaka. Czekamy ~10 sekund, po czym dostajemy wpis o trzęsieniach ziemi. Wracamy do druida, który zleca nam udanie się na bagna. Wchodząc na bagna i trzymając się prawej ściany natrafimy na kryptę, a w niej szamana jaszczuroludzi. Walczymy z jaszczurem, aż nie ucieknie (nieważne, że nie zadajemy mu obrażeń).  
-Teraz wracamy do Kormaka, który objaśnia nam plan pozbycia się szamana.
+Idąc dalej prosto przez tunel wyjdziemy na równiny, gdzie w jaskini nieopodal rezyduje boss goblin Maji. Będzie miał kamień aktywujący przejście w tunelu, przez który przechodziliśmy. Znajdziemy tam tabliczkę i klucz do większej świątyni, którą już mijaliśmy w lesie. Wracamy tam, czytamy kolejną tabliczkę i wracamy do Kormaka. Po rozmowie czekamy ~10 sekund, po czym dostajemy wpis o trzęsieniach ziemi. Druid zleci nam udanie się na bagna, udajemy się tam i trzymając się prawej ściany natrafimy na kryptę, a w niej szamana jaszczuroludzi. Pomimo tego, że nie zadajemy mu obrażeń walczymy z nim, aż nie ucieknie.
 
-Zleca on nam odnalezienie trzech kryształów, które są rozsiane w jaskiniach po całej lokacji.
+Teraz wracamy do Kormaka, który objaśnia nam plan zlokalizowania źródła nieśmiertelności jaszczura, w tym celu zleca nam odnalezienie trzech kryształów, które są rozsiane w jaskiniach po całej lokacji.
 
-1. W jaskini z Muritanem niedaleko bagien
-2. W jaskini z Leśnym monstrum (tej samej, gdzie goblin Maji)  
-3. W jaskini z goblinami na Wyspie (tej obok plaży piratów)
+1. Pieczara z Muritanem niedaleko bagien
+2. Jaskinia z Leśnym monstrum, w której walczyliśmy już z goblinem Maji
+3. W jaskini z goblinami na osobnej wyspie, którą mijaliśmy płynąc z Freygalem na łódce
 
-Teraz wracamy do Kormaka, który ładuje kamienie i każe nam je rozprowadzić po piedestałach.
+Krzyształy odnosimy Kormakowi, a ten po załadowaniu ich każe je nam rozprowadzić po piedestałach.
 
-1. Na wysepce na bagnach
-2. W rogu równiny, przy dwóch cieniostworach
-3. Na skałkach nad plażą, gdzie opijaliśmy spotkanie
+1. Na wysepce w centralnej częsci bagien
+2. W końcu równiny idąc od jaskini goblinów, trzymając się lewej ściany
+3. Na skałkach nad plażą, gdzie opijaliśmy spotkanie, są tam ogniste jaszczury
 
-Po wszystkim wracamy do Kormaka i okazuje się, że nasz cel żyje, więc będziemy potrzebować runy do zerwania więzi. Przynosimy mu bryłkę czarnej rudy, 20 bryłek magicznej rudy, 5 eliksirów many i czysty kamień runiczny. Z gotową runą idziemy w głąb jaskini z pełzaczami, na wyspie ze Starym Łowcą. Używamy runy, pokonujemy pełzacza, a następnie wracamy do Kormaka.  
-Teraz gadamy z Fregyalem, po czym znowu z Kormakiem i idziemy za nim na równiny, gdzie ostatecznie walczymy ze źródłem zła, tym samym kończąc wątek główny tej lokacji.
+Wracamy do druida i okazuje się, że obiekt zapewniający jaszczurowi nieśmiertelność jest żywy. Potrzebna będzie runa do zerwania więzi, którą Kormak wykona dla nas jeżeli przyniesiemu mu bryłkę czarnej rudy, 20 bryłek magicznej rudy, 5 eliksirów many i czysty kamień runiczny. Naszym celem jest boss pełzaczy, dostrzeć do niego możemy przez jaskinię na wyspie ze Starym Łowcą lub skręcić w prawo przed wejściem do tunelu, w którym walczyliśmy z kamiennym strażnikiem. Używamy runy, pokonujemy pełzacza i wracamy do Kormaka.
+
+Gdy będziemy już gotowi do walki z jaszczurem to gadamy z obydwoma druidami i idziemy za nimi na równiny, gdzie ostatecznie pokonujemy źródło zła, kończąc tym samym wątek główny Zachodniego Wybrzeża. 
 
 ## Druid Kormak
 
@@ -58,11 +57,12 @@ Flint prosi nas o uzupełnienie jego zapasów. Przynosimy mu 20 surowego mięsa,
 
 ## Broń dla piratów
 
-Flint prosi nas o znalezienie dwóch pirackich kordelasów, które znajdziemy podczas eksploracji Zachodniego Wybrzeża lub przyniesiemy np. z Jarkendaru. Przynosimy, a zleceniodawca jest zadowolony.
+Flint prosi nas o dostarczenie dwóch pirackich kordelasów, które znajdziemy podczas eksploracji Zachodniego Wybrzeża lub z pozostałych lokacji. Przynosimy, a zleceniodawca jest zadowolony.
 
 ## Jedzenie dla druida
 
 Kormak prosi nas, abyśmy dostarczyli mu wino i chleb, które już powinniśmy mieć, a jeśli nie, to należy wrócić do Khorinis i tam je kupić. Po zrobieniu tego zadania zgodzi się on z nami handlować.
+> Na potrzeby zadania dodatkowe chleby pojawią się u Ruperta
 
 ## Opuszczona wieża
 
