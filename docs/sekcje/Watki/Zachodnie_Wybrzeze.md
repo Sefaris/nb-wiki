@@ -31,7 +31,7 @@ Zleca on nam odnalezienie trzech kryształów, które są rozsiane w jaskiniach 
 
 1. W jaskini z Muritanem niedaleko bagien
 2. W jaskini z Leśnym monstrum (tej samej, gdzie goblin Maji)  
-   3\. W jaskini z goblinami na Wyspie (tej obok plaży piratów)
+3. W jaskini z goblinami na Wyspie (tej obok plaży piratów)
 
 Teraz wracamy do Kormaka, który ładuje kamienie i każe nam je rozprowadzić po piedestałach.
 
