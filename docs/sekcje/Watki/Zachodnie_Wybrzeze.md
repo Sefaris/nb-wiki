@@ -23,7 +23,7 @@ Zadanie to zaczyna się wraz z przypłynięciem na Wybrzeże. Na plaży spotykam
 > Nie wchodź do lasu bez Freygala, bez niego Kormak się nie pojawi
 
 Po przeczytaniu rozmawiamy z Kormakiem, a następnie idziemy do tunelu, który jest na prawo od bagien, przy niewielkim jeziorku. Tam pokonujemy bossa kamiennych strażników i czytamy jego tabliczkę. Następnie udajemy się na równiny, gdzie w jaskini nieopodal wejścia znajdziemy goblina Maji, który będzie miał kamień aktywujący przejście w ruinach, którymi przeszliśmy na równinę.  
-Teraz czytamy stamtąd tabliczkę i zabieramy klucz do większej świątyni, którą z pewnością już mijaliśmy. Teraz idziemy do niej, zabieramy kolejną tablicę i po przeczytaniu jej wracamy do Kormaka. Odchodzimy do lasu, po czym dostajemy wpis o trzęsieniach ziemi. Teraz wracamy do  
+Teraz czytamy stamtąd tabliczkę i zabieramy klucz do większej świątyni, którą z pewnością już mijaliśmy. Teraz idziemy do niej, zabieramy kolejną tablicę i po przeczytaniu jej wracamy do Kormaka. Czekamy ~10 sekund, po czym dostajemy wpis o trzęsieniach ziemi. Teraz wracamy do  
 druida, który zleca nam udanie się na bagna. W rogu bagien znajdujemy kryptę, a w niej szamana jaszczuroludzi. Walczymy z jaszczurem, aż nie ucieknie (nieważne, że nie zadajemy mu obrażeń).  
 Teraz wracamy do Kormaka, który objaśnia nam plan pozbycia się szamana.
 
