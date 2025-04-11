@@ -61,20 +61,20 @@ Flint prosi nas o dostarczenie dwóch pirackich kordelasów, które znajdziemy p
 
 ## Jedzenie dla druida
 
-Kormak prosi nas, abyśmy dostarczyli mu wino i chleb, które już powinniśmy mieć, a jeśli nie, to należy wrócić do Khorinis i tam je kupić. Po zrobieniu tego zadania zgodzi się on z nami handlować.
+Kormak prosi nas o wino i chleb, które już powinniśmy mieć, a jeśli nie, to należy wrócić do Khorinis i tam je kupić. Po zrobieniu tego zadania zgodzi się on z nami handlować.
 > Na potrzeby zadania dodatkowe chleby pojawią się u Ruperta
 
 ## Opuszczona wieża
 
-Kormak prosi nas o rozejrzenie się w opuszczonej wieży niedaleko jego jaskini. Spotykamy tam przeklętego strażnika, w którego ciele znajdziemy dziennik. Z informacjami wracamy do Kormaka, a zadanie się kończy.
+Druid proponuje rozejrzeć się w opuszczonej wieży niedaleko jego jaskini. Spotykamy tam przeklętego strażnika, w którego ciele znajdziemy dziennik oraz trofeum dla kusznika. Z informacjami wracamy do Kormaka, a zadanie się kończy.
 
 ## Pomoc z rzepą
 
-Kormak prosi nas o zebranie specjalnej rzepy z jego poletka. Nie możemy tego zrobić ani quicklootem, ani ognikiem, więc nadwyrężamy swoje plecy i wracamy z rzepą do Kormaka.
+Kormak prosi nas o zebranie specjalnej rzepy z jego poletka. Nie możemy tego zrobić ognikiem, więc nadwyrężamy swoje palce i wracamy z rzepą do Kormaka.
 
 ## Za spotkanie!
 
-Po zebraniu rzepy Kormak oferuje nam wspólne opicie naszego przybycia na wyspę. Dajemy mu 6 ginów i wieczorem idziemy za nim na plażę. Teraz musimy tutaj z nim pobyć, aż nas zagada dwa razy, po czym wracamy z nim do jaskini.
+Po zebraniu rzepy Kormak oferuje nam wspólne opicie naszego przybycia na wyspę. Dajemy mu 6 ginów i o godzinie 18 idziemy z druidami na plażę. Musimy tutaj z nim pobyć, aż zagada nas dwa razy, po czym wracamy z nim do jaskini.
 
 ## Poszukiwania druidów
 
@@ -87,12 +87,13 @@ Po znalezieniu całej trójki wracamy do Kormaka po nagrodę.
 
 ## Skarb piratów
 
-Na bagnach znajdujemy notatkę, która mówi o skarbie, który wykopiemy w jaskini z Muritanem, na prawo od bagien. Po wykopaniu zadanie się kończy.
+Na bagnach obok piedestału znajdujemy notatkę, mówiącą o skarbie w jaskini z Muritanem, na prawo od bagien. Po wykopaniu zadanie się kończy.
+> Miejsce do kopania skarbu pojawi się dopiero po przeczytaniu notatki
 
 ## Exodus
 
-Zadanie dostępne dopiero po odwiedzeniu obozu piratów w Jarkendarze i ukończeniu głównego wątku lokacji.  
-Z tabliczki dowiadujemy się, że na bagnach znajduje się przejście łączące Wybrzeże z Jarkendarem. Mówimy o tym piratom na plaży, który zgodzą się nam towarzyszyć, jeśli przynieśliśmy im ich kordelasy. Prowadzimy ich na drugi koniec bagna, gdzie otworzyło się przejście. Pokonujemy tamtejsze pająki, a także królową pełzaczy, po której śmierci, odblokuje się odnoga jaskini za jej plecami. W Jarkendarze piraci nas zagadują, a zadanie się kończy.
+Zadanie dostępne dopiero po odwiedzeniu obozu piratów w Jarkendarze i przeczytaniu notatki z bossa jaszczuroczłeka.
+Z tabliczki dowiadujemy się, że na bagnach znajduje się przejście łączące Wybrzeże z Jarkendarem. Mówimy o tym piratom na plaży, który zgodzą się nam towarzyszyć, jeśli przynieśliśmy im ich kordelasy. Prowadzimy ich na drugi koniec bagna, gdzie otworzyło się przejście. Pokonujemy tamtejsze pająki, a także królową pełzaczy, po której śmierci, odblokuje się odnoga jaskini za jej plecami. Idąc dalej przeniesiemy się do Jarkendaru, piraci nas zagadują, a zadanie się kończy.
 
 ## Wredne gobliny
 
@@ -100,9 +101,10 @@ Stary łowca, którego spotkamy na Wyspie obok plaży piratów, narzeka na gobli
 
 ## Tajemnicza skrzyneczka
 
-Obok Wyspy ze Starym Łowcą znajdziemy wrak statku, a w nim skrzyneczkę, do której klucz da nam on po zrobieniu zadania z goblinami. Samo zadanie kończy się po przeczytaniu wszystkich notatek, w tym tej we wnęce za skałą w jaskini na Wyspie.
+Obok Wyspy ze Starym Łowcą znajdziemy wrak statku, a w nim skrzyneczkę, do której klucz da nam łowca po pozbyciu się goblinów. Samo zadanie kończy się po przeczytaniu wszystkich notatek, w tym tej we wnęce za skałą w jaskini na Wyspie.
+> Potrzebna będzie przemiana w chrząszcza
 
 ## Długo wyczekiwane spotkanie
 
-Zadanie dostępne dopiero po ukończeniu zadania "Poszukiwania" z obozu myśliwych.  
-Gadamy ze starym łowcą, który okazuje się tym samym Benem, którego rzekomo pożarła samica polnego pełzacza. Proponujemy mu powrót do Khorinis, więc gadamy z Falkiem, a następnie z Vatrasem, który przygotuje dla nas specjalną runę. Potrzebujemy do niej eliksirów many, czarnych pereł i kamienia runicznego. Przygotowujemy runę na stole runicznym i wręczamy ją Benowi, a następnie spotykamy go w obozie myśliwych w Khorinis. Gadamy jeszcze raz z Falkiem, na czym kończy się nasze zadanie.
+Dostępne dopiero po ukończeniu zadania "Poszukiwania" z obozu myśliwych.
+Gadamy ze starym łowcą, który okazuje się tym samym Benem, którego rzekomo pożarła samica polnego pełzacza. Proponujemy mu powrót do Khorinis, więc gadamy z Falkiem, a następnie z Vatrasem, który powie nam jak na stole runicznym przygotować runę teleportacyjną dla Bena, potrzebne będą eliksir many, czarna perła i kamień runiczny. Runę wręczamy Benowi, a następnie spotykamy się z nim w obozie myśliwych w Khorinis. Odbieramy nagrodę od Falka i zadanie się kończy.
