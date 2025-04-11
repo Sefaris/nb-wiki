@@ -19,7 +19,8 @@ Po zapłaceniu Garvellowi złota wracamy na następny dzień, a Fregyal będzie 
 
 ## Zachodnie Wybrzeże
 
-Zadanie to zaczyna się wraz z przypłynięciem na Wybrzeże. Na plaży spotykamy dwóch piratów. Gadamy z Fregyalem, który chce odpocząć, a my w międzyczasie wykonujemy zadania dla piratów. Będziemy mogli kontynuować poszukiwania druida po zdobyciu dla nich mięsa i zabiciu topielców. Idziemy z Fregyalem przez las i trafiamy do druida \[Jeśli pójdziemy sami, to druid się nie zrespi\]. Robimy zadania dla druida, a po misji "Za spotkanie!" otrzymamy od niego tabliczki, które czytamy.
+Zadanie to zaczyna się wraz z przypłynięciem na Wybrzeże. Na plaży spotykamy dwóch piratów, gadamy z nimi oraz z Fregyalem, który chce odpocząć, a my w międzyczasie pomagamy piratom w kilku rzeczach. Będziemy mogli kontynuować poszukiwania druida po zdobyciu dla nich mięsa i zabiciu topielców, a kordelasy możemy dać im później. Znowu rozmawiamy z Fregyalem i idziemy z nim do lasu, gdzie natrafiamy na druida Kormaka. Robimy dla niego zadania, a po misji "Za spotkanie!" otrzymamy od niego tabliczki, które czytamy.
+> Nie wchodź do lasu bez Freygala, bez niego Kormak się nie pojawi
 
 Po przeczytaniu rozmawiamy z Kormakiem, a następnie idziemy do tunelu, który jest na prawo od bagien, przy niewielkim jeziorku. Tam pokonujemy bossa kamiennych strażników i czytamy jego tabliczkę. Następnie udajemy się na równiny, gdzie w jaskini nieopodal wejścia znajdziemy goblina Maji, który będzie miał kamień aktywujący przejście w ruinach, którymi przeszliśmy na równinę.  
 Teraz czytamy stamtąd tabliczkę i zabieramy klucz do większej świątyni, którą z pewnością już mijaliśmy. Teraz idziemy do niej, zabieramy kolejną tablicę i po przeczytaniu jej wracamy do Kormaka. Odchodzimy do lasu, po czym dostajemy wpis o trzęsieniach ziemi. Teraz wracamy do  
