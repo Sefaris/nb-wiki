@@ -22,9 +22,11 @@ Po zapłaceniu Garvellowi złota wracamy na następny dzień, a Fregyal będzie 
 Zadanie to zaczyna się wraz z przypłynięciem na Wybrzeże. Na plaży spotykamy dwóch piratów, gadamy z nimi oraz z Fregyalem, który chce odpocząć, a my w międzyczasie pomagamy piratom w kilku rzeczach. Będziemy mogli kontynuować poszukiwania druida po zdobyciu dla nich mięsa i zabiciu topielców, a kordelasy możemy dać im później. Znowu rozmawiamy z Fregyalem i idziemy z nim do lasu, gdzie natrafiamy na druida Kormaka. Robimy dla niego zadania, a po misji "Za spotkanie!" otrzymamy od niego tabliczki, które czytamy.
 > Nie wchodź do lasu bez Freygala, bez niego Kormak się nie pojawi
 
-Po przeczytaniu rozmawiamy z Kormakiem, a następnie idziemy do tunelu, który jest na prawo od bagien, przy niewielkim jeziorku. Tam pokonujemy bossa kamiennych strażników i czytamy jego tabliczkę. Następnie udajemy się na równiny, gdzie w jaskini nieopodal wejścia znajdziemy goblina Maji, który będzie miał kamień aktywujący przejście w ruinach, którymi przeszliśmy na równinę.  
-Teraz czytamy stamtąd tabliczkę i zabieramy klucz do większej świątyni, którą z pewnością już mijaliśmy. Teraz idziemy do niej, zabieramy kolejną tablicę i po przeczytaniu jej wracamy do Kormaka. Czekamy ~10 sekund, po czym dostajemy wpis o trzęsieniach ziemi. Teraz wracamy do  
-druida, który zleca nam udanie się na bagna. W rogu bagien znajdujemy kryptę, a w niej szamana jaszczuroludzi. Walczymy z jaszczurem, aż nie ucieknie (nieważne, że nie zadajemy mu obrażeń).  
+Po przeczytaniu rozmawiamy z Kormakiem, a następnie idziemy do tunelu, który jest na prawo od bagien, przy niewielkim jeziorku. Tam pokonujemy bossa kamiennych strażników i czytamy jego tabliczkę. 
+> Bossa można łatwo pokonać młotem Adanosa, który zdobędziemy robiąc Jarkendar
+
+Następnie udajemy się na równiny, gdzie w jaskini nieopodal wejścia znajdziemy goblina Maji, który będzie miał kamień aktywujący przejście w ruinach, którymi przeszliśmy na równinę.  
+Teraz czytamy stamtąd tabliczkę i zabieramy klucz do większej świątyni, którą z pewnością już mijaliśmy. Teraz idziemy do niej, zabieramy kolejną tablicę i po przeczytaniu jej wracamy do Kormaka. Czekamy ~10 sekund, po czym dostajemy wpis o trzęsieniach ziemi. Wracamy do druida, który zleca nam udanie się na bagna. Wchodząc na bagna i trzymając się prawej ściany natrafimy na kryptę, a w niej szamana jaszczuroludzi. Walczymy z jaszczurem, aż nie ucieknie (nieważne, że nie zadajemy mu obrażeń).  
 Teraz wracamy do Kormaka, który objaśnia nam plan pozbycia się szamana.
 
 Zleca on nam odnalezienie trzech kryształów, które są rozsiane w jaskiniach po całej lokacji.
