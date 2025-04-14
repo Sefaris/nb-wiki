@@ -2,7 +2,10 @@
 
 ## Jak się dostać na pustynię Adanosa.
 
-Po walce z Krukiem w Jarkendarze, a dokładnie po jego zniknięciu udajemy się do ołtarza na arenie gdzie walczyliśmy z Krukiem, za ołtarzem wciskamy przycisk na ścianie i dostajemy się do sekretnego pomieszczenia z teleportem. Są tam trzy piedestały, więc zbieramy z nich fanty: kryształ, płytkę i runę przyzwania kamiennego strażnika. Czytamy tabliczkę i idziemy teraz do Saturasa i gadamy z nim o Kruku, a potem o krysztale. Kryształ uaktywnia teleport w ruinach naprzeciw świątyni w której jest portal Używamy kryształu i przechodzimy przez teleport. Napotykamy tam kamienną pumę, którą zabijamy i aktywujemy teleport. Dostajemy się do lokacji ze Złotym Smokiem, który mówi nam, że tabliczka musi zostać naładowana mocą runy::
+W trakcie walki z Krukiem w Jarkendarze, ten znika, a my idziemy do pomieszczenia z teleportem, jednak przed teleportacją zabieramy wszystkie przedmioty leżące obok: kryształ, płytkę i runę przyzwania kamiennego strażnika. Czytamy tabliczkę, idziemy z nią do Saturasa i gadamy z nim o Kruku, a potem o krysztale, możemy przy okazji pogadać z Nefariusem o runie. Kryształ uaktywnia teleport w ruinach na placu z magami wody, używamy go na piedestale i przechodzimy przez teleport. Tam napotkamy kamienną pumę, którą zabijamy i aktywujemy kolejny teleport, tym razem do osobnej lokacji.
+> Niedaleko kamiennej pumy rośnie również kwiatek potrzebny do zadania Loi.
+
+Dostajemy się do lokacji ze Złotym Smokiem, rozmawiamy z nim, a ten mówi nam, że tabliczka musi zostać naładowana mocą runy, którą znaleźliśmy po walce z Krukiem
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270888650/F5C5876E037FB335528C9AE4A801F04186252A41/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270888650/F5C5876E037FB335528C9AE4A801F04186252A41/)  
 Naładowaną tabliczkę czytamy w pomieszczeniu, gdzie walczyliśmy z Krukiem. Budzi się Wielki Starożytny Strażnik, z którym rozmawiamy, a następnie uciekamy do smoka. Mówi on nam o Młocie Adanosa, który znajdziemy na ołtarzu z zombie na wprost wejścia do świątyni z Krukiem. Zabijamy strażnika kilkoma uderzeniami i teraz mamy dwa wyjścia:
