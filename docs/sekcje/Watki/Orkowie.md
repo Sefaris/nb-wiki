@@ -10,7 +10,8 @@ Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy 
 
 ## Najemnik orków
 
-Po wejściu do miasta orków szukamy Farroka, który strzeże przejścia do Ur-Tralla - głównego wodza. Musimy wbić minimum 80 reputacji by dostać się do wodza orków. Zadanie kończy się po uzyskaniu dostępu do Ur-Thralla (Nie możemy wtedy zdobyć więcej reputacji).
+Po wejściu do miasta orków szukamy Farroka, który strzeże przejścia do Ur-Tralla - głównego wodza. Musimy wbić minimum 80 reputacji by dostać się do wodza orków. Nie musimy wykonywać wszystkich zadań u orków.
+Zadanie kończy się po uzyskaniu dostępu do Ur-Thralla (Nie możemy wtedy zdobyć więcej reputacji). 
 #### Należy uważać, aby nie oddać zadania mając mniej niż 100 reputacji, bo zablokujemy sobie ofertę u orkowego handlarza
 
 ## Trofeum dla Farroka
@@ -54,10 +55,12 @@ Ur-Karras zleca nam, abyśmy podpalili zapasy Paladynów w ich magazynie. Klucz 
 ## Trudny wybór
 
 Ur-Karras zleca nam zabicie grupy paladynów Alberta za palisadą. Warto najpierw zrobić dla nich zadania, a także załatwić ich część zadania "Zaginieni bez wieści" +25 reputacji u orków
+> Paladyn w 3 rozdziale dostaje od Alberta unikalny hełm za wykonanie misji ze statkiem, warto go zdobyć przez zdradzeniem swoich braci
 
 ## Morr Gift (orkowa arena)
 
-Zadanie zleca nam Ur-Kan zarządca areny. Pierwszego przeciwnika na arenie musimy pokonać za pomocą Ulu-Mulu, a pozostałych możemy już własną bronią. Musimy także zakładać Ulu-Mulu po walce, aby zagadać z Ur-Kanem. Jeśli przeciwnik nie rozpoczyna walki, należy odejść w róg klatki i podejść do niego ponownie. Po pokonaniu wszystkich zadanie się kończy, a wy zgarniacie nagrody i szacunek orków. W sumie +70 reputacji reputacji u orków
+Zadanie zleca nam Ur-Kan zarządca areny. Pierwszego przeciwnika na arenie musimy pokonać za pomocą Ulu-Mulu, a pozostałych możemy już własną bronią. Musimy także zakładać Ulu-Mulu po walce, aby zagadać z Ur-Kanem. Po pokonaniu wszystkich zadanie się kończy, a wy zgarniacie nagrody i szacunek orków. W sumie +70 reputacji reputacji u orków
+> Jeśli przeciwnik nie rozpoczyna walki, należy pochodzić trochę dookoła niego. Po każdej walce zapisuj grę
 
 ## Księga dla Hush-Nara
 
@@ -67,9 +70,9 @@ Książkę znajdziecie w regale w starej wieży Xardasa. Trzeba w niego klikną�
 
 ## Sanktuarium orków
 
-Hush-Nar prosi nas, abyśmy pomodlili się do duchów przodków przy sanktuariach orków. Znajdują się one:  
+Hush-Nar prosi nas, abyśmy pomodlili się do duchów przodków przy sanktuariach orków:  
 1. Obok Ur-Shaka przy Starej Wieży Xardasa  
-2. Między wejściem do Miasta Orków, a zawaloną wieżą strażniczą przy drewnianej kładce.  
+2. Przed wejściem do Miasta Orków, a zawaloną wieżą strażniczą przy drewnianej kładce
 3. W obozie Netbeka na platformie obok kuźni Darriona.  
 
 Po modlitwach wracamy do szamana. (+20 reputacji)
@@ -77,7 +80,13 @@ Po modlitwach wracamy do szamana. (+20 reputacji)
 ## Mroczne rytuały
 
 Hush-Nar chce zbudować świątynie orków w Starym Obozie Bractwa na bagnach.  
-Wysłał tam oddział orków i słuch po nim zaginał. Zanim udacie się do obozu Bractwa musicie nauczyć się odporności na truciznę np. w Lesie Asasynów lub po zadaniu "Tajemnicze Morderstwo". Idziemy na bagna, spotykamy grupę orków i gadamy z ich liderem. Teraz musimy zabić maga w świątyni, a następnie przy użyciu księgi przyzwać demona w kręgu. Po pokonaniu demona możemy wrócić do orków, którzy niedługo po tym osiedlą się na bagnach. Wracamy do orkowego szamana po nagrodę. +50 reputacji orków
+Wysłał tam oddział orków i słuch po nim zaginał. Zanim udacie się do obozu Bractwa musicie nauczyć się odporności na truciznę w Lesie Asasynów za darmo lub od Constantina po zadaniu "Tajemnicze Morderstwo". Idziemy na bagna, spotykamy grupę orków i gadamy z ich liderem. Mamy 3 opcje:
+1. Idziemy do świątyni, zabijamy maga, a następnie przy użyciu księgi przyzywamy demona, którego również zabijamy. Wracamy do lidera orków i do orkowego szamana po nagrodę.
+2. Wracamy do Hush-Nara i mówimy o sytuacji, ten odsyła nas do Ur-Tralla. Po rozmowie z wodzem decyduje się on zaatakować bagna. Wracamy na bagna, przyzywamy demona i z pomocą orków pokonujemy go. Wracamy do lidera orków i do orkowego szamana po nagrodę.
+3. Zabijamy wszystko co się rusza na bagnach oprócz demona, następnie przysyłamy orków na bagna tak jak w opcji 2, zabijamy wszystkich orków i dopiero teraz przyzywamy demona, którego pokonujemy. Wracamy do lidera orków i do orkowego szamana po nagrodę. (najwięcej expa i pracy)
+> Odporność na trucizny można również uzyskać na 5 minut pijąc miksturę
+
++50 reputacji orków
 
 ## Miecz dla wodza
 
