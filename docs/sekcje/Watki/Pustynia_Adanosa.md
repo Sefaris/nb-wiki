@@ -46,23 +46,16 @@ Mając obydwie połówki musimy połączyć je w budynku obok mniejszej piramidy
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270267470/0820A651A4676C33FD6117CAA9B3B7D118CE3637/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270267470/0820A651A4676C33FD6117CAA9B3B7D118CE3637/)  
 
-**Poniższe zadania nie są wymagane w aktualizacjach po 20.04.2023**  
-\_3\. Zadanie polega na napełnieniu “kotłów” wodą Adanosa. Do każdego z nich jest teleport, który mogliśmy sobie wcześniej odblokować eksplorując pustynie. Klucz do studni znajdziemy w oazie w rogu pustyni, a samą studnie przy Wielkiej Dziurze na środku pustyni. Puste butelki sprzedadzą nam handlarze w Khorinis np. Kardiff/Coragon.  
-4\. Zadanie polega na aktywowaniu ołtarzy porozrzucanych po całej pustyni. Najpierw musimy udać się do miejsca z poniższego zdjęcia, gdzie wykopujemy skały. Następnie idziemy do Saturasa, a potem do Merdariona, który naładuje kryształy. Do każdej z kapliczek jest teleport, który mogliśmy wcześniej odblokować przy eksploracji pustyni.
+Po wykonaniu powyższych prób czytamy główny pulpit w dużej piramidzie (już jest dostępny). Trzecim zadaniem będzie ożywienie drzewa życia. Znajdziemy je nieopodal kamiennego kręgu i czarnego trolla.
+Mamy 2 opcje:
 
-Musicie wykopać kryształy z tego miejsca (pilnują 3 trolle) :  
-[![](https://steamuserimages-a.akamaihd.net/ugc/969852954270323017/E1F5330C1FACE3E3E581C5480CA8DAE3F6133102/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270323017/E1F5330C1FACE3E3E581C5480CA8DAE3F6133102/)\_
+1. Udajemy się do Saturasa, a ten wysyła nas do Xardasa, który zgadza się nam pomóc, pod warunkiem że przyniesiemy mu rzadkie rośliny, w tym szczaw królewski.
+2. Idziemy do Netbeka, a ten pomoże nam za darmo. (lepsza opcja)
 
-Kiedy mamy już wykonane powyższe próby czytamy główny pulpit na parterze.  
-Naszym ostatnim zadaniem będzie ożywienie drzewa życia. Znajdziemy je nieopodal kamiennego kręgu. Zabijamy teraz Czarnego Trolla, a następnie udajemy się do Saturasa.
+Wracamy do kamiennego kręgu i składamy otrzymany korzeń na ołtarzu. Drzewo zostaje uleczone, a my wracamy do dużej piramidy i wchodzimy przez teleport do Czyśca Adanosa gdzie zbieramy fanty i czytamy pulpit na środku.
+> Przeczytanie pulpitu oczyści nas z grzechów resetując negatywną karmę u Bogów, możemy więc trochę nagrzeszyć zanim to zrobimy.
 
-1. Idziemy do Xardasa, który zgadza się oddać nam korzeń, pod warunkiem że przyniesiemy mu rzadkie rośliny, w tym szczaw królewski.
-2. Idziemy do Netbeka ten da nam za darmo korzeń.  
-   UWAGA: Polecam wybrać drugą opcję gdyż wtedy dostaniecie korzeń za darmo nie tracąc szczawiu królewskiego.
-
-Mając korzeń wracamy do kamiennego kręgu i składamy korzeń na ołtarzu. Drzewo zostaje uleczone, a my udajemy się do Świątyni Prawdy i wchodzimy przez teleport, zbieramy fanty i czytamy pulpit na środku. Teraz w świątyni powinno nam się otworzyć przejście na dół, gdzie znajduje się korona Adanosa i potężny łuk/kostur. Teraz możemy udać się do Świątyni Er’Zahira.
-
-UWAGA: Zanim udacie się na walkę z Krukiem polecam cofnąć się do Jarkendaru i wybić kamiennych strażników w kanionie, gdyż rozpadną się po śmierci Kruka i stracicie cenny exp, dodam jeszcze że żeby zranić tych strażników musicie mieć założone koronę i młot Adanosa)
+W piramidzioe powinno otworzyć się przejście na dół, gdzie znajdziemy potężne przedmioty, a w tym Koronę Adanosa. Teraz możemy udać się dalej przez jaskinię
 
 Droga do lokacji z Krukiem znajduje się tutaj :
 
