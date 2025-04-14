@@ -12,12 +12,13 @@ Dostajemy się do oazy złotego smoka Ashtara, rozmawiamy z nim, a ten twierdzi,
 Korzystając z pierścienia, który znaleźliśmy po walce z Krukiem przenosimy się do miejsca, w którym go pokonaliśmy i czytamy naładowaną tabliczkę. Obudzi się Wielki Starożytny Strażnik, który po krótkiej rozmowie nas zaatakuje. Możemy go uderzyć by dowiedzieć się, że jest nieśmiertelny. Wracamy do Ashtara i dowiadujemy się, że potrzebny będzie Młot Adanosa, znajdziemy go na ołtarzu z zombie w świątyni w obozie bandytów. Uzbrojeni w młot zabijamy strażnika i zabieramy z niego kamień, który pokazujemy Astarowi. Smok informuje nas o treści tabliczki i możemy teraz uaktywnić kulę budowniczych w bibliotece w kanionie, co otworzy przejście do Pustyni Adanosa - rozległej lokacji, docelowo przewidzianej na 3 rozdział.
 > Po rozmowie ze smokiem w bibliotece pojawią się duchy ceniostwórów wraz z bossem. Jeżeli chcemy uniknąć spotkania z nimi, to zamiast rozmawiać ze smokiem aktywujemy kulę od razu po pokonaniu strażnika. 
 
+### Uwaga: Na pustyni w trakcie dnia będziemy tracić wytrzymałość, chyba że nauczymy się odporności na gorąco u Gonzalesa lub poprzez wypicie Płomienia Eligora.
+
 ## Wątek pustyni Adanosa
 
 Mapa pustyni i krzyształ ogniskujący znajdują się w pierwszym budynku, na jednym z piedestałów teleportujących. Kryształ pozwoli nam aktywować teleporty do ważnych miejsc.
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)  
-Uwaga: Na pustyni w trakcie dnia będziemy tracić wytrzymałość, chyba że nauczymy się odporności na gorąco u Gonzalesa lub poprzez wypicie Płomienia Eligora.
 
 Po wejściu na pustynię pierwsze, co musimy zrobić to zebrać 4 kawałki ornamentu. Znajdziemy je w oazach. Dwóch kluczy pilnują Mroczni Strażnicy, a dwóch Wyżsi Kapłani Budowniczych.  
 Kiedy już zbierzecie 4 odłamki musicie umieścić je w pulpitach w tej piramidzie
