@@ -1,19 +1,16 @@
-# Pustynia Adanosa
+![image](https://github.com/user-attachments/assets/a931ec10-2618-42be-8d96-7c0ec948ca14)# Pustynia Adanosa
 
 ## Jak się dostać na pustynię Adanosa.
 
 W trakcie walki z Krukiem w Jarkendarze, ten znika, a my idziemy do pomieszczenia z teleportem, jednak przed teleportacją zabieramy wszystkie przedmioty leżące obok: kryształ, płytkę i runę przyzwania kamiennego strażnika. Czytamy tabliczkę, idziemy z nią do Saturasa i gadamy z nim o Kruku, a potem o krysztale, możemy przy okazji pogadać z Nefariusem o runie. Kryształ uaktywnia teleport w ruinach na placu z magami wody, używamy go na piedestale i przechodzimy przez teleport. Tam napotkamy kamienną pumę, którą zabijamy i aktywujemy kolejny teleport, tym razem do osobnej lokacji.
 > Niedaleko kamiennej pumy rośnie również kwiatek potrzebny do zadania Loi.
 
-Dostajemy się do lokacji ze Złotym Smokiem, rozmawiamy z nim, a ten mówi nam, że tabliczka musi zostać naładowana mocą runy, którą znaleźliśmy po walce z Krukiem
+Dostajemy się do oazy złotego smoka Ashtara, rozmawiamy z nim, a ten twierdzi, że tabliczka musi zostać naładowana mocą runy, którą znaleźliśmy po walce z Krukiem. Udajemy się zatem do biblioteki w kanionie i przekierowujemy moc runy na tabliczkę, poniżej screen miejsca, w którym możemy to zrobić.
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270888650/F5C5876E037FB335528C9AE4A801F04186252A41/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270888650/F5C5876E037FB335528C9AE4A801F04186252A41/)  
-Naładowaną tabliczkę czytamy w pomieszczeniu, gdzie walczyliśmy z Krukiem. Budzi się Wielki Starożytny Strażnik, z którym rozmawiamy, a następnie uciekamy do smoka. Mówi on nam o Młocie Adanosa, który znajdziemy na ołtarzu z zombie na wprost wejścia do świątyni z Krukiem. Zabijamy strażnika kilkoma uderzeniami i teraz mamy dwa wyjścia:
 
-1. Idziemy z kamieniem strażnika prosto do biblioteki, gdzie używamy go w Starożytnej Kuli Budowniczych, co od razu otworzy Pustynię Adanosa i zrespi strażników.
-2. Wracamy do smoka, który tłumaczy tabliczkę, a w bibliotece pojawiają się widma cieniostworów. Reszta przebiega jak w sposobie wyżej.
-
-### Nieśmiertelnych strażników pokonamy dopiero po zdobyciu Korony Adanosa podczas wątku Pustyni. Lokacja może być ciężka jak na etap po Jarkendarze, dlatego warto ją zostawić na 4 rozdział.
+Korzystając z pierścienia, który znaleźliśmy po walce z Krukiem przenosimy się do miejsca, w którym go pokonaliśmy i czytamy naładowaną tabliczkę. Obudzi się Wielki Starożytny Strażnik, który po krótkiej rozmowie nas zaatakuje. Możemy go uderzyć by dowiedzieć się, że jest nieśmiertelny. Wracamy do Ashtara i dowiadujemy się, że potrzebny będzie Młot Adanosa, znajdziemy go na ołtarzu z zombie w świątyni w obozie bandytów. Uzbrojeni w młot zabijamy strażnika i zabieramy z niego kamień, który pokazujemy Astarowi. Smok informuje nas o treści tabliczki i możemy teraz uaktywnić kulę budowniczych w bibliotece w kanionie, co otworzy przejście do Pustyni Adanosa - rozległej lokacji, docelowo przewidzianej na 3 rozdział.
+> Po rozmowie ze smokiem w bibliotece pojawią się duchy ceniostwórów wraz z bossem. Jeżeli chcemy uniknąć spotkania z nimi, to zamiast rozmawiać ze smokiem aktywujemy kulę od razu po pokonaniu strażnika. 
 
 ## Wątek pustyni Adanosa
 
