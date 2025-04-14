@@ -1,18 +1,19 @@
 ## Wątek orków 
 
-Wątek orków można spokojnie rozpocząć już w 2 rozdziale by jak najwcześniej uzyskac dostęp do specjalnych nagród i expa.
+Wątek orków można spokojnie rozpocząć już w 2 rozdziale by jak najwcześniej uzyskać dostęp do specjalnych nagród i expa.
 
-Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy już się tam udamy i będziemy na schodach niedaleko wejścia to dostaniemy wpis w dzienniku, że droga jest zablokowana. Udajemy się z tym do Xardasa, a ten odsyła nas do orków. Rozmawiamy z Ur-Shakiem, który stoi na klifie pomiędzy starą wieżą Xardasa, a obozem paladynów. Ork powie nam, że musimy dostać się do miasta orków, do czego potrzebować będziemy Ulu-Mulu. W tym celu wyśle nas do najemników orków, którzy znajdują się w ruinach gdzie w G1 uratowliśmy Ur-Shaka, a w G2 był ognisty smok. Po rozmowie z przywódcą najemników schodzimy tą samą drogą którą weszliśmy na górę i spotykamy Arokha. Idziemy z nim i zabijamy grupkę skazańców. Wracamy do ruin, rozmawiamy z przywódcą i dostajemy Ulu-Mulu.
+Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy już się tam udamy i będziemy na schodach niedaleko wejścia to dostaniemy wpis w dzienniku, że droga jest zablokowana. Udajemy się z tym do Xardasa, a ten odsyła nas do orków. Rozmawiamy z Ur-Shakiem, który stoi na klifie pomiędzy starą wieżą Xardasa, a obozem paladynów. Ork powie nam, że musimy dostać się do miasta orków, do czego potrzebować będziemy Ulu-Mulu. W tym celu wyśle nas do najemników orków, którzy znajdują się w ruinach gdzie w G1 uratowliśmy Ur-Shaka, a w G2 był ognisty smok. Po rozmowie z przywódcą najemników schodzimy tą samą drogą którą weszliśmy na górę i spotykamy Arokha. Idziemy z nim i zabijamy grupkę skazańców. Wracamy do ruin, rozmawiamy z przywódcą i dostajemy Ulu-Mulu. Miasto orków znajduje się tam gdzie w G2 był bagienny smok.
 
-## W poniższym filmiku jest pokazane jak krok po kroku zdobyć Ulu-Mulu i zyskać dostęp do miasta:
+## W poniższym filmiku jest pokazane jak krok po kroku zdobyć Ulu-Mulu:
 
 [https://youtu.be/CM_DkDBpQEM](https://youtu.be/CM_DkDBpQEM)
 
 ## ZADANIA U ORKÓW
 
-## Najemnik orków
+Po wejściu do miasta orków szukamy Farroka, który strzeże przejścia do Ur-Tralla - głównego wodza.
+#### Należy uważać, aby nie oddać zadania mając mniej niż 100 reputacji, bo zablokujemy sobie ofertę u orkowego handlarza
 
-### Należy uważać, aby nie oddać zadania mając mniej niż 100 reputacji, bo zablokujemy sobie ofertę u orkowego handlarza
+## Najemnik orków
 
 Zadanie zleca Farrok. Musimy wbić minimum 80 reputacji by dostać się do wodza orków. Zadanie kończy się po uzyskaniu dostępu do Ur-Thralla (Nie możemy wtedy zdobyć więcej reputacji).
 
