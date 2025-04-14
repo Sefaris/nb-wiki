@@ -26,7 +26,7 @@ Pierwszy imienny ork, którego napotykamy po wejściu do miasta orków, prosi na
 
 ## Polowanie na Muritana
 
-Ur-Karras zleca nam zabicie Muritana, który wcześniej zranił orka i zabił jego żołnierzy. Muritan znajduje się w jaskini w dolinie obok wschodniej bramy Khorinis. Możemy przynieść mu kieł innego Muritana, na przykład tego z terenów naprzeciw taranu. +10 reputacji u orków
+Ur-Karras zleca nam zabicie Muritana, który wcześniej zranił orka i zabił jego żołnierzy. Znajduje się on w jaskini w dolinie obok wschodniej bramy Khorinis. Możemy przynieść mu kieł jakiegokolwiek muritana. +10 reputacji u orków
 > Przed oddaniem kła Ur-Karrasowi warto zapolować na tego muritana, gdyż jako jedyny wydropi, aż 3 kły, które później można sprzedać Lutero.
 
 ## Wiadomość Ur karrasa
