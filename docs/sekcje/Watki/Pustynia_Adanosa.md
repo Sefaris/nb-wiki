@@ -14,8 +14,8 @@ Korzystając z pierścienia, który znaleźliśmy po walce z Krukiem przenosimy 
 
 ## Wątek pustyni Adanosa
 
-Mapa pustyni znajduje się w pierwszym budynku, na jednym z piedestałów teleportujących.  
-Zaleca się także wzięcie kryształu ogniskującego, którym będziemy mogli aktywować teleporty do ważnych miejsc.  
+Mapa pustyni i krzyształ ogniskujący znajdują się w pierwszym budynku, na jednym z piedestałów teleportujących. Kryształ pozwoli nam aktywować teleporty do ważnych miejsc.
+
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)  
 Uwaga: Na pustyni w trakcie dnia będziemy tracić wytrzymałość, chyba że nauczymy się odporności na gorąco u Gonzalesa lub poprzez wypicie Płomienia Eligora.
 
