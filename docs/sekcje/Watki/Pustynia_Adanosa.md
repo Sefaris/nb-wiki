@@ -16,7 +16,7 @@ Korzystając z pierścienia, który znaleźliśmy po walce z Krukiem przenosimy 
 
 ## Wątek pustyni Adanosa
 
-Mapa pustyni i krzyształ ogniskujący znajdują się w pierwszym budynku, na jednym z piedestałów teleportujących. Kryształ pozwoli nam aktywować teleporty do ważnych miejsc.
+Mapa pustyni i krzyształ ogniskujący znajdują się w pierwszym budynku, na jednym z piedestałów teleportujących. Kryształ pozwoli nam aktywować teleporty do ważnych miejsc. Polecam NIE atakować goblinów pustynnych jeżeli natkniesz się na ich obóz.
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)  
 
@@ -55,20 +55,23 @@ Mamy 2 opcje:
 Wracamy do kamiennego kręgu i składamy otrzymany korzeń na ołtarzu. Drzewo zostaje uleczone, a my wracamy do dużej piramidy i wchodzimy przez teleport do Czyśca Adanosa gdzie zbieramy fanty i czytamy pulpit na środku.
 > Przeczytanie pulpitu oczyści nas z grzechów resetując negatywną karmę u Bogów, możemy więc trochę nagrzeszyć zanim to zrobimy.
 
-W piramidzioe powinno otworzyć się przejście na dół, gdzie znajdziemy potężne przedmioty, a w tym Koronę Adanosa. Teraz możemy udać się dalej przez jaskinię
+W piramidzie powinno otworzyć się przejście na dół, gdzie znajdziemy potężne przedmioty, a w tym Koronę Adanosa. Teraz możemy udać się dalej przez jaskinię blisko dużej piramidy tutaj:
 
-Droga do lokacji z Krukiem znajduje się tutaj :
+[![](https://steamuserimages-a.akamaihd.net/ugc/969852954271105486/0FDE347A3B53E94CE18A5AECC696C11C86E18F10/)](https://steamuserimages-a.akamaihd.net/ugc/969852954271105486/0FDE347A3B53E94CE18A5AECC696C11C86E18F10/)
 
-[![](https://steamuserimages-a.akamaihd.net/ugc/969852954271105486/0FDE347A3B53E94CE18A5AECC696C11C86E18F10/)](https://steamuserimages-a.akamaihd.net/ugc/969852954271105486/0FDE347A3B53E94CE18A5AECC696C11C86E18F10/)  
-Jaskinia znajduje się na lewo blisko świątyni prawdy. Wchodzimy do jaskini i podążamy cały czas do przodu, aż dojdziemy do dużej przepaści. Żeby przejść na drugą stronę musimy założyć na siebie berło, młot i koronę Adanosa, a następnie wejść w interakcję ze strugą światła. Przechodzimy na drugą stronę i wychodzimy do dużej doliny, gdzie skaczemy w dół. Na drodze do świątyni z Krukiem pełno jest nieumarłych, ale nie będą oni atakować jeśli mamy na sobie koronę Adanosa. Dochodzimy do świątyni i gadamy z smokiem, który wpuści nas, pod warunkiem że mamy odpowiednie statystyki. Jest 2000 zdrowia i 400 siły lub 400 zręczności lub 600 many. Kruk znajduje się naprzeciw wejścia, a rozmowa z nim rozpocznie dungeon “Koszmar Kruka”. Po prawo natomiast jest teleport na “Zaginionego Brata”, który jest możliwy po zabiciu Kruka. Po zabiciu Kruka gadacie z Saturasem i Złotym smokiem. Szpon Beliara zachowujemy dla siebie, bo w innym wypadku stracimy wątek z Senyakiem.
+Wchodzimy do jaskini i podążamy cały czas do przodu, aż dojdziemy do dużej przepaści. Żeby przejść na drugą stronę musimy założyć na siebie berło, młot i koronę Adanosa, a następnie wejść w interakcję z posągiem obok. Przechodzimy na drugą stronę i oczom naszym ukazuje się duża dolina - zeskakujemy w dół. Pełno tu nieumarłych, ale nie będą nas atakować jeśli mamy na sobie koronę Adanosa, oczywiście możemy też ich zabić. Dochodzimy do świątyni i gadamy ze smokiem, który wpuści nas pod warunkiem, że mamy odpowiednie statystyki. Kruk znajduje się naprzeciw wejścia, a rozmowa z nim rozpocznie dungeon “Koszmar Kruka”. Na prawo natomiast jest teleport do jeszcze trudniejszej lokacji “Zaginionego Brata”, który stanie się otwarty dopiero po zabiciu Kruka. 
+> Po wejściu do którejś z tych lokacji nie będziemy mogli z niej wyjść dopóki jej nie ukończymy. Polecam zrobić osobny zapis i przygotować zapas mikstur
+
+Po zabiciu Kruka gadamy z Saturasem i Złotym smokiem. Szpon Beliara zachowujemy dla siebie, bo w innym wypadku stracimy wątek z Senyakiem.
 
 ## ZADANIE POBOCZNE
 
 ## Zaginiony totem goblinów
 
-Uwaga: Do tego zadania będzie wam potrzebna broń goblina , dostaniecie ją za zadanie z gadającym goblinem obok starej wieży Xardasa w GD (patrz dziwne stworzenie -Zadanie w GD 2-3 rozdział)
+Uwaga: Do tego zadania potrzebnę będzie goblińskie Ulu-mulu, możemy zdobyć je za zadanie z gadającym goblinem obok starej wieży Xardasa w GD (patrz dziwne stworzenie - Zadanie w GD 2 rozdział)
 
-Kiedy macie już goblinią broń musicie udać się do obozu goblinów na pustyni i pogadać z ich wodzem:
+Mając założony gobliński kijek udajemy się do obozu goblinów na pustyni i gadamy z ich wodzem:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954274103078/DAA43423153BD5242F1219AFD28DEE5613CB8053/)](https://steamuserimages-a.akamaihd.net/ugc/969852954274103078/DAA43423153BD5242F1219AFD28DEE5613CB8053/)  
-Wódz goblinów zleca wam byście odzyskali Totem goblinów. Posiada go przy sobie boss goblinów dosiadający kąsacza znajduje się on pod wystającym klifem podpartym filarami. Zabijacie bossa, zabieracie totem i oddajecie wodzowi. Po wykonaniu tego zadania możecie spokojnie wybić gobliny w tym obozie dodatkowy exp.
+
+Wódz goblinów zleca nam odzyskanie skradzionego totemu. Ukradł go boss goblinów dosiadający kąsacza, znajduje się on pod wystającym klifem w centrum pustyni. Po zabiciu bossa zabieramy totem i oddajemy go wodzowi za co ten daje nam klucz do skrzyni z dobrym młotkiem 1H pod siłę i pierścieniem do HP. Po wykonaniu tego zadania można wybić gobliny, za wodza dostaniemy 1 PN.
