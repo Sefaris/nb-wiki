@@ -12,7 +12,7 @@ Dostajemy się do oazy złotego smoka Ashtara, rozmawiamy z nim, a ten twierdzi,
 Korzystając z pierścienia, który znaleźliśmy po walce z Krukiem przenosimy się do miejsca, w którym go pokonaliśmy i czytamy naładowaną tabliczkę. Obudzi się Wielki Starożytny Strażnik, który po krótkiej rozmowie nas zaatakuje. Możemy go uderzyć by dowiedzieć się, że jest nieśmiertelny. Wracamy do Ashtara i dowiadujemy się, że potrzebny będzie Młot Adanosa, znajdziemy go na ołtarzu z zombie w świątyni w obozie bandytów. Uzbrojeni w młot zabijamy strażnika i zabieramy z niego kamień, który pokazujemy Astarowi. Smok informuje nas o treści tabliczki i możemy teraz uaktywnić kulę budowniczych w bibliotece w kanionie, co otworzy przejście do Pustyni Adanosa - rozległej lokacji, docelowo przewidzianej na 3 rozdział.
 > Po rozmowie ze smokiem w bibliotece pojawią się duchy ceniostwórów wraz z bossem. Jeżeli chcemy uniknąć spotkania z nimi, to zamiast rozmawiać ze smokiem aktywujemy kulę od razu po pokonaniu strażnika. 
 
-### Uwaga: Na pustyni w trakcie dnia będziemy tracić wytrzymałość, chyba że nauczymy się odporności na gorąco u Gonzalesa lub poprzez wypicie Płomienia Eligora.
+### Uwaga: Na pustyni w trakcie dnia będziemy tracić wytrzymałość, chyba że nauczymy się odporności na gorąco od Gonzalesa lub wypijemy Płomień Eligora. Utrata wytrzymałości ustaje o godzinie 18
 
 ## Wątek pustyni Adanosa
 
@@ -20,10 +20,11 @@ Mapa pustyni i krzyształ ogniskujący znajdują się w pierwszym budynku, na je
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)  
 
-Po wejściu na pustynię pierwsze, co musimy zrobić to zebrać 4 kawałki ornamentu. Znajdziemy je w oazach. Dwóch kluczy pilnują Mroczni Strażnicy, a dwóch Wyżsi Kapłani Budowniczych.  
+Pierwszym krokiem będzie zebranie 4 kawałków ornamentu. Znajdziemy je w oazach. Dwóch kluczy pilnują Mroczni Strażnicy, a dwóch Wyżsi Kapłani Budowniczych.  
 Kiedy już zbierzecie 4 odłamki musicie umieścić je w pulpitach w tej piramidzie
 
-[![](https://steamuserimages-a.akamaihd.net/ugc/969852954269962988/FBBD6E4057E5D63400F4B88D39F0945FFAE6C07E/)](https://steamuserimages-a.akamaihd.net/ugc/969852954269962988/FBBD6E4057E5D63400F4B88D39F0945FFAE6C07E/)  
+[![](https://steamuserimages-a.akamaihd.net/ugc/969852954269962988/FBBD6E4057E5D63400F4B88D39F0945FFAE6C07E/)](https://steamuserimages-a.akamaihd.net/ugc/969852954269962988/FBBD6E4057E5D63400F4B88D39F0945FFAE6C07E/) 
+
 Po włożeniu odłamków do pulpitów otworzy się wejście do piramidy schodkowej, gdzie znajduje się pierwszy z artefaktów, który musimy zdobyć: Berło Adanosa. Teraz musimy wskoczyć do wielkiej dziury na pustyni.  
 Kiedy będziemy już na dnie dziury musimy zabić wielkiego pełzacza. W tym celu zdobywamy pałkę, którą strzeże kamienny golem za przepaścią. Uderzamy 3 razy w gong, potem wskakujemy na ruinę z filarem obok gongu i jak pojawi się pełzacz, to zrzucamy na niego filar. Teraz plądrujemy leże pełzacza i zabieramy ze skrzyni element potrzebny do dostania się do Świątyni Łez. Następnie wracamy tam gdzie był golem. Idziemy dalej, skaczemy dwa poziomy niżej, czytamy pulpit - wykorzystujemy przy tym wcześniej wspomniany element - otwiera się nam przejście za głębokim dołem, zaraz obok. Przedostajemy się za dziurę i wchodzimy do nowej lokacji.
 
