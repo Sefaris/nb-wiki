@@ -8,14 +8,10 @@ Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy 
 
 [--> LINK <--](https://youtu.be/CM_DkDBpQEM/)
 
-## ZADANIA U ORKÓW
-
-Po wejściu do miasta orków szukamy Farroka, który strzeże przejścia do Ur-Tralla - głównego wodza.
-#### Należy uważać, aby nie oddać zadania mając mniej niż 100 reputacji, bo zablokujemy sobie ofertę u orkowego handlarza
-
 ## Najemnik orków
 
-Zadanie zleca Farrok. Musimy wbić minimum 80 reputacji by dostać się do wodza orków. Zadanie kończy się po uzyskaniu dostępu do Ur-Thralla (Nie możemy wtedy zdobyć więcej reputacji).
+Po wejściu do miasta orków szukamy Farroka, który strzeże przejścia do Ur-Tralla - głównego wodza. Musimy wbić minimum 80 reputacji by dostać się do wodza orków. Zadanie kończy się po uzyskaniu dostępu do Ur-Thralla (Nie możemy wtedy zdobyć więcej reputacji).
+#### Należy uważać, aby nie oddać zadania mając mniej niż 100 reputacji, bo zablokujemy sobie ofertę u orkowego handlarza
 
 ## Trofeum dla Farroka
 
