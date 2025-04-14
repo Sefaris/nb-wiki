@@ -31,15 +31,15 @@ Ur-Karras zleca nam zabicie Muritana, który wcześniej zranił orka i zabił je
 
 ## Wiadomość Ur karrasa
 
-Ur-karras daje nam list, który mamy zanieść liderowi Klanu Wysokiej Skały. Mamy dwie opcje  
-[![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935141406/1F6F61536DCF532217D89A4AEE448E11A44B48C1/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935141406/1F6F61536DCF532217D89A4AEE448E11A44B48C1/)1) Oddać list liderowi Klanu Wysokiej Skały i wrócić do Ur-Karrasa (+15 reputacji orków)  
-2) Oddać list Garondowi, za co dostaniemy w nagrodę eliksir życia.
+Ur-karras daje nam list, który mamy zanieść liderowi Klanu Wysokiej Skały (zdjęcie)
+[![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935141406/1F6F61536DCF532217D89A4AEE448E11A44B48C1/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935141406/1F6F61536DCF532217D89A4AEE448E11A44B48C1/)1)
 
-## Teraz musimy się pośpieszyć, bo jeśli nie zrobimy tego do końca bieżącego dnia, to Ur-Karras się dowie i nie zleci nam więcej zadań
+Mamy dwie opcje:
+1. Oddać list liderowi Klanu Wysokiej Skały i wrócić do Ur-Karrasa (+15 reputacji orków)  
+2. Oddać list Garondowi, za co dostaniemy w nagrodę eliksir życia. (lepsza opcja)
 
-Teraz musimy złapać orkowego posłańca, który będzie nieopodal Starej Chaty Cavalorna.  
-Po zabiciu posłańca klikamy w ekwipunku klucz, który z niego wypadł.  
-Polecam wybrać opcję drugą, bo za krótki spacer otrzymamy mikstury stałe.
+#### Po wybraniu opcji 2 musimy się pośpieszyć, bo jeśli nie zrobimy tego do końca bieżącego dnia, to Ur-Karras się dowie i nie zleci nam więcej zadań
+Musimy złapać orkowego posłańca, który widział jak udajemy się z listem do Garonda. Znajduje się nieopodal Starej Chaty Cavalorna idąc w stronę miasta orków. Dodatkowo posłanieć wydropi klucz (zadanie niżej).
 
 ## Dziwny klucz
 
