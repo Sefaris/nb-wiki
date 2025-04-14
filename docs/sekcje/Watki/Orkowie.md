@@ -36,10 +36,10 @@ Ur-karras daje nam list, który mamy zanieść liderowi Klanu Wysokiej Skały (z
 
 Mamy dwie opcje:
 1. Oddać list liderowi Klanu Wysokiej Skały i wrócić do Ur-Karrasa (+15 reputacji orków)  
-2. Oddać list Garondowi, za co dostaniemy w nagrodę eliksir życia. (lepsza opcja)
+2. Oddać list Garondowi, za co dostaniemy w nagrodę eliksir życia (lepsza opcja)
 
-#### Po wybraniu opcji 2 musimy się pośpieszyć, bo jeśli nie zrobimy tego do końca bieżącego dnia, to Ur-Karras się dowie i nie zleci nam więcej zadań
-Musimy złapać orkowego posłańca, który widział jak udajemy się z listem do Garonda. Znajduje się nieopodal Starej Chaty Cavalorna idąc w stronę miasta orków. Dodatkowo posłanieć wydropi klucz (zadanie niżej).
+#### Po wybraniu opcji 2 musimy się pospieszyć, mamy czas do końca bieżącego dnia.
+Musimy złapać orkowego posłańca, który widział jak udajemy się z listem do Garonda. Znajduje się nieopodal Starej Chaty Cavalorna idąc w stronę miasta orków. Dodatkowo posłanieć wydropi klucz (zadanie niżej). Jeżeli nie zdążymy zabić posłańca to Ur-Karras dowie się o naszej zdradzie i nie zleci nam więcej zadań.
 
 ## Dziwny klucz
 
