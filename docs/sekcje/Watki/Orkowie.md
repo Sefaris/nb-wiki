@@ -10,7 +10,7 @@ Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy 
 
 ## Najemnik orków
 
-Po wejściu do miasta orków szukamy Farroka, który strzeże przejścia do Ur-Tralla - głównego wodza. Musimy wbić minimum 80 reputacji by dostać się do wodza orków. Nie musimy wykonywać wszystkich zadań u orków.
+Po wejściu do miasta orków szukamy Farroka, który strzeże przejścia do Ur-Tralla - głównego wodza. Musimy wbić minimum 80 reputacji by dostać się do wodza orków. Nie musimy wykonywać wszystkich zadań u orków, zdobycie więcej niż 100 reputacji nie daje nam żadnych dodatkowych zysków.
 Zadanie kończy się po uzyskaniu dostępu do Ur-Thralla (Nie możemy wtedy zdobyć więcej reputacji). 
 #### Należy uważać, aby nie oddać zadania mając mniej niż 100 reputacji, bo zablokujemy sobie ofertę u orkowego handlarza
 
@@ -90,23 +90,24 @@ Wysłał tam oddział orków i słuch po nim zaginał. Zanim udacie się do oboz
 
 ## Miecz dla wodza
 
-Zadanie to otrzymamy, dopiero jeśli porozmawiamy z szefem areny Ur-Kanem  
-Kowal Hash-Tor chce zrobić miecz dla lidera orków. Musimyprzynieść 5 kawałków czarnej rudy, a potem jak miecz będzie gotowy, zanieść go do Ur-Thralla.  
-Oddajemy miecz wodzowi orków i wracamy do Hash-Tora. +10 reputacji orków
+Zadanie to otrzymamy, dopiero jeśli porozmawiamy z szefem areny Ur-Kanem
+Kowal Hash-Tor chce zrobić miecz dla lidera orków. Musimy przynieść mu 5 kawałków czarnej rudy i zanieść miecz Ur-Thrallowi.  
+Oddajemy miecz wodzowi orków i wracamy do Hash-Tora przekazać mu pochwałę od wodza. +10 reputacji orków
+> W grze znajduje się wystarczająco czarnej rudy by bez ryzyka oddać 5 na miecz dla wodza
 
 ## Stary miecz Harta
 
 Hart prosi o odzyskanie swojego miecza. Znajduje się on za skrzyniami w magazynie paladynów w zamku, zabieramy go i oddajemy właścicielowi.
+> nagrodą jest bonus do posługiwania się bronią jednoręczną
 
 ## Orkowa broń
 
 Kowal Hash-Tor nauczy nas tworzenia orkowej broni, jeśli nauczymy się nią posługiwać. Nauki walki orkową bronią uczy Ur-Karras lub Ur-Tac w Orkowej Kopalni.
+> Gdy Ur-Tac zginie w trakcie gdy to zadanie jest już w dzienniku to zakończy się ono, a kowal zacznie nas uczyć, pomimo braku umiejętności posługiwania się.
 
 ## Pan smoków
 
 Zadanie pojawia się podczas rozmowy z Hush-Narem, a kończy po rozmowie z Xardasem.
-
-# Wątek orków Cz. 2
 
 ## Szacunek Tag-Nora
 
@@ -114,6 +115,7 @@ Zadanie pojawia się podczas rozmowy z Hush-Narem, a kończy po rozmowie z Xarda
 - Skóra czarnego trolla (+5 reputacji orków)  
 - kieł Muritana (+10 reputacji orków)  
 - Twardy kolec grzbietowy - trofeum z bossa Drake'ów na pustyni Adanosa. (+15 reputacji orków)
+> najkorzystniej jest od oddać kieł muritana. Kolec dajemy Falkowi
 
 ## Kusza wielkiego łowcy
 
@@ -122,21 +124,24 @@ Tag-Nor powie nam o legendarnej kuszy i każe zebrać składniki :
 - 4 kawałki czarnej rudy  
 - 30 kawałków magicznej rudy  
 - ścięgno pantery (wypada z pierwszej napotkanej pantery w Jarkendarze)  
-- kawałek tropikalnego buku (znajduje się on przy bossie pająku w dziurze z pajęczynami. Znajduje się ona między miejscem gdzie spotykamy po raz pierwszy Jacka Aligatora, a obozem piratów)  
+- kawałek tropikalnego buku (w dalszej częsci kanionu przed wejściem do jaskini z pająkami, obok bossa wargów Tenelyka) 
 - talizman wielkiego myśliwego (jeden znajduje się przy Karakuście na Pustyni Adanosa, a drugi w skrzyni za kratami na Cmentarzysku Orków)  
-- róg czarnego jaskiniowego trolla - (trolle znajdziemy kolejno: Na Pustyni Adanosa przy Drzewie Życia, w Dolinie CIeni obok leża Czarnego Trolla, w Lesie Asasynów na dnie kopalni przy misji)
+- róg czarnego jaskiniowego trolla - (trolle znajdziemy kolejno: Na Pustyni Adanosa przy Drzewie Życia, w Dolinie Cieni obok leża Czarnego Trolla, w Lesie Asasynów na dnie kopalni przy misji)
 
 Oddajemy składniki Tag-Norowi. Teraz musimy nauczyć się tworzyć kuszę. Idziemy do Harada, a ten wysyła nas do Thorbena. Uczymy się robienia kusz u Thorbena i wracamy do Tag-Nora, który odda nam składniki, a także da notatkę odnośnie tworzenia kuszy.  
-Teraz musimy udać się do Węża w karczmie Kardifa i zapytać go o topienie sztab z czystej magicznej rudy. Teraz musimy natłuścić scięgno pantery na stole alchemicznym, a na stole rzemieślniczym utworzyć podstawę kuszy.
+Teraz musimy udać się do Węża w karczmie Kardifa i zapytać go o przetapianie sztab z czystej magicznej rudy.
 
-Teraz idziemy do obozu Netbeka i znajdujemy piec. Podnosimy szczypce z kowadła i zaczynamy tworzyć naszą kuszę. By stworzyć najlepszą wersję kuszy wybieramy opcję:  
+Idziemy do Darriona nad obozem Netbeka i znajdujemy piec. Musimy natłuścić scięgno pantery na stole alchemicznym, a na stole rzemieślniczym utworzyć podstawę kuszy. Podnosimy szczypce z kowadła i zaczynamy tworzyć naszą kuszę. By stworzyć najlepszą wersję kuszy wybieramy opcję:  
 - Powoli  
 - Bardzo powoli  
 - 4 kawałki czarnej rudy  
 - Powoli  
 
-Po stworzeniu kuszy możemy ją zachować dla siebie lub oddać Tag-Norowi za nagrody:  
-70 zdrowia // 5 siły // 5 zręczności // 2 mikstury "Czarna Mgła"
+Po stworzeniu kuszy możemy ją zachować dla siebie lub oddać Tag-Norowi za jedną z nagród:  
+- 50 zdrowia
+- 5 siły
+- 5 zręczności
+- 2 mikstury "Czarna Mgła" (niewidzialność na 3 minuty)
 
 ## Duchy przeszłości
 
