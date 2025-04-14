@@ -31,18 +31,21 @@ Idziemy teraz w dół i eksplorujemy okolicę. By dostać się na górę wspinam
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270081211/EE169733492EA5F990F043B98B559E9F644292F9/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270081211/EE169733492EA5F990F043B98B559E9F644292F9/)
 
-Idziemy prosto przed siebie, aż natrafimy na rozwidlenie, w prawo ścieżka maga, a w lewo wojownika. Ze względu na nagrody polecam wybrać w zależności od klasy naszej postaci, gdyż wejść możemy tylko do jednego pokoju. Zabijamy tam bossa i czytamy pulpit co otwiera nam dalszą drogę. Na drodze stanie nam specyficzny mroczny boss, a kolejny będzie boss kamienny strażnik, którego pokonujemy młotem Adanosa. Trafimy do pomieszczenia z łzą Adanosa, którą zabieramy wraz z resztą fantów. Teraz wracamy tam gdzie wybieraliśmy pomieszczenie i wchodzimy na teleport przenoszący z powrotem na pustynię. Mając berło i łzę klikamy w ekwipunku na jeden z nich co łączy artefakty w całość, klikamy teraz na berło i pojawi się przed nami strażnik, którego zabijamy i podnosimy połowę tablicy. Druga połówka jest w posiadaniu maga Im’Araha w wieży.
+Idziemy prosto przed siebie, aż natrafimy na rozwidlenie, w prawo ścieżka maga, a w lewo wojownika. Ze względu na nagrody polecam wybrać w zależności od klasy naszej postaci, gdyż wejść możemy tylko do jednego pokoju. Zabijamy tam bossa i czytamy pulpit co otwiera nam dalszą drogę. Na drodze stanie nam specyficzny mroczny boss, a kolejny będzie boss kamienny strażnik, którego pokonujemy młotem Adanosa. Trafimy do pomieszczenia z łzą Adanosa, którą zabieramy wraz z resztą fantów. Teraz wracamy tam gdzie wybieraliśmy pomieszczenie i wchodzimy na teleport przenoszący z powrotem na pustynię. Mając berło i łzę klikamy w ekwipunku na jeden z nich co łączy artefakty w całość, klikamy teraz na berło i pojawi się przed nami strażnik, którego zabijamy i podnosimy połowę tablicy. Druga połówka jest w posiadaniu maga Im’Araha w wieży:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270905887/6B42FF559B6B8A90AF1A65DD9DFCE41052EFB253/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270905887/6B42FF559B6B8A90AF1A65DD9DFCE41052EFB253/)  
-Kiedy mamy już dwie tabliczki musimy je połączyć w budynku, niedaleko piramidy, gdzie znaleźliśmy berło Adanosa. Teraz idziemy przed wielką piramidę, zabijamy dwóch mrocznych strażników, a następnie czytamy tabliczkę przed zamkniętymi drzwiami.  
-Kiedy już znajdziecie się w świątyni, wspinacie się po kamiennych stopniach i czytacie 4 pulpity (każdego z pulpitów pilnuje kamienny strażnik więc lepiej mieć założony młot Adanosa). Każdy z pulpitów daje wam jedno zadanie które musicie wykonać:
 
-1.Zadanie polega na zabiciu golema Magolemusa, który pojawia się w miejscu ze zdjęcia niżej. Można tego dokonać tylko w nocy, najlepiej Świętym Młotem Innosa.
+Mając obydwie połówki musimy połączyć je w budynku obok mniejszej piramidy, gdzie znaleźliśmy berło Adanosa, po połączeniu czytamy tabliczkę. Idziemy teraz przed wielką piramidę, zabijamy dwóch mrocznych strażników. Otwieramy wejście przy pomocy tabliczki i czytamy wszystkie pulpity w środku poza jednym, który jest tymczasowo zablokowany. Dostaniemy 2 zadania:
+
+1. Zabić stworzenie Innosa - golema Magolemusa, który pojawia się w miejscu ze zdjęcia niżej. Pokonujemy go świętym Młotem Innosa z klasztoru.
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270940452/BEEE34AE829A6DF810878C57795999FF00B3DA1E/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270940452/BEEE34AE829A6DF810878C57795999FF00B3DA1E/)  
-2\. Zadanie polega na znalezieniu smoczego jaja i umieszczenie go na piedestale w ruinach przy obozie goblinów. Możemy je znaleźć w małej jaskini znajdującej się na obrzeżach pustyni lub wziąć jakieś ze skarbu smoków w Górniczej Dolinie.
+
+2. Umieścić smocze jajo na piedestale w ruinach niedaleko obozu goblinów. Możemy je znaleźć w małej jaskini znajdującej się na obrzeżach pustyni
+> smocze jaja występują również w skarbach smoków oraz w jaskiniach Khorinis od 4 rozdziału
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270267470/0820A651A4676C33FD6117CAA9B3B7D118CE3637/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270267470/0820A651A4676C33FD6117CAA9B3B7D118CE3637/)  
+
 **Poniższe zadania nie są wymagane w aktualizacjach po 20.04.2023**  
 \_3\. Zadanie polega na napełnieniu “kotłów” wodą Adanosa. Do każdego z nich jest teleport, który mogliśmy sobie wcześniej odblokować eksplorując pustynie. Klucz do studni znajdziemy w oazie w rogu pustyni, a samą studnie przy Wielkiej Dziurze na środku pustyni. Puste butelki sprzedadzą nam handlarze w Khorinis np. Kardiff/Coragon.  
 4\. Zadanie polega na aktywowaniu ołtarzy porozrzucanych po całej pustyni. Najpierw musimy udać się do miejsca z poniższego zdjęcia, gdzie wykopujemy skały. Następnie idziemy do Saturasa, a potem do Merdariona, który naładuje kryształy. Do każdej z kapliczek jest teleport, który mogliśmy wcześniej odblokować przy eksploracji pustyni.
