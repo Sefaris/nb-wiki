@@ -25,22 +25,13 @@ Kiedy już zbierzecie 4 odłamki musicie umieścić je w pulpitach w tej piramid
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954269962988/FBBD6E4057E5D63400F4B88D39F0945FFAE6C07E/)](https://steamuserimages-a.akamaihd.net/ugc/969852954269962988/FBBD6E4057E5D63400F4B88D39F0945FFAE6C07E/) 
 
-Po włożeniu odłamków do pulpitów otworzy się wejście do piramidy schodkowej, gdzie znajduje się pierwszy z artefaktów, który musimy zdobyć: Berło Adanosa. Teraz skaczemy do wielkiej dziury na pustyni w centrum pustyni. Będąc już na dnie znajdujemy pałkę i walimy nią w gong kilka razy. Pojawi się wielki pełzacz, na którego zwalamy filar obok, plądrujemy zwłoki i skrzynię w leżu pełzacza gdzie znajdziemy element potrzebny do wejścia do Świątyni Łez. Idziemy dalej, skaczemy niżej i czytamy pulpit co otwiera przejście obok. Wchodzimy tam do nowej lokacji.
+Po włożeniu odłamków do pulpitów otworzy się wejście do mniejszej piramidy, gdzie znajduje się pierwszy z artefaktów, który musimy zdobyć: Berło Adanosa. Teraz skaczemy do wielkiej dziury na pustyni w centrum pustyni. Będąc już na dnie znajdujemy pałkę i walimy nią w gong kilka razy. Pojawi się wielki pełzacz, na którego zwalamy filar obok, plądrujemy zwłoki i skrzynię w leżu pełzacza gdzie znajdziemy element potrzebny do wejścia do Świątyni Łez. Idziemy dalej, skaczemy niżej i czytamy pulpit co otwiera przejście obok. Wchodzimy tam do nowej lokacji.
 
 Idziemy teraz w dół i eksplorujemy okolicę. By dostać się na górę wspinamy po kamieniach wystających ze skały na ścianie wzdłuż ścieżki. By otworzyć przejście do świątyni wciskamy ten przycisk:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270081211/EE169733492EA5F990F043B98B559E9F644292F9/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270081211/EE169733492EA5F990F043B98B559E9F644292F9/)
 
-Kiedy już dostaniemy się do świątyni czeka nas niełatwa droga. Pierwszą pułapkę należy wspiąć się na ołtarz po lewej lub prawej i przejść po nich. Nie wolno nam stanąć na ziemi w przeciwnym razie zginiemy. Druga pułapka kolce to samo wspinamy się na posąg po lewej lub prawej i przechodzimy. Dalej mamy nieaktywny teleport i dwie komnaty zamknięte kratami.
-
-Prawo od wejścia do pomieszczenia to komnata z fantami dla maga , lewo natomiast fanty dla wojownika. Po wejściu do jednego z pomieszczeń ,zabiciu bossa czytamy pulpit i otwiera nam się droga dalej. Teraz na drodze stanie nami boss mroczny strażnik. Następnie młotem Adanosa zabijamy Araxa i zabieramy drugi Artefakt łzę Adanosa. Teraz wracamy do pomieszczenia gdzie wcześniej był nieaktywny teleport (teraz jest aktywny) i wracamy na pustynię.  
-Mając berło i łzę klikamy w ekwipunku na jeden z nich i artefakty łączą się w pierścień. Teraz naszym celem będzie zabicie strażników w takich oto ruinach:
-
-[![](https://steamuserimages-a.akamaihd.net/ugc/969852954270113704/26731D01770491636286AD292449DE9BD1EF9F47/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270113704/26731D01770491636286AD292449DE9BD1EF9F47/)Musicie znaleźć pięć takich ruin na pustyni i zabić strażników (żeby zranić strażnika musicie mieć założone berło i młot Adanosa z czego berło zakładacie blisko strażnika inaczej będzie nieśmiertelny).
-
-Musicie znaleźć pięć takich ruin na pustyni i zabić strażników. Należy założyć przy strażniku pierścień, aby się obudził, a następnie zabić go młotem Adanosa.  
-Kiedy już zabijecie pięciu strażników z każdego z nich dostaniecie fragment płytki (łącznie 5). Teraz klikamy na jeden z fragmentów w ekwipunku, a te składają się w połowę tabliczki.  
-Teraz musicie zdobyć drugą część tabliczki, która jest w posiadaniu maga Im’Araha w wieży.
+Idziemy prosto przed siebie, aż natrafimy na rozwidlenie, w prawo ścieżka maga, a w lewo wojownika. Ze względu na nagrody polecam wybrać w zależności od klasy naszej postaci, gdyż wejść możemy tylko do jednego pokoju. Zabijamy tam bossa i czytamy pulpit co otwiera nam dalszą drogę. Na drodze stanie nam specyficzny mroczny boss, a kolejny będzie boss kamienny strażnik, którego pokonujemy młotem Adanosa. Trafimy do pomieszczenia z łzą Adanosa, którą zabieramy wraz z resztą fantów. Teraz wracamy tam gdzie wybieraliśmy pomieszczenie i wchodzimy na teleport przenoszący z powrotem na pustynię. Mając berło i łzę klikamy w ekwipunku na jeden z nich co łączy artefakty w całość, klikamy teraz na berło i pojawi się przed nami strażnik, którego zabijamy i podnosimy połowę tablicy. Druga połówka jest w posiadaniu maga Im’Araha w wieży.
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270905887/6B42FF559B6B8A90AF1A65DD9DFCE41052EFB253/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270905887/6B42FF559B6B8A90AF1A65DD9DFCE41052EFB253/)  
 Kiedy mamy już dwie tabliczki musimy je połączyć w budynku, niedaleko piramidy, gdzie znaleźliśmy berło Adanosa. Teraz idziemy przed wielką piramidę, zabijamy dwóch mrocznych strażników, a następnie czytamy tabliczkę przed zamkniętymi drzwiami.  
