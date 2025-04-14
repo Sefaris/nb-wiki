@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a931ec10-2618-42be-8d96-7c0ec948ca14)# Pustynia Adanosa
+# Pustynia Adanosa
 
 ## Jak się dostać na pustynię Adanosa.
 
