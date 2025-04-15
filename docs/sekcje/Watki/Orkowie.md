@@ -163,7 +163,7 @@ Ur-Shak chce odzyskać swoją dawną pozycję wśród orków. Musimy zabić Hosh
 
 # Wątek orków - Orkowa kopalnia
 
-Aby Ur-Thrall wpuścił nas do orkowej kopalni musimy spełniać kilka wymagań:
+Aby Ur-Thrall wpuścił nas do orkowej kopalni musimy spełnić kilka wymagań:
 
 - Zabić demona na bagnach w zadaniu "Mroczne Rytuały"  
 - Posiadać 50 retoryki  
@@ -171,15 +171,14 @@ Aby Ur-Thrall wpuścił nas do orkowej kopalni musimy spełniać kilka wymagań:
 
 W dialogach z Ur-Thrallem mówimy, że chcemy porozmawiać z niewolnikami, bo jeden z nich może być paladynem. Wódz przystaje na nasz pomysł i daje nam klucz. Teleportujemy się przed wejście do kopalni i klikamy w filar po lewej stronie.
 
-## ZADANIA W KOPALNI ORKÓWUprzedzając pytania - Teleportu nie da się aktywować. Robią to Wenzel z resztą niewolników, a my nie mamy do niego dostępu
+## ZADANIA W KOPALNI ORKÓW 
 
 ## Ucieczka niewolników
 
-Po wejściu do kopalni spotkamy niewolnika Rollanda, który opowie nam sporo o kopalni, ale będzie chciał, żebyśmy zdobyli zaufanie niewolników. Udajemy się teraz do Ferda, który opowie nam o nieudanej próbie ucieczki niewolników, po tym jak zrobimy dla niego dwa zadania.
+Po wejściu spotkamy niewolnika Rollanda, który opowie nam sporo o kopalni oraz, że będziemy musieli zdobyć zaufanie niewolników jeżeli mamy zamiar dowiedzieć się, który z nich jest paladynem. Rozglądamy się więc po kopalni i wykonujemy wszystkie zadania opisane niżej, a gdy zyskamy już zaufanie to niewolnik Crowe zorganizuje nam spotkanie z paladynem. Paladynem okazuje się być Gars, który naprawdę nazywa się Wenzel.
 
-Teraz musimy się dowiedzieć który z niewolników to Paladyn, pomoże nam w tym Crowe, ale tylko wtedy, gdy uzyskamy zaufanie niewolników. Musimy robić dla nich zadania, a gdy zyskamy już zaufanie Crowe zorganizuje nam spotkanie z paladynem, okazuje się nim Gars, który naprawdę nazywa się Wenzel.
-
-Teraz czyścimy dla orków dolny poziom kopalni, zabijamy demona, a także strażnika sfery z którego zabieramy kamień ogniskujący. Teraz wracamy do Crowe'a i Wenzela po czym mówimy im o naszym znalezisku. Następnie wykonujemy trzy zadania dla Wenzela, a po ich wykonaniu wracamy do Wenzela, który wraz z resztą niewolników ucieka z kopalni.
+W trakcie wykonywania zadań dowiemy się, że na dolnym poziomie kopalni zalęgło się zło, po uzyskaniu pozwolenia schodzimy tam i zabijamy demona, a także strażnika sfery z którego zabieramy kamień ogniskujący. Teraz wracamy do Crowe'a i Wenzela po czym mówimy im o naszym znalezisku. Następnie wykonujemy trzy zadania dla Wenzela, a po ich wykonaniu wracamy do Wenzela, który wraz z resztą niewolników ucieka z kopalni.
+> Uprzedzając pytania - Teleportu w kopalni nie da się aktywować. Zrobią to Wenzel z resztą niewolników
 
 ## Dolny poziom kopalni
 
