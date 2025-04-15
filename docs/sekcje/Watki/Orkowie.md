@@ -145,15 +145,17 @@ Po stworzeniu kuszy możemy ją zachować dla siebie lub oddać Tag-Norowi za je
 
 ## Duchy przeszłości
 
-Uwaga: Zadanie dostępne tylko jeśli wcześniej zrobiliśmy zadania dla Ur karrasa polowanie na Muritana, a także uzyskaliśmy dostęp do świątyni śniącego.
+Uwaga: Zadanie dostępne tylko jeśli wcześniej zrobiliśmy zadania dla Ur karrasa polowanie na Muritana, a także uzyskaliśmy dostęp do świątyni śniącego. Trzeba zagadać do wodza ponownie, po uzyskaniu dostępu do świątyni.
 
 Ur-Thrall opowie nam o poprzednim wodzu Tag-Dumgarze, który zlecił budowę Świątyni Śniącego.  
 Mamy znaleźć jego ślady w świątyni, a konkretnie dwie notatki:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830544/28DF63DE7BB093669CCFBAB4131BCBBD61BC597A/)](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830544/28DF63DE7BB093669CCFBAB4131BCBBD61BC597A/)[![](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830573/1F070321108D3ABF565F96EB8E8BBED83570CF0A/)](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830573/1F070321108D3ABF565F96EB8E8BBED83570CF0A/)  
-Czytamy obie notatki i dowiadujemy się o niejakim Hush-Gorze. Idziemy teraz do Starej Wieży Xardasa, gdzie na górze na stole powinna leżeć stara książka. Zabieramy jąi czytamy. Idziemy do Ur-Thralla i mówimy co wiemy , a ten daje nam wskazówkę gdzie znaleźć byłego szamana. Idziemy na cmentarzysko orków i musimy wezwać Hush-Gora (boss nieumarły szaman).
 
-Zabijamy szamana i zabieramy z jego ciała wszystkie itemy w tym specjalny sztylet. Wracamy do Ur-Thralla i teraz mamy wybór albo kończymy od razu zadanie albo decydujemy się by sami zabić Tag-Dumgara. Jeśli wybierzemy drugą opcję, idziemy do górskiej fortecy, a tam na parterze w jednym z pomieszczeń znajdziemy ducha Tag-Dumgara. Zakładamy sztylet, który zabraliśmy z ciała bossa szamana z cmentarzyska orków, gdyż tylko ten sztylet jest w stanie zadać mu obrażenia. Zabijamy Tag Dumgara i wracamy do Ur-Thralla.
+Czytamy obydwie notatki i dowiadujemy się o niejakim Hush-Gorze. Idziemy teraz do Starej Wieży Xardasa, gdzie na górze na stole powinna leżeć stara książka, czytamy ją. Idziemy do Ur-Thralla i mówimy co wiemy, a ten daje nam wskazówkę gdzie znaleźć byłego szamana. Idziemy na cmentarzysko orków, na górnym piętrze znajdują się orkowe artefakty, należy wsadzić je na 3 piedestały co poskutkuje przyzwaniem Hush-Gora (boss nieumarły szaman).
+
+Zabijamy szamana i zabieramy z jego ciała wszystkie itemy w tym specjalny sztylet. Wracamy do Ur-Thralla i kończymy zadanie lub decydujemy się sami zabić Tag-Dumgara. Jeśli wybierzemy drugą opcję, idziemy do górskiej fortecy, a tam na parterze w jednym z pomieszczeń spotkamy ducha Tag-Dumgara. Zakładamy sztylet z cmentarzyska orków i zabijamy go, po czym wracamy do Ur-Thralla odebrać nagrodę. Sztylet oddajemy Xardasowi lub Kreolowi w 5 rozdziale.
+> Szamana w cmentarzysku mogliśmy pokonać wcześniej przez co będziemy mieli jego sztylet już przy sobie. Wtedy po przeczytaniu notatek od razu idziemy do Ur-Tralla
 
 ## Ur-Shak
 
