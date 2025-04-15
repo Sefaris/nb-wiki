@@ -182,20 +182,16 @@ W trakcie wykonywania zadań dowiemy się, że na dolnym poziomie kopalni zalęg
 
 ## Dolny poziom kopalni
 
-Zadanie rozpoczyna się po rozmowie z Rollandem, a po więcej szczegółów idziemy do kowala Hildura, a potem orka Groka. Następnie udajemy się do przywódcy kopalni Ar-Dagara, który zgodzi się nas wpuścić na niższy poziom. Teraz musimy się udać po zgodę do Ur-Thralla, ten się zgadza i przydziela nam oddział orków, więc wracamy do Ar-Dagara.  
-Teraz udajemy się na platformę (windę), przedtem gadamy z jednym z bezimiennych hersztów obok platform. Da nam on klucz do kołowrota, dzięki któremu zjeżdżamy w dół kopalni. Orkowie z którymi zjechaliśmy mogą zginąć, a wręcz z pewnością tak skończą, bo nie będą zadawać obrażeń widmom. Zabijamy na końcu demona i strażnika sfery, po czym wracamy do Ar-Dagara i Ur-Thralla.
+Zadanie rozpoczyna się po rozmowie z Rollandem, a po więcej szczegółów idziemy do kowala Hildura, a potem orka Groka. Następnie udajemy się do przywódcy kopalni Ar-Dagara, który zgodzi się nas wpuścić na niższy poziom, jednak musimy uzyskać zgodę Ur-Thralla, ten się zgadza i przydziela nam oddział orków, więc wracamy do Ar-Dagara. Zabieramy też ze sobą Ur-Taca, który trenuje niedaleko.
+Teraz udajemy się na platformę (windę), przedtem gadamy z jednym z hersztów obok platform. Da nam on klucz do kołowrotu, dzięki któremu zjeżdżamy w dół kopalni. Zabijamy na końcu demona i strażnika sfery, po czym wracamy do Ar-Dagara i Ur-Thralla. Orkowie z którymi zjechaliśmy mogą zginąć, nie są do niczego potrzebni.
 
 ## Portal w kopalni orków
 
-Zadanie dostajemy od Crowe'a po oddaniu mu jego dziennika, a także tabliczki od Nutsa. Crowe mówi nam, że gdzieś w kopalni jest teleport. Gadamy z Wenzelem, po czymudajemy się na niższy poziom kopalni znajdujemy tam platformę teleportacyjną. Zabijamy strażnika sfery, z którego zabieramy kamień ogniskujący i wracamy do Crowe'a.
+Zadanie dostajemy od Crowe'a po oddaniu mu jego dziennika, a także tabliczki od Nutsa. Crowe mówi nam, że gdzieś w kopalni jest teleport. Gadamy z Wenzelem i gdy udamy się niższy poziom kopalni to musimy znaleźć tam platformę teleportacyjną. Zabijamy strażnika sfery, z którego zabieramy kamień ogniskujący i wracamy do Crowe'a.
 
 ## Zaufanie niewolników
 
 Jak mówi nazwa musimy uzyskać zaufanie niewolników poprzez robienie dla nich zadań.
-
-## Odwrócić uwagę strażnika
-
-Zadanie zleca Crowe. Musimy pozbyć się orka z miejsca, gdzie mamy się spotkać z Wenzelem. Mówimy mu, że wzywa go Ar-Dagar, a ork odchodzi.
 
 ## Jedzenie dla Rollanda
 
@@ -212,11 +208,16 @@ Ferd prosi nas o trzy eliksiry lecznicze, więc mu je oddajemy.
 ## Chciwy ork
 
 Ferd chce odzyskać swój pierścień, który zabrał mu Vakur-Shak. Idziemy do orka, który porozmawia z nami, jeśli damy mu 30 bryłek złota. Następnie ork żąda 50 bryłek za pierścień, ale mając odpowiednio dużo retoryki możemy go zastraszyć, dzięki czemu poza pierścieniem dostaniemy też eliksir siły.  
-**Jeśli nie mamy już bryłek złota, warto zainteresować się zadaniem ze Scattym z 4 rozdziału.**
+> Jeśli nie mamy już bryłek złota, warto zainteresować się zadaniem ze Scattym z 4 rozdziału
 
 ## Dziennik Crowe'a
 
 Crowe mówi nam, że ork imieniem Kor-Shak zabrał mu dziennik. Idziemy do orka i okazuje się, że ork chce się nauczyć języka ludzi. Odda nam dziennik w zamian za inną książkę. Potrzebny nam będzie Podręcznik retoryki, który będzie w skrzyni na parterze domu Fernando.
+
+## Klucz do orkowego magazynu
+
+Gars prosi nas, abyśmy ukradli klucz do magazynu od Ar-Dagara. Dialog kradzieży kieszonkowej pojawi się pomimo braku umiejętności, po uzyskaniu klucza wracamy do Garsa.
+> Sami nie możemy w żaden sposób skorzystać z tego klucza
 
 ## Nowy kilof dla Elka
 
@@ -240,20 +241,20 @@ Clovis prosi nas o przyniesienie 30 kawałków rudy żelaza, które możemy wyko
 
 ## Zapomniane wspomnienia
 
-Nuts da nam tabliczkę jak przyniesiemy mu książkę o gwiazdach. Chodzi o starożytną astronomię możemy ją kupić od Salandrila za 5000 złota lub znaleźć w wolnej kopalni (tam gdzie ranny ork w G1).
+Nuts da nam tabliczkę jak przyniesiemy mu książkę o gwiazdach. Chodzi o starożytną astronomię, możemy ją kupić od Salandrila za 3000 złota lub znaleźć w wolnej kopalni (tam gdzie ranny ork w G1).
+
+## Dowód dla Urtaca-Shaka
+
+Ur-Tac nauczy nas walki orkową bronią, jeśli pokonamy jego brata Umbraka na arenie orków.
 
 ## Zapał do walki
 
 Ork Ur-Tac chce się udać z nami do walki z demonem na niższym poziomie kopalni.  
 Kiedy uzyskamy już zgodę Ar-Dagara i dostaniemy żołnierzy od Ur-Thralla, wystarczy wrócić do Ur-Taca i powiedzieć mu, że może z nami iść.
 
-## Dowód dla Urtaca-Shaka
+## Odwrócić uwagę strażnika
 
-Ur-Tac nauczy nas walki orkową bronią, jeśli pokonamy jego brata Umbraka na arenie orków.
-
-## Klucz do orkowego magazynu
-
-Gars prosi nas, abyśmy ukradli klucz do magazynu od Ar-Dagara. Do tej misji pojawia się “specjalna kradzież”, która nie wymaga od nas umiejętności. Do magazynu się nie dostaniemy, bo nie istnieje, więc idziemy prosto do Garsa oddać mu klucz.
+Zadanie zleca Crowe. Musimy pozbyć się orka z miejsca, gdzie mamy się spotkać z Wenzelem. Mówimy mu, że wzywa go Ar-Dagar, a ork odchodzi.
 
 ## Jedzenie dla niewolników
 
@@ -261,12 +262,13 @@ Wenzel prosi nas o przyniesienie 50 sztuk pieczonego mięsa i 20 butelek wody.
 
 ## Broń dla niewolników
 
-Wenzel prosi nas o przyniesienie 20 sztuk broni. Chodzi o zwykłe miecze, które wykuwamy w na kowadle.
+Wenzel prosi nas o przyniesienie 20 sztuk broni. Chodzi o zwykłe miecze, które wykuwamy na kowadle.
 
 ## Ekwipunek Wenzela
 
 Wenzel prosi nas o przyniesienie swojej zbroi i miecza. Znajdują się one w jaskini pod wodospadem obok kopalni z Grimesem.
 
+# Dolina Cieni
 
 ## Zemsta Ur-Thralla
 
