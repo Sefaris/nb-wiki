@@ -143,24 +143,6 @@ Po stworzeniu kuszy możemy ją zachować dla siebie lub oddać Tag-Norowi za je
 - 5 zręczności
 - 2 mikstury "Czarna Mgła" (niewidzialność na 3 minuty)
 
-## Duchy przeszłości
-
-Uwaga: Zadanie dostępne tylko jeśli wcześniej zrobiliśmy zadania dla Ur karrasa polowanie na Muritana, a także uzyskaliśmy dostęp do świątyni śniącego. Trzeba zagadać do wodza ponownie, po uzyskaniu dostępu do świątyni.
-
-Ur-Thrall opowie nam o poprzednim wodzu Tag-Dumgarze, który zlecił budowę Świątyni Śniącego.  
-Mamy znaleźć jego ślady w świątyni, a konkretnie dwie notatki:
-
-[![](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830544/28DF63DE7BB093669CCFBAB4131BCBBD61BC597A/)](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830544/28DF63DE7BB093669CCFBAB4131BCBBD61BC597A/)[![](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830573/1F070321108D3ABF565F96EB8E8BBED83570CF0A/)](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830573/1F070321108D3ABF565F96EB8E8BBED83570CF0A/)  
-
-Czytamy obydwie notatki i dowiadujemy się o niejakim Hush-Gorze. Idziemy teraz do Starej Wieży Xardasa, gdzie na górze na stole powinna leżeć stara książka, czytamy ją. Idziemy do Ur-Thralla i mówimy co wiemy, a ten daje nam wskazówkę gdzie znaleźć byłego szamana. Idziemy na cmentarzysko orków, na górnym piętrze znajdują się orkowe artefakty, należy wsadzić je na 3 piedestały co poskutkuje przyzwaniem Hush-Gora (boss nieumarły szaman).
-
-Zabijamy szamana i zabieramy z jego ciała wszystkie itemy w tym specjalny sztylet. Wracamy do Ur-Thralla i kończymy zadanie lub decydujemy się sami zabić Tag-Dumgara. Jeśli wybierzemy drugą opcję, idziemy do górskiej fortecy, a tam na parterze w jednym z pomieszczeń spotkamy ducha Tag-Dumgara. Zakładamy sztylet z cmentarzyska orków i zabijamy go, po czym wracamy do Ur-Thralla odebrać nagrodę. Sztylet oddajemy Xardasowi lub Kreolowi w 5 rozdziale.
-> Szamana w cmentarzysku mogliśmy pokonać wcześniej przez co będziemy mieli jego sztylet już przy sobie. Wtedy po przeczytaniu notatek od razu idziemy do Ur-Tralla
-
-## Ur-Shak
-
-Ur-Shak chce odzyskać swoją dawną pozycję wśród orków. Musimy zabić Hosh-Paka i rzucić niepamięć na Ur-Shaka. Ur-Thrall się zgodzi, ale dopiero po skończeniu Doliny Cieni i zabiciu Azgalora.
-
 # Wątek orków - Orkowa kopalnia
 
 Aby Ur-Thrall wpuścił nas do orkowej kopalni musimy spełnić kilka wymagań:
@@ -268,21 +250,37 @@ Wenzel prosi nas o przyniesienie 20 sztuk broni. Chodzi o zwykłe miecze, które
 
 Wenzel prosi nas o przyniesienie swojej zbroi i miecza. Znajdują się one w jaskini pod wodospadem obok kopalni z Grimesem.
 
-# Dolina Cieni
+# Wątek orków - Świątynia Śniącego
+
+## Duchy przeszłości
+
+Uwaga: Zadanie dostępne tylko jeśli wcześniej zrobiliśmy zadania dla Ur karrasa polowanie na Muritana, a także uzyskaliśmy dostęp do świątyni śniącego. Trzeba zagadać do wodza ponownie, po uzyskaniu dostępu do świątyni.
+
+Ur-Thrall opowie nam o poprzednim wodzu Tag-Dumgarze, który zlecił budowę Świątyni Śniącego.  
+Mamy znaleźć jego ślady w świątyni, a konkretnie dwie notatki:
+
+[![](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830544/28DF63DE7BB093669CCFBAB4131BCBBD61BC597A/)](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830544/28DF63DE7BB093669CCFBAB4131BCBBD61BC597A/)[![](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830573/1F070321108D3ABF565F96EB8E8BBED83570CF0A/)](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830573/1F070321108D3ABF565F96EB8E8BBED83570CF0A/)  
+
+Czytamy obydwie notatki i dowiadujemy się o niejakim Hush-Gorze. Idziemy teraz do Starej Wieży Xardasa, gdzie na górze na stole powinna leżeć stara książka, czytamy ją. Idziemy do Ur-Thralla i mówimy co wiemy, a ten daje nam wskazówkę gdzie znaleźć byłego szamana. Idziemy na cmentarzysko orków, na górnym piętrze znajdują się orkowe artefakty, należy wsadzić je na 3 piedestały co poskutkuje przyzwaniem Hush-Gora (boss nieumarły szaman).
+
+Zabijamy szamana i zabieramy z jego ciała wszystkie itemy w tym specjalny sztylet. Wracamy do Ur-Thralla i kończymy zadanie lub decydujemy się sami zabić Tag-Dumgara. Jeśli wybierzemy drugą opcję, idziemy do górskiej fortecy, a tam na parterze w jednym z pomieszczeń spotkamy ducha Tag-Dumgara. Zakładamy sztylet z cmentarzyska orków i zabijamy go, po czym wracamy do Ur-Thralla odebrać nagrodę. Sztylet oddajemy Xardasowi lub Kreolowi w 5 rozdziale.
+> Szamana w cmentarzysku mogliśmy pokonać wcześniej przez co będziemy mieli jego sztylet już przy sobie. Wtedy po przeczytaniu notatek od razu idziemy do Ur-Tralla
+
+# Wątek orków - Dolina Cieni
+
+Jeżeli pokonaliśmy zło w świątyni śniącego to Ur-Thrall zaproponuje nam udanie się do Doliny Cieni, gdzie polować będziemy na smoka Azgalora.
+Do Doliny Cieni trafimy idąc w tą odnogę w mieście orków:  
+[![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935475520/D6AC7FC00B81F560F07A0FE3A75DC5B00CD9C747/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935475520/D6AC7FC00B81F560F07A0FE3A75DC5B00CD9C747/)  
 
 ## Zemsta Ur-Thralla
 
-Uwaga: Będę porównywał lokacje z Doliny Cieni do tych z Khorinis, gdyż cała Dolina Cieni to wycięta północna część Khorinis)
-
+Uwaga: Będę porównywał lokacje z Doliny Cieni do tych z Khorinis, gdyż cała Dolina Cieni to wycięta północna część Khorinis
 > Jeśli zawiesicie się gdzieś w trakcie robienia wątku, należy wrócić się do wcześniej odwiedzonych miejsc i upewnić się, czy przejrzeliśmy wszystkie skrzynie, a także czy przeczytaliśmy wszystkie książki i pulpity
 
-Po ukończeniu Świątyni Śniącego Ur-Thrall wysyła nas do Doliny Cieni, abyśmy rozprawili się z  
-Azgalorem. Do Doliny Cieni trafimy idąc w tą odnogę w mieście orków:  
-[![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935475520/D6AC7FC00B81F560F07A0FE3A75DC5B00CD9C747/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935475520/D6AC7FC00B81F560F07A0FE3A75DC5B00CD9C747/)  
-Będąc w Dolinie Cieni gadamy z ludźmi w jaskini obok piramid.  
-Teraz udajemy się do obozu z duchami orków i gadamy tam z szamanem Ur-Khanem.  
+Będąc w Dolinie Cieni gadamy z ludźmi w jaskini obok piramid, następnie udajemy się do obozu z duchami orków i gadamy tam z szamanem Ur-Khanem.  
 Znajduje się on w tym oto miejscu:  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935447460/7CCDF6A2585C947B0F645C146816EE2CA8B18016/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935447460/7CCDF6A2585C947B0F645C146816EE2CA8B18016/)  
+
 Musimy zdobyć księgę z krypty, w której w podstawce jest Smocza Zguba. Zabijamy tamtejszego kapłana i zbieramy fanty z jaskini, a także czytamy książkę.
 
 Teraz musimy zdobyć księgę w krypcie pana cieni Dakkata, czyli tam gdzie jaskinia Próby Ognia. Należy też wyczyścić lewą odnogę tej jaskini, bo w niej również jest ważna skrzynia.  
@@ -300,5 +298,9 @@ Teraz idziemy do Słonecznego Kręgu i modlimy się przy posągu Beliara. Pojawi
 ## Ludzie w dolinie
 
 Po zabiciu smoka Azgalora klątwa zniknie. Idziemy do Evlaiasa i mówimy mu o tym, wysyła nas z ofertą pokoju do orków. Ur-Grom przystanie na propozycje, jeśli zrobiliśmy zadanie z Azgalorem.
+
+## Ur-Shak
+
+Ur-Shak chce odzyskać swoją dawną pozycję wśród orków. Musimy zabić Hosh-Paka i rzucić niepamięć na Ur-Shaka. Ur-Thrall się zgodzi, ale dopiero po skończeniu Doliny Cieni i zabiciu Azgalora.
 
 Na tym kończy się wątek orków.
