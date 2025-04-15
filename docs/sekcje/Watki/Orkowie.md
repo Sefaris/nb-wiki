@@ -277,8 +277,7 @@ Do Doliny Cieni trafimy idąc w tą odnogę w mieście orków:
 Uwaga: Będę porównywał lokacje z Doliny Cieni do tych z Khorinis, gdyż cała Dolina Cieni to wycięta północna część Khorinis
 > Jeśli zawiesicie się gdzieś w trakcie robienia wątku, należy wrócić się do wcześniej odwiedzonych miejsc i upewnić się, czy przejrzeliśmy wszystkie skrzynie, a także czy przeczytaliśmy wszystkie książki i pulpity
 
-Będąc w Dolinie Cieni gadamy z ludźmi w jaskini obok piramid, następnie udajemy się do obozu z duchami orków i gadamy tam z szamanem Ur-Khanem.  
-Znajduje się on w tym oto miejscu:  
+Będąc w Dolinie Cieni gadamy z ludźmi w jaskini obok piramid, następnie udajemy się do obozu z duchami orków i gadamy tam z szamanem Ur-Khanem. Znajduje się on w tym oto miejscu:  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935447460/7CCDF6A2585C947B0F645C146816EE2CA8B18016/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935447460/7CCDF6A2585C947B0F645C146816EE2CA8B18016/)  
 
 Musimy zdobyć księgę z krypty, w której w podstawce jest Smocza Zguba. Zabijamy tamtejszego kapłana i zbieramy fanty z jaskini, a także czytamy książkę.
