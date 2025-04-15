@@ -280,26 +280,28 @@ Uwaga: Będę porównywał lokacje z Doliny Cieni do tych z Khorinis, gdyż cał
 Będąc w Dolinie Cieni gadamy z ludźmi w jaskini obok piramid, następnie udajemy się do obozu z duchami orków i gadamy tam z szamanem Ur-Khanem. Znajduje się on w tym oto miejscu:  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935447460/7CCDF6A2585C947B0F645C146816EE2CA8B18016/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935447460/7CCDF6A2585C947B0F645C146816EE2CA8B18016/)  
 
-Musimy zdobyć księgę z krypty, w której w podstawce jest Smocza Zguba. Zabijamy tamtejszego kapłana i zbieramy fanty z jaskini, a także czytamy książkę.
+Musimy odwiedzić 2 jaskinie:
 
-Teraz musimy zdobyć księgę w krypcie pana cieni Dakkata, czyli tam gdzie jaskinia Próby Ognia. Należy też wyczyścić lewą odnogę tej jaskini, bo w niej również jest ważna skrzynia.  
+1. jaskinia "ze Smoczą Zgubą". Zabijamy tamtejszego kapłana i zbieramy fanty z jaskini, a także czytamy księgę.
+2. krypta pana cieni Dakkata, czyli tam gdzie jaskinia Próby Ognia. Należy też wyczyścić lewą odnogę tej jaskini, bo w niej również jest ważna skrzynia.  
+
 Zabieramy księgę, a także Oko Gniewu. Wracamy do Ur-Khana i musimy teraz zdobyć 3 składniki:
 
 - siarka  
-- krew demona (Powinniśmy byli ją znaleźć przy okazji eksploracji krypty z Smoczą Zgubą)  
+- krew demona (w jaskini "ze Smoczą Zgubą")  
 - krew orka (Jest w skrzyni obok Ur-Groma. Ur-Khan da nam do niej klucz, jeśli przyniesiemy mu jego zaginiony amulet. Sam Ur-Grom znajduje się w tym namiocie)  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935463904/A4F9C05CAB30CEE8B02C3C1B414951770E059E57/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935463904/A4F9C05CAB30CEE8B02C3C1B414951770E059E57/)
 
-Teraz gadamy z Ur-Gromem. Musimy zdobyć legendarną kuszę z Miasta Umarłych, które znajduje się pod "Słonecznym Kręgiem". Aby przechodzić do kolejnych pomieszczeń musimy klikać przyciski na grobowcach/ścianach. Jak mamy już kuszę, to gadamy z Elvaisem i ładujemy Oko Gniewu przy stole alchemicznym.
+Gadamy również z samym Ur-Gromem, który jest bratem Ur-Thralla. Opowiada on o legendarnej broni zdolnej pokonać Azgalora, jest to kusza z Miasta Umarłych, które znajduje się w jaskini pod "Słonecznym Kręgiem" tam gdzie szliśmy z Laresem po ornament. W Mieście Umarłych musimy klikać przyciski na grobowcach/ścianach by przechodzić do kolejnych pomieszczeń. Mając już kuszę gadamy z Elvaisem i ładujemy Oko Gniewu przy stole alchemicznym.
+> kusza nie jest potrzebna do walki z Azgalorem, możemy oddać ją myśliwemu Raffowi w Khorinis
 
-Teraz idziemy do Słonecznego Kręgu i modlimy się przy posągu Beliara. Pojawia się Azgalor, którego zabijamy, po czym, gadamy z Ur-Gromem, a potem z Ur-Thrallem.
+Teraz idziemy do Słonecznego Kręgu i modlimy się przy posągu Beliara. Na górze pojawia się Azgalor, którego zabijamy, po czym gadamy z Ur-Gromem, a potem z Ur-Thrallem.
 
 ## Ludzie w dolinie
 
 Po zabiciu smoka Azgalora klątwa zniknie. Idziemy do Evlaiasa i mówimy mu o tym, wysyła nas z ofertą pokoju do orków. Ur-Grom przystanie na propozycje, jeśli zrobiliśmy zadanie z Azgalorem.
+> Ur-Grom może dalej stać niedaleko Azgalora
 
 ## Ur-Shak
 
 Ur-Shak chce odzyskać swoją dawną pozycję wśród orków. Musimy zabić Hosh-Paka i rzucić niepamięć na Ur-Shaka. Ur-Thrall się zgodzi, ale dopiero po skończeniu Doliny Cieni i zabiciu Azgalora.
-
-Na tym kończy się wątek orków.
