@@ -209,7 +209,8 @@ Kardif mówi nam, że Moe odstrasza klientów i prosi nas, abyśmy coś zrobili 
 ## Dłużnik Lehmara
 __Zleca: Lehmar__
 
-Lehmar każe nam zabić typa który pożyczył pieniądze i się więcej nie pojawił. Chodzi o typa w magazynie w porcie.
+Lehmar każe nam zabić typa który pożyczył pieniądze i się więcej nie pojawił. Chodzi o Millsa w magazynie w porcie.
+> Jeżeli masz problem to zadanie można zostawić na później i uzyskać dostęp do rzemieślników bez niego
 
 ## Figurka dla Eddy
 __Zleca: Edda__
