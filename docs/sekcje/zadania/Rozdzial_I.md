@@ -622,7 +622,7 @@ Oddajemy pancerz Jessemu, a on w podzięce oferuje nam pierścień ochrony (dobr
 ## Pierwsza mikstura
 __Zleca: Constantino__
 
-Zadanie otrzymamy gdy tylko gdy potrafimy już stworzyć jakąkolwiek miksturę. Pytamy Constantina o naukę alchemii, a ten daje nam recepturę, według której przygotowujemy miksturę. Nie udaje się nam, więc idziemy do Salandrila, który mówi, że ta receptura to bzdura. Wracamy do Constantino, który chwali nas za spostrzegawczość i od tej pory naucza nas alchemii.
+Zadanie otrzymamy gdy tylko gdy potrafimy już stworzyć jakąkolwiek miksturę lub jesteśmy czeladnikiem u Constantina. Pytamy go o naukę alchemii, a ten daje nam recepturę na miksturę by sprawdzić czy się nadajemy. Próbujemy ją stworzyć i nie udaje się nam, więc idziemy do Salandrila, który mówi, że ta receptura to bzdura. Wracamy do Constantino, który chwali nas za spostrzegawczość i zgadza się nas uczyć.
 
 ## Piracki handel
 __Zleca: Skip__
