@@ -46,6 +46,10 @@ Gor na Kosh zleca nam przyniesienie legendarnego artefaktu znanego jako Młot Ta
 
 ## Po wykonaniu powyższych zadań możemy przyłączyć się albo do strażników świątynnych, albo do Guru.
 
+## Alternatywny składnik
+
+Po wykonaniu zadania "Magiczny Eliksir" Ball Tyon zleci nam przyniesienie mu 5 żuwaczek polnej bestii celem sprawdzenia czy nadają się do czegoś tak jak żuwaczki pełzaczy. Przynosimy i kończymy zadanie.
+
 ## Zapasy stali
 
 Viran prosi nas o przyniesienie stalowych prętów. Należy odłożyć do jakiejś skrzyni pręty, tak aby zostało ich nam 15. Wtedy otrzymamy nagrodę, a Viran nie zabierze wszystkich prętów z EQ, jak ma to w zwyczaju robić.
