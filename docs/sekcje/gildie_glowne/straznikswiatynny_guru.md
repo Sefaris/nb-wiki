@@ -22,7 +22,7 @@ Baal Parvez przebywa w mieście w dzielnicy kupców. Aby z nim porozmawiać, mus
 
 ## Dzienna racja dla Harloka
 
-Aby otrzymać zgodę Namiba, musimy porozmawiać z nowicjuszem Harlokiem. Mówimy mu o tym, że chcemy dołączyć do bractwa, po czym zgadza się nam pomóc w zamian za codzienną porcję ziela. Dostajemy ją od Talasa, który urzęduje nad kuźnią. Oddajemy mu porcję, po czym informuje nas o tym, abyśmy użyli na jednym z jego uczniów zaklęcia Sen. Zwój możemy kupić od Zurisa lub Ignaza. Używamy zaklęcia, po czym guru odezwie się do nas i powie, że zgodzi się gdy nasza mana wzrośnie do 60.
+Aby otrzymać zgodę Baala Namiba, musimy porozmawiać z nowicjuszem Harlokiem. Mówimy mu o tym, że chcemy dołączyć do bractwa, po czym zgadza się nam pomóc w zamian za codzienną porcję ziela. Dostajemy ją od Talasa, który urzęduje nad kuźnią. Oddajemy mu porcję, za co ten radzi byśmy użyli zaklęcia snu na jednym z uczniów Namiba. Harlok sprzeda nam zwój za astronomiczne 500 złota, zamiast tego możemy go kupić od Zurisa, Ignaza lub znaleźć. Używamy zaklęcia, po czym guru odezwie się do nas i powie, że zgodzi się gdy nasza mana wzrośnie do 60.
 
 ## Magiczny Eliksir
 
