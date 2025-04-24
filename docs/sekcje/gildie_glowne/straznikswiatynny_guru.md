@@ -33,7 +33,7 @@ Baal Tyona znajdziemy w namiocie nad kuźnią, zleca nam zdobycie przepisu, któ
 Teraz musimy przynieść mu składniki:  
 - Język ognistego jaszczura (samemu zabić jaszczura lub sprzedaje Lutero)  
 - Serce kamiennego golema (w skrzyni w lewej odnodze jaskini na wykopaliskach magów wody lub sprzedaje Zuris)  
-- Jajo pełzacza (w jaskini na wykopaliskach lub w lewej odnodze jaskini z Próby Ognia)
+- Jajo pełzacza (w jaskini na wykopaliskach lub w lewej odnodze jaskini z Próby Ognia lub sprzedaje Lutero)
 - Szczaw królewski
 
 Zanosimy składniki Tyonowi, stworzy on miksturę, a my możemy zgłosić się na królika doświadczalnego. Wypicie na stałe podniesie nam manę.
