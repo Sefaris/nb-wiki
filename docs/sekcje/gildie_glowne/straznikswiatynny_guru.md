@@ -28,15 +28,15 @@ Aby otrzymać zgodę Namiba, musimy porozmawiać z nowicjuszem Harlokiem. Mówim
 
 ### Jest to decydujące zadanie o zostaniu Guru
 
-Baal Tyona znajdziemy w namiocie nad kuźnią, zleca nam zdobycie przepisu który znajduje się w klasztorze. Receptura znajduje się w skrzyni w skarbcu.  
-Klucz do skarbca znajdziemy w skrzyni w prawym kącie prawego pokoju magów. Idziemy do skarbca, zabieramy recepturę ze skrzyni i oddajemy ją Tyonowi.
+Baal Tyona znajdziemy w namiocie nad kuźnią, zleca nam zdobycie przepisu, który według niego jest w posiadania alchemika w Khorinis. Idziemy do Constantino, a ten mówi, że receptura znajduje się klasztorze i prosi byśmy mu ją pokazali jeżeli uda się nam ją zdobyć. Gadamy z Neorasem w podziemiach klasztoru, a nastepnie musimy dostać się do skarbca. Klucz znajduje się w prawej skrzyni w sypialni magów obok Babo. Receptura znajdziemy w ostatniej skrzyni w skarbcu. Czytamy ją i odnosimy Constantino, a ten zamiast tylko popatrzeć to zabiera ją nam i daje w zamian szczaw królewski. Odkupujemy od niego recepturę za 1000 złota i odnosimy do Baala Tyona.
 
-Teraz musimy przynieść mu składniki takie jak:  
-Język ognistego jaszczura (Sprzedaje go Lutero)  
-Serce kamiennego golema (Znajduje się ono w skrzyni w lewej odnodze jaskini na wykopaliskach magów wody lub sprzedaje je Zuris)  
-Jaja pełzacza (Znajduje się ono w lewej odnodze jaskini z Próby Ognia)  
-Szczawiu królewskiego (Powinniśmy już jakiś mieć, jak nie, to wystarczy się rozejrzeć po mapie)  
-Zanosimy składniki Tyonowi, a on tworzy dla nas miksturę, która na stałe podnosi manę.
+Teraz musimy przynieść mu składniki:  
+- Język ognistego jaszczura (samemu zabić jaszczura lub sprzedaje Lutero)  
+- Serce kamiennego golema (w skrzyni w lewej odnodze jaskini na wykopaliskach magów wody lub sprzedaje Zuris)  
+- Jajo pełzacza (w jaskini na wykopaliskach lub w lewej odnodze jaskini z Próby Ognia)
+- Szczaw królewski
+
+Zanosimy składniki Tyonowi, stworzy on miksturę, a my możemy zgłosić się na królika doświadczalnego. Wypicie na stałe podniesie nam manę.
 
 ## Młot Tarakota
 
