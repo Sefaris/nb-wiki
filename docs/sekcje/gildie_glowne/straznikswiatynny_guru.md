@@ -36,7 +36,7 @@ Teraz musimy przynieść mu składniki:
 - Jajo pełzacza (w jaskini na wykopaliskach lub w lewej odnodze jaskini z Próby Ognia lub sprzedaje Lutero)
 - Szczaw królewski
 
-Zanosimy składniki Tyonowi, stworzy on miksturę, a my możemy zgłosić się na królika doświadczalnego. Wypicie na stałe podniesie nam manę.
+Zanosimy składniki Tyonowi, stworzy on miksturę, a my możemy zgłosić się na królika doświadczalnego. Wypicie na stałe podniesie nam manę o 10.
 
 ## Młot Tarakota
 
