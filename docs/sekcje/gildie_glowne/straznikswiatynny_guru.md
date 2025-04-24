@@ -52,7 +52,7 @@ Viran prosi nas o przyniesienie stalowych prętów. Należy odłożyć do jakiej
 
 ## Jaszczury Hanisa
 
-Po zabraniu ziela dla Cadara, jeśli mamy 100 siły Hanis mówi nam, że na płaskowyżu nad farmą Akila(Tam, gdzie się pojawia 3 opiekun) znajdują się jaszczury, zabijamy je i wracamy do Hanisa. (Jeśli mamy 150 siły wtedy Hanis da nam eliksir siły)
+Po zabraniu ziela dla Cadara, Hanis mówi nam, że na płaskowyżu nad farmą Akila znajdują się jaszczury, zabijamy je i wracamy do Hanisa. (Jeśli mamy 150 siły wtedy Hanis da nam eliksir siły)
 
 ## Poszukiwania Cor Angara (2 rozdział)
 
