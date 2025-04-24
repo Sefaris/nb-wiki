@@ -119,7 +119,7 @@ Musimy pokonać co najmniej 3 przydupasów Sylvia w walce:
 - Sentenza
 - Sylvio
 
-Gdy już pogadamy z Jarvisem o pobiciach to za każdego dostajemy +500 exp, ponadto za pobicie Sylvio wpada achievement i kolejne 2000 exp.
+Za każdego dostaniemy +500 exp, ponadto za pobicie Sylvio wpada achievement i kolejne 2000 exp.
 Daje nam to łącznie 5000 expa za rozmowę z Jarvisem po pobiciu wszystkich sześciu + exp i ekwipunek, które wpadają za samo wygranie walk.
 
 ## Złoto dla zielarza
