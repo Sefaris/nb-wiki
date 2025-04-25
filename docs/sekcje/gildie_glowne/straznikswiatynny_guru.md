@@ -28,7 +28,7 @@ Aby otrzymać zgodę Baala Namiba, musimy porozmawiać z nowicjuszem Harlokiem. 
 
 ## Magiczny Eliksir
 
-#### Ukończenie tego zadania jest wymagane do zostania Guru, lecz warto robić je również gdy mamy zamiar wybrać drogę strażnika
+#### Ukończenie tego zadania jest wymagane do zostania Guru, lecz warto robić je również gdy mamy zamiar wybrać drogę Strażnika
 
 Baal Tyona znajdziemy w namiocie nad kuźnią, zleca nam zdobycie przepisu, który według niego jest w posiadania alchemika w Khorinis. Idziemy do Constantino, a ten mówi, że receptura znajduje się klasztorze i prosi byśmy mu ją pokazali jeżeli uda się nam ją zdobyć. Gadamy z Neorasem w podziemiach klasztoru, a nastepnie musimy dostać się do skarbca. Klucz znajduje się w prawej skrzyni w sypialni magów obok Babo. Receptura znajdziemy w ostatniej skrzyni w skarbcu. Czytamy ją i odnosimy Constantino, a ten zamiast tylko popatrzeć to zabiera ją nam i daje w zamian szczaw królewski. Odkupujemy od niego recepturę za 1000 złota i odnosimy do Baala Tyona.
 
@@ -42,7 +42,7 @@ Zanosimy składniki Tyonowi, stworzy on miksturę, a my możemy zgłosić się n
 
 ## Młot Tarakota
 
-#### Ukończenie tego zadania jest wymagane do zostania Strażnikiem Świątynnym, lecz warto robić je również gdy mamy zamiar wybrać drogę Guru
+#### Ukończenie tego zadania jest wymagane do zostania Strażnikiem, lecz warto robić je również gdy mamy zamiar wybrać drogę Guru
 
 Gor na Kosh zleca nam przyniesienie legendarnego artefaktu znanego jako Młot Tarakota. Znajdziemy go w dużej piramidzie na wykopaliskach, chronią go 2 szkielety, ale wystarczy pobiegać z nimi dookoła, wziąć młot i uciec.
 
