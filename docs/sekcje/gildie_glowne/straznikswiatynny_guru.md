@@ -10,6 +10,8 @@ Aby dołączyć do obozu Bractwa trzeba mieć opaskę nowicjusza (Daje Lester po
 
 Aby otrzymać to zadanie, musimy zagadać do Caina (znajduje się przed samym obozem), który da nam zebrane bagienne ziele, by je odnieść do Baal Cadara. Po oddaniu ziela Baal Cadar każe nam przynieść ziele od pozostałych obozów zbieraczy ziela:
 
+> by otrzymać ziele od zbieraczy musimy mieć założone jakikolwiek ubranie nowicjusza bractwa
+
 - pierwsza grupa zbieraczy znajduje się obok kamiennego kręgu na farmie Lobarta
 - druga grupa rezyduje na wzgórzu za farmą Akila. Możemy iść tam z płaskowyżu nad jego farmą w kierunku lasu lub od strony słonecznego kręgu po schodach w dół.
 - trzecia grupa jest niedaleko jeziora niedaleko Grimbalda i czarnego trolla.
@@ -26,7 +28,7 @@ Aby otrzymać zgodę Baala Namiba, musimy porozmawiać z nowicjuszem Harlokiem. 
 
 ## Magiczny Eliksir
 
-### Jest to decydujące zadanie o zostaniu Guru
+#### Ukończenie tego zadania jest wymagane do zostania Guru, lecz warto robić je również gdy mamy zamiar wybrać drogę strażnika
 
 Baal Tyona znajdziemy w namiocie nad kuźnią, zleca nam zdobycie przepisu, który według niego jest w posiadania alchemika w Khorinis. Idziemy do Constantino, a ten mówi, że receptura znajduje się klasztorze i prosi byśmy mu ją pokazali jeżeli uda się nam ją zdobyć. Gadamy z Neorasem w podziemiach klasztoru, a nastepnie musimy dostać się do skarbca. Klucz znajduje się w prawej skrzyni w sypialni magów obok Babo. Receptura znajdziemy w ostatniej skrzyni w skarbcu. Czytamy ją i odnosimy Constantino, a ten zamiast tylko popatrzeć to zabiera ją nam i daje w zamian szczaw królewski. Odkupujemy od niego recepturę za 1000 złota i odnosimy do Baala Tyona.
 
@@ -40,11 +42,11 @@ Zanosimy składniki Tyonowi, stworzy on miksturę, a my możemy zgłosić się n
 
 ## Młot Tarakota
 
-### Jest to decydujące zadanie na zostanie Strażnikiem Świątynnym
+#### Ukończenie tego zadania jest wymagane do zostania Strażnikiem Świątynnym, lecz warto robić je również gdy mamy zamiar wybrać drogę Guru
 
 Gor na Kosh zleca nam przyniesienie legendarnego artefaktu znanego jako Młot Tarakota. Znajdziemy go w dużej piramidzie na wykopaliskach, chronią go 2 szkielety, ale wystarczy pobiegać z nimi dookoła, wziąć młot i uciec.
 
-## Po wykonaniu powyższych zadań możemy przyłączyć się albo do strażników świątynnych, albo do Guru.
+### Poniższe zadania są pobocze i nie są wymagane do zostania Guru lub Strażnikiem.
 
 ## Alternatywny składnik
 
