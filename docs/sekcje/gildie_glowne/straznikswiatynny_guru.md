@@ -52,11 +52,11 @@ Po wykonaniu zadania "Magiczny Eliksir" Ball Tyon zleci nam przyniesienie mu 5 �
 
 ## Zapasy stali
 
-Viran prosi nas o przyniesienie stalowych prętów. Należy odłożyć do jakiejś skrzyni pręty, tak aby zostało ich nam 15. Wtedy otrzymamy nagrodę, a Viran nie zabierze wszystkich prętów z EQ, jak ma to w zwyczaju robić.
+Viran prosi nas o przyniesienie stalowych prętów. Dla najlepszej nagrody dajemy mu od razu 16 prętów, więcej i tak od nas nie weźmie.
 
 ## Jaszczury Hanisa
 
-Po zabraniu ziela dla Cadara, Hanis mówi nam, że na płaskowyżu nad farmą Akila znajdują się jaszczury, zabijamy je i wracamy do Hanisa. (Jeśli mamy 150 siły wtedy Hanis da nam eliksir siły)
+Po zabraniu ziela dla Cadara, Hanis mówi nam, że na płaskowyżu nad farmą Akila znajdują się jaszczury, zabijamy je i wracamy do Hanisa po nagrodę, do wyboru mamy: eliksir siły, 300 złota lub 50 roślin bagiennego ziela.
 
 ## Poszukiwania Cor Angara (2 rozdział)
 
