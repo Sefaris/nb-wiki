@@ -20,7 +20,7 @@ Po odwiedzeniu wszystkich 3 grup zanosimy ziele do Baal Cadara.
 
 ## Nowicjusz dla Baala Parveza
 
-Baal Parvez przebywa w mieście w dzielnicy kupców. Aby z nim porozmawiać, musimy dać mu ziele, które otrzymaliśmy od Oruna. Otrzymujemy od niego zadanie polegające na znalezieniu nowego ucznia. Okazuje się nim być Valentino. Bijemy Valentino na cmentarzu w godzinach 18-19, po czym mówimy o tym co się stało Regisowi. On da nam za to pierścień, który musimy oddać Coragonowi. Teraz musimy użyć na Valentino czaru Niepamięć, który możemy zdobyć u Ignaza, po czym przekonujemy go do dołączenia do bractwa i prowadzimy do Parveza. Po odprowadzeniu rozmawiamy z Parvezem jeszcze raz, aby uzyskać jego zgodę.
+Baal Parvez przebywa w mieście w dzielnicy kupców. Aby z nim porozmawiać, musimy dać mu ziele, które otrzymaliśmy od Oruna. Otrzymujemy od niego zadanie polegające na znalezieniu nowego ucznia. Bijemy Valentino na cmentarzu w godzinach 18-19, po czym mówimy o tym co się stało Regisowi. On da nam za to pierścień, który musimy oddać Coragonowi. Teraz gadamy z Valentino, przekonujemy go do dołączenia do bractwa i prowadzimy do Parveza. Po odprowadzeniu rozmawiamy z Parvezem jeszcze raz, aby uzyskać jego zgodę.
 
 ## Dzienna racja dla Harloka
 
