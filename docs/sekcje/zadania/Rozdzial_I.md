@@ -421,7 +421,7 @@ Jack mówi nam, że bandyci zajęli jego latarnię. Idziemy do latarni, zabijamy
 __Zleca: Jack__
 
 Zadanie to otrzymamy od Jacka po oswobodzeniu jego latarni. Musimy zagadać z nim gdy stoi na szczycie latarni. Idziemy do Grega i zagadujemy go, gdy pali fajkę, którą z chęcią nam da. Wracamy do Jacka po nagrodę.
-> To zadanie wymagane jest do popchnięcia zadania [Przeklęta Latarnia](#przeklęta-latarnia)
+> To zadanie wymagane jest do popchnięcia zadania [ta Latarnia](#ta-latarnia)
 
 ## Farmer w potrzebie
 __Zleca: Farmerzy na farmie Akila__
@@ -666,11 +666,11 @@ Zleca Ogrodnik po tym jak pokażemy mu złodziejski gest. Prosi nas o przyniesie
 ## Przeklęta latarnia
 __Zleca: Jack__
 
-> Na pozytywne zakończenie tego zadania wymagane jest 40 retoryki.  
-> Xardas nie zagada nas odnośnie zwoju, jeśli nie nacisnęliśmy znaku na ścianie  
+Jack opowiada nam o przeklętej latarni na morzu. Płyniemy tam i wspinamy się na samą górę. Wciskamy przycisk na ścianie i dostajemy wpis obok dziwnego szkieletu, schodzimy piętro niżej i znajdziemy pierścień z napisem zaczynającym się na "Ha". Zanim opuścisz latarnię upewnij się, że podniosłeś pierścień teleportacyjny leżący na parterze. Dla dodatkowego expa możemy pogadać z Haradem, Hakonem i Halvorem, jednak naszym celem jest właścicielka gospody Hanna, która opowiada nam tragiczną historię. Teraz idziemy do Xardasa, który daje nam zwój przyzwania ducha. Czytamy go na szczycie latarni, po czym schodzimy na dół i rozmawiamy z widmem, który żali się, że zdradziecko zamordował go pirat Kevlar. Wracamy do Xardasa, a ten mówi nam, że tylko spotkanie mordercy i widma twarzą w twarz może zdjąć klątwę z latarni. Poszukiwania pirata rozpoczynamy u Kardifa, który odeśle nas do Jacka, a ten stwierdzi, że nie zna żadnego Kevlara. Teraz mając w dzienniku przyjęte zadanie [Fajka Jacka](#fajka-jacka) idziemy do obozu piratów, dostajemy się do chaty Grega i gadamy z nim w momencie gdy ten pali fajkę. Dowiemy się od niego, że osoba, która poprosiła nas o fajkę to sam Kevlar. Wracamy do Jacka i mówimy mu, że trzeba załatwić sprawę z latarnią, ten się zgadza i musimy spotkać się z nim przy latarni o północy. Razem z Jackiem podchodzimy do ducha i teraz mamy 2 opcje:
+- rozkazać duchowi by nie zabijał Jacka i zapalić latarnię (Jack przeżyje i straci oko, wymaga 40 retoryki)
+- posłuchać ducha i zapalić latarnię (Jack zginie)
 
-Jack opowiada nam o przeklętej latarni na morzu. Płyniemy tam i wspinamy się na samą górę. Wciskamy znak na ścianie i dostajemy wpis obok dziwnego szkieletu. Schodzimy teraz piętro niżej, gdzie znajdziemy pierścień z imieniem zaczynającym się na Ha. Rozmawiamy z Haradem, Hakonem i Halvorem, za co dostaniemy dodatkowego expa. Udajemy się teraz do Hanny, która opowiada nam tragiczną historię. Teraz idziemy do Xardasa, który daje nam zwój przyzwania ducha. Czytamy go na szczycie latarni, po czym schodzimy na dół i rozmawiamy z widmem. Teraz musimy znaleźć pirata. W pierwszej kolejności idziemy do Kardifa, który odeśle nas do Jacka. W trakcie zadania [Fajka Jacka](#fajka-jacka) Greg zagada do nas, mówiąc kim jest Kelvar. Z tymi informacjami idziemy do niego i w nocy przypływamy do latarni i wykonujemy zalecenia ducha. Jeśli zapalimy latarnie mając 40 retoryki, Jack przeżyje i zadanie się zakończy.
-> Jack w podzięce da nam szpadę zdolną ranić duchy
+Jeżeli Jack przeżył to w podzięce da nam szpadę zdolną ranić duchy 
 
 ## Receptury win dla Goraxa
 __Zleca: Gorax__
