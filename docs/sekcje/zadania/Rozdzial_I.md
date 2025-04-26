@@ -827,12 +827,12 @@ Teraz należy udać się ścieżką w stronę latarni morskiej, na której spotk
 Następnie udajemy się do latarni morskiej w celu pokonania kolejnego rzezimieszka. Zdobywamy kolejną notatkę, a w niej klucz. Wracamy się teraz do jaskini, w której była pierwsza notatka.  
 Możemy otworzyć drzwi i przejść dalej. Spotykamy tam strażnika miejskiego, a rozmawiając z nim mamy 2 opcje:
 
-1. Przerwać śledztwo, otrzymać za to 1500 złota i eliksir życia.
-2. Kontynuować śledztwo, atakując strażnika. Otrzymujemy notatkę, czytamy i udajemy się do Wulfgara. Umawia nas na spotkanie w znanej nam już jaskini.  Rozmawiamy i idziemy za Valeranem.  
+1. Przerwać śledztwo, otrzymać za to 1000 złota i eliksir życia.
+2. Kontynuować śledztwo, atakując strażnika. Otrzymujemy notatkę, czytamy i udajemy się do Wulfgara. Umawia nas na spotkanie w znanej nam już jaskini. Rozmawiamy i idziemy za Valeranem.  
 Rozmawiamy z niewolnikami, a następnie mówimy Valeranowi o naszej decyzji:  
     - Dobra, jestem z wami. - Nie zabijamy bandytów, będziemy dostawać codziennie, przez 30 dni, 200 sztuk złota (lub równowartość w bryłkach złota) od Valerana w górnym mieście. -25 karmy u Innosa.  
     - Po prostu zabije was wszystkich - Bonus za odwagę - 3000 expa, 2000 złota i 500 expa od niewolników.  
-    - Puść niewolników - Musimy zabić wszystkich, ale dostajemy +35 karmy u Innosa, 1000 expa oraz 500 expa i 2000 złota za uwolnienie niewolników.
+    - Puść niewolników - Musimy zabić wszystkich, ale dostajemy +35 karmy u Innosa, 1000 expa oraz 500 expa i 1200 złota za uwolnienie niewolników.
 
 > Najkorzystniej wybrać jedną z opcji, w której Valeran przeżyje, czyli albo zrezygnować na początku, albo z nimi współpracować. Jest on najlepszym wyborem z zadania [Asystent](Sekcje/Gildie_Poboczne/Gildia_Kupcow.md?id=asystent-rozdział-3), gdyż daje nam wtedy książkę zwiększającą władanie broniami 1h i 2h o 1%, a następnie 1 many lub 2 HP za oddanie jej Galahadowi.
 
