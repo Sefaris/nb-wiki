@@ -155,7 +155,7 @@ Cronos prosi nas o przyniesienie 50 sztuk surowego mięsa, które powinniśmy ju
 
 ## Interesy z piratami
 
-Cronos nas prosi, abyśmy udali się do piratów i zawarli z nimi umowę. Idziemy do Grega, a ten zgodzi się, pod warunkiem, że zapłacimy mu 5 000 sztuk złota. Cenę można zmniejszyć o połowę, jeśli mamy 40 retoryki. Płacimy piratowi należność i wracamy do Cronosa.
+Cronos prosi nas, abyśmy udali się do piratów i zawarli z nimi umowę. Idziemy do Grega, a ten zgodzi się, pod warunkiem, że zapłacimy mu 5000 sztuk złota. Możemy oszukać Grega i zapłacić mu połowę, jeśli mamy 40 retoryki. Płacimy piratowi należność i wracamy do Cronosa.
 
 ## Eskorta Norta
 
