@@ -570,8 +570,10 @@ Vatras daje nam złoto, prosząc byśmy udali się do Salandrila i zakupili dla 
 ## Narzędzia Matteo
 __Zleca: Matteo__
 
-Matteo opowiada nam o skradzionej formie do biżuterii. Po zrobieniu zadania z naszyjnikiem dla Hanny otrzymamy od niej mieszek, w którym jest klucz do skrzyni na wyspie złodziei. Z formą wracamy do Matteo, który w nagrodę oferuje nam kilka rzeczy do wyboru.
-> Jedynie 2 opcje mają sens i są nimi mikstura Embarla Firgasto lub nauka wytwarzania potężnej biżuterii. Nauka da nam więcej
+Matteo opowiada nam o skradzionej formie do pierścieni. Po zrobieniu zadania z naszyjnikiem dla Hanny otrzymamy od niej mieszek, w którym jest klucz do skrzyni na wyspie złodziei. Z formą wracamy do Matteo, w nagrodę oferuje nam kilka rzeczy do wyboru:
+- nauka tworzenia własnej biżuterii (najlepsza opcja)
+- Embrala Firgasto (w zależności od naszego największego atrybutu: 10 siły lub 10 zręczności lub 20 many)
+- 5000 sztuk złota
 
 ## Nieziemskie sny
 __Zleca: Loa__
