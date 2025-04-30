@@ -389,12 +389,7 @@ Zadanie zleca Vatras. Mamy uwolnić porwanych ludzi z Khorinis. Niewolnicy znajd
 
 Zadanie zleca Saturas, polega ono na przejściu wszystkich pułapek w świątyni Adanosa i dostaniu się do Kruka.
 
-## W 4 rozdziale obóz bandytów zostaje napadnięty przez orków. Przeżywają tylko: Snaf Fisk Tom Scatty Thorus Miguel i Kinzharts. W 5 rozdziale część z nich przenosi się do Khorinis.
-
-## Złoto Scatty'ego (Rozdział 4)
-
-Scatty prosi nas o przyniesienie złota ze skrzyni, przy której zawsze stał. Idziemy do obozu, zabieramy 500 samorodków ze skrzyni i oddajemy Scatty'emu. W nagrodę dostajemy połowę złota.
-> Scatty atakuje nas w 5 rozdziale jeżeli w 4 rozdziale nie oddaliśmy mu jego połowy, a zadanie zostaje anulowane.
+### W 4 rozdziale obóz bandytów zostanie napadnięty przez orków. Przeżywają tylko: Snaf Fisk Tom Scatty Thorus Miguel i Kinzharts, możemy spokojnie zabić wszystkich pozostałych bandytów. W 5 rozdziale część z nich przenosi się do Khorinis.
 
 # Górnicza Dolina
 
