@@ -363,13 +363,13 @@ Strażnik drzwi do świątyni Adanosa nie chce nas wpuścić. Musimy udać się 
 
 Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysyła nas do Myxira. Dostajemy zaklęcie przywołania i udajemy się do grobowca Quahodrona, gdzie za pomocą zwoju przyzywamy go. Potrzebujemy do tego znajomości języka kapłanów lub wojowników. By duch nam zaufał musimy odpowiedzieć mu na kilka pytań: 
 
-1.Strażnicy Umarłych
-2.Kasta Wojowników 
-3.Kapłani 
-4.Kasta Wojowników  
-5.Uczeni 
-6.Uzdrowiciele 
-7.Nie wiem  
+1. Strażnicy Umarłych
+2. Kasta Wojowników 
+3. Kapłani 
+4. Kasta Wojowników  
+5. Uczeni 
+6. Uzdrowiciele 
+7. Nie wiem  
 
 Po podaniu odpowiedzi Quahodron da nam klucz do świątyni. Wracamy do Myxira i Saturasa.
 > Nie trzeba oddawać Saturasowi wszystkich 5 kolorowych tabliczek przed wejściem do świątyni, można tam iść od razu po rozmowie z Quahodronem.
