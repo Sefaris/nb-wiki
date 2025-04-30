@@ -8,7 +8,7 @@ Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy 
 
 Mamy odnaleźć zaginionego najemnika Arokha. Schodzimy tą samą drogą którą weszliśmy na górę i spotykamy go u podnóża. Arokh mówi nam, że mamy iść z nim do pobliskiej jaskini w celu pozbycia się uciekinierów. Idziemy tam i rozmawiamy ze skazańcem, wywiązuje się walka więc zabijamy ich. Wracamy do najemników, rozmawiamy z przywódcą i dostajemy Ulu-Mulu. Miasto orków znajduje się tam gdzie w G2 był bagienny smok.
 
-## W poniższym filmiku jest pokazane jak krok po kroku zdobyć Ulu-Mulu:
+### W poniższym filmiku pokazane jest jak krok po kroku zdobyć Ulu-Mulu:
 
 [--> LINK <--](https://youtu.be/CM_DkDBpQEM/)
 
