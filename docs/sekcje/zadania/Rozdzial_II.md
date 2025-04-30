@@ -357,15 +357,22 @@ Pytamy Thorusa o pancerz gwardzisty, dostaniemy go dopiero po walce z Krukiem.
 
 ## Dojście do świątyni
 
-Strażnik świątyni nie chce nas wpuścić. W tym celu musimy udać się do kopalni i zabić pełzacze, a następnie porozmawiać z Garazem. Pojawi się Bloodwyn, którego zabijamy i pokazujemy głowę strażnikowi, co odblokuje nam wejście do świątyni.
+Strażnik drzwi do świątyni Adanosa nie chce nas wpuścić. Musimy udać się do kopalni i zabić pełzacze co sprawi, że pojawi się Bloodwyn, którego zabijamy i pokazujemy głowę strażnikowi.
 
 ## Moc strażnika umarłych
 
-**Uwaga: Po pójściu do Quahodrona należy wrócić do Myxira i Saturasa, bo jeśli pójdziemy prosto do Kruka, to zadanie zawiśnie w dzienniku.**  
-Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysyła nas do Myxira. Dostajemy zaklęcie i udajemy się do Grobowca Quahodrona, gdzie za pomocą zaklęcia przyzywamy Quahodrona. Potrzebujemy do tego znajomości języka kapłanów lub wojowników. Zanim duch nam zaufa musimy odpowiedzieć na kilka pytań, odpowiadamy w tej kolejności: 1.Strażnicy Umarłych 2.Kasta Wojowników 3.Kapłani 4.Kasta Wojowników  
-5.Uczeni 6.Uzdrowiciele 7.Nie wiem  
-Po podaniu odpowiedzi Quahodron da nam klucz do świątyni.
-> Nie trzeba oddawać Saturasowi wszystkich 5 kolorowych tabliczek przed wejściem do świątyni.
+Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysyła nas do Myxira. Dostajemy zaklęcie przywołania i udajemy się do grobowca Quahodrona, gdzie za pomocą zwoju przyzywamy go. Potrzebujemy do tego znajomości języka kapłanów lub wojowników. By duch nam zaufał musimy odpowiedzieć mu na kilka pytań: 
+
+1.Strażnicy Umarłych
+2.Kasta Wojowników 
+3.Kapłani 
+4.Kasta Wojowników  
+5.Uczeni 
+6.Uzdrowiciele 
+7.Nie wiem  
+
+Po podaniu odpowiedzi Quahodron da nam klucz do świątyni. Wracamy do Myxira i Saturasa.
+> Nie trzeba oddawać Saturasowi wszystkich 5 kolorowych tabliczek przed wejściem do świątyni, można tam iść od razu po rozmowie z Quahodronem.
 
 ## Kruk
 
