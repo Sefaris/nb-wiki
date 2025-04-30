@@ -2,7 +2,7 @@
 
 Wątek orków można spokojnie rozpocząć już w 2 rozdziale by jak najwcześniej uzyskać dostęp do specjalnych nagród i expa.
 
-Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy już się tam udamy i będziemy na schodach niedaleko wejścia to dostaniemy wpis w dzienniku, że droga jest zablokowana. Udajemy się z tym do Xardasa, a ten odsyła nas do orków. Rozmawiamy z Ur-Shakiem, który stoi na klifie pomiędzy starą wieżą Xardasa, a obozem paladynów. Ork powie nam, że musimy dostać się do miasta orków, do czego potrzebować będziemy Ulu-Mulu. W tym celu wyśle nas do najemników orków, którzy znajdują się w ruinach gdzie w G1 uratowliśmy Ur-Shaka, a w G2 był ognisty smok. Przywódca najemników zleca nam zadanie [Granice Honoru](granice-honoru)
+Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy już się tam udamy i będziemy na schodach niedaleko wejścia to dostaniemy wpis w dzienniku, że droga jest zablokowana. Udajemy się z tym do Xardasa, a ten odsyła nas do orków. Rozmawiamy z Ur-Shakiem, który stoi na klifie pomiędzy starą wieżą Xardasa, a obozem paladynów. Ork powie nam, że musimy dostać się do miasta orków, do czego potrzebować będziemy Ulu-Mulu. W tym celu wyśle nas do najemników orków, którzy znajdują się w ruinach gdzie w G1 uratowliśmy Ur-Shaka, a w G2 był ognisty smok. Przywódca najemników zleca nam zadanie [Granice Honoru](#granice-honoru)
 
 ## Granice Honoru
 
