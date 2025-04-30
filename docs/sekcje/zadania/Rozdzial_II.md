@@ -298,7 +298,9 @@ Po tym jak oddamy Samuelowi recepturę na Młot Lou to Barthomolew zleca nam, ab
 W chacie Grega znajdujemy notatkę mówiącą o łupie ukrytym we wschodnim lesie Khorinis.  
 Za chatą Grega na beczce znajdziemy klucz do kryjówki ze skarbem.  
 Sam skarb znajdziemy podążając za filmikiem lub uważnie czytając notatkę.  
-[https://youtu.be/XJ9wYFRZZOc](https://youtu.be/XJ9wYFRZZOc)# Bandyci
+[https://youtu.be/XJ9wYFRZZOc](https://youtu.be/XJ9wYFRZZOc)
+
+# Bandyci
 
 ## Dostać się do obozu bandytów
 
