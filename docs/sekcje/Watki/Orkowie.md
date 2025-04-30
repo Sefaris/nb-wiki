@@ -2,7 +2,11 @@
 
 Wątek orków można spokojnie rozpocząć już w 2 rozdziale by jak najwcześniej uzyskać dostęp do specjalnych nagród i expa.
 
-Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy już się tam udamy i będziemy na schodach niedaleko wejścia to dostaniemy wpis w dzienniku, że droga jest zablokowana. Udajemy się z tym do Xardasa, a ten odsyła nas do orków. Rozmawiamy z Ur-Shakiem, który stoi na klifie pomiędzy starą wieżą Xardasa, a obozem paladynów. Ork powie nam, że musimy dostać się do miasta orków, do czego potrzebować będziemy Ulu-Mulu. W tym celu wyśle nas do najemników orków, którzy znajdują się w ruinach gdzie w G1 uratowliśmy Ur-Shaka, a w G2 był ognisty smok. Po rozmowie z przywódcą najemników schodzimy tą samą drogą którą weszliśmy na górę i spotykamy Arokha. Idziemy z nim i zabijamy grupkę skazańców. Wracamy do ruin, rozmawiamy z przywódcą i dostajemy Ulu-Mulu. Miasto orków znajduje się tam gdzie w G2 był bagienny smok.
+Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy już się tam udamy i będziemy na schodach niedaleko wejścia to dostaniemy wpis w dzienniku, że droga jest zablokowana. Udajemy się z tym do Xardasa, a ten odsyła nas do orków. Rozmawiamy z Ur-Shakiem, który stoi na klifie pomiędzy starą wieżą Xardasa, a obozem paladynów. Ork powie nam, że musimy dostać się do miasta orków, do czego potrzebować będziemy Ulu-Mulu. W tym celu wyśle nas do najemników orków, którzy znajdują się w ruinach gdzie w G1 uratowliśmy Ur-Shaka, a w G2 był ognisty smok. Przywódca najemników zleca nam zadanie [Granice Honoru](granice-honoru)
+
+## Granice Honoru
+
+Mamy odnaleźć zaginionego najemnika Arokha. Schodzimy tą samą drogą którą weszliśmy na górę i spotykamy go u podnóża. Arokh mówi nam, że mamy iść z nim do pobliskiej jaskini w celu pozbycia się uciekinierów. Idziemy tam i rozmawiamy ze skazańcem, wywiązuje się walka więc zabijamy ich. Wracamy do najemników, rozmawiamy z przywódcą i dostajemy Ulu-Mulu. Miasto orków znajduje się tam gdzie w G2 był bagienny smok.
 
 ## W poniższym filmiku jest pokazane jak krok po kroku zdobyć Ulu-Mulu:
 
