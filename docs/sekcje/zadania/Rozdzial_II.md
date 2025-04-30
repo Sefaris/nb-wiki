@@ -169,17 +169,15 @@ Po dotarciu na pustynię Adanosa wracamy do Jarkendaru i gadamy z Saturasem, a p
 
 Uwaga: Zadanie dostępne po wykonaniu zadania "Zapiski Saturasa"
 
-Saturas mówi nam, że interesował się kiedyś magią Guru, ale badania zostały porzucone po upadku Bariery. Mówi on nam także, że wysłał do obozu Bractwa jednego z magów wody. Norolas znajduje się w małym obozie za palisadą w GD obok Draxa i Ratforda.  
-Norolas mówi nam że na bagnach roi się od nieumarłych i prosi nas o udanie się po księgę Y'beriona . Mamy dwie opcje:
+Saturas mówi nam, że interesował się kiedyś magią Guru, ale badania zostały porzucone po upadku Bariery. Mówi on nam także, że wysłał do obozu Bractwa jednego z magów wody. Norolas znajduje się przy ognisku za palisadą w GD obok Draxa i Ratforda. Prosi nas o udanie się po księgę Y'Beriona na bagna jednak roi się tam od nieumarłych. Mamy dwie opcje:
 
 - Wybić wszystkich nieumarłych z demonem na czele (którego będziemy mogli przyzwać dopiero w zadaniu "Mroczne Rytuały"), zabrać księgę Y'beriona i wrócić do Norolasa.
-- Tworzymy specjalny eliksir który pozwoli nam się poruszać wśród nieumarłych.
-W tym celu musimy przynieść Norolasowi przepis i składniki do niego.  
-Przepis znajduje się w Kamiennej Fortecy w zamkniętej skrzyni na piętrze. Klucz do tej skrzyni jest w innej skrzyni w sekretnej komnacie pilnowanej przez bossa Demona. Jak już zdobędziemy klucz otwieramy skrzynię z przepisem.  
-Mamy już przepis, więc pozostało rozejrzeć się za składnikami. Wszystko poza czarną koniczyną i prochami nekromanty pewnie już mamy. Czarna koniczyna i prochy nekromanty znajdują się w Jaskini Bólu za mostem obok starej wieży Xardasa (Dostaniemy się tam w trakcie zadania "Antyki")  
-Wracamy do Norolasa ze składnikami, on tworzy dla nas miksturę, wypijamy ją i idziemy prosto do świątyni obozu Bractwa. Po wszystkim wracamy do Norolasa.
+- Tworzymy specjalny eliksir który pozwoli nam się poruszać wśród nieumarłych, eliksir podniesie nam również statystyki więc warto go zdobyć.
 
-Na koniec, gdy przyniesiemy księgę Nerolasowi, on każe nam ją zanieść Saturasowi.
+Jeżeli chcemy stworzyć eliksir, musimy przynieść Norolasowi przepis i składniki do niego.  
+Przepis znajduje się w Kamiennej Fortecy gdzie szliśmy z Lesterem w G1 w zamkniętej skrzyni na piętrze. Klucz do tej skrzyni jest w innej skrzyni w sekretnej komnacie pilnowanej przez bossa Demona na parterze, przejście otwieramy pochodnią. Jak już zdobędziemy klucz otwieramy skrzynię z przepisem.
+Co do składników to wszystko poza czarną koniczyną i prochami nekromanty pewnie już mamy, a te znajdują się w Jaskini Bólu za mostem obok starej wieży Xardasa (Dostaniemy się tam w trakcie zadania "Antyki" od gildii kupców.)  
+Wracamy do Norolasa, stworzy on dla nas miksturę, wypijamy ją i idziemy prosto do świątyni obozu Bractwa. Tam i tak będziemy musieli stoczyć trudne walki co czyni ochronę przed nieumarłymi kompletnie bezwartościową. Z księgą wracamy do Norolasa, a ten każe odnieść ją Saturasowi i sam udaje się do obozu Netbeka.
 > Mikstura nie jest dostępna w trybie utrudniony nightmare
 
 ## Sekret magii Guru
