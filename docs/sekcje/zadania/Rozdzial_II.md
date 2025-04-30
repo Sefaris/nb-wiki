@@ -167,7 +167,7 @@ Po dotarciu na pustynię Adanosa wracamy do Jarkendaru i gadamy z Saturasem, a p
 
 ## Magia Guru
 
-Uwaga: Zadanie dostępne po wykonaniu zadania "Zapiski Saturasa"
+Uwaga: Zadanie dostępne po wykonaniu zadania [Zapiski Saturasa](#zapiski-saturasa).
 
 Saturas mówi nam, że interesował się kiedyś magią Guru, ale badania zostały porzucone po upadku Bariery. Mówi on nam także, że wysłał do obozu Bractwa jednego z magów wody. Norolas znajduje się przy ognisku za palisadą w GD obok Draxa i Ratforda. Prosi nas o udanie się po księgę Y'Beriona na bagna jednak roi się tam od nieumarłych. Mamy dwie opcje:
 
