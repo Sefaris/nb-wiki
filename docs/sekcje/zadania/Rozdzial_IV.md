@@ -41,11 +41,18 @@ Po zebraniu wszystkich składników wytwarzamy różdżkę na kowadle i cieszymy
 
 Mamy udać się do Jarkendaru i dowiedzieć się co się dzieje u magów wody. Kiedy już całkowicie wykonamy zadania Saturasa związane z inwazją orków wracamy do Vatrasa.
 
+# Jarkendar
+
 ## Orkowie w dolinie
 
 Saturas mówi nam że orkowie zalali dolinę budowniczych.  
 Musimy zabić 5 orkowych szamanów, którzy są w miejscach świątyń, z których zbieraliśmy tablice w 2 rozdziale. Ostatnim przywódcą jest Ur-Catan, który znajduje się na arenie walki z Krukiem. Dostaniemy się tam za pomocą pieścienia, który zostawił po sobie Kruk po pierwszej walce (Możemy również normalnie tam iść).
 Po wszystkim wracamy do Saturasa.
+
+## Złoto Scatty'ego
+
+Scatty prosi nas o przyniesienie złota ze skrzyni, przy której zawsze stał. Idziemy do obozu bandytów, zabieramy 500 samorodków ze skrzyni i oddajemy Scatty'emu. W nagrodę dostajemy połowę.
+> Scatty zaatakuje nas w 5 rozdziale jeżeli w 4 rozdziale nie oddaliśmy mu jego połowy, a zadanie zostaje anulowane.
 
 # Górnicza Dolina
 
