@@ -135,7 +135,7 @@ Zadanie polega na wybiciu orków w kanionie przed biblioteką uczonych po czym i
 
 ## Przepis na miksturę szybkości
 
-Po ukończeniu zadania "Posiadłości budowniczych" Riordian zleca nam zdobycie receptury na Szybkiego Śledzia. Idziemy do Samuela, u którego kupujemy recepturę, bądź dostajemy ją za darmo, jeśli mamy 40 retoryki. Czytamy recepturę i wracamy z nią do Riordiana.
+Po ukończeniu zadania [Posiadłości budowniczych](#posiadłości-budowniczych) Riordian zleca nam zdobycie receptury na Szybkiego Śledzia. Idziemy do Samuela, u którego kupujemy recepturę, bądź dostajemy ją za darmo, jeśli mamy 40 retoryki. Czytamy recepturę i wracamy z nią do Riordiana.
 
 ## Zapiski budowniczych
 
