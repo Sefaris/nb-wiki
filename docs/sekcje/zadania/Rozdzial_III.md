@@ -140,7 +140,7 @@ Teraz Erol mówi nam, że mamy zorganizować więcej ludzi:
 **Ochroniarze:**  
 - Gayvern (zgodzi się od razu)  
 - Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)  
-- Billgot (po przyprowadzeniu do Khorinis)
+- Billgot (po przyprowadzeniu go z górniczej doliny)
 
 Następnie Erol zagaduje nas o kowala i kucharza:  
 - Edda (dołączy, jeśli pomogliśmy jej w 1r z posążkiem)  
@@ -148,6 +148,7 @@ Następnie Erol zagaduje nas o kowala i kucharza:
 Po zebraniu powyższych osób Erol prosi o znalezienie uzdrowicielki, którą oczywiście jest Sagitta, która zgadza się, jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
 Ostatnie zadanie w obozie polega na znalezieniu schematu zbroi. Znajdziemy go w Opuszczonej Kopalni nad przejściem do Khorinis, tam gdzie Płomień Eligora dla gildii kupców. Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
+> rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem
 
 ## Co z kopalnią?
 
