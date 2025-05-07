@@ -10,29 +10,6 @@
 - Na polowaniu z Bartokiem, jeśli potrafimy skórować (Bartok nie poluje na pzm. nightmare)
 - W trakcie odnoszenia ornamentu z Laresem, jeżeli potrafimy skórować
 
-## Obóz Myśliwych
-
-Trzeba uzyskać poparcie minimum 7 myśliwych i wyzwać Falka na pojedynek o tytuł mistrza myśliwych.
-
-- Nix - uzdrowić Kła
-- Alfred - pozbyć się watahy wilków zabójców
-- Grimbald - zabić Czarnego Trolla
-- Niclas - przynieść mu 12 sztuk surowego mięsa
-- Gaan - zabić jego “Prychającą bestię”
-- Grom - przynieść jajo pełzacza
-- Raff - zabić "Nocnego Łowcę" w 2r
-- Barem - zabić niebezpiecznego dzika w zadaniu w 2r
-- Dragomir poprze nas, jeśli osiągniemy 30% władania kuszą.
-
-Mając głosy myśliwych idziemy do Falka, co uruchamia zadanie [Najlepszy łowca](#najlepszy-łowca).
-
-## Najlepszy łowca
-
-> Przed podjęciem zadania zapisz grę na osobnym slocie
-
-Rozpoczęło się polowanie na Slokersa, musimy go znaleźć i zabić zanim zrobi to Falk. Ptaszysko pojawia się losowo w jednej z siedmiu lokacji na poniższej mapie. Kiedy już upolujemy dziwacznego ścierwojada, wracamy z jego skórą do Falka i zostajemy mistrzem myśliwych.
-[![](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)
-
 ## Spór myśliwych
 
 Myśliwi założyli się kto pierwszy da radę upolować potężnego czarnego trolla, my również możemy podjąć się tego zadania. Najłatwiej będzie zrobić to za pomocą zwoju zmniejszenia, który otrzymamy od Ignaza za zadanie "Człowiek pod postacią bestii". Zabieramy skórę naszego przeciwnika i wracamy z nią do Falka.
@@ -106,6 +83,29 @@ Grom prosi nas o przyniesienie mu dwóch skór trolla. Jeśli mamy je w ekwipunk
 ## Prychająca istota
 
 Zadanie zleca Gaan znajdujący się na drodze z farmy Bengara do przełęczy GD. Mówi nam że z Górniczej Doliny przyszło jakieś niebezpieczne stworzenie i każe nam je zabić. Chodzi o smoczego zębacza, który znajduje się po prawo od Obozu Bractwa. Zabijamy gadzinę i wracamy do Gaana.
+
+## Obóz Myśliwych
+
+Trzeba uzyskać poparcie minimum 7 myśliwych i wyzwać Falka na pojedynek o tytuł mistrza myśliwych.
+
+- Nix - uzdrowić Kła
+- Alfred - pozbyć się watahy wilków zabójców
+- Grimbald - zabić Czarnego Trolla
+- Niclas - przynieść mu 12 sztuk surowego mięsa
+- Gaan - zabić jego “Prychającą bestię”
+- Grom - przynieść jajo pełzacza
+- Raff - zabić "Nocnego Łowcę" w 2r
+- Barem - zabić niebezpiecznego dzika w zadaniu w 2r
+- Dragomir poprze nas, jeśli osiągniemy 30% władania kuszą.
+
+Mając głosy myśliwych idziemy do Falka, co uruchamia zadanie [Najlepszy łowca](#najlepszy-łowca).
+
+## Najlepszy łowca
+
+> Przed podjęciem zadania zapisz grę na osobnym slocie
+
+Rozpoczęło się polowanie na Slokersa, musimy go znaleźć i zabić zanim zrobi to Falk. Ptaszysko pojawia się losowo w jednej z siedmiu lokacji na poniższej mapie. Kiedy już upolujemy dziwacznego ścierwojada, wracamy z jego skórą do Falka i zostajemy mistrzem myśliwych.
+[![](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)
 
 ## Poszukiwania
 
