@@ -28,8 +28,7 @@ Mając głosy myśliwych idziemy do Falka, co uruchamia polowanie na Slokersa, m
 
 ## Spór myśliwych
 
-Zadanie zleca Falk. Polega ono na zabiciu czarnego trolla i przyniesieniu jego skóry.  
-Robimy to za pomocą zwoju zmniejszenia, który otrzymamy od Ignaza za zadanie "Człowiek pod postacią bestii". Zabieramy skórę naszego przeciwnika i wracamy z nią do Falka.
+Myśliwi założyli się kto pierwszy da radę upolować potężnego czarnego trolla, my również możemy podjąć się tego zadania. Najłatwiej będzie zrobić to za pomocą zwoju zmniejszenia, który otrzymamy od Ignaza za zadanie "Człowiek pod postacią bestii". Zabieramy skórę naszego przeciwnika i wracamy z nią do Falka.
 > Nie opłaca się oszczędzać zwoju zmniejszenia na później
 
 ## Wilcze skóry dla Falka
