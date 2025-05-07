@@ -409,8 +409,7 @@ Zadanie zleca jeden ze skazańców w jaskini obok wodospadu przed Nowym Obozem. 
 
 ## Mięso
 
-Engor w zamku prosi nas o przyniesienie dwóch tuzinów mięsa, które powinniśmy już mieć.
-
+Gadamy z Parlafem, dowiadujemy się, że żołnierze głodują. Idziemy z tym do zarządcy Engora i oferujemy naszą pomoc w przyniesieniu jedzenia. Dajemy mu dwa tuziny surowego mięsa.
 
 ## Złoto dla Brutusa
 
