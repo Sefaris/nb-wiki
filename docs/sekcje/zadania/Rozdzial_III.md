@@ -91,19 +91,19 @@ Hyglas zleca nam przyniesienie książki Boska moc gwiazd. Kupić ją możemy od
 
 ## Fałszywe udziały w kopalni
 
-> Zadanie dostępne tylko dla magów ognia i najemników.
+#### Zadanie dostępne tylko dla magów ognia i najemników.
 
-> Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstur z orkowych pomyj
+> Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstury z orkowych pomyj. Przed rozmową z Salandrilem należy zdobyć pierścień gildii kupców, następnie wykupić od niego wszystkie istotne przedmioty oraz ukończyć zadanie związane z orkowymi pomyjami.
 
 Serpentes każe nam dowiedzieć się posiada fałszywe udziały w kopalni. Istnieje 10 takich udziałów. Posiadają je:  
-- Salandril znajdujący się w swoim sklepie w górnym miescie
-- Rosi znajdująca się na farmie Sekoba
-- Matteo znajdujący się w swoim domu w dolnym mieście
-- Hakon znajdujący się na rynku Khorinis
-- Elena znajdująca się na Farmie Onara
-- Orlan znajdujący się w Martwej Harpii
+- Salandril w swoim sklepie w górnym miescie
+- Rosi na farmie Sekoba
+- Matteo w swoim domu w dzielnicy rzemieślników
+- Hakon na rynku Khorinis
+- Elena na Farmie Onara
+- Orlan w gospodzie Martwa Harpia
 
-Następnie dajemy je Serpentesowi i mówimy Salandrilowi, że stanie przed sądem.
+Wykupione udziały oddajemy Serpentesowi, a Saladrila przekonujemy by udał się do klasztoru gdzie stanie przed sądem.
 
 ## Mroczna sieć
 
