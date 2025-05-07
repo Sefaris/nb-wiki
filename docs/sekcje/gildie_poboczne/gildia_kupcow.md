@@ -31,8 +31,9 @@ Zadanie zleca nam Lutero. Wspomina nam, że ma problemy z Zurisem. Zuris odmawia
 
 Teraz wracamy do Zurisa i oddajemy mu eliksir:
 
-1. Jeśli przyznamy się do współpracy, otrzymamy miksturę stałą i odblokuje nam się zadanie u Nefariusa, ale nie będziemy mogli kupić Płomienia Eligora.
-2. Jeśli nie przyznamy się do współpracy z Lutero, otrzymamy możliwość kupna Płomienia Eligora, ale nie otrzymamy mikstury stałej i zadania od Nefariusa. (Mniej opłacalna opcja)
+1. Jeśli przyznamy się do współpracy odblokuje nam się zadanie u Nefariusa na miksturę odporności na zimno, ale nie będziemy mogli kupić Płomienia Eligora. (odporności na ogień nauczy nas Gonzales)
+2. Jeśli nie przyznamy się do współpracy z Lutero, otrzymamy możliwość kupna Płomienia Eligora za 7000 złota, ale nie otrzymamy zadania od Nefariusa. (odporności na zimno nauczy nas Lee)
+> Wybierając kłamstwo uzyskujemy wygodę posiadania mikstury już teraz za cenę 7000 sztuk złota, mówiąc prawdę oszczędzamy pieniądze, lecz będziemy musieli wykonać dodatkowe zadanie.
 
 ## Zapasy dla Paladynów
 
