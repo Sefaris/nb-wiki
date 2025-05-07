@@ -12,7 +12,19 @@
 
 ## Obóz Myśliwych
 
-Jest to zadanie które zaczyna się w rozmowie z Falkiem i kończy po zostaniu mistrzem gildii myśliwych. Mówiąc prościej, trzeba uzyskać poparcie minimum 7 myśliwych i wyzwać Falka na pojedynek (quest ze Slokersem).
+Trzeba uzyskać poparcie minimum 7 myśliwych i wyzwać Falka na pojedynek o tytuł mistrza myśliwych.
+
+- Nix - uzdrowić Kła
+- Alfred - pozbyć się watahy wilków zabójców
+- Grimbald - zabić Czarnego Trolla
+- Niclas - przynieść mu 12 sztuk surowego mięsa
+- Gaan - zabić jego “Prychającą bestię”
+- Grom - przynieść jajo pełzacza
+- Raff - zabić "Nocnego Łowcę" w 2r
+- Barem - zabić niebezpiecznego dzika w zadaniu w 2r
+- Dragomir poprze nas, jeśli osiągniemy 30% władania kuszą.
+
+Mając głosy myśliwych idziemy do Falka, co uruchamia polowanie na Slokersa, musimy go znaleźć i zabić zanim zrobi to Falk. Ptaszysko pojawia się losowo w jednej z siedmiu lokacji na poniższej mapie. Kiedy już upolujemy dziwacznego ścierwojada, wracamy z jego skórą do Falka i zostajemy mistrzem myśliwych.
 
 ## Spór myśliwych
 
@@ -30,9 +42,15 @@ Po oddaniu Falkowi skór wilka, ten wysyła nas po specjalne strzał do Bospera.
 
 ## Ranne zwierzę
 
-> UWAGA Quest należy zrobić od razu po jego rozpoczęciu , jeśli tego nie zrobimy Kieł umrze po 2-3 dniach.
+> UWAGA Quest należy zrobić od razu po jego rozpoczęciu, jeśli tego nie zrobimy Kieł umrze po 2-3 dniach.
 
-Myśliwy Nix mówi nam że jego wilk Kieł został ranny i prosi nas byśmy udali się do Sagitty po lekarstwo. Idziemy do Sagitty która każe nam przynieść składniki na lekarstwo ( Szczaw królewski, korzeń leczniczy, leśna jagoda i bagienne ziele), przynosimy składniki, zabieramy lekarstwo i wracamy do Nixa. Teraz trzeba poczekać 1 dzień, aż Kieł wyzdrowieje i wrócić do Nixa po nagrodę.
+Myśliwy Nix mówi nam że jego wilk Kieł został ranny i prosi nas byśmy udali się do Sagitty po lekarstwo. Sagitta każe nam przynieść składniki:
+- szczaw królewski
+- korzeń leczniczy
+- leśna jagoda
+- bagienne ziele
+
+Oddajemy składniki, zabieramy lekarstwo i wracamy do Nixa. Teraz trzeba poczekać 1 dzień, aż Kieł wyzdrowieje i wrócić po nagrodę.
 
 ## Zagubiony łowca
 
