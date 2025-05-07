@@ -47,7 +47,7 @@ Dragomir mówi nam że zgubił kuszę obok słonecznego kręgu, idziemy tam zabi
 
 ## Wataha zabójczych wilków
 
-Alfred zleca nam zabicie stada niebezpiecznych wilków. Znajdują się one niedaleko Martwej Harpii obok pojedynczej spalonej chaty jak idziemy drogą do piramid. Zabijamy wilki i wracamy do Alfreda.
+Alfred zleca nam zabicie stada niebezpiecznych wilków, które znajdują się one niedaleko Martwej Harpii obok spalonej chaty. Zabijamy wilki i wracamy do Alfreda.
 
 ## Szpony topielca
 
@@ -74,15 +74,15 @@ Raff prosi nas o przyniesienie mu jaja topielca, które znajdziemy przy rzece ob
 
 ## Głodny myśliwy
 
-Pytamy się Groma o naukę oprawiania zwierząt, a ten będzie nas uczył, jeśli przyniesiemy mu szynkę, chleb i mleko. Oddajemy jedzenie, a od tej pory Grom będzie nas nauczał.
+Pytamy się Groma o naukę oprawiania zwierząt, a ten będzie nas uczył, jeśli przyniesiemy mu szynkę, chleb i mleko. Oddajemy jedzenie i zyskujemy nauczyciela.
 
 ## Trolle Groma
 
-Grom prosi nas o przyniesienie mu dwóch skór trolla. Jeśli mamy je w ekwipunku możemy mu je dać od razu, a jeśli nie, to zabijamy dwa trolle niedaleko Groma.
+Grom prosi nas o przyniesienie mu dwóch skór trolla. Niedaleko znajdują się dwa młode trolle, jednak skóry możemy zdobyć z innych lub nawet kupić.
 
 ## Prychająca istota
 
-Zadanie zleca Gaan znajdujący się na drodze z farmy Bengara do przełęczy GD. Mówi nam że z Górniczej Doliny przyszło jakieś niebezpieczne stworzenie i każe nam je zabić. Chodzi o smoczego zębacza, który znajduje się po prawo od Obozu Bractwa. Zabijamy gadzinę i wracamy do Gaana.
+Zadanie zleca Gaan znajdujący się na drodze z farmy Bengara do przełęczy GD. Mówi nam że z Górniczej Doliny przyszło jakieś niebezpieczne stworzenie i każe nam je zabić. Chodzi o smoczego zębacza, który znajduje się na lewo wychodząc z obozu Bractwa. Zabijamy gadzinę i wracamy do Gaana.
 
 ## Obóz Myśliwych
 
@@ -145,7 +145,7 @@ Po zabiciu wszystkich potworów wracamy do Falka.
 ## Dzik Barema (Rozdział 2)
 
 Barem mówi nam że w lesie na północy pojawił się niebezpieczny dzik.  
-Dzik znajduje się niedaleko kamiennego kręgu w lesie na północy (Nad gorzelnią Vina), zabijamy go i wracamy do Barema,
+Zwierze znajduje się niedaleko kamiennego kręgu w lesie na północy (Nad gorzelnią Vina), zabijamy go i wracamy do Barema.
 
 ## Polowanie na orków (Rozdział 2)
 
