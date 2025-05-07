@@ -609,17 +609,18 @@ __Zleca: Jesse__
 
 Jeśli odwiedziliśmy już farmę Onara wracamy do Jessego, czyli bandyty, którego spotkaliśmy na początku gry, niedaleko Cavalorna. Mówimy mu, żeby się udał na farmę, ale Jesse nie pójdzie, dopóki nie damy mu normalnego pancerza.  
 Możemy mu oddać jeden z poniższych pancerzy:
-- Pancerz poszukiwacza przygód - +1000 doświadczenia
-- Lekki pancerz najemnika - +500 doświadczenia
-- Przekuty lekki pancerz najemnika - +500 doświadczenia
-- Pancerz najemnika - +1000 doświadczenia
-- Ciężki pancerz najemnika - +2000 doświadczenia
-- Luksusowe ubranie obywatela - +500 doświadczenia
-- Lekki strój obywatela - +500 doświadczenia
-- Skórzany pancerz - +750 doświadczenia
-- Ciężki skórzany pancerz - +1500 doświadczenia
+- Pancerz poszukiwacza przygód +1000 doświadczenia
+- Lekki pancerz najemnika +500 doświadczenia
+- Przekuty lekki pancerz najemnika +500 doświadczenia
+- Pancerz najemnika +1000 doświadczenia
+- Ciężki pancerz najemnika +2000 doświadczenia
+- Luksusowe ubranie obywatela +500 doświadczenia
+- Lekki strój obywatela +500 doświadczenia
+- Skórzany pancerz +750 doświadczenia
+- Ciężki skórzany pancerz +1500 doświadczenia
 
 Oddajemy pancerz Jessemu, a on w podzięce oferuje nam pierścień ochrony (dobry w 1r) i udaje się na farmę Onara.
+> pierścień daje +12 ochronę przed wszystkim
 
 ## Pierwsza mikstura
 __Zleca: Constantino__
