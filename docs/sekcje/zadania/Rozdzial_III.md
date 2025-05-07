@@ -124,7 +124,7 @@ Po oczyszczeniu obozu Dextera Hagen chce nam dać na własność obóz i okolicz
 Zanim zaczniemy rekrutację musimy najpierw udać się do naszego obozu i pogadać ze strażnikiem na moście.
 
 Teraz musimy znaleźć zarządcę. Mogą to być Valeran lub Erol. Polecam Erola, gdyż Valeran przyda wam się do zadania dla kupców. Pytamy się Erola czy zostanie zarządcą obozu, a ten się zgadza, jeśli będziemy go opłacać.  
-Kiedy Erol będzie już w obozie prosi on nas o początkowe zasoby do obozu czyli 5 000 złota, 50 sztuk pieczonego mięsa, 25 ryb i 5 bochenków chleba (pojawi się u Baltrama do kupna)
+Kiedy Erol będzie już w obozie prosi on nas o początkowe zasoby do obozu czyli 5 000 złota, 50 sztuk pieczonego mięsa, 25 ryb i 5 bochenków chleba (chleb pojawi się u Baltrama).
 
 Teraz Erol mówi nam, że mamy zorganizować więcej ludzi: 
 
@@ -135,7 +135,7 @@ Teraz Erol mówi nam, że mamy zorganizować więcej ludzi:
 **Kopacze:**  
 - Wąż (40 retoryki i oddana ruda z zadania "Torba pełna rudy")  
 - Snipes (50 retoryki i oddana ruda z zadania "Torba pełna rudy")  
-- Grimes i jego kumpel (Rozmawiamy z Grimesem, a ten planuje uciec, więc musimy przygotować 3 zwoje snu i przyjść nazajutrz. Na miejscu okazuje się, że były niepotrzebne, więc odprowadzamy ich przed kopalnie łączącą Khorinis z GD. Pojawiają się wtedy przy bramie przełęczy, skąd prowadzimy ich do obozu.  
+- Grimes i jego kumpel w GD (Rozmawiamy z Grimesem, a ten planuje uciec, więc musimy przygotować 3 zwoje snu i przyjść nazajutrz. Na miejscu okazuje się, że były niepotrzebne, więc odprowadzamy ich przed kopalnie łączącą Khorinis z GD. Pojawiają się wtedy przy bramie przełęczy, skąd prowadzimy ich do obozu.  
 
 **Ochroniarze:**  
 - Gayvern (zgodzi się od razu)  
@@ -144,8 +144,9 @@ Teraz Erol mówi nam, że mamy zorganizować więcej ludzi:
 
 Następnie Erol zagaduje nas o kowala i kucharza:  
 - Edda (dołączy, jeśli pomogliśmy jej w 1r z posążkiem)  
-- Carl (dołączy, jeśli oddaliśmy mu węgiel w 1r)  
-Po zebraniu powyższych osób Erol prosi o znalezienie uzdrowicielki, którą oczywiście jest Sagitta, która zgadza się, jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
+- Carl (dołączy, jeśli oddaliśmy mu węgiel w 1r)
+
+Po zebraniu powyższych osób Erol prosi o znalezienie uzdrowicielki. Chodzi o Saggitę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
 Ostatnie zadanie w obozie polega na znalezieniu schematu zbroi. Znajdziemy go w Opuszczonej Kopalni nad przejściem do Khorinis, tam gdzie Płomień Eligora dla gildii kupców. Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
 > rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem
