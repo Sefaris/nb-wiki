@@ -95,7 +95,7 @@ Hyglas zleca nam przyniesienie książki Boska moc gwiazd. Kupić ją możemy od
 
 > Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstury z orkowych pomyj. Przed rozmową z Salandrilem należy zdobyć pierścień gildii kupców, następnie wykupić od niego wszystkie istotne przedmioty oraz ukończyć zadanie związane z orkowymi pomyjami.
 
-Serpentes każe nam dowiedzieć się posiada fałszywe udziały w kopalni. Istnieje 10 takich udziałów. Posiadają je:  
+Serpentes każe nam dowiedzieć się kto rozprowadza fałszywe udziały w kopalni, musimy również usunąć je z obiegu. Istnieje 10 takich udziałów, sprzedają je:  
 - Salandril w swoim sklepie w górnym miescie
 - Rosi na farmie Sekoba
 - Matteo w swoim domu w dzielnicy rzemieślników
