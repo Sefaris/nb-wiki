@@ -54,6 +54,7 @@ Oddajemy składniki, zabieramy lekarstwo i wracamy do Nixa. Teraz trzeba poczeka
 ## Zagubiony łowca
 
 Po tym jak Kieł już wyzdrowiał dowiadujemy się od Nixa o innym myśliwym, który miał pupila. Idziemy do Bospera, który skieruje nas w okolice plaży przy wschodniej bramie. W wieży znajdziemy bandytów, martwego Heina, a także wilka. Czytamy notatkę, karmimy wilka serem i mięsem, po czym go głaszczemy. Wracamy teraz do Nixa, który wręczy nam runę, dzięki której będziemy mogli przyzywać i expić naszego wilczka.
+> Zanim zaczniemy levelować naszego peta możemy oddać go Nixowi w zamian za wyciąg ze szczawiu
 
 ## Kusza Dragomira
 
