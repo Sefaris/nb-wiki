@@ -85,15 +85,15 @@ Zadanie zleca Gaan znajdujący się na drodze z farmy Bengara do przełęczy GD.
 ## Najlepszy łowca
 
 Aby poruszyć to zadanie, potrzebujemy poparcia conajmniej 7 myśliwych.
-- Nix poprze nas, jeśli udało nam się uzdrowić Kła.
-- Alfred poprze nas, jeśli pozbędziemy się watahy wilków zabójców.
-- Grimbald poprze nas, jeśli zabijemy Czarnego Trolla.
-- Niclas poprze nas, jeśli przyniesiemy mu 12 sztuk surowego mięsa.
-- Gaan poprze nas, jeśli zabijemy jego “Prychającą bestię”
-- Grom poprze nas, jeśli dostanie od nas jajo pełzacza.
-- Raff poprze nas, jeśli przyniesiemy mu jajo topielca.
+- Nix - uzdrowić Kła
+- Alfred - pozbyć się watahy wilków zabójców
+- Grimbald - zabić Czarnego Trolla
+- Niclas - przynieść mu 12 sztuk surowego mięsa
+- Gaan - zabić jego “Prychającą bestię”
+- Grom - przynieść jajo pełzacza
+- Raff - zabić "Nocnego Łowcę" w 2r
+- Barem - zabić niebezpiecznego dzika w zadaniu w 2r
 - Dragomir poprze nas, jeśli osiągniemy 30% władania kuszą.
-- Barem poprze nas, jeśli zabijemy dla niego Dzika w zadaniu w 2R
 
 Teraz idziemy do Falka, który zleca nam zabicie Slokersa, który losowo pojawia się w jednej z siedmiu lokacji na poniższej mapie. Kiedy już upolujemy ścierwojada, wracamy z jego skórą do Falka i zostajemy mistrzem myśliwych.
 [![](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)](https://steamuserimages-a.akamaihd.net/ugc/967600040940154849/7B3ECB5E88C4DA91224DE8B98C4C7B5AD8CCE221/)
