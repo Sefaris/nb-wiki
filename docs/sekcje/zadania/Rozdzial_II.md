@@ -415,7 +415,7 @@ Gadamy z Parlafem, dowiadujemy się, że żołnierze głodują. Idziemy z tym do
 
 Brutus nauczy nas siły jeśli przyniesiemy mu 200 sztuk złota. Możemy dać mu swoje złoto albo zabrać z ciała Dana obok przełęczy.
 
-## Uwolnienie Gorna
+## Uwolnić Gorna
 
 Milten mówi nam, że Gorn siedzi w więzieniu. Idziemy do Garonda, a ten żąda 1000 złota.  
 Możemy zapłacić z własnej kieszeni lub iść do Diego i Miltena po kasę. Płacimy Garondowi i wyciągamy Gorna z więzienia, który będzie teraz przebywał tam gdzie Milten.
