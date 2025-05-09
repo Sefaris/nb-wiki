@@ -193,7 +193,7 @@ W pobliżu ruin magów wody przebywa Jack Aligator. Po rozmowie należy udać si
 
 ## Aligator Jacka
 
-Po polowaniu na szczury pytamy Jacka dlaczego go tak nazwano, a wtedy ten opowiada nam o starym Aligatorze. Aligator ten znajduje się na skale na środku jeziora tam gdzie szliśmy z Jackiem zabić szczury. Zabijamy Aligatora i wracamy do Jacka Aligatora.
+Po polowaniu na szczury pytamy Jacka o jego przydomek, a ten opowiada nam o starym Aligatorze. Bestia znajduje się nieopodal na skale na środku jeziora gdzie szliśmy z Jackiem polować na szczury. Zabijamy groźnego zwierza i wracamy do Jacka po nagrodę.
 
 ## Wieża
 
