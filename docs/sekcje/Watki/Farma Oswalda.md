@@ -36,6 +36,8 @@ Gdy trafimy już do obozu to szukamy Blizny i zwracamy mu jego działkę. Nastę
 
 Razem z Blizną udajemy się w ustronne miejsce i obmyślamy plan zemsty na Trigo i detronizacji go ze stanowiska szefa obozu. Czekamy z Blizną na dogodną godzinę i razem ruszamy w miejsce gdzie przebywać będzie ochroniarz Trigo, którego musimy załatwić zanim zabierzemy się za szefa. Po zabiciu ochroniarza i jego idziemy do Trigo, rozmawiamy z nim, a następnie z zimną krwią mordujemy. Od teraz to Blizna będzie szefem obozu i poprzez rozmowę z nim będziemy mogli występować w bardzo ciekawych walkach z oryginalnymi i potężnymi przeciwnikami.
 
+> Trzeba przeczytać notatkę z zasadami od Blizny by móc rozpocząć pierwszą walkę
+
 ## Dodatkowe aktywności
 
 1. W zamku w górniczej dolinie w komnacie gdzie siedzi Garond jest zamknięta skrzynia, a w niej miecz Blizny. Możemy oddać go Bliźnie
