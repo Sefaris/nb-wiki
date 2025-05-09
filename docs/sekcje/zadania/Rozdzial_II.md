@@ -446,9 +446,11 @@ Billgot prosi nas o wyprowadzenie go z Górniczej Doliny, w zamian za informacje
 
 ## Przewodnik Diego
 
-Diego chce się wydostać z Górniczej Doliny do Khorinis. Odprowadzamy go przed kopalnie łączącą GD z Khorinis. Warto wcześniej wziąć go na Plac Wymian, gdzie dostaniemy dodatkowego expa, miecz pod zręczność i osiągnięcie.  
-Prowadzimy go mniej więcej taką drogą:  
+Diego chce się wydostać z Górniczej Doliny do Khorinis. Odprowadzamy go przed kopalnie łączącą GD z Khorinis. Warto wcześniej wziąć go na Plac Wymian, gdzie dostaniemy dodatkowego expa, szablę pod zręczność i osiągnięcie. Prowadzimy go mniej więcej taką drogą:
+  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739934501951/3CE7D23FF85CA8D66B7BE8CCB9FF6FE0AD4707E0/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739934501951/3CE7D23FF85CA8D66B7BE8CCB9FF6FE0AD4707E0/)
+
+> razem z Diegiem weź ze sobą również Bilgota z obozu Fajetha
 
 ## Polowanie na zębacze
 
