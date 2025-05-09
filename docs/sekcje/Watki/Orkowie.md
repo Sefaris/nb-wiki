@@ -53,7 +53,8 @@ W ciele orka posłańca z poprzedniego zadania znajdujemy klucz. Skrzynia, któr
 ## Składowisko Paladynów
 
 Ur-Karras zleca nam, abyśmy podpalili zapasy Paladynów w ich magazynie. Klucz do magazynu znajdziemy na wieży po prawo od Udara. Jak już dostaniemy się do magazynu, klikamy Numpad 6 na klawiaturze (aby wyciągnąć pochodnię), a następnie klikamy w tą stertę skrzynek i idziemy z informacją do Ur-Karrasa. +20 reputacji u orków
-**Zadanie nie ma żadnych konsekwencji u paladynów** 
+**Zadanie nie ma żadnych konsekwencji u paladynów, dostajemy jednak -15 karmy u Innosa**
+  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935209509/9F0D116E9D018696044675265985C6E5505C89DA/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935209509/9F0D116E9D018696044675265985C6E5505C89DA/)
 
 ## Trudny wybór
