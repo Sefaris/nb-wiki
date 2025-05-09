@@ -129,10 +129,9 @@ Musimy zanieść zebraną rzepę Hildzie.
 ## Stara chata Cavalorna
 __Zleca: Cavalorn__
 
-Aby rozpocząć zadanie, przy pierwszej rozmowie z Cavalornem, gdy zapyta dokąd idziemy, należy odpowiedzieć, że z powrotem do Górniczej Doliny.  
-Zadanie polega na przyniesieniu mu jego torby z rudą, która znajduje się w jego starej chacie w Górniczej Dolinie.
+Aby rozpocząć zadanie, przy pierwszej rozmowie z Cavalornem, gdy zapyta dokąd idziemy, należy odpowiedzieć, że z powrotem do Górniczej Doliny. Zadanie polega na przyniesieniu mu jego torby z rudą, która znajduje się w jego starej chacie w Górniczej Dolinie.
 
-> Nawet jeżeli nie dostaliśmy tego zadania od Cavalorna to torba z rudą i tak leży w jego starej chacie. Możemy oddać jej zawartość Cavalornowi.
+> Nawet jeżeli nie dostaliśmy zadania od Cavalorna to torba z rudą i tak leży w jego starej chacie. Możemy oddać mu jej zawartość.
 
 ## Wodny krąg
 __Zleca: Cavalorn__
