@@ -20,7 +20,9 @@ Johan na początku wypiera się więc zastraszamy go, a on wyjawia nam całą pr
 - puszczamy go wolno za co dostajemy 500 exp i zwój deszcz ognia
 - informujemy, że zabieramy go do klasztoru magów ognia, gdzie zostanie osądzony co doprowadza do walki, w której razem z Blizną zabijamy domorosłego magika. Dostajemy: 1000 exp, 2 karmy u Beliara i 15 karmy u Innosa
 
-Teraz znów gadamy z Blizną i umawiamy się, że na cieniostwora pójdziemy razem, a nagrodą się podzielimy. Informuje nas on również o istnieniu obozu niedaleko farmy, w którym toczą się walki na arenie. Gdy już uznamy, że chcemy wyruszyć na polowanie gadamy z nim jeszcze raz i razem udajemy się do legowiska potwora. Po zabiciu mrocznego cieniostwora Blizna mówi, że znajdziemy go w obozie w lesie gdzie toczą się walki. Idziemy do Oswalda odebrać nagrodę za bestię oraz po piwko do karczmarza, a nastepnie ruszamy do obozowiska, o którym mówił Blizna. Dotrzeć tam można idąc pasmem górskim lub przejściem od strony lasu. Gdy trafimy już do obozu to szukamy Blizny, zwracamy mu jego działkę i gadamy z nim.
+Teraz znów gadamy z Blizną i umawiamy się, że na cieniostwora pójdziemy razem, a nagrodą się podzielimy. Informuje nas on również o istnieniu obozu niedaleko farmy, w którym toczą się walki na arenie. Gdy już uznamy, że chcemy wyruszyć na polowanie gadamy z nim jeszcze raz i razem udajemy się do legowiska potwora. 
+
+Po zabiciu mrocznego cieniostwora Blizna mówi, że znajdziemy go w obozie w lesie gdzie toczą się walki. Idziemy do Oswalda odebrać nagrodę za bestię oraz po piwko do karczmarza, a nastepnie ruszamy do obozowiska, o którym mówił Blizna. Dotrzeć tam można idąc pasmem górskim lub przejściem od strony lasu. Gdy trafimy już do obozu to szukamy Blizny, zwracamy mu jego działkę i gadamy z nim.
 
 ## Polne szczury
 
