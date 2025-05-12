@@ -70,7 +70,8 @@ Baal Cadar prosi nas o przyniesienie receptury Cor Kaloma, która znajduje się 
 
 ## Opętani (Rozdział 3)
 
-Baal Orun mówi nam, że nowicjusze skarżą się na bóle głowy i żebyśmy udali się do klasztoru. Idziemy do Pyrokara i kupujemy 20 butelek lekarstwa na opętanie, wracamy do Oruna, a potem mamy rozdać lekarstwa nowicjuszom. Jak już rozdamy lekarstwa wracamy do Baal Oruna.
+Baal Orun mówi nam, że nowicjusze skarżą się na bóle głowy i żebyśmy udali się do klasztoru. Idziemy do Pyrokara i kupujemy lekarstwo na opętanie w cenie 300 złota za sztukę, wracamy do Oruna i mówimy, że mamy lekarstwo, a ten każe rozdać je nowicjuszom. Jak już rozdamy lekarstwa wracamy do Oruna.
+> Jeżeli sami będziemy opętani to Pyrokar sprzeda nam 5 flaszek za łącznie 300 złota, możemy to wykorzystać by zmniejszyć ilość złota, które musimy wydać na nowicjuszy
 
 ## Dobre połączenia (Rozdział 5)
 
