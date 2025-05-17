@@ -108,7 +108,7 @@ Musimy zdobyć Oko Innosa
 5. Po powrocie z GD z dowodami, rozmawiamy z Hagenem, a następnie udajemy się do klasztoru porozmawiać z Pyrokarem.
 6. Odszukujemy zniszczone Oko Innosa w Słonecznym Kręgu.
 7. Idziemy do Vatrasa, który mówi nam o rytuale naprawy amuletu.
-8. [Uwalniamy Benneta z więzienia](Sekcje/Zadania/Rozdzial_III.md?id=bennet-siedzi-w-więzieniu) i dajemy mu amulet do naprawy.
+8. [Uwalniamy Benneta z więzienia](sekcje/zadania/rozdzial_iii.md?id=bennet-siedzi-w-więzieniu) i dajemy mu amulet do naprawy.
 9. Sprowadzamy Xardasa i Pyrokara do Słonecznego Kręgu.
 10. Przynosimy naprawione Oko Innosa do Słonecznego Kręgu i czekamy aż magowie zakończą rytuał.
 
