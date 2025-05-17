@@ -12,6 +12,8 @@ Mamy odnaleźć zaginionego najemnika Arokha. Schodzimy tą samą drogą którą
 
 [--> LINK <--](https://youtu.be/CM_DkDBpQEM/)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CM_DkDBpQEM?si=AxASiYWaZyFyHx5m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Najemnik orków
 
 Po wejściu do miasta orków szukamy Farroka, który strzeże przejścia do Ur-Tralla - głównego wodza. Musimy wbić minimum 80 reputacji by dostać się do wodza orków. Nie musimy wykonywać wszystkich zadań u orków, zdobycie więcej niż 100 reputacji nie daje nam żadnych dodatkowych zysków.
