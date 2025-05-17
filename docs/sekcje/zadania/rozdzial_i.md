@@ -286,12 +286,21 @@ Constantino daje nam listę ziół, które mamy mu przynieść. Idziemy do Zuris
 ## Matteo i Gritta
 __Zleca: Matteo__
 
-Matteo prosi nas o odzyskanie długu od Gritty. Idziemy do Gritty i mówimy o długu, po czym mamy dwa rozwiązania;
+Matteo prosi nas o odzyskanie długu od Gritty. Idziemy do Gritty i mówimy o długu, mamy dwa rozwiązania:
 
-1. Zastraszamy ją sprzedaniem jej ubrań (Dostaniemy bonus [`Retoryka +1`] i 100 sztuk złota)
-2. Płacimy za nią (Dostaniemy wino +1 do zręczności)  
+<!-- tabs:start -->
 
-Z pieniędzmi wracamy do Matteo, a zadanie się kończy.
+#### __ścieżka simpa__
+
+Płacimy za nią, za co dostaniemy wino `Zręczność +1`
+
+#### __ścieżka gigachada__
+
+Zastraszamy ją sprzedaniem jej ubrań, więc ta daje nam pieniądze należące do Thorbena, nie warto później oddawać ich Thorbenowi. `Retoryka +1` i 100 sztuk złota
+
+<!-- tabs:end -->
+
+Dajemy 100 sztuk złota Matteo, a zadanie się kończy.
 
 ## Skóry dla Bospera
 __Zleca: Bosper__
