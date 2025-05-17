@@ -1,6 +1,6 @@
 # Najemnik/Łowca smoków
 
-> Aby dołączyć do najemników trzeba zdobyć poparcie większość najemników (Zadania poniżej), a także przejść test Torlofa.
+> Aby dołączyć do najemników trzeba zdobyć poparcie większości najemników (Zadania poniżej), a także przejść test Torlofa.
 
 ## Jeden z najemników
 __Zleca: Lee__
@@ -99,14 +99,14 @@ Cipher mówi, że ktoś ukradł mu paczkę bagiennego ziela, podejrzewa Bodo. Ga
 ## Laboratorium Jacko
 __Zleca: Cipher__
 
-Po oddaniu paczku z zielem Cipher prosi nas, abyśmy przynieśli mu kolejną paczkę, tym razem z laboratorium obok Nowego Obozu. Gorzelnia znajduje się w jaskini z bandytami, przy zatopionej chacie, na lewo od wejścia na lodowy biom.
+Po oddaniu paczki z zielem Cipher prosi nas, abyśmy przynieśli mu kolejną paczkę, tym razem z laboratorium obok Nowego Obozu. Gorzelnia znajduje się w jaskini z bandytami, przy zatopionej chacie, na lewo od wejścia na lodowy biom.
 
 ## Strzał w dziesiątkę!
 __Zleca: Wilk__
 
 > W tej misji warto skorzystać z wolnego celowania, jeśli normalnie tego nie robimy
 
-Wilk dla nam swoje poparcie jak trafimy z łuku w środek 3 tarcz za kuchnią Eddy. Trzeba stać dokładnie przy słupku z wbitą strzałą i trafić z tego miejsca w 3 tarcze. Otrzymanie 50 expa oznacza, że ta tarcza jest już zaliczona. Po 3 celnych trafieniach wracamy do Wilka.
+Wilk da nam swoje poparcie jak trafimy z łuku w środek trzech tarcz za kuchnią Eddy. Trzeba stać dokładnie przy słupku z wbitą strzałą i trafić z tego miejsca w trzy tarcze. Otrzymanie 50 expa oznacza, że ta tarcza jest już zaliczona. Po 3 celnych trafieniach wracamy do Wilka.
 
 ## Wyzwanie Jarvisa
 __Zleca: Jarvis__
@@ -152,7 +152,7 @@ Ze względu na to, że jesteśmy najemnikiem Baltram nie chce z nami handlować.
 ## Lokaj Sędziego  (Rozdział 3)
 __Zleca: Lee__
 
-Lee chce zdemaskować Sędziego, więc prosi nas, abyśmy udali się do Sędziego i zaoferowali mu współpracę. Musimy przed tym udać się do Vatrasa, który rzuci na nas stosowne zaklęcie. Jako test zaufania, musimy przynieść młot Innosa z klasztoru. Teraz sędzia każe nam odnaleźć zbiegłych więźniów i ich zabić. Pierwszy z nich jest w jaskini z bandytą Jesse. Rozmawiamy ze zbiegiem, a następnie idziemy do Martwej Harpii. W gospodzie znajduje się kolejny zbieg, który zdradza nam położenie ich przywódcy. Na farmie Onara spotykamy Morgaharda, który wręcza nam list, którego potrzebuje Lee. Odnosimy go do Lee, a zadanie się kończy.
+Lee chce zdemaskować Sędziego, więc prosi nas, abyśmy udali się do Sędziego i zaoferowali mu współpracę. Musimy przed tym udać się do Vatrasa, który rzuci na nas stosowne zaklęcie. Jako test zaufania, musimy przynieść młot Innosa z klasztoru. Teraz sędzia każe nam odnaleźć zbiegłych więźniów i ich zabić. Pierwszy z nich jest w jaskini z bandytą Jessem. Rozmawiamy ze zbiegiem, a następnie idziemy do Martwej Harpii. W gospodzie znajduje się kolejny zbieg, który zdradza nam położenie ich przywódcy. Na farmie Onara spotykamy Morgaharda, który wręcza nam list, którego potrzebuje Lee. Odnosimy go do Lee, a zadanie się kończy.
 
 ## Bajer (Rozdział 4)
 __Zleca: Dar__

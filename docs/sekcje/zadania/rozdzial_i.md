@@ -16,9 +16,9 @@ W rozmowie z bandytą należy wybrać następujące opcje dialogowe:
 5. Ktoś już próbował mnie wykołować...
 6. Byłem skazańcem w Kolonii Górniczej  
 
-Da nam to bonus [`Retoryka +1`].
+Da nam to bonus `Retoryka +1`.
   
-Później pytamy kto wyznaczył nagrodę za nas i oferujemy mu 10 sztuk złota za informację. Należy wcześniej wyrzucić/schować gdzieś całe złoto jakie mamy, da nam to kolejny bonus [`Retoryka +1`].  
+Później pytamy kto wyznaczył nagrodę za nas i oferujemy mu 10 sztuk złota za informację. Należy wcześniej wyrzucić/schować gdzieś całe złoto jakie mamy, da nam to kolejny bonus `Retoryka +1`.  
 Przy okazji rozpoczyna to zadanie [Listy gończe](#listy-gończe).
   
 Bierzemy również od Jessego nasz portret i informujemy go, że niedługo rozpęta się tu piekło. Gdy Jesse ucieknie w inne miejsce to wracamy do Cavalorna i atakujemy bandytów.  
@@ -360,7 +360,7 @@ Po zebraniu wszystkich listów polecających zanosimy je Gallahadowi, a następn
 
 > Jeśli Larius się na nas obrazi, to możemy skorzystać ze zwoju zapomnienia
 
-Po pozytywnej reakcji Lariusa dostajemy bonus [`Retoryka +1`] i możemy teraz wrócić do Gallahada, który oddaje nam swoją chatę do użytku i każe zgłosić się po nagrodę w ratuszu. Następnego dnia wracamy i mamy do wyboru:  
+Po pozytywnej reakcji Lariusa dostajemy bonus `Retoryka +1` i możemy teraz wrócić do Gallahada, który oddaje nam swoją chatę do użytku i każe zgłosić się po nagrodę w ratuszu. Następnego dnia wracamy i mamy do wyboru:  
 - Złoto (Nieopłacalne)
 - Dwie mikstury stałe (Wybieramy na gildiach wojowniczych)
 - Naukę magii (Konieczne na gildiach magicznych)
@@ -447,7 +447,7 @@ Zadanie pojawia się automatycznie w rozmowie z wieśniakami na farmie Akila. Tr
 ## Gdzie są zaginieni ludzie?
 __Zleca: Vatras__
 
-Udajemy się do obozu Dextera niedaleko farmy Onara, mówimy strażnikowi imię ich wodza, po czym gadamy z Dexterem. Zabijamy go i czytamy notatkę z jego ciała , na koniec idziemy do Vatrasa.
+Udajemy się do obozu Dextera niedaleko farmy Onara, mówimy strażnikowi imię ich wodza, po czym gadamy z Dexterem. Zabijamy go i czytamy notatkę z jego ciała, na koniec idziemy do Vatrasa.
 
 ## Głodny skazaniec
 __Zleca: Ragnar__
@@ -469,10 +469,10 @@ __Zleca: Vatras__
 
 Zadanie zleca Vatras, idziemy pogadać z Martinem. Teraz musimy zebrać kilka dowodów:
 - Pałasz bandytów.
-- Pierścień gildii kupieckiej Araxos (Ma go przy sobie jeden z bandytów więżących Elvricha).
+- Pierścień gildii kupieckiej Araxos (Ma go przy sobie jeden z bandytów, którzy więżą Elvricha).
 - List obok skrzyni w obozie bandytów za farmą Sekoba.
 
-Okazuje się ze to Fernando, by zmaksymalizować nasz zysk powinniśmy najpierw pogadać z Fernando mając w ekwpinku ze wszystkich dowodów jedynie 1 pałasz bandytów i zgodzić się na jego ofertę, następnie wydajemy go u Martina. Na końcu gadamy z Vatrasem.
+Okazuje się ze to Fernando, by zmaksymalizować nasz zysk powinniśmy najpierw pogadać z Fernando mając w ekwipunku ze wszystkich dowodów jedynie 1 pałasz bandytów i zgodzić się na jego ofertę, następnie wydajemy go u Martina. Na końcu gadamy z Vatrasem.
 
 ## Horror na cmentarzu
 __Zleca: Lothar__
@@ -492,7 +492,7 @@ Garvell chce się dowiedzieć, dlaczego Paladyni przybyli do miasta. Rozmawiamy 
 ## Problemy ze strażą
 __Zleca: Farim__
 
-Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc, dodatkowo dostajemy bonus [`Retoryka +1`]. Wracamy do Farima.
+Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc, dodatkowo dostajemy bonus `Retoryka +1`. Wracamy do Farima.
 
 ## Jedzenie dla Farima
 __Zleca: Farim__
@@ -531,12 +531,12 @@ Kamienne tabliczki są porozmieszczane w różnych lokacjach. Zadanie kończy si
 ## Klienci Coragona
 __Zleca: Coragon__
 
-Coragon skarży się na brak klientów. Idziemy do Martina i rozmawiamy z nim o problemie, za co dostajemy bonus [`Retoryka +1`]. Następnego dnia wracamy do Coragona, a zadanie się kończy.
+Coragon skarży się na brak klientów. Idziemy do Martina i rozmawiamy z nim o problemie, za co dostajemy bonus `Retoryka +1`. Następnego dnia wracamy do Coragona, a zadanie się kończy.
 
 ## Klucz Constantino
 __Zleca: Constantino__
 
-Zadanie można dostać zaraz po odblokowaniu możliwość rozmowy z mistrzami. Constantino zgubił swój klucz, ale nie wie gdzie. Zuris powie nam, że Constantino zbierał zioła przy wschodniej bramie, więc zagadujemy Mikę, który odsprzeda nam klucz, z którym wracamy do alchemika.
+Zadanie można dostać zaraz po odblokowaniu możliwości rozmowy z mistrzami. Constantino zgubił swój klucz, ale nie wie gdzie. Zuris powie nam, że Constantino zbierał zioła przy wschodniej bramie, więc zagadujemy Mikę, który odsprzeda nam klucz, z którym wracamy do alchemika.
 
 ## Kupieckie złoto
 __Zleca: Jora__
@@ -546,7 +546,7 @@ Jora mówi nam, że Rengaru go okradł. Wykonujemy zadanie [Bezczelny złodziej]
 ## Leniwy farmer
 __Zleca: Till__
 
-Till na farmie Sekoba skarży się, że Bronko nic nie robi i wyłudza haracz. Targujemy się z Tillem, aż do 100 złotych monet, za co dostajemy bonus [`Retoryka +1`]. 
+Till na farmie Sekoba skarży się, że Bronko nic nie robi i wyłudza haracz. Targujemy się z Tillem, aż do 100 złotych monet, za co dostajemy bonus `Retoryka +1`. 
 Idziemy obić mordę Bronko, a po wszystkim wracamy do Tilla.
 
 ## Lucia
@@ -564,7 +564,7 @@ Od Bartoka możemy się dowiedzieć, że Bosperowi skradziono łuk, który znajd
 ## Magiczny dziennik
 __Zleca: Vatras__
 
-Vatras mówi nam, że ktoś ukradł mu dziennik. Idziemy do Cassii i jak mamy 15 retoryki to wybieramy odpowiednią opcję (dostaniemy wtedy bonus [`Retoryka +1`]) i dowiadujemy się, że dziennik ma Ramirez. Idziemy do Ramireza i jeśli mamy 20 retoryki odda nam dziennik za darmo (dostaniemy wtedy kolejny bonus [`Retoryka +1`]), jeśli nie mamy retoryki płacimy 100 złota.  
+Vatras mówi nam, że ktoś ukradł mu dziennik. Idziemy do Cassii i jak mamy 15 retoryki to wybieramy odpowiednią opcję (dostaniemy wtedy bonus `Retoryka +1`) i dowiadujemy się, że dziennik ma Ramirez. Idziemy do Ramireza i jeśli mamy 20 retoryki odda nam dziennik za darmo (dostaniemy wtedy kolejny bonus `Retoryka +1`), jeśli nie mamy retoryki płacimy 100 złota.  
 > Jeśli zabiliśmy Attilę, nie ma możliwości dostania dziennika za darmo
 
 Na końcu czytamy dziennik i oddajemy go Vatrasowi.
@@ -574,7 +574,7 @@ __Zleca: Alrik__
 
 Alrik mówi nam, że sprzedał swój miecz kupcowi o imieniu Jora i prosi, abyśmy go odzyskali.  
 Miecz od Jory możemy kupić za 50 sztuk złota, albo uzyskać za darmo.  
-Aby zdobyć miecz za darmo należy najpierw wykonać zadanie ze schwytaniem złodzieja, a dopiero później zapytać go o miecz. Dodatkowo dostaniemy wtedy bonus [`Retoryka +1`].  
+Aby zdobyć miecz za darmo należy najpierw wykonać zadanie ze schwytaniem złodzieja, a dopiero później zapytać go o miecz. Dodatkowo dostaniemy wtedy bonus `Retoryka +1`.  
 Gdy już zdobędziemy miecz to wracamy do Alrika.
 
 ## Mikstury dla Vatrasa
@@ -593,7 +593,7 @@ Matteo opowiada nam o skradzionej formie do pierścieni. Po zrobieniu zadania z 
 ## Nieziemskie sny
 __Zleca: Loa__
 
-O 18 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga; Za żaden nie przyjmujemy nagrody)
+O 18:00 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga! Za żaden nie przyjmujemy nagrody)
 
 - Poezja Myrtańska (Sprzedaje ją Matteo, czytamy -> oddajemy Galahadowi -> odkupujemy od Galahada -> zanosimy do Loi)
 - Naszyjnik z czarnych pereł (Wykonać zadanie [Narzędzia Matteo](##narzędzia-matteo) i przynieść mu 5 czarnych pereł oraz sztabkę złota)
@@ -605,7 +605,7 @@ Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po 
 - Moje myśli płyną podobnym torem, co twoje.
 - Rozumiem ich.
 
-Dostajemy za to bonus [`Retoryka +1`]
+Dostajemy za to bonus `Retoryka +1`
 
 Teraz powinna się odpalić cutscenka jak Loa schodzi na dół latarni, po jej zakończeniu schodzimy na dół i zaraz po wyjściu z latarni skręcamy w prawo za latarnię. Po cutscence otrzymujemy 5PN, a zadanie się kończy.
 > Na utrudnionym nightmare dostajemy 3PN zamiast 5
@@ -641,7 +641,7 @@ Oddajemy pancerz Jessemu, a on w podzięce oferuje nam pierścień ochrony (dobr
 ## Pierwsza mikstura
 __Zleca: Constantino__
 
-Zadanie otrzymamy gdy tylko gdy potrafimy już stworzyć jakąkolwiek miksturę lub jesteśmy czeladnikiem u Constantina. Pytamy go o naukę alchemii, a ten daje nam recepturę na miksturę by sprawdzić czy się nadajemy. Próbujemy ją stworzyć i nie udaje się nam, więc idziemy do Salandrila, który mówi, że ta receptura to bzdura. Wracamy do Constantino, który chwali nas za spostrzegawczość i zgadza się nas uczyć.
+Zadanie otrzymamy tylko gdy potrafimy już stworzyć jakąkolwiek miksturę lub jesteśmy czeladnikiem u Constantina. Pytamy go o naukę alchemii, a ten daje nam recepturę na miksturę by sprawdzić czy się nadajemy. Próbujemy ją stworzyć i nie udaje się nam, więc idziemy do Salandrila, który mówi, że ta receptura to bzdura. Wracamy do Constantino, który chwali nas za spostrzegawczość i zgadza się nas uczyć.
 
 ## Piracki handel
 __Zleca: Skip__
@@ -659,7 +659,7 @@ Lares prosi nas o znalezienie mu zastępcy. Zakładamy pierścień wodnego kręg
 __Zleca: Nefarius__
 
 Nefarius zleca nam zebranie wszystkich ornamentów:
-- W kamiennym kręgu w lesie na północy, idziemy tam z Laresem (Lares pomaga nam tylko na poziomie Gothic)
+- W kamiennym kręgu w lesie na północy, idziemy tam z Laresem (Lares pomaga nam tylko na poziomie trudności Gothic)
 - W kamiennym kręgu obok farmy Sekoba
 - Ostatni ma Lothar (trzeba najpierw odwiedzić kamienny krąg koło farmy Lobarta)
   
@@ -684,7 +684,7 @@ Zleca Ogrodnik po tym jak pokażemy mu złodziejski gest. Prosi nas o przyniesie
 ## Przeklęta latarnia
 __Zleca: Jack__
 
-Jack opowiada nam o przeklętej latarni na morzu. Płyniemy tam i wspinamy się na samą górę. Wciskamy przycisk na ścianie obok dziwnego szkieletu, dostajemy wpis do dziennika, schodzimy piętro niżej i znajdziemy pierścień z napisem zaczynającym się na "Ha". Zanim opuścisz latarnię upewnij się, że podniosłeś pierścień teleportacyjny leżący na parterze. Dla dodatkowego expa możemy pogadać z Haradem, Hakonem i Halvorem, jednak naszym celem jest właścicielka gospody Hanna, która opowiada nam tragiczną historię. Teraz idziemy do Xardasa, który da nam zwój przyzwania ducha. Czytamy go na szczycie latarni, po czym schodzimy na dół i rozmawiamy z widmem, który żali się, że zdradziecko zamordował go pirat Kevlar. Wracamy do Xardasa, a ten mówi nam, że tylko spotkanie mordercy i widma twarzą w twarz może zdjąć klątwę z latarni. Poszukiwania pirata rozpoczynamy u Kardifa, który odeśle nas do Jacka, a ten stwierdzi, że nie zna żadnego Kevlara. Teraz mając w dzienniku przyjęte zadanie [Fajka Jacka](#fajka-jacka) idziemy do obozu piratów, dostajemy się do chaty Grega i gadamy z nim w momencie gdy ten pali fajkę. Dowiemy się od niego, że osoba, która poprosiła nas o fajkę to sam Kevlar. Wracamy do Jacka, mówimy mu, że trzeba załatwić sprawę z latarnią, ten się zgadza i musimy spotkać się z nim przy latarni o północy. Razem z Jackiem podchodzimy do ducha i teraz mamy 2 opcje:
+Jack opowiada nam o przeklętej latarni na morzu. Płyniemy tam i wspinamy się na samą górę. Wciskamy przycisk na ścianie obok dziwnego szkieletu, dostajemy wpis do dziennika, schodzimy piętro niżej i znajdujemy pierścień z napisem zaczynającym się na "Ha". Zanim opuścisz latarnię upewnij się, że podniosłeś pierścień teleportacyjny leżący na parterze. Dla dodatkowego expa możemy pogadać z Haradem, Hakonem i Halvorem, jednak naszym celem jest właścicielka gospody Hanna, która opowiada nam tragiczną historię. Teraz idziemy do Xardasa, który da nam zwój przyzwania ducha. Czytamy go na szczycie latarni, po czym schodzimy na dół i rozmawiamy z widmem, który żali się, że zdradziecko zamordował go pirat Kevlar. Wracamy do Xardasa, a ten mówi nam, że tylko spotkanie mordercy i widma twarzą w twarz może zdjąć klątwę z latarni. Poszukiwania pirata rozpoczynamy u Kardifa, który odeśle nas do Jacka, a ten stwierdzi, że nie zna żadnego Kevlara. Teraz mając w dzienniku przyjęte zadanie [Fajka Jacka](#fajka-jacka) idziemy do obozu piratów, dostajemy się do chaty Grega i gadamy z nim w momencie gdy ten pali fajkę. Dowiemy się od niego, że osoba, która poprosiła nas o fajkę to sam Kevlar. Wracamy do Jacka, mówimy mu, że trzeba załatwić sprawę z latarnią, ten się zgadza i musimy spotkać się z nim przy latarni o północy. Razem z Jackiem podchodzimy do ducha i teraz mamy 2 opcje:
 - rozkazać duchowi by nie zabijał Jacka i zapalić latarnię (Jack przeżyje i straci oko, wymaga 40 retoryki)
 - posłuchać ducha i zapalić latarnię (Jack zginie)
 
@@ -818,7 +818,7 @@ Canthar prosi nas, abyśmy odzyskali jego stoisko na targu. Mówi nam, abyśmy p
 __Zleca: Harad__
 
 Po wykonaniu zadania Wielkie wyzwanie pytamy Harada o jego przeszłość wtedy ten zleca nam misję byśmy przynieśli mu amulet orka elity. W lesie nieopodal farmy Akila pojawi się specjalny ork, chociaż może być to dowolny czarny ork wojownik.  
-Zabijamy orka, zabieramy amulet i oddajemy go Haradowi. Nagrodą jest miecz 1H siła więc z zadaniem warto pospieszyć się jedynie gdy gramy pod tarczownika.
+Zabijamy orka, zabieramy amulet i oddajemy go Haradowi. Nagrodą jest miecz 1H siła, więc z zadaniem warto pospieszyć się jedynie, gdy gramy pod tarczownika.
 
 > Ork elita na tym etapie jest ciężkim przeciwnikiem, dlatego warto skorzystać z pomocy Laresa, gdy wybieramy się z nim po ornament.
 
@@ -859,7 +859,7 @@ Rozmawiamy z niewolnikami, a następnie mówimy Valeranowi o naszej decyzji:
 __Zleca: Balthasar__
 
 Balthasar z farmy Sekoba mówi nam, że Bengar zabrania mu wyprowadzać owce na swoje pastwiska. Idziemy do Bengara i dowiadujemy się, że nie lubi on Balthasara. Bengar się zgodzi dopiero, kiedy pozbędziemy się strażników miejskich w zadaniu [Odpędzić straż](sekcje/gildie_glowne/lowca_smokow.md?id=odpędzić-straż), lub gdy należymy do jakiejś gildii.  
-Gdy Bengar się zgodzi dostajemy bonus [`Retoryka +1`], a my możemy wrócić do Balthasara.
+Gdy Bengar się zgodzi dostajemy bonus `Retoryka +1`, a my możemy wrócić do Balthasara.
 
 ## Zarzuty Parlana
 
@@ -867,10 +867,10 @@ Gdy Bengar się zgodzi dostajemy bonus [`Retoryka +1`], a my możemy wrócić do
 > Aby je otrzymać musimy posiadać conajmniej 10 retoryki lub posiadać umiejętność czarnej magii.
 
 Musimy się włamać do klasztoru dachem i zagadać do Parlana, ale musi to być pierwsze wejście do klasztoru, bo jeśli już tam byliśmy wcześniej, w zadaniu dla kupców albo po dołączeniu jako nowicjusz, to zadanie przepadnie.  
-W rozmowie z Parlanem wybieramy opcję z retoryką lub czarną magią, za co dodatkowo dostajemy bonus [`Retoryka +1`], po czym zleci on nam zadanie, aby kupić od Lehmara relikwię magów ognia (Wymagane 1000 sztuk złota, aby Lehmar otworzył sklep).  
+W rozmowie z Parlanem wybieramy opcję z retoryką lub czarną magią, za co dodatkowo dostajemy bonus `Retoryka +1`, po czym zleci on nam zadanie, aby kupić od Lehmara relikwię magów ognia (Wymagane 1000 sztuk złota, aby Lehmar otworzył sklep).  
 Po kupnie przedmiotu wracamy do Parlana po nagrodę.
 
 ## Złota misa Bromora
 __Zleca: Bromor__
 
-Bromor mówi nam, że Lucia ukradła mu złotą misję i prosi o jej odzyskanie. Misę ma jeden z bandytów za farmą Sekoba (tam, gdzie znajdujemy list pożegnalny Lucii).
+Bromor mówi nam, że Lucia ukradła mu złotą misę i prosi o jej odzyskanie. Misę ma jeden z bandytów za farmą Sekoba (tam, gdzie znajdujemy list pożegnalny Lucii).

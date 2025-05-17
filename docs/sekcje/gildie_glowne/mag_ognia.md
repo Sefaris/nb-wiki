@@ -32,7 +32,7 @@ Teraz sami idziemy pozamiatać komnatę po lewo przed pokojem magów po lewej st
 
 ## Baranie kiełbasy
 
-Gorax daje nam klucz do klasztornej spiżarni, mamy zabrać stamtąd baranie kiełbasy i oddać nowicjuszom. Idziemy do spiżarni i wyjmujemy kiełbasy z kufra, a następnie rozdajemy je nowicjuszom. Pedro i Babo chcą dwie kiełbasy, niestety tylko jednemu z nich możemy ofiarować dodatkową kiełbasę. Pedro opowie nam o miejscu, gdzie znajdziemy ogniste pokrzywy dla Neorasa (których nie da się nie zauważyć, idąc do klasztoru), a Babo da nam magiczne zwoje.  
+Gorax daje nam klucz do klasztornej spiżarni, mamy zabrać stamtąd baranie kiełbasy i rozdać nowicjuszom. Idziemy do spiżarni i wyjmujemy kiełbasy z kufra, a następnie rozdajemy je nowicjuszom. Pedro i Babo chcą dwie kiełbasy, niestety tylko jednemu z nich możemy ofiarować dodatkową kiełbasę. Pedro opowie nam o miejscu, gdzie znajdziemy ogniste pokrzywy dla Neorasa (których nie da się nie zauważyć, idąc do klasztoru), a Babo da nam magiczne zwoje.  
 Po rozdaniu kiełbas wracamy do Goraxa.
 
 ## Winogrona
