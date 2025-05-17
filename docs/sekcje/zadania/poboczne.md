@@ -82,7 +82,7 @@ Klikamy w przycisk z przodu ołtarzyka przed Janusem i przechodzimy przez bramę
 - 175 zdrowia i 50 wytrzymałości  
 
 Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janus, pokonany przez kapłankę Beliara. Po krótkiej rozmowie dochodzi do walki, zabijamy ją, a zadanie się kończy.
-> Kapłanka dropi najsileniejszą szablę w grze. 
+> Kapłanka dropi najlepszą szablę w grze. 
 
 ## Świątynia Śniącego
 __Zleca: Xardas__
