@@ -327,7 +327,7 @@ Fernando chce zdobyć Podręcznik Retoryki, który jest w posiadaniu Gallahada. 
 ## Prośba Ignaza
 __Zleca: Ignaz__
 
-Ignaz prosi nas o przypomnienie Gallahadowi, że ten miał przynieść mu paczkę ziół
+Ignaz prosi nas o przypomnienie Gallahadowi, że ten miał przynieść mu paczkę ziół.
 
 ## Tajemnicze spotkanie
 __Zleca: Gerbrandt__
@@ -415,7 +415,7 @@ Gadamy z Randolphem na farmie Akila. Opowiada on nam o turnieju w piciu, który 
 ## Dostawa Baltrama
 __Zleca: Baltram__
 
-Baltram prosi nas o przyniesienie mu paczki z żywnością z farmy Akila. Udajemy się do Akila, zabijamy najemników (patrz zadanie [Farmer w potrzebie](#farmer-w-potrzebie)) i odbieramy paczkę, po czym odnosimy ją do z powrotem do Akila (lub Nagura; patrz zadanie:Fałszywy Posłaniec)
+Baltram prosi nas o przyniesienie mu paczki z żywnością z farmy Akila. Udajemy się do Akila, w ramach zadania [Farmer w potrzebie](#farmer-w-potrzebie) zabijamy najemników i odbieramy paczkę, po czym odnosimy ją do z powrotem do Akila lub Nagura jeżeli wykonujemy zadanie [Fałszywy Posłaniec](#fałszywy-posłaniec)
 
 ## Eksperyment
 __Zleca: Ignaz__
