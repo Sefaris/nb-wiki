@@ -5,9 +5,9 @@
 ### Wykonaj osobny zapis przed wejściem do lokacji, nie można jej opuścić przed ukończeniem w całości.
 
 Po wejściu do lokacji spotykamy szkieleta Ile'Sila, z którym rozmawiamy.  
-Na początek zabijamy bossa pełzacza w tunelu po czym mówimy o tym lle Silowi. Teraz przechodzimy przez tunel i idziemy dalej prosto przed siebie, aż natrafimy na cmentarz. Czeka tam na nas najsilniejszy zombie w grze. 
+Na początek zabijamy bossa pełzacza w tunelu, po czym mówimy o tym lle'Silowi. Teraz przechodzimy przez tunel i idziemy dalej prosto przed siebie, aż natrafimy na cmentarz. Czeka tam na nas najsilniejszy zombie w grze. 
 
-Zabieramy klucz z ciała bossa i otwieramy skrzynię, zabieramy z niej kawałek ciała i wracamy do lle’Sila.
+Zabieramy klucz z ciała bossa i otwieramy skrzynię, zabieramy z niej kawałek ciała i wracamy do lle'Sila.
 
 Teraz wracamy do kamiennego ołtarza, który jest obok cmentarza. Naciskamy piedestał i pojawia się dwójka nowych bossów Słońce i Księżyc. Bossów bijemy na zmianę, jak jeden się nie rusza, możemy zająć się drugim. Po zabiciu bossów znowu klikamy na piedestał, wracamy do lle’Sila, po czym oddaje on nam item który wcześniej mu daliśmy. Musimy wrócić się i położyć go na piedestale, gdzie przed chwilą stoczyliśmy walkę.
 
