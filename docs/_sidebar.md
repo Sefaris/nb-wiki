@@ -1,37 +1,37 @@
 - **Konfiguracja**
-- [Gothic.ini](Sekcje/Konfiguracja/Ini.md)
+- [Gothic.ini](sekcje/konfiguracja/ini.md)
 
 - **Zadania**
-- [Rozdział I](Sekcje/Zadania/Rozdzial_I.md)
-- [Rozdział II](Sekcje/Zadania/Rozdzial_II.md)
-- [Rozdział III](Sekcje/Zadania/Rozdzial_III.md)
-- [Rozdział IV](Sekcje/Zadania/Rozdzial_IV.md)
-- [Rozdział V](Sekcje/Zadania/Rozdzial_V.md)
-- [Poboczne](Sekcje/Zadania/Poboczne.md)
-- [Domyślnie wyłączone](Sekcje/Zadania/Wylaczone.md)
+- [Rozdział I](sekcje/zadania/rozdzial_i.md)
+- [Rozdział II](sekcje/zadania/rozdzial_ii.md)
+- [Rozdział III](sekcje/zadania/rozdzial_iii.md)
+- [Rozdział IV](sekcje/zadania/rozdzial_iv.md)
+- [Rozdział V](sekcje/zadania/rozdzial_v.md)
+- [Poboczne](sekcje/zadania/poboczne.md)
+- [Domyślnie wyłączone](sekcje/zadania/wylaczone.md)
 
 - **Gildie główne**
-- [Łowca Demonów](Sekcje/Gildie_Glowne/Lowca_Demonow.md)
-- [Łowca Smoków](Sekcje/Gildie_Glowne/Lowca_Smokow.md)
-- [Mag Ognia](Sekcje/Gildie_Glowne/Mag_Ognia.md)
-- [Mag Wody](Sekcje/Gildie_Glowne/Mag_Wody.md)
-- [Mroczny Rycerz](Sekcje/Gildie_Glowne/Mroczny_Rycerz.md)
-- [Nekromanta/Czarnoksiężnik/Przywolywacz](Sekcje/Gildie_Glowne/Nekromanta_Czarnoksieznik.md)
-- [Potępiony](Sekcje/Gildie_Glowne/Potepiony.md)
-- [Strażnik Miejski/Paladyn](Sekcje/Gildie_Glowne/Paladyn.md)
-- [Strażnik Świątynny/Guru](Sekcje/Gildie_Glowne/StraznikSwiatynny_Guru.md)
-- [Zwiadowca](Sekcje/Gildie_Glowne/Zwiadowca.md)
+- [Łowca Demonów](sekcje/gildie_glowne/lowca_demonow.md)
+- [Łowca Smoków](sekcje/gildie_glowne/lowca_smokow.md)
+- [Mag Ognia](sekcje/gildie_glowne/mag_ognia.md)
+- [Mag Wody](sekcje/gildie_glowne/mag_wody.md)
+- [Mroczny Rycerz](sekcje/gildie_glowne/mroczny_rycerz.md)
+- [Nekromanta/Czarnoksiężnik/Przywolywacz](sekcje/gildie_glowne/nekromanta_czarnoksieznik.md)
+- [Potępiony](sekcje/gildie_glowne/Potepiony.md)
+- [Strażnik Miejski/Paladyn](sekcje/gildie_glowne/paladyn.md)
+- [Strażnik Świątynny/Guru](sekcje/gildie_glowne/straznikswiatynny_guru.md)
+- [Zwiadowca](sekcje/gildie_glowne/zwiadowca.md)
 
 - **Gildie poboczne**
-- [Informacje dodatkowe](Sekcje/Gildie_Poboczne/Info.md)
-- [Gildia Kupców](Sekcje/Gildie_Poboczne/Gildia_Kupcow.md)
-- [Gildia Myśliwych](Sekcje/Gildie_Poboczne/Gildia_Mysliwych.md)
-- [Gildia Zabójców](Sekcje/Gildie_Poboczne/Gildia_Zabojcow.md)
-- [Gildia Złodziei](Sekcje/Gildie_Poboczne/Gildia_Zlodziei.md)
+- [Informacje dodatkowe](sekcje/gildie_poboczne/info.md)
+- [Gildia Kupców](sekcje/gildie_poboczne/gildia_kupcow.md)
+- [Gildia Myśliwych](sekcje/gildie_poboczne/gildia_mysliwych.md)
+- [Gildia Zabójców](sekcje/gildie_poboczne/gildia_zabojcow.md)
+- [Gildia Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md)
 
 - **Wątki poboczne**
-- [Fort Azgan](Sekcje/Watki/Fort_Azgan.md)
-- [Opiekunowie](Sekcje/Watki/Opiekunowie.md)
+- [Fort Azgan](sekcje/watki/fort_azgan.md)
+- [Opiekunowie](sekcje/watki/opiekunowie.md)
 
 - **Linki**
 - [Instalacja](https://sefaris.eu/new-balance/installation)
