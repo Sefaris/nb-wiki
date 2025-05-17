@@ -1,6 +1,6 @@
 # Mag wody
 
-> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](Sekcje/Gildie_Poboczne/Gildia_Zlodziei.md).  
+> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md).  
 > Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
 
 ## Przyjęcie do Magów Wody

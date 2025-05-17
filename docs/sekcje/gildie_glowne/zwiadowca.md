@@ -100,7 +100,7 @@ Musimy odnaleźć cztery złote klucze rączki, aby otworzyć przejście w dawne
 Lokalizacja kluczy:  
 1. W skarbcu na wyspie złodziei
 2. Posiada go rączka - zdobycie go wymaga 60 retoryki
-3. Zakopany w pobliżu wykopalisk Magów Wody, można wykopać w trakcie zadania dla Hanny - [Ktoś coś zgubił?](Sekcje/Zadania/Rozdzial_III.md?id=ktoś-coś-zgubił)
+3. Zakopany w pobliżu wykopalisk Magów Wody, można wykopać w trakcie zadania dla Hanny - [Ktoś coś zgubił?](sekcje/zadania/rozdzial_iii.md?id=ktoś-coś-zgubił)
 4. Posiada Erwin w nowej lokacji za górami trolli, do której udajemy się w zadaniu [Sztandar Ognia](#sztandar-ognia)
 
 ## Na tropie zdrady (Rozdział 4)

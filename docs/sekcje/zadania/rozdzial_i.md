@@ -178,7 +178,7 @@ Po wejściu do miasta można zauważyć, że mistrzowie nie chcą z nami rozmawi
 #### __Pablo__
 
 Udajemy sie do Pablo, który na początek każe nam zdobyć strój obywatela.  
-Ubranie można kupić od Hanny za 100 sztuk złota (lub 50 jeśli należymy do [Gildii Złodziei](Sekcje/Gildie_Poboczne/Gildia_Zlodziei.md)), lub znaleźć na jednym z dachów w Górnym Mieście, do którego można się wkraść nocą z jednego ze straganów koło rynku.  
+Ubranie można kupić od Hanny za 100 sztuk złota (lub 50 jeśli należymy do [Gildii Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md)), lub znaleźć na jednym z dachów w Górnym Mieście, do którego można się wkraść nocą z jednego ze straganów koło rynku.  
 Druga opcja jest zdecydowanie lepsza, ponieważ zdobywamy wtedy osiągnięcie `Biedny arystokrata` oraz dodatkowe doświadczenie.  
   
 Gdy już mamy strój to wracamy do Pablo, który każe nam zdobyć popracie od wpływowych mieszkańców z dzielnicy portowej.  
@@ -465,7 +465,7 @@ __Zleca: Lothar__
 Lothar prosi nas, abyśmy udali się w nocy na cmentarz obok miasta i sprawdzili co się tam dzieje. Idziemy nocą na cmentarz, zabijamy 2 kretoszczury i wracamy do Lothara. Dowiadujemy się od niego, że zaginęła obywatelka Vanessa. Idziemy o nią spytać Fenie w porcie, po czym do Kardifa, u którego kupujemy informacje. Potem udajemy się do magazynu portowego (między Jackiem, a koszarami, tam gdzie jest paczka z zielem), gdzie w dolnym pomieszczeniu znajdziemy ubranie.  
 Wracamy do Lothara, a ten nas wysyła do Constantino, aby wypytać o jego ucznia Rigeliona. Dowiadujemy się od niego, że jego uczeń przyjaźnił się z zarządcą cmentarza. Rozmawiamy z nim, po czym wracamy w nocy na cmentarz, gdzie czeka na nas zabójca. Czytamy jego notatkę i podnosimy kości, które leżą na przeciwnym końcu cmentarza. Udajemy się z nimi do Xardasa, który stwierdza obecność nekromanty w Khorinis. Z tą informacją udajemy się do Lothara, po czym z powrotem na cmentarz, na którym staczamy walkę z Rigelionem. Na koniec informujemy o wszystkim Lothara i odbieramy nagrodę.
 
-> Po tym zadaniu możemy zostać [Mrocznym Rycerzem](Sekcje/Gildie_Glowne/Mroczny_Rycerz.md?id=mroczny-rycerz)
+> Po tym zadaniu możemy zostać [Mrocznym Rycerzem](sekcje/gildie_glowne/mroczny_rycerz.md?id=mroczny-rycerz)
 
 ## Informacje dla Garvella
 __Zleca: Garvell__
@@ -836,12 +836,12 @@ Rozmawiamy z niewolnikami, a następnie mówimy Valeranowi o naszej decyzji:
     - Po prostu zabije was wszystkich - Bonus za odwagę - 3000 expa, 2000 złota i 500 expa od niewolników.  
     - Puść niewolników - Musimy zabić wszystkich, ale dostajemy +35 karmy u Innosa, 1000 expa oraz 500 expa i 1200 złota za uwolnienie niewolników.
 
-> Najkorzystniej wybrać jedną z opcji, w której Valeran przeżyje, czyli albo zrezygnować na początku, albo z nimi współpracować. Jest on najlepszym wyborem z zadania [Asystent](Sekcje/Gildie_Poboczne/Gildia_Kupcow.md?id=asystent-rozdział-3), gdyż daje nam wtedy książkę zwiększającą władanie broniami 1h i 2h o 1%, a następnie 1 many lub 2 HP za oddanie jej Galahadowi.
+> Najkorzystniej wybrać jedną z opcji, w której Valeran przeżyje, czyli albo zrezygnować na początku, albo z nimi współpracować. Jest on najlepszym wyborem z zadania [Asystent](sekcje/gildie_poboczne/gildia_kupcow.md?id=asystent-rozdział-3), gdyż daje nam wtedy książkę zwiększającą władanie broniami 1h i 2h o 1%, a następnie 1 many lub 2 HP za oddanie jej Galahadowi.
 
 ## Zakazane pastwisko
 __Zleca: Balthasar__
 
-Balthasar z farmy Sekoba mówi nam, że Bengar zabrania mu wyprowadzać owce na swoje pastwiska. Idziemy do Bengara i dowiadujemy się, że nie lubi on Balthasara. Bengar się zgodzi dopiero, kiedy pozbędziemy się strażników miejskich w zadaniu [Odpędzić straż](Sekcje/Gildie_Glowne/Lowca_Smokow.md?id=odpędzić-straż), lub gdy należymy do jakiejś gildii.  
+Balthasar z farmy Sekoba mówi nam, że Bengar zabrania mu wyprowadzać owce na swoje pastwiska. Idziemy do Bengara i dowiadujemy się, że nie lubi on Balthasara. Bengar się zgodzi dopiero, kiedy pozbędziemy się strażników miejskich w zadaniu [Odpędzić straż](sekcje/gildie_glowne/lowca_smokow.md?id=odpędzić-straż), lub gdy należymy do jakiejś gildii.  
 Gdy Bengar się zgodzi dostajemy bonus [`Retoryka +1`], a my możemy wrócić do Balthasara.
 
 ## Zarzuty Parlana
