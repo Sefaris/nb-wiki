@@ -87,8 +87,7 @@ Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janus, pokonany prz
 ## Świątynia Śniącego
 __Zleca: Xardas__
 
-Zadanie zlecone na początku gry, można je wykonać dopiero po zakończeniu [wątku z orkami](#wątek-orków). By uzyskać dostęp do świątyni musimy zabić demona w starym obozie bractwa na bagnach oraz demona w kopalni orków.
-Udajemy się do leża Śniącego, zabijamy nekromantę i odzyskujemy Uriziela. Udajemy się teraz do Xardasa, u którego możemy zadecydować o losie Uriziela i Maski Śniącego.
+Zadanie zlecone na początku gry, można je wykonać dopiero w trakcie [wątku z orkami](sekcje/watki/orkowie.md). By uzyskać dostęp do świątyni musimy zabić demona w starym obozie bractwa na bagnach oraz demona w kopalni orków. Udajemy się do leża Śniącego, zabijamy nekromantę i odzyskujemy Uriziela. Udajemy się teraz do Xardasa, u którego możemy zadecydować o losie Uriziela i Maski Śniącego.
 > Jeżeli zrobiliśmy to zadanie w 5 rozdziale to idziemy do Kreola.
 
 # Szpon Beliara
