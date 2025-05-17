@@ -21,7 +21,7 @@ Hakon na targowisku mówi nam, że został napadnięty i obrabowany przez bandyt
 
 ## Bezczelny złodziej
 
-Powiązane z zadaniem "Kupieckie złoto" Po tym jak powiemy Rangarowi że ma pieniądzę Jory ten zacznie uciekać, doganiamy go i mamy mamy dwie opcje wsadzić za kratki albo uwolnić. Ja polecam odebrać od niego złoto Jory a potem pozwolić mu odejść, gdyż za pokazanie mu gestu złodziejskiego da nam +1 zręczności.
+Powiązane z zadaniem [Kupieckie złoto](https://nb.mody.sefaris.eu/#/sekcje/zadania/rozdzial_i?id=kupieckie-z%c5%82oto). Po tym jak powiemy Rangarowi, że ma pieniądze Jory ten zacznie uciekać, doganiamy go i mamy dwie opcje: wsadzić za kratki albo uwolnić. Ja polecam odebrać od niego złoto Jory a potem pozwolić mu odejść, gdyż za pokazanie mu gestu złodziejskiego da nam `+1 zręczności`.
 
 ## Pierścień Constantina
 
@@ -33,7 +33,7 @@ Ramirez prosi nas o przyniesienie sekstansu, który można ukraść Brahimowi lu
 
 ## Gdzie jest Rączka?
 
-Gdy pytamy Cassie o jej mentora ona opowiada nam o Rączce, zleca odnalezienie go. Rączka znajduje się na plaży w Forcie Azgan. Gadamy z nim, a potem wracamy do Cassi.
+Gdy pytamy Cassie o jej mentora, opowiada nam o Rączce i zleca jego odnalezienie. Rączka znajduje się na plaży w Forcie Azgan. Gadamy z nim, a potem wracamy do Cassi.
 
 ## Znudzony Jasper
 
@@ -48,9 +48,9 @@ Położenie pucharów:
 - U Gerbrandta. W pierwszym domu po prawo, na piętrze znajdziemy skrzynię z pucharem.
 - U Valentino. W drugim domu po prawo, na piętrze znajdziemy lampę, którą należy kliknąć. Na parterze odsłoni się skrytka. Klucz musimy ukraść, pobić Valentino lub odkupić od ogrodnika.
 - W domu sędziego. Należy wcisnąć tarcze na piętrze, która odsłoni skrytkę ze skrzynią. Klucz musimy ukraść lub odkupić od ogrodnika.
-- U Salandrila. Wciskamy przycisk na za ladą w jego sklepie. Klucz musimy mu ukraść lub odkupić od ogrodnika.
-- W domu obok Salandrila. Klucz leży na stoliku, a skrzynia między łóżkami
-- U Lehmara. W skrzyni między łóżkami na piętrze
+- U Salandrila. Wciskamy przycisk za ladą w jego sklepie. Klucz musimy mu ukraść lub odkupić od ogrodnika.
+- W domu obok Salandrila. Klucz leży na stoliku, a skrzynia stoi między łóżkami.
+- U Lehmara. W skrzyni między łóżkami na piętrze.
 
 Po zebraniu wszystkich pucharów zanosimy je Cassii i odbieramy nagrodę.
 
@@ -86,4 +86,4 @@ Cassia mówi nam że Paladyni przywieźli wielki rubin, znajduje się on w skrzy
 
 ## Skarb smoków (Rozdział 4)
 
-Cassia jest zainteresowana specjalnymi przedmiotami w skarbach smoków. Musimy zabić smoki, otworzyć ich skrzynie i zabrać cenne przedmiote. Kiedy zbierzemy wszystkie 4 zanosimy je Cassii.
+Cassia jest zainteresowana specjalnymi przedmiotami w skarbach smoków. Musimy zabić smoki, otworzyć ich skrzynie i zabrać cenne przedmioty. Kiedy zbierzemy wszystkie 4 zanosimy je Cassii.
