@@ -1,411 +1,597 @@
 # Zadania domyślnie wyłączone
 
-# Opiekunowie
+### Opiekunowie
 
-Zadanie zaczyna się jak przyjmiemy ofertę Dagotha na początku gry. Po zabiciu smoka ożywieńca na Irdorath pojawia się Dagoth. Okazuje się, że opiekunowie nas zdradzili. Dagoth znika, a my musimy pokonać cztery demony. Gadamy z Pyrokarem w klasztorze i wykonujemy zadanie  
-Dziwne rzeczy, po czym znów gadamy z Pyrokarem  
-Zadanie ruszymy dalej dopiero po zebraniu armii i po tym jak dostaniemy zadanie od Lee- Potężni patroni orków. Pyrokar mówi nam, że opiekunowie w jakiś sposób pomagają orkom.  
-Udajemy się do Netbeka, który przygotowywuje nas do walki z opiekunami.  
-Musimy zdobyć moc trzech bogów oraz artefakt zdolny zranić opiekunów.  
-Moc Adanosa dostaniemy po pomodleniu się do pulpitu w Czyśćcu Adanosa (trzeba zrobić zadanie Zemsta Pradawnych), natomiast moc Innosa i Beliara jak zadania Wola Innosa i Wola Beliara.  
-Po uzyskaniu mocy bogów pytamy Netbeka o broń przeciw opiekunom. Powie on nam, że potrzebujemy do tego elementów czterech żywiołów.  
-W takim razie aby zdobyć te elementy wykonujemy zadanie Potężni patroni orków i Śniący. Dodatkowo potrzebny będzie przedmiot w który zaklniemy moc żywiołów:
+Zadanie zaczyna się jak przyjmiemy ofertę Dagotha na początku gry. Po zabiciu smoka ożywieńca na Irdorath pojawia się Dagoth. Okazuje się, że opiekunowie nas zdradzili. Dagoth znika, a my musimy pokonać cztery demony. Gadamy z Pyrokarem w klasztorze i wykonujemy zadanie Dziwne rzeczy, po czym znów gadamy z Pyrokarem.
 
-1. Wojownik  
-   Musimy wykonać miecz z czarnej rudy. Netbek wysyła nas od Darriona u któregowybieramy jaki miecz chcemy zrobić. 1H to pięć kawałków czarnej rudy, natomiast 2H to 10 kawałków.  
-   Darrion powie nam, że orkowie mogą coś wiedzieć o czarnej rudzie, więc gadamy z Ur-Thrallem.  
-   Kiedy mamy już składniki i wybraliśmy u Darriona który miecz chcemy, to kujemy go w kuźni.
+Zadanie ruszy dalej dopiero po zebraniu armii i po tym jak dostaniemy zadanie od Lee – Potężni patroni orków. Pyrokar mówi nam, że opiekunowie w jakiś sposób pomagają orkom. Udajemy się do Netbeka, który przygotowuje nas do walki z opiekunami. Musimy zdobyć moc trzech bogów oraz artefakt zdolny zranić opiekunów.
 
-2. Mag  
-   Netbek mówi nam że do stworzenia runy potrzebujemy kamienia runicznego. Idziemy do Saturasa, który wysyła nas do Starej Wieży Xardasa, skąd bierzemy runę.
+Moc Adanosa dostaniemy po pomodleniu się do pulpitu w Czyśćcu Adanosa (trzeba zrobić zadanie Zemsta Pradawnych), natomiast moc Innosa i Beliara – jak wykonamy zadania Wola Innosa i Wola Beliara.
 
-Kiedy mamy już miecz, bądź runę, potrzebujemy teraz zwoju, który będzie w stanie przenieść moc żywiołów na broń. Idziemy do Pyrokara, czekamy dzień i dostajemy zwój.  
-Jak już mamy zdobyte moce żywiołów (Zadania Potężni patroni orków i Śniący) używamy zwoju i tak oto mamy broń na opiekunów.
+Po uzyskaniu mocy bogów pytamy Netbeka o broń przeciw opiekunom. Powie, że potrzebujemy do tego elementów czterech żywiołów. Aby zdobyć te elementy, wykonujemy zadania Potężni patroni orków i Śniący. Dodatkowo potrzebny będzie przedmiot, w który zaklniemy moc żywiołów:
 
-Udajemy się teraz do lokacji gdzie przebywają Opiekunowie , przeniesiemy się tam runą którą dostaliśmy od Stonnosa po wykonaniu zadań dla Opiekunów (musimy mieć tez założoną koronę demonów z zadania Śniący). Lokacja będzie wypełniona demonami, po zabiciu których okazuje się, że przejście do Stonnosa jest zamknięte. Idziemy tam gdzie pulpity z książkami, zabijamy strażnika i przechodzimy do sal Vakhana. Idziemy cały czas przed siebie, zabijamy demona i bossa na końcu.  
-Z ciała bossa zabieramy serce i kładziemy na ołtarzu za areną z bossem. Teraz pojawi się kolejny boss trudniejszy od poprzedniego. Tego też zabijamy i wracamy do lokacji opiekunów. Teraz wrota do Stonnosa będą otwarte, więc gadamy z opiekunem po czym zabijamy.
+1. **Wojownik**
+   Musimy wykonać miecz z czarnej rudy. Netbek wysyła nas do Darriona, u którego wybieramy, jaki miecz chcemy zrobić. 1H to pięć kawałków czarnej rudy, natomiast 2H to dziesięć. Darrion powie, że orkowie mogą coś wiedzieć o czarnej rudzie – gadamy z Ur-Thrallem. Kiedy mamy już składniki i wybraliśmy u Darriona miecz, kujemu go w kuźni.
 
+2. **Mag**
+   Netbek mówi, że do stworzenia runy potrzebujemy kamienia runicznego. Idziemy do Saturasa, który wysyła nas do Starej Wieży Xardasa, skąd bierzemy runę.
 
-## Adept opiekunów
+Kiedy mamy już miecz bądź runę, potrzebujemy zwoju, który przeniesie moc żywiołów na broń. Idziemy do Pyrokara, czekamy dzień i dostajemy zwój. Gdy mamy zdobyte moce żywiołów (zadania Potężni patroni orków i Śniący), używamy zwoju i tak tworzymy broń na opiekunów.
 
-Zadanie zaczyna się po przyjęciu propozycji Dagotha na początku gry w wieży Xardasa.  
-Następnie musimy wykonać 10 prób dla opiekunów. Każdy opiekun pojawia się dopiero po zakończeniu zadania poprzedniego, a niektóre misje mają wymagania rozdziałów.  
+Udajemy się teraz do lokacji, gdzie przebywają Opiekunowie. Przenosimy się tam runą otrzymaną od Stonnosa po wykonaniu zadań dla Opiekunów (musimy też mieć założoną koronę demonów z zadania Śniący). Lokacja będzie wypełniona demonami. Po ich zabiciu okazuje się, że przejście do Stonnosa jest zamknięte. Idziemy do pulpitu z książkami, zabijamy strażnika i przechodzimy do sal Vakhana. Idziemy cały czas przed siebie, zabijamy demona i bossa na końcu. Z ciała bossa zabieramy serce i kładziemy na ołtarzu za areną z bossem. Pojawia się drugi boss – trudniejszy od poprzedniego. Tego też zabijamy i wracamy do lokacji Opiekunów. Teraz wrota do Stonnosa będą otwarte – rozmawiamy z nim, a potem go zabijamy.
+
+### Adept opiekunów
+
+Zadanie rozpoczyna się po przyjęciu propozycji Dagotha w wieży Xardasa na początku gry. Naszym celem jest wykonanie dziesięciu prób – po jednej dla każdego z Opiekunów. Każdy Opiekun pojawia się dopiero po zakończeniu zadania poprzedniego. Część misji ma także ograniczenia związane z rozdziałami.
+
 Lokalizacja opiekunów:
 
 1. Dagoth - Pojawia się już w pierwszym rozdziale, przy kapliczce Innosa przed jaskinią Próby Ognia
-2. Morius- Pojawia się już przed Wieżą Xardasa po ukończeniu zadania “Serce Luciana”
+2. Morius - Pojawia się już przed Wieżą Xardasa po ukończeniu zadania “Serce Luciana”
 3. Tegon - Pojawia się on na płaskowyżu nad farmą Akila po ukończeniu zadania “Prezent Ofiarny”
-4. Kelios- Pojawia się on dopiero w trzecim rozdziale, przy zniszczonej wieży obok Niclasa, po ukończeniu zadania “Mądrość Opiekunów”
-5. Demos- Pojawia się on na przełęczy Khorinis, po ukończeniu zadania “Rytuał Ognia”
-6. Farion- Pojawia się on na moście do Klasztoru, po ukończeniu zadania “Artefakt Hadesu”
-7. Gader- Pojawia się on w czwartym rozdziale, przy rzece obok mostu na wykopaliska Magów Wody, po ukończeniu zadania “Błagania śmierci”
-8. Narus - Pojawia się on na płaskowyżu obok farmy Bengara, po ukończeniu zadania “Pielgrzym”
-9. Vakon - Pojawia się on na rozwidleniu między farmą Onara, a Sekoba, po ukończeniu zadania “Pierścień Narusa”
+4. Kelios - Pojawia się on dopiero w trzecim rozdziale, przy zniszczonej wieży obok Niclasa, po ukończeniu zadania “Mądrość Opiekunów”
+5. Demos - Pojawia się on na przełęczy Khorinis, po ukończeniu zadania “Rytuał ognia (Rozdział 3)”
+6. Farion - Pojawia się on na moście do Klasztoru, po ukończeniu zadania “Artefakt Hadesu (Rozdział 3)”
+7. Gader - Pojawia się on w czwartym rozdziale, przy rzece obok mostu na wykopaliska Magów Wody, po ukończeniu zadania “Błagania śmierci (Rozdział 3)”
+8. Narus - Pojawia się on na płaskowyżu obok farmy Bengara, po ukończeniu zadania “Pielgrzym (Rozdział 4)”
+9. Vakon - Pojawia się on na rozwidleniu między farmą Onara, a Sekoba, po ukończeniu zadania “Pierścień Narusa (Rozdział 4)”
 10. Stonnos - Pojawia się on w Słonecznym Kręgu, po ukończeniu wszystkich poprzednich zadań
 
-## Serce Luciana
+### Serce Luciana
 
-Dagoth zleca nam zabicie demona Luciana, który znajduje się w jaskini w kotlinie Lestera. Zakładamy otrzymany od niego pierścień i idziemy pogadać z Asgardem, który zabije Luciana za nas. Zbieramy przedmioty z demona i wracamy z nimi do Dagotha
+**Zleca: Dagoth**
 
-## Prezent Ofiarny
+Dagoth zleca nam zabicie demona Luciana, który znajduje się w jaskini w kotlinie Lestera. Zakładamy otrzymany od niego pierścień i idziemy pogadać z Asgardem, który zabije Luciana za nas. Zbieramy przedmioty z demona i wracamy z nimi do Dagotha.
 
-Opiekun Morius zleca nam byśmy stworzyli miksturę z serca Luciana i pokropili nią ołtarz Beliara. Idziemy teraz do podziemi klasztoru, a na stole alchemicznym przed Talomonem znajdziemy księgę zawierającą przepis. Po zdobyciu składników tworzymy miksturę na stole alchemicznym, **zakładamy pierścień** i idziemy pokropić ołtarz. Po skończonej robocie wracamy do Moriusa.
+### Prezent Ofiarny
 
-## Mądrość Opiekunów
+**Zleca: Morius**
 
-Opiekun Tegon zleca nam, abyśmy nauczyli się języka demonów Lenga. Idziemy do Xardasa, który wysyła nas aż za palisadę w Górniczej Dolinie. Tam wchodzimy przez kopalnie do Wieży Mgieł i rozmawiamy z Kreolem, odpowiadając “Chcę przekonać się o Twojej mocy”. Teraz będziemy potrzebować dużo karmy dla Beliara, 20 000 sztuk złota lub osiągnięcia “Ręka Beliara”, które zdobędziemy po zabiciu 100 ludzi(Co zdecydowanie jest najkorzystniejszą opcją).  
-Teraz czytamy pulpity u Kreola i Xardasa (koniecznie wszystkie). Powinna nam się teraz pojawić opcja dialogowa z Tegonem, gdzie wybieramy kolejno odpowiedzi:
+Opiekun Morius zleca nam, byśmy stworzyli miksturę z serca Luciana i pokropili nią ołtarz Beliara. Idziemy teraz do podziemi klasztoru, a na stole alchemicznym przed Talomonem znajdziemy księgę zawierającą przepis. Po zdobyciu składników tworzymy miksturę na stole alchemicznym, **zakładamy pierścień** i idziemy pokropić ołtarz. Po skończonej robocie wracamy do Moriusa.
 
-Żywioły  
-Bogowie  
-Równowaga  
-Wszystko to razem  
-Wiedza  
-Chaos  
-Beliar  
-To jest moja decyzja
+### Mądrość Opiekunów
 
-Po ukończonym queście Tegon udziela nam swojego popracia
+**Zleca: Tegon**
 
-## Rytuał ognia (Rozdział 3)
+Opiekun Tegon zleca nam, abyśmy nauczyli się języka demonów Lenga. Udajemy się do Xardasa, który wysyła nas aż za palisadę w Górniczej Dolinie. Tam, przechodząc przez kopalnię, docieramy do Wieży Mgieł, gdzie rozmawiamy z Kreolem. W dialogu wybieramy opcję: „Chcę przekonać się o Twojej mocy”.
 
-Opiekun Kelios zleca nam abyśmy udali się do ognistej lokacji (Teleport do niej znajduje się obok piramid w Khorinis). Idziemy do tej lokacji czytamy pulpit, po czym wciskamy piedestały na końcu każdej z odnóg i zabijamy wszystkie duchy ognia (prawdziwy jest ognistym golemem). Po wszystkim wracamy na środek lokacji, który teleportuje nas do Khorinis, więc idziemy do Keliosa.
+Aby nauczyć się języka, potrzebujemy jednej z trzech rzeczy:
 
-## Artefakt Hadesu (Rozdział 3)
+- 20 000 sztuk złota, **lub**
+- osiągnięcia „Ręka Beliara” (za zabicie 100 ludzi), **lub**
+- bardzo dużej karmy u Beliara.
 
-Opiekun Demos zleca nam odnalezienie artefaktu orków. Znajduje się on na cmentarzysku orków, udajemy się tam i idziemy do dużej sali z teleportem. Przechodzimy przez ten teleport i zabijamy wszystkich nieumarłych orków oraz zabieramy przedmioty z piedestału. Teraz szukamy takiego oto miejsca:
+Po spełnieniu warunku czytamy wszystkie pulpity u Kreola i Xardasa.
+Jeśli zrobiliśmy to poprawnie, pojawi się nowa opcja dialogowa u Tegona. Wybieramy odpowiedzi w następującej kolejności:
 
-[![](https://steamuserimages-a.akamaihd.net/ugc/969852954270738690/DD9BAF64B3A65540233C775AB15EAD9646BEACF6/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270738690/DD9BAF64B3A65540233C775AB15EAD9646BEACF6/)  
-Wkładamy w te 3 posągi te itemy które wcześniej zebraliśmy. I teraz w głównej sali (gdzie jest teleport na wyższe piętro) pojawi się boss nieumarły szaman (jest on związany z zadaniem Duchy Przeszłości). Zabijamy bossa, zabieramy z jego ciała teleport orków i go używamy. Przeniesie nas tam, gdzie w G1 byliśmy z Baalem Lukorem. Zabieramy artefakt z ołtarza i wracamy do Demosa.
+- Żywioły
+- Bogowie
+- Równowaga
+- Wszystko to razem
+- Wiedza
+- Chaos
+- Beliar
+- To jest moja decyzja
 
-## Błagania śmierci (Rozdział 3)
+Po ukończeniu zadania Tegon udziela nam swojego poparcia.
 
-Opiekun Farion prosi nas byśmy udali się do klasztoru i zabili Paladyna Sergio, gdyż ma on się zmienić w potężnego pana cienia. Idziemy porozmawiać z Mardukiem, który mówi nam, że Sergio wybył z klasztoru. Polecam poczekać aż Sergio zniknie nam z zasięgu wzroku i przeniesie się do Jaskini Próby Ognia, bo walka z nim w klasztorze może skończyć się śmiercią NPC. Po pokonaniu Lorda Senga wracamy do Fariona.
+### Rytuał ognia (Rozdział 3)
 
-## Pielgrzym (Rozdział 4)
+**Zleca: Kelios**
 
-Opiekun Gader daje nam 5 artefaktów i każe je umieścić na ołtarzach w świątyniach budowniczych w Jarkendarze (Chodzi o domy budowniczych gdzie w wątku w Jarkendarze zbieraliśmy kolorowe tablice). Po umieszczeniu wszystkich artefaktów wracamy do Gadera.
+Opiekun Kelios zleca nam, abyśmy udali się do ognistej lokacji. Teleport do niej znajduje się obok piramid w Khorinis. Po dotarciu czytamy pulpit, a następnie aktywujemy piedestały na końcu każdej z odnóg i zabijamy wszystkie duchy ognia. Prawdziwy duch to ognisty golem.
 
-## Pierścień Narusa (Rozdział 4)
+Po wszystkim wracamy na środek lokacji – pojawi się tam teleport, który przeniesie nas z powrotem do Khorinis. Udajemy się z raportem do Keliosa.
 
-Opiekun Narus zleca nam przyniesienie mu jego pierścienia. Znajduje się on za wodospadem obok domu Erola. Wracamy do Narusa, a ten każe nam zachować pierścień przyda nam się on do kolejnego zadania opiekunów.
+### Artefakt Hadesu (Rozdział 3)
 
-## Duch wody (Rozdział 4)
+**Zleca: Demos**
 
-Opiekun Vakon zleca nam uwolnienie ducha wody.  
-Musimy zabić trzy stworzenia, które posiadają moc tego ducha.  
-Te stworzenia to:  
-- magnat Malbar, który pojawi się po otworzeniu jego skrzyni w Kamiennej Fortecy  
-- demon Keyron, którego zabiliśmy idąc do Kruka w Jarkendarze.  
-- orkowy szaman Hosh-Pak, który siedzi na górze między Zburzoną Fortecą, a Zamkiem.
+Opiekun Demos zleca nam odnalezienie artefaktu orków. Znajduje się on na cmentarzysku orków. Udajemy się tam i wchodzimy do dużej sali z teleportem. Przechodzimy przez niego, zabijamy wszystkich nieumarłych orków i zabieramy przedmioty z piedestału.
 
-Następnie udajemy się do obozu orków, który znajduje się na płaskowyżu nad lodowym smokiem i wciskamy kolumnę na wzniesieniu.  
+Następnie szukamy miejsca przedstawionego na screenie:
+
+[![](https://steamuserimages-a.akamaihd.net/ugc/969852954270738690/DD9BAF64B3A65540233C775AB15EAD9646BEACF6/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270738690/DD9BAF64B3A65540233C775AB15EAD9646BEACF6/)
+
+Wkładamy trzy zebrane przedmioty w posągi. W głównej sali (tej z teleportem na wyższe piętro) pojawi się boss – nieumarły szaman. Jest on też związany z zadaniem Duchy Przeszłości. Zabijamy go, zabieramy z ciała teleport orków i używamy go.
+
+Teleport przeniesie nas do miejsca, gdzie w G1 byliśmy z Baalem Lukorem. Zabieramy artefakt z ołtarza i wracamy do Demosa.
+
+### Błagania śmierci (Rozdział 3)
+
+**Zleca: Farion**
+
+Opiekun Farion prosi nas, byśmy udali się do klasztoru i zabili Paladyna Sergio, ponieważ ma się on wkrótce przemienić w potężnego pana cienia. Idziemy porozmawiać z Mardukiem, który informuje nas, że Sergio opuścił klasztor.
+
+Najlepiej poczekać, aż Sergio oddali się od klasztoru i przeniesie do Jaskini Próby Ognia — dzięki temu unikniemy przypadkowej śmierci NPC-ów. Po pokonaniu Lorda Senga wracamy do Fariona.
+
+### Pielgrzym (Rozdział 4)
+
+**Zleca: Gader**
+
+Opiekun Gader daje nam pięć artefaktów i poleca umieścić je na ołtarzach w świątyniach budowniczych w Jarkendarze. Chodzi o te same domy budowniczych, w których w głównym wątku Jarkendaru zbieraliśmy kolorowe tablice.
+
+Po umieszczeniu wszystkich pięciu artefaktów wracamy do Gadera.
+
+### Pierścień Narusa (Rozdział 4)
+
+**Zleca: Narus**
+
+Opiekun Narus zleca nam przyniesienie mu jego pierścienia. Znajduje się on za wodospadem obok domu Erola.
+
+Po odzyskaniu pierścienia wracamy do Narusa. Ten każe nam go zatrzymać, bo przyda się do kolejnego zadania Opiekunów.
+
+### Duch wody (Rozdział 4)
+
+**Zleca: Vakon**
+
+Opiekun Vakon zleca nam uwolnienie ducha wody.
+
+Musimy zabić trzy stworzenia, które posiadają jego moc:
+
+- Magnata Malbara — pojawia się po otwarciu jego skrzyni w Kamiennej Fortecy.
+- Demona Keyrona — zabitego wcześniej przy drodze do Kruka w Jarkendarze.
+- Orkowego szamana Hosh-Paka — siedzi na górze między Zburzoną Fortecą a Zamkiem.
+
+Następnie udajemy się na płaskowyż nad lodowym smokiem do obozu orków i aktywujemy kolumnę na wzniesieniu.
+
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739930393721/B141B2457BC096A2754A53346F638B5FCA47E5D3/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739930393721/B141B2457BC096A2754A53346F638B5FCA47E5D3/)
 
-## Próba wiary
+### Próba wiary
 
-**Warto najpierw zrobić zadanie "Artefakty starożytności" i zamienić sfery w krzyż żywiółów**  
-Opiekun Stonnos zleca nam przyniesienie 4 sfer. Znajdują się one:  
-- Sfera ognia w Starej Kopalni (obok kopalni Marcosa)  
-- Sfera wody w Opuszczonej Kopalni (nad przełęczą Górniczej Doliny)  
-- Sfera ciemności w Zatopionej Wieży Xardasa  
-- Sfera skały w Kopalni Orków (dostęp do niej dostaniemy w wątku orków i tam was odsyłam)  
+**Zleca: Stonnos**
 
-Teraz mamy dwie opcje:
+**Warto najpierw zrobić zadanie „Artefakty starożytności” i zamienić sfery w krzyż żywiołów.**
 
-1. Ze sfer możemy stworzyć krzyż żywiołu do zabicia Senyaka w zadaniu Artefakty Starożytności. Mówimy o tym Stonnosowi, który szanuje nasz wybór i wyraża zgodę..
-2. Oddać sfery Stonnosowi bez robienia krzyża żywiołów (Zyskujemy wcześniej bonus, kosztem utraty potężnej runy). Po zabraniu sfer wyraża on zgodę na dołączenie do kręgu opiekunów.
+Opiekun Stonnos zleca nam przyniesienie czterech sfer. Znajdują się one w następujących miejscach:
 
-Teraz Stonnos każe nam wybrać jedną ze ścieżek: kamienia, wody, ognia lub ciemności. Magowie (poza czarnoksiężnikiem) będą mogli się uczyć czarów z innych “działów” magii.
+- **Sfera ognia** – Stara Kopalnia (obok kopalni Marcosa)
+- **Sfera wody** – Opuszczona Kopalnia (nad przełęczą Górniczej Doliny)
+- **Sfera ciemności** – Zatopiona Wieża Xardasa
+- **Sfera skały** – Kopalnia Orków (dostępna w wątku orków)
 
-Bonusy dla maga
+Następnie mamy dwie opcje:
 
-Ogień: Moc magiczna 8%(Mag Ognia) / 5%(Inni Magowie)  
-Woda: +70 many  
-Ziemia: Regeneracja many +3/sekundę  
-Ciemność: +50 inteligencji
+1. **Użyć sfer do stworzenia krzyża żywiołów** – potrzebne do zabicia Senyaka w zadaniu „Artefakty Starożytności”. Mówimy o tym Stonnosowi, który akceptuje nasz wybór.
+2. **Oddać sfery Stonnosowi** bez tworzenia krzyża (zyskujemy wcześniejszy bonus, ale tracimy potężną runę). Po tym Stonnos zgadza się na nasze dołączenie do kręgu Opiekunów.
 
-Bonusy dla wojowników
+Następnie wybieramy jedną ze ścieżek: **kamienia**, **wody**, **ognia** lub **ciemności**. Magowie (poza czarnoksiężnikiem) mogą uczyć się czarów z innych dziedzin magii.
 
-Ogień: Zdrowie +200, Siła +10, Broń dwuręczna +5%  
-Woda: Zdrowie +200, Ochrona przed magią +50, Wytrzymałość +5, Łuk +5  
-Ziemia: Ochrona przed obrażeniami +15, Ochrona przed upadkiem +5  
-Ciemność: Zręczność +10, Broń jednoręczna +5%, Regeneracja wytrzymałości +2/sekundę
+**Bonusy dla maga:**
 
-Po wybraniu ścieżki u Stonnosa, dostajemy runę i pierścień. Teraz za pomocą runy możemy dostać się do Świątyni Opiekunów.  
-Jako mag otrzymamy od razu szatę, a nasza przygoda z opiekunami się kończy, aż do 7R.  
-Jako wojownik otrzymamy zbroję dopiero jako Asgard, czyli w 5R po pokonaniu smoków.# Jarkendar
+- Ogień: Moc magiczna +8% (Mag Ognia) / +5% (inni magowie)
+- Woda: +70 many
+- Ziemia: Regeneracja many +3/s
+- Ciemność: +50 inteligencji
 
+**Bonusy dla wojownika:**
 
+- Ogień: Zdrowie +200, Siła +10, Broń dwuręczna +5%
+- Woda: Zdrowie +200, Ochrona przed magią +50, Wytrzymałość +5, Łuk +5
+- Ziemia: Ochrona przed obrażeniami +15, Ochrona przed upadkiem +5
+- Ciemność: Zręczność +10, Broń jednoręczna +5%, Regeneracja wytrzymałości +2/s
 
+Po wybraniu ścieżki u Stonnosa dostajemy runę i pierścień. Za pomocą runy możemy udać się do Świątyni Opiekunów.
 
-## Kłopotliwy strażnik
-__Zleca: Taylor__
+- **Magowie**: otrzymują od razu szatę. Przygodę z Opiekunami kończymy aż do 7R.
+- **Wojownicy**: otrzymają zbroję dopiero jako Asgard, czyli w 5R po pokonaniu smoków.
 
-Na farmie Lobarta spotykamy strażnika Taylora. Strażnik Taylor nie będzie zadowolony z naszej obecności, po czym uzna, że jesteśmy zbiegłym więźniem. Teraz musimy wybrać środkową opcję dialogową, inaczej zostaniemy “wyjęci spod prawa”.  
-Następnie zgadzamy się na przeszukanie wieży, idziemy do Xardasa, a następnie wracamy do Taylora. Teraz mamy dwie opcje:
+### Kłopotliwy strażnik
 
-1. Powiedzieć mu, że wieża jest zawalona (wtedy będziemy mogli okraść 1 osobę więcej)
-2. Pójść za nim do wieży, gdzie zabiją go szkielety, a my zyskamy jego ekwipunek.
+**Zleca: Taylor**
 
-## Nocna Bestia
-__Zleca: Xardas__
+Na farmie Lobarta spotykamy strażnika Taylora. Nie będzie on zadowolony z naszej obecności i uzna nas za zbiegłego więźnia. Musimy wybrać środkową opcję dialogową — w przeciwnym razie zostaniemy "wyjęci spod prawa".
 
-Zadanie dostajemy od Xardasa na początku gry. Musimy się udać do stawu obok jaskini z goblinami którą dostajemy się do kotlinki Lestera. Znajduje się tam zębacz, którego zabijamy i wracamy po nagrodę do Xardasa.
+Następnie zgadzamy się na przeszukanie wieży. Idziemy do Xardasa, a potem wracamy do Taylora. Mamy dwie opcje:
 
-## Nóż Hildy
-__Zleca: Hilda__
+1. Powiedzieć mu, że wieża jest zawalona – wtedy będziemy mogli okraść jedną osobę więcej.
+2. Pójść za nim do wieży, gdzie zabiją go szkielety – wtedy zyskujemy jego ekwipunek.
+
+### Nocna Bestia
+
+**Zleca: Xardas**
+
+Zadanie dostajemy od Xardasa na początku gry. Musimy udać się do stawu obok jaskini z goblinami, którą dostajemy się do kotlinki Lestera. Znajduje się tam zębacz, którego zabijamy, a następnie wracamy po nagrodę do Xardasa.
+
+### Nóż Hildy
+
+**Zleca: Hilda**
 
 Hilda prosi nas, abyśmy udali się do miasta i znaleźli kowala, który naostrzy dla nas nóż. Zrobi to dla nas Carl za niewielką opłatą. Z naostrzonym nożem wracamy do Hildy.
 
-## Atak cieniostwora
-__Zleca: Vatras__
+### Atak cieniostwora
+
+**Zleca: Vatras**
 
 > Zadanie jest dostępne po wykonaniu zadania Mikstury dla Vatrasa
 
 Vatras mówi nam o bestii atakującej mieszkańców Khorinis. Chodzi o cieniostwora w jaskini obok latarni Jacka. Zabijamy go i wracamy do Vatrasa.
 
-## Pogromca owiec
+### Pogromca owiec
 
-Zadanie dostępne w 2r po zrobieniu wcześniejszych dwóch zadań dla Pepe z wilkami i z pobiciem Bulka.
+**Zleca: Pepe**
+
+> Zadanie dostępne w 2r po zrobieniu wcześniejszych dwóch zadań dla Pepe: z wilkami i z pobiciem Bulka.
 
 Pepe na farmie Onara mówi nam, że coś porywa jego owce. Idziemy do jaskini niedaleko jeziora przy obozie, gdzie zabijaliśmy dla niego wilki. Tam zabijamy bossa goblinów i wracamy do Pepe.
 
-## Błąd Lorda Andre
-__Zleca: Andre__
+### Błąd Lorda Andre
+
+**Zleca: Andre**
+
 > Zadanie dostępne tylko po wykonaniu zadania "Horror na cmentarzu"
 
-Andre do was zagada i powie nam, że ktoś próbuje go zabić. Andre wysyła nas z podejrzanym zwojem do Vatrasa, który oznajmia, że zwój służy do zabicia konkretnego czytelnika. Wracamy do Andre, po czym idziemy do Gallahada i pokazujemy zwój. Teraz wracamy do Andre, a następnie idziemy do Hagena. Naszym podejrzanym staje się strażnik “Black” trenujący przy ratuszu. Umawiamy się z nim na popijawe w karczmie Kardifa, a następnie idziemy z nim do Andre, gdzie nasz quest się kończy.
+Andre zagaduje nas i informuje, że ktoś próbuje go zabić. Wysyła nas z podejrzanym zwojem do Vatrasa, który stwierdza, że zwój służy do zabicia konkretnego czytelnika. Wracamy do Andre, po czym idziemy do Gallahada i pokazujemy mu zwój. Następnie ponownie rozmawiamy z Andre, a potem udajemy się do Hagena.
 
-## Poszukiwania nowicjusza
+Naszym podejrzanym staje się strażnik Black, trenujący przy ratuszu. Umawiamy się z nim na popijawę w karczmie Kardifa, po czym prowadzimy go do Andre. Tam następuje zakończenie zadania.
 
-Zadanie zleca Parlan. Mówi on nam, że wysłał nowicjusza Ganza do miasta po zioła i wino, ale do tej pory nie wrócił. Możemy popytać o niego karczmarzy i sprzedawców ziół dla dodatkowego expa, ale ostatecznie znajdziemy go w Czerwonej Latarni. Wracamy do Parlana.
+### Poszukiwania nowicjusza
 
-## Szybki sposób na zarobek
+**Zleca: Parlan**
 
-> Zadanie dostępne po wykonaniu Poszukiwania nowicjusza.
+Parlan informuje nas, że wysłał nowicjusza Ganza do miasta po zioła i wino, ale ten jeszcze nie wrócił. Możemy popytać o niego karczmarzy i sprzedawców ziół dla dodatkowego doświadczenia, ale ostatecznie znajdziemy go w Czerwonej Latarni.
 
-Zadanie zleca Ganz, który dziękuje nam za to, że nie wydaliśmy go magom. Oferuje on nam pracę kuriera, więc zanosimy paczki kolejno do Lariusa, Bromora i Ciphera. Z kolejnym klientem mamy spotkać się po 1 w nocy na moście przed klasztorem. Zabijamy wynajętego zabójcę i czytamy jego notatkę. Przebieramy się w ubranie farmera i teleportujemy do południowej bramy, gdzie zostajemy zatrzymani i wtrąceni do lochu. Tam gadamy z naszym współwięźniem, a także gadamy z Boltanem, a następnie szorujemy kilka razy podłogę. Gadamy po raz kolejny z Boltanem i po chwili pojawia się sędzia. Idziemy teraz za strażnikiem na miejsce egzekucji, a gdy dotrzemy do celu, z pomocą przychodzi nam Cavalorn. Rozprawia się on ze strażnikami, po czym oddaje nam ekwipunek i każe iść do Laresa.
+Po rozmowie wracamy do Parlana.
 
-## Zbrodnia i kara
+### Szybki sposób na zarobek
 
-UWAGA : Zadanie dostępne po wykonaniu zadania Szybki sposób na zarobek.
+**Zleca: Ganz**
 
-Rozmawiamy z Laresem o zemście na sędzi. Musimy osłabić sędziego zabijając jego pomocników. Najpierw Lares mówi nam o Marvolo, idziemy do Martwej Harpii i rozmawiamy z nim. Wyprowadzamy go z karczmy, znów rozmawiamy, po czym zabijamy i wracamy do Laresa. Kolejnym celem jest Larius. Wystarczy użyć na nim niepamięci, po czym wracamy do Laresa. Teraz mamy udać się do Ganza. Idziemy do niego i mówimy, że jak nie zerwie kontaktów z sędzią to wydamy go Pyrokarowi. Ganz umiera, o czym zawiadamiamy Laresa. Teraz musimy się dowiedzieć jak umarł Ganz, więc idziemy do Pyrokara i pytamy o szczegóły śmieci. Dowiadujemy się, że Ganz został otruty, a także o pochodzeniu tej trucizny.  
-Kolejnym zadaniem od Laresa będzie wykradnięcie złota sędziego od Lehmara. Znajduje się ono w skrzyni w na piętrze domu lichwiarza. Zabieramy je i oddajemy Laresowi.  
-Kolejnym celem jest zabicie grupki bandytów przy latarni Jacka. Zabijamy ich i wracamy do Laresa. Następnie mamy pozbyć się ochroniarza sędziego. Kupujemy truciznę od Constantino (lub Baala Tyona, jeśli jesteśmy członkami bractwa lub mrocznym rycerzem)  
-Teraz gadamy z ochroniarzem i podkładamy truciznę po czym ten umiera, więc wracamy do Laresa. Teraz musimy zdemaskować sędziego, a pomoże nam w tym Lee, kiedy będziemy robić dla niego zadanie "Lokaj Sędziego". Po wszystkim znowu wracamy do Laresa.  
-Idziemy do sędziego, a po krótkiej rozmowie atakuje nas, zabijamy go i wracamy do Laresa, a potem Hagena.
+> Zadanie dostępne po wykonaniu "Poszukiwania nowicjusza".
 
-## Przebaczenie dla zdrajcy
+Zadanie zleca Ganz, który dziękuje nam za to, że nie wydaliśmy go magom. Oferuje pracę kuriera. Roznosimy paczki do Lariusa, Bromora i Ciphera. Z kolejnym klientem mamy spotkać się po 1 w nocy na moście przed klasztorem. Tam zabijamy wynajętego zabójcę i czytamy jego notatkę.
 
-> Zadanie dostępne do wykonaniu "Nekromanta w Khorinis"
+Przebieramy się w ubranie farmera i teleportujemy się do południowej bramy, gdzie zostajemy zatrzymani i wtrąceni do lochu. W celi rozmawiamy z współwięźniem oraz z Boltanem. Szorujemy kilka razy podłogę, potem znów rozmawiamy z Boltanem.
 
-Vatras zleci nam byśmy pomodlili się za duszę Darona. Idziemy do klasztoru, rozmawiamy z Parlanem, dostajemy od niego klucz do kaplicy. Kaplica znajduję się niedaleko Talamona, modlimy się o przebaczenie przy kaplicy Innosa. Na końcu wracamy do Vatrasa.
+Po chwili pojawia się sędzia. Idziemy za strażnikiem na miejsce egzekucji. Gdy docieramy na miejsce, z pomocą przychodzi Cavalorn. Rozprawia się ze strażnikami, oddaje nam ekwipunek i każe udać się do Laresa.
 
-## Zaginiony Paladyn
+### Zbrodnia i kara
 
-Lord Andre mówi nam, że gdzieś zaginął jeden z paladynów, Logmir. Wysyła nas do karczmy Kadifa, a Kardif natomiast wysyła nas do Martwej Harpii. Orlan mówi, że paladyn był jakiś czas temu w tawernie z innym nieznajomym. Idziemy rozejrzeć się w okolicy, a dokładniej w kierunku cmentarza, Znajdujemy tam notatkę, po czym wracamy do Orlana. Następnie idziemy ścieżką do farmy Akila (przez most) i natrafiamy na nieznajomego, którego po krótkiej rozmowie zabijamy. Mając jego notatkę i pierścień idziemy do Matteo, który nie potrafi rozpoznać pierścienia.  
-Teraz Andre, który wysyła nas do kogoś, kto zna bandytów.  
-Osobą tą jest Cassia lub Jesse. Od nich dowiadujemy się, że tą osobą jest Kiko. Idziemy na farmę Sekoba, po czym wracamy do Andre zdać relację. Teraz o 23 musimy udać się na pole, między farmą Sekoba, a farmą Onara. Zauważymy tam trenujących bandytów, więc gadamy z ich szefem, po czym dochodzi do walki, w której pomogą nam paladyni. Po udanej walce rozmawiamy z Andre.
+**Zleca: Lares**
 
-## Szantażysta Wodnego Kręgu
+> Zadanie dostępne po wykonaniu "Szybki sposób na zarobek".
 
-> Zadanie dostępne po wykonaniu Nekromanta w Khorinis i Zlecenie Vatrasa
+Rozmawiamy z Laresem o zemście na sędzim. Musimy osłabić jego pozycję, eliminując jego ludzi.
 
-Vatras informuje nas, że ktoś szantażuje Wodny Krąg. Idziemy teraz do Martina, a następnie do Miki i Orlana. W gospodzie rozmawiamy z Avanisem, wychodzimy z nim na zewnątrz i go bijemy. Po rozmowie wracamy do Vatrasa i czekamy w nocy przy kamieniu teleportacyjnym na rynku. Idziemy teraz do Xardasa, który rozwiewa nasze wątpliwości. Resztę zadania zrobimy dopiero po ukończeniu misji “Przeklęta latarnia”. Teraz gdy wiemy, że szantażystą jest Jack, rzuca się on na nas i stajemy przed następującymi wyborami.
+1. **Marvolo** – udajemy się do Martwej Harpii, wyprowadzamy go z karczmy, rozmawiamy z nim i zabijamy. Wracamy do Laresa.
+2. **Larius** – używamy na nim zaklęcia niepamięci, po czym wracamy do Laresa.
+3. **Ganz** – straszymy go, że wydamy go Pyrokarowi, jeśli nie zerwie kontaktu z sędzią. Pada martwy na naszych oczach. Informujemy o tym Laresa.
 
-1. Zabieramy całe złoto Jacka, okłamujemy Vatrasa, że nie wiemy kim jest Szantażysta, przez co ten daje 5 000 złota okupu. Całe złoto zachowujemy dla siebie ( Karma Innosa znacznie spada)
-2. Każemy Jackowi przestać szantażować wodny krąg , idziemy do Vatrasa i mówimy o wszystkim, wracamy do Jacka i mówimy że Vatras mu wybaczył. (Karma u Innosa znacznie wzrasta) .
-3. Zabijamy Jacka i mówimy o tym Vatrasowi
+Następnie udajemy się do Pyrokara, by dowiedzieć się szczegółów śmierci Ganza i trucizny, która go zabiła.
 
-## Zapomniane wspomnienia Loi
+4. **Złoto sędziego** – wykradamy je od Lehmara ze skrzyni na piętrze. Oddajemy je Laresowi.
+5. **Bandyci** – zabijamy ich przy latarni Jacka i wracamy do Laresa.
+6. **Ochroniarz sędziego** – kupujemy truciznę od Constantino lub Baala Tyona (jeśli jesteśmy w bractwie lub mrocznym rycerzem). Podkładamy truciznę i wracamy do Laresa.
 
-Dwa dni po niezapomnianej nocy z Loą w latarni Jacka (finał misje nieziemskie sny) , dowiadujemy się że coś ją dręczy ale nic nie chce nam powiedzieć. Jeśli mamy 70 retoryki możemy zaproponować jej piknik w lesie, Loa się zgodzi , teraz musimy zorganizować dobre jedzenie i wino. W sprawie jedzenia idziemy do Coragona dajemy mu 1000 złota, a on następnego dnia da nam paczkę z jedzeniem. Wino Erveluce możemy kupić od Goraxa w klasztorze za 2 000 złota. Kiedy mamy już wszystko wracamy do Loi , potem zaprowadzi nas ona do lasu . W trakcie pikniku Loa powie nam o Dracji i jej problemach. Po rozmowie zaatakują nas 2 cieniostwory, zabijamy i odprowadzamy Loę na farmę Onara.
+Na końcu musimy zdemaskować sędziego. Pomaga nam w tym Lee podczas wykonywania zadania „Lokaj Sędziego”. Po rozmowie z Laresem udajemy się do sędziego, który nas atakuje. Zabijamy go i wracamy do Laresa, a potem do Hagena.
 
-## Nekromanta w Khorinis
+### Przebaczenie dla zdrajcy
 
-\[/b\]\[/h1\]  
-**Zadanie dostępne do wykonaniu Horror na cmentarzu.**
+**Zleca: Vatras**
 
-Zadanie zaczyna się od rozmowy z dozorcą cmentarza, który opowiada nam, że Rigelionowi towarzyszył nowicjusz ognia.
+> Zadanie dostępne po wykonaniu "Nekromanta w Khorinis"
 
-**Wersja I (Jeśli przeczytaliśmy notatkę ze skrzyni, która jest w jaskini obok Marduka)**  
-Idziemy do Ulfa i naciskamy na niego, po czym ten daje nam wiadomość. Z wiadomości wynika, że mamy spotkać się z nekromantą na cmentarzu.
+Vatras zleca nam, byśmy pomodlili się za duszę Darona. Udajemy się do klasztoru, rozmawiamy z Parlanem i otrzymujemy od niego klucz do kaplicy.
 
-**Wersja II (Jeśli nie przeczytaliśmy wyżej wspomnianej notatki)**  
-Idziemy popytać o niego u Coragona, gdzie dowiadujemy się, że poszedł na plac targowy. Tam gadamy z Zurisem, który wysyła nas po lewo od wschodniej bramy. Tam zabijamy zabójcę i zauważamy podpis na liście. Idziemy teraz do Vatrasa, a następnie do Brahima. Teraz zmierzamy do Coragona, który opowiada nam o nowicjuszu ognia, który był z Gastem. Idziemy do Parlana, a następnie do Ulfa, który jest w Martwej Harpii lub mieście. Nie jest on skłonny do rozmowy, więc otwieramy jego skrzynię w klasztorze, gdzie znajdujemy notatkę. Idziemy z nią do Xardasa, po czym wracamy do Ulfa, który wysyła nas na cmentarz w Khorinis.
+Kaplica znajduje się niedaleko Talamona. Modlimy się przy kaplicy Innosa o przebaczenie. Na końcu wracamy do Vatrasa.
 
-Teraz udajemy się na miejsce spotkania i czeka tam na nas Daron. **Mroczny Rycerz ma możliwość go oszczędzić, przez co nie stracimy karmy u Beliara** Po rozmowie z nim dochodzi do walki. Po wszystkim rozmawiamy z Pyrokarem i na końcu z Ulfem.
+### Zaginiony Paladyn
 
+**Zleca: Lord Andre**
 
-## Poszukiwania reliktów
+Lord Andre mówi nam, że gdzieś zaginął jeden z paladynów — Logmir. Wysyła nas do karczmy Kardifa, a Kardif z kolei kieruje nas do Martwej Harpii. Orlan informuje, że Logmir był tu z innym nieznajomym.
 
-Zadanie rozpoczyna się w momencie gdy znajdziemy jeden z artefaktów, a kończy, gdy zbierzemy wszystkie trzy.
+Idziemy w okolice cmentarza, gdzie znajdujemy notatkę. Wracamy z nią do Orlana. Następnie kierujemy się ścieżką do farmy Akila (przez most), gdzie natrafiamy na nieznajomego. Po krótkiej rozmowie dochodzi do walki i zabijamy go. Zabieramy notatkę oraz pierścień i idziemy do Matteo, który nie rozpoznaje pierścienia.
 
-- Amulet znajduje się pod wodą obok beczek na dnie pomiędzy wrakiem statku a przeklętą latarnią (UWAGA: Amulet pojawi się po rozmowie z Farimem po przyniesieniu zupy).  
-- Pierścień w skarbcu magów ognia  
-- Pierścień w sekretnym pomieszczeniu kapitana straży (Patrz zadanie niżej).
+Wracamy do Andre, który kieruje nas do kogoś znającego bandytów. Może to być Cassia lub Jesse — dowiadujemy się od nich, że chodzi o Kiko. Szukamy go na farmie Sekoba i po rozmowie wracamy do Andre.
 
-## Facet bez dziury chodzi ponury
+O 23:00 udajemy się na pole między farmą Sekoba a farmą Onara. Spotykamy tam trenujących bandytów. Rozmawiamy z ich przywódcą, co prowadzi do walki, w której pomagają nam paladyni. Po zwycięstwie wracamy do Andre.
 
-Po zrobieniu zadania Piracki handel Skip mówi nam, że jest samotny i potrzebuje kogoś do towarzystwa. Idziemy do Bromora i prosimy o jedną z dziewczyn Sonję. Bromor zażąda 2 000 złota. Jeśli mamy 15 retoryki to można zmniejszyć cenę o połowę do 1000  
-Po ustaleniu warunków z Bromorem Sonja sama uda się do Skipa. Rozmawiamy z nim i teraz musimy pamiętać, aby po 3 dniach wrócić po Sonję, która wróci do Bromora. Jeśli się spóźnimy dostaniemy znacznie mniej expa i Bromor nas zaatakuje.
+### Szantażysta Wodnego Kręgu
 
-## Rana Pepe
+**Zleca: Vatras**
 
-Pepe mówi nam, że jest ranny i potrzebuje lekarstwa. Idziemy do Sagitty i mówimy jej o problemie, a onakaże nam dać Pepe zwykłą miksturę leczniczą. **Trzeba wrócić do Pepe zanim przeteleportujemy się do innej lokacji, bo inaczej Pepe zginie**
+> Zadanie dostępne po wykonaniu "Nekromanta w Khorinis" i "Zlecenie Vatrasa"
 
-## Prorocze sny
+Vatras informuje nas, że ktoś szantażuje Wodny Krąg. Udajemy się do Martina, następnie do Miki i Orlana. W gospodzie rozmawiamy z Avanisem, wychodzimy z nim na zewnątrz i bijemy go. Po rozmowie wracamy do Vatrasa.
 
-**Zadanie to pojawi się dopiero po pierwszej rozmowie z Gregiem w Jarkendarze**  
-Po wykonaniu zadania "Podejrzany handlarz" Gritta mówi nam, że przyśnił się jej mąż i prosi nas, abyśmy go znaleźli. Wspomina też, że Brandick zawsze chciał zostać piratem, więc udajemy się do Grega, a ten mówi nam, że wysłał go na bagna w celu szpiegowania bandytów. Brandick siedzi na skale nad piedestałem teleportacyjnym. Wchodzimy po drabinie, rozmawiamy z nim, a potem z Grittą.
+Czekamy w nocy przy kamieniu teleportacyjnym na rynku. Udajemy się do Xardasa, który rozwiewa nasze wątpliwości. Resztę zadania wykonamy dopiero po ukończeniu misji „Przeklęta latarnia”.
 
-## Szczęśliwa para
+Kiedy dowiemy się, że szantażystą jest Jack, rzuci się on na nas. Mamy trzy możliwości:
 
-Kilka dni po zakończeniu zadania "Prorocze sny" zaczepia nas Thorben i mówi nam, że chce by Gritta i Elvrich byli razem. Wystarczy pogadać z Grittą i Elvrichem, po czym wrócić do Thorbena.
+1. Zabieramy całe złoto Jacka, okłamujemy Vatrasa, że nie wiemy kto był szantażystą — otrzymujemy 5 000 złota okupu (karma Innosa znacznie spada).
+2. Nakazujemy Jackowi zaprzestać szantażu, mówimy o wszystkim Vatrasowi, wracamy do Jacka i informujemy go o przebaczeniu (karma Innosa znacznie wzrasta).
+3. Zabijamy Jacka i informujemy o tym Vatrasa.
 
-## Przeklęta dusza
+### Zapomniane wspomnienia Loi
 
-**Zadanie zleca Greg po wykonaniu zadania "Człowiek z pierścieniem"**
+**Zleca: Loa**
 
-Greg prosi nas, abyśmy znaleźli poprosili magów ognia o modlitwę za piratów. Musimy do tego mieć 50 retoryki, aby przekonać Pyrokara o naszych intencjach. Możemy mu przekazać różne kwoty: 1000, 2000 lub 3000. Najbardziej opłaca się dać 3000, jako że dostajemy wtedy najlepsze nagrody. Wracamy do Grega.
+Dwa dni po niezapomnianej nocy z Loą w latarni Jacka (finał zadania „Nieziemskie sny”) dowiadujemy się, że coś ją dręczy, ale nie chce nam powiedzieć co. Jeśli mamy 70 retoryki, możemy zaproponować jej piknik w lesie. Loa się zgadza, a my musimy zorganizować dobre jedzenie i wino.
 
-## Magiczne zbawienie
+- Jedzenie: udajemy się do Coragona, dajemy mu 1000 złota, a następnego dnia otrzymujemy paczkę.
+- Wino: kupujemy Erveluce od Goraxa w klasztorze za 2000 złota.
 
-**Uwaga: Zadanie dostępne po oddaniu mu 200 złota z ciała Dana**
+Gdy mamy wszystko, wracamy do Loi. Zabiera nas do lasu. Podczas pikniku mówi nam o Dracji i jej problemach. Po rozmowie zostajemy zaatakowani przez dwa cieniostwory. Zabijamy je i odprowadzamy Loę na farmę Onara.
 
-Brutus w zamku prosi nas, abyśmy udali się do Miltena i poprosili go o wyczarowanie kobiety. Idziemy do Miltena, a ten mówi nam, że wszystko będzie gotowe jutro wieczorem. Przychodzimy następnego dnia wieczorem (jak dostaniemy wpis do dziennika), gdzie wszyscy już na nas czekają. Milten wykonuje przyzwanie, ale pojawia się demon, którego zabijamy, a zadanie się kończy. Jeśli się spóźnimy, zadanie zakończy się niepowodzeniem.
+### Nekromanta w Khorinis
 
-## Obawy Parcivala
+**Zleca: Lothar**
 
-Parcival mówi, że jeden z orków próbował dostać się po taranie do zamku, więc mamy go zabić. Imienny ork znajduje się przy samym taranie. Zabijamy go i wracamy do Parcivala.
+> Zadanie dostępne po wykonaniu "Horror na cmentarzu"
 
-## Cień w potrzebie
+Zadanie zaczynamy od rozmowy z dozorcą cmentarza, który wspomina, że Rigelionowi towarzyszył nowicjusz ognia.
 
-W trakcie zadania Ślady Ciemności trafiamy na cienia Świstaka, który chce się wydostać z podziemi zamku. Chodzimy kilka razy między Świstakiem, a Garondem aż misja się zakończy.
+**Wersja I (jeśli przeczytaliśmy notatkę ze skrzyni w jaskini obok Marduka):**
+Idziemy do Ulfa, naciskamy na niego, a ten przekazuje nam wiadomość. Spotykamy się z nekromantą na cmentarzu.
 
-# Jarkendar
+**Wersja II (jeśli nie czytaliśmy notatki):**
+Pytamy o Ulfa u Coragona, który kieruje nas na plac targowy. Rozmawiamy z Zurisem, który wysyła nas w okolice wschodniej bramy. Tam zabijamy zabójcę i znajdujemy podpisany list. Idziemy z nim do Vatrasa, a następnie do Brahima. Następnie wracamy do Coragona, który wspomina o nowicjuszu z Gastem. Parlan kieruje nas do Ulfa — znajduje się on w Martwej Harpii lub mieście. Jeśli nie chce rozmawiać, przeszukujemy jego skrzynię w klasztorze i znajdujemy notatkę. Zanosimy ją Xardasowi, a potem wracamy do Ulfa. Ten kieruje nas na cmentarz.
 
-## Zemsta Pradawnych
+Na miejscu czeka na nas Daron. **Mroczny Rycerz ma możliwość go oszczędzić, co nie obniża karmy u Beliara.** Po walce rozmawiamy z Pyrokarem, a na koniec z Ulfem.
 
-Zadanie zleca Vatras po ukończeniu wątku Mroczny Zakon.  
-Vatras mówi nam, że wysłał Myxira i innego maga do Saturasa, aby sprawdzić sytuację w Jarkendarze. Idziemy na teren wykopalisk Magów Wody, gdzie zabijamy wszystkich nieumarłych i gadamy z Myxirem. Ten wyśle nas do Saturasa do Jarkendaru. Przechodzimy przez portal i gadamy z Saturasem, gdzie okazuje się, że w Jarkendarze też jest plaga nieumarłych.
+### Poszukiwania reliktów
 
-Idziemy pieszo do miejsca gdzie wcześniej był Złoty Smok i spotkamy tam ducha Rademesa, który mówi nam, że za plagą stoi Quahodron.  
-Robimy zadania Starożytny kapłan budowniczych i Klątwa pradawnych po czym wracamy do Rademesa. Po zdjęciu klątwy Rademes przypomniał sobie gdzie odbyła się bitwa, Udajemy się na Pustynię Adanosa i śpimy do nocy, gdyż tylko wtedy Quahodron się pojawia. Quahodron przebywa w tym miejscu:
+Zadanie rozpoczyna się w momencie, gdy znajdziemy jeden z artefaktów, a kończy się po zebraniu wszystkich trzech:
 
-[![](https://steamuserimages-a.akamaihd.net/ugc/963098188608895477/C90C2FC431D204C62B9B74F58F2B650A7C75604F/)](https://steamuserimages-a.akamaihd.net/ugc/963098188608895477/C90C2FC431D204C62B9B74F58F2B650A7C75604F/)  
-Zakładamy koronę Adanosa i teraz mamy dwie opcję:
+> Uwaga: Amulet pojawi się dopiero po rozmowie z Farimem i oddaniu mu zupy.
+
+- **Amulet** – znajduje się pod wodą obok beczek, na dnie pomiędzy wrakiem statku a przeklętą latarnią.
+- **Pierścień** – w skarbcu Magów Ognia.
+- **Drugi pierścień** – w sekretnym pomieszczeniu kapitana straży (lokalizacja podana w osobnym zadaniu).
+
+### Facet bez dziury chodzi ponury
+
+**Zleca: Skip**
+
+Po wykonaniu zadania „Piracki handel” Skip mówi nam, że czuje się samotny i potrzebuje towarzystwa. Udajemy się do Bromora i prosimy o jedną z dziewczyn — Sonję. Bromor żąda 2000 złota, ale jeśli mamy 15 retoryki, możemy zbić cenę do 1000.
+
+Po ustaleniu warunków Sonja sama uda się do Skipa. Rozmawiamy z nim, a następnie musimy pamiętać, aby wrócić po trzech dniach. Sonja wraca do Bromora.
+
+> Uwaga: jeśli się spóźnimy, dostaniemy znacznie mniej doświadczenia, a Bromor nas zaatakuje.
+
+### Rana Pepe
+
+**Zleca: Pepe**
+
+Pepe mówi nam, że jest ranny i potrzebuje lekarstwa. Udajemy się do Sagitty i informujemy ją o problemie. Sagitta poleca dać Pepe zwykłą miksturę leczniczą.
+
+> Uwaga: należy wrócić do Pepe przed teleportacją do innej lokacji, w przeciwnym razie Pepe zginie.
+
+### Prorocze sny
+
+**Zleca: Gritta**
+
+> Zadanie pojawi się dopiero po pierwszej rozmowie z Gregiem w Jarkendarze
+
+Po wykonaniu zadania „Podejrzany handlarz” Gritta mówi nam, że przyśnił się jej mąż i prosi, abyśmy go odnaleźli. Wspomina, że Brandick zawsze chciał zostać piratem.
+
+Udajemy się do Grega — ten mówi, że wysłał Brandicka na bagna, by szpiegował bandytów. Brandick siedzi na skale nad piedestałem teleportacyjnym. Wchodzimy po drabinie, rozmawiamy z nim, a następnie wracamy do Gitty.
+
+### Szczęśliwa para
+
+**Zleca: Thorben**
+
+Kilka dni po zakończeniu zadania „Prorocze sny” zaczepia nas Thorben i mówi, że chce, by Gritta i Elvrich byli razem. Wystarczy porozmawiać z Grittą i Elvrichem, a następnie wrócić do Thorbena.
+
+### Przeklęta dusza
+
+**Zleca: Greg**
+
+> Zadanie dostępne po wykonaniu „Człowiek z pierścieniem”
+
+Greg prosi nas, abyśmy poprosili Magów Ognia o modlitwę za piratów. Potrzebujemy 50 retoryki, aby przekonać Pyrokara do naszych intencji. Możemy zapłacić jedną z trzech kwot:
+
+- 1000 złota
+- 2000 złota
+- 3000 złota
+
+Najbardziej opłaca się wybrać 3000, ponieważ dostajemy wtedy najlepsze nagrody. Po przekazaniu darowizny wracamy do Grega.
+
+### Magiczne zbawienie
+
+**Zleca: Brutus**
+
+> Uwaga: zadanie dostępne po oddaniu mu 200 złota z ciała Dana
+
+Brutus w zamku prosi nas, abyśmy udali się do Miltena i poprosili go o wyczarowanie kobiety. Idziemy do Miltena, a ten informuje nas, że wszystko będzie gotowe jutro wieczorem.
+
+Przychodzimy następnego dnia wieczorem (gdy otrzymamy wpis do dziennika), gdzie wszyscy już na nas czekają. Milten dokonuje przyzwania, ale pojawia się demon, którego musimy zabić. Po pokonaniu stwora zadanie się kończy.
+
+> Uwaga: jeśli się spóźnimy, zadanie zakończy się niepowodzeniem.
+
+### Obawy Parcivala
+
+**Zleca: Parcival**
+
+Parcival mówi, że jeden z orków próbował dostać się po taranie do zamku. Mamy go zabić.
+
+Ork znajduje się przy samym taranie. Zabijamy go i wracamy do Parcivala.
+
+### Cień w potrzebie
+
+**Zleca: Świstak**
+
+W trakcie wykonywania zadania „Ślady Ciemności” trafiamy na cienia o imieniu Świstek, który chce się wydostać z podziemi zamku. Przechodzimy kilka razy między Świstakiem a Garondem, aż misja się zakończy.
+
+### Zemsta Pradawnych
+
+**Zleca: Vatras**
+
+> Zadanie dostępne po ukończeniu wątku „Mroczny Zakon”
+
+Vatras mówi nam, że wysłał Myxira i innego maga do Saturasa, aby sprawdzili sytuację w Jarkendarze. Udajemy się na teren wykopalisk Magów Wody, gdzie zabijamy wszystkich nieumarłych i rozmawiamy z Myxirem. Ten odsyła nas do Saturasa w Jarkendarze.
+
+Przechodzimy przez portal i rozmawiamy z Saturasem — okazuje się, że również w Jarkendarze pojawiła się plaga nieumarłych.
+
+Idziemy pieszo do miejsca, gdzie wcześniej był Złoty Smok. Spotykamy tam ducha Rademesa, który mówi, że za plagą stoi Quahodron.
+
+Wykonujemy zadania „Starożytny kapłan budowniczych” oraz „Klątwa Pradawnych”, po czym wracamy do Rademesa. Po zdjęciu klątwy przypomina on sobie miejsce bitwy. Udajemy się na Pustynię Adanosa i śpimy do nocy — tylko wtedy pojawia się Quahodron.
+
+Quahodron przebywa tutaj:
+
+[![](https://steamuserimages-a.akamaihd.net/ugc/963098188608895477/C90C2FC431D204C62B9B74F58F2B650A7C75604F/)](https://steamuserimages-a.akamaihd.net/ugc/963098188608895477/C90C2FC431D204C62B9B74F58F2B650A7C75604F/)
+
+Zakładamy koronę Adanosa. Mamy dwie opcje:
 
 1. Rozkazać Quahodronowi odejść
-2. Walczyć z Ouahodronem
+2. Walczyć z Quahodronem
 
-Polecam wybrać opcję drugą czyli walkę gdyż dostaniemy więcej doświadczenia, potężny miecz , a do tego punkty nauki za pokonanie bossa. Po wszystkim wracamy do Saturasa i Vatrasa.
+> Zalecane: wybrać walkę – otrzymamy więcej doświadczenia, potężny miecz i punkty nauki.
 
-## Dziwne odgłosy w świątyni
+Po wszystkim wracamy do Saturasa i Vatrasa.
 
-Mitras (mag który był z Myxirem) zleca nam zbadanie dziwnych dźwięków pochodzących z dużej piramidy. Idziemy w nocy do piramidy, zabijamy truposza i wracamy do Mitrasa.
+### Dziwne odgłosy w świątyni
 
-## Oczyść teleporty z nieumarłych
+**Zleca: Mitras**
 
-Zadanie zleca Saturas. Po prostu mamy pozbyć się nieumarłych przy kamieniach teleportujących po jednej i drugiej stronie.
+Mitras, mag towarzyszący Myxirowi, zleca nam zbadanie dziwnych dźwięków dochodzących z dużej piramidy. Udajemy się tam w nocy, zabijamy truposza i wracamy do Mitrasa.
 
-## Główny kapłan budowniczych
+### Oczyść teleporty z nieumarłych
 
-Zadanie daje Rademes, mamy zabić Kardimona, który znajduje się w bibliotece w kanionie. Zakładamy koronę Adanosa, zabijamy Kardimona i wracamy do Rademesa.
+**Zleca: Saturas**
 
-## Klątwa starożytnych
+Mamy oczyścić teleporty po obu stronach, pozbywając się nieumarłych, którzy je zajmują.
 
-Zadanie pojawia się w rozmowie z Rademesem, mamy zdjąć klątwę z pradawnych. Idziemy do “wielkiej piramidy” na Pustyni Adanosa, a dokładniej do Czyśćca Adanosa. Wchodzimy z nim w interakcje, a klątwa zostaje zdjęta (pod warunkiem, że zrobiliśmy Koszmar Kruka)
+### Główny kapłan budowniczych
 
-## Chromanin
+**Zleca: Rademes**
 
-Zadanie daje Kreol podczas robienia wątku Mroczny zakon.  
-Prosi on nas o przyniesienie Cromaninu. Poszukiwania zaczynamy od krypty, gdzie w G1 poszliśmy z Miltenem po kamień ogniskujący. Tamtejsze przejście się otwiera, a my zabieramy Chromanin ze stołu i go czytamy.
+Zadanie daje Rademes. Mamy zabić Kardimona, który znajduje się w bibliotece w kanionie. Zakładamy koronę Adanosa, zabijamy Kardimona i wracamy do Rademesa.
 
-> Chromaniny należy czytać po kolei, aby zrespiła się kolejna część. Każdej książce towarzyszy grupa szkieletów po której powinniśmy łatwo na nią trafić, biorąc pod uwagę, że pewnie już byliśmy w tych lokacjach.
+### Klątwa starożytnych
 
-1. W Opuszczonej Kopalni (nad przełęczą)
-2. W Jaskini Bólu (na końcu lokacji, tam gdzie Miragul)
-3. W Starej Kopalni (na samym dole w odnodze gdzie był boss pająków)
-4. W Zatopionej Wieży Xardasa
-5. W Kamiennej Fortecy na piętrze
+**Zleca: Rademes**
 
-Kiedy mamy już zebrane i przeczytane wszystkie Chromaniny, wracamy do krypty, gdzie pojawia się Pan Cieni Kadar, który posiada ostatni z chromaninów. Zabijamy go i wracamy do Kreola.
+Zadanie pojawia się w rozmowie z Rademesem. Mamy zdjąć klątwę z pradawnych. Udajemy się do „wielkiej piramidy” na Pustyni Adanosa, a dokładniej do Czyśćca Adanosa. Wchodzimy w interakcję z pulpitem i zdejmujemy klątwę (warunek: wykonanie zadania „Koszmar Kruka”).
 
-# Wątek Sylvio
+### Chromanin
 
-> Wątek dostępny jeśli Sylvio przeżył w 4 rozdziale
+**Zleca: Kreol**
 
-## Kapitan statku wojennego orków
+Zadanie daje Kreol podczas wątku „Mroczny Zakon”. Prosi nas o przyniesienie chromaninów. Poszukiwania zaczynamy od krypty, gdzie w G1 szliśmy z Miltenem po kamień ogniskujący. Tamtejsze przejście się otwiera, zabieramy chromanin ze stołu i go czytamy.
 
-Po oczyszczeniu statku z orków Sylvio zleca nam znalezienie kucharza i kapitana. Kucharzem zostanie Cliff który znajduje się w obozie Netbeka albo w zamku, jeśli nie zrobiliście jeszcze zadania "Ucieczka". W sprawie kapitana gadamy z Draxem (obaj z Ratfordem są teraz w obozie Netbeka), a ten wysyła nas do Ratforda. Ratford zgodzi się za 500 złota i mapę Myrtany.
+> Chromaniny należy czytać po kolei, aby odrodziła się kolejna część. Przy każdej książce pojawia się grupa szkieletów, które ułatwiają znalezienie.
 
-W sprawie mapy udajemy się do Brahima, ale niestety nie posiada on jej, więc wysyła nas do paladynów. Hagen wysyła nas do Orto w Forcie Azgan, a ten natomiast mówi, że mapa jest na Esmeraldzie. Zabieramy mapę i gadamy z Ratfordem, a na końcu wracamy do Sylvia.
+Miejsca chromaninów:
 
-## Orkowie nad nowym obozem
+1. Opuszczona Kopalnia (nad przełęczą)
+2. Jaskinia Bólu (na końcu lokacji, tam gdzie Miragul)
+3. Stara Kopalnia (na dole, w odnodze z bossem pająków)
+4. Zatopiona Wieża Xardasa
+5. Kamienna Forteca na piętrze
 
-Sylvio zleca zabicie orków w okolicach lodowej jaskini, więc pozbywamy się zielonoskórych i wracamy do zleceniodawcy.
+Po zebraniu i przeczytaniu wszystkich chromaninów wracamy do krypty, gdzie pojawia się Pan Cieni Kadar z ostatnim chromaninem. Zabijamy go i wracamy do Kreola.
 
-## Statek dla Sylvio
+### Kapitan statku wojennego orków
 
-Sylvio znajduje się w leżu lodowego smoka. Chce się wydostać z GD, więc mówimy mu o Drakkarze orków za palisadą. Teraz idziemy pozbyć się nowych orków na statku, po czym wracamy do Sylvio.
+**Zleca: Sylvio**
+
+Po oczyszczeniu statku z orków Sylvio zleca nam znalezienie kucharza i kapitana. Kucharzem zostanie Cliff, który jest w obozie Netbeka lub w zamku, jeśli nie wykonaliśmy jeszcze zadania „Ucieczka”. W sprawie kapitana gadamy z Draxem (obaj z Ratfordem są w obozie Netbeka), który odsyła nas do Ratforda. Ratford zgodzi się za 500 złota i mapę Myrtany.
+
+W sprawie mapy udajemy się do Brahima, ale nie posiada jej, więc kieruje nas do paladynów. Hagen wysyła nas do Orto w Forcie Azgan, który mówi, że mapa jest na Esmeraldzie. Zabieramy mapę, rozmawiamy z Ratfordem, a na końcu wracamy do Sylvia.
+
+### Orkowie nad nowym obozem
+
+**Zleca: Sylvio**
+
+Sylvio zleca zabicie orków w okolicach lodowej jaskini. Pozbywamy się zielonoskórych i wracamy do zleceniodawcy.
+
+### Statek dla Sylvio
+
+**Zleca: Sylvio**
+
+Sylvio znajduje się w leżu lodowego smoka i chce wydostać się z Górniczej Doliny. Informujemy go o Drakkarze orków za palisadą. Następnie idziemy pozbyć się nowych orków na statku, po czym wracamy do Sylvio.
 
 ## Zemsta na Sylvio
 
-Idziemy na drakkar, gdzie zgromadzili się już łowcy smoków. Rozmawiamy z Ratfordem w ładowni, gdzie okazuje się, że Sylvio mu nie zapłacił. Idziemy się z nim rozmówić, przy czym dochodzi do walki, w której go zabijamy. Złoto oddajemy Ratfordowi, a zadanie się kończy.
+### Zemsta na Sylvio
 
+Idziemy na drakkar, gdzie zgromadzili się już łowcy smoków. Rozmawiamy z Ratfordem w ładowni, okazuje się, że Sylvio mu nie zapłacił. Prowadzimy rozmowę, która kończy się walką — zabijamy Sylvio. Złoto oddajemy Ratfordowi, a zadanie się kończy.
 
 # Zadania - Rozdział 6
 
 > Po pokonaniu smoka ożywieńca wybieramy opcję powrotu do Khorinis w rozmowie z kapitanem statku
 
-## Zapomniana Wyspa
+### Zapomniana Wyspa
 
-Będąc na Zapomnianej Wyspie będziemy musieli znaleźć kilka przedmiotów.  
-Musimy odnaleźć sekstans oraz mapę tejże wyspy.
+**Zleca: brak (zadanie aktywne po powrocie z wyspy)**
 
-Mapa jest tak naprawdę tabliczką w budynku obok piramidy. Patrząc z piramidy idziemy w prawo, wzdłuż urwiska. Wreszcie dochodzimy do ruin, gdzie wciskamy przycisk na ścianie, a następnie dwa przedostatnie przyciski, które otworzą nam skrytkę, gdzie w skrzyni znajdziemy tablicę.  
-Sekstans jest w ruinach starej wieży. Dostaniemy się tam teleportem na piramidzie.
+Na Zapomnianej Wyspie musimy znaleźć kilka przedmiotów: sekstans oraz mapę wyspy.
 
-## Naprawa statku
+Mapa to tabliczka w budynku obok piramidy. Patrząc z piramidy idziemy w prawo, wzdłuż urwiska, aż do ruin. W ruinach wciskamy przycisk na ścianie, a następnie dwa przedostatnie przyciski, co otworzy skrytkę ze skrzynią zawierającą tablicę.
 
-Aby naprawić statek musimy znaleźć koło zębate. W tym celu idziemy na drugi koniec wyspy do starożytnej piramidy. Wchodzimy do środka i przyglądamy się dokładnie ołtarzowi. Z tyłu za nim będzie doczepione do ściany coś na kształt koła zębatego - Kamienna gwiazda.  
-Gdy już ją mamy niesiemy ją kapitanowi statku.
+Sekstans znajduje się w ruinach starej wieży. Dostajemy się tam teleportem na piramidzie.
 
-## Skutki burzy
+### Naprawa statku
 
-Diego źle się czuje i prosi nas o przyniesienie mu 5 roślin leczniczych. Na pewno już je mamy, a jeśli nie to wystarczy rozejrzeć się dookoła.
+**Zleca: brak (kontynuacja zadania „Zapomniana Wyspa”)**
 
-## Prowiant
+Aby naprawić statek, musimy znaleźć koło zębate. Idziemy na drugi koniec wyspy do starożytnej piramidy. Wchodzimy do środka i oglądamy ołtarz. Z tyłu za nim znajdziemy coś na kształt koła zębatego – Kamienną Gwiazdę.
 
-Gorn prosi nas o zdobycie 24 kawałków mięsa i 20 jabłek. Mięso powinniśmy już mieć a jeśli nie to trzeba zapolować, jabłka natomiast można znaleźć przy kilku drzewach na wyspie, Mówimy Gornowi, że mamy wszystko po czym idziemy do kapitana dajemy mu jabłka i mięso. Wracamy teraz do Gorna i dajemy mu prowiant.
+Gdy ją zdobędziemy, niesiemy ją kapitanowi statku.
 
-## Niezwykłe rośliny
+### Skutki burzy
 
-Lester prosi nas o przyniesienie mu czerwonego bagiennego ziela. Lester potrzebuje 5 sztuk. Ziele rośnie na całej wyspie, a rozpoznamy je po czerwonym kolorze. Po wszystkim oddajemy Lesterowi zioło i dostajemy specjalnego skręta.
+**Zleca: Diego**
 
-## Źródło magii
+Diego źle się czuje i prosi nas o przyniesienie mu pięciu roślin leczniczych. Prawdopodobnie już je mamy, a jeśli nie – wystarczy rozejrzeć się wokół.
 
-Milten mówi nam, że widział na wzgórzu jakąś wieżę i radzi nam się tam wybrać. Aby dostać się do wieży musimy wejść na piramidę do teleportera, który przeniesie nas bezpośrednio tam. W jednej ze skrzyń znajdziemy pewną księgę, którą musimy oddać Miltenowi. Rozmawiamy ponownie z Miltenem, po czym zostajemy przeniesieni do groty, gdzie walczymy z bossem miniśniącym. Rozmawiamy jeszcze raz z Miltenem na plaży, po czym otrzymujemy książkę, którą warto przeczytać dla bonusu HP.
+### Prowiant
 
-## Złoża rudy
+**Zleca: Gorn**
 
-Opuszczamy statek i udajemy się na wyspę. Następnie idziemy w lewo wzdłuż wybrzeża, natkniemy się tam na jaskinie pełną rudy. Mówimy przyjaciołom o naszym znalezisku, ale nie są oni przekonani, więc musimy znaleźć jeszcze jedną, która jest zasłonięta krzakami przy cieniostworze. Tam wchodzimy w interakcję z jedną rud i wykopujemy duży kawałek magicznej rudy, z którym wracamy do kapitana.
+Gorn prosi o zdobycie 24 kawałków mięsa i 20 jabłek. Mięso powinniśmy mieć; jeśli nie – trzeba upolować. Jabłka znajdziemy przy kilku drzewach na wyspie.
 
-## Gdzie jest moje złoto?
+Po zebraniu składników oddajemy je Gornowi, a następnie przekazujemy kapitanowi statku.
 
-Po wejściu do ładowni okazuje się że nie ma naszego złota, które zabraliśmy z Irdorath. Aby się czegoś dowiedzieć musimy porozmawiać z naszą załogą, a następnie pójść do ładowni i odszukać kompas kapitana i oddać mu go.
+### Niezwykłe rośliny
 
-## Powrót
+**Zleca: Lester**
 
-Musimy porozmawiać z naszą załogą w sprawie powrotu na Khorinis (nie zapominając o tych co są na wyspie). Wystarczy że powiemy każdemu o ładunku i naszej decyzji, a wszyscy się zgodzą.
+Lester prosi o przyniesienie pięciu sztuk czerwonego bagiennego ziela. Ziele rośnie na całej wyspie i jest rozpoznawalne po czerwonym kolorze.
 
-## Zebranie Załogi
+Po zebraniu ziela oddajemy je Lesterowi i otrzymujemy specjalnego skręta.
 
-Mówimy o wypłynięciu z tym co pozostali jeszcze na brzegu, a następnie idziemy do kapitana i do kajuty.
+### Źródło magii
 
+**Zleca: Milten**
+
+Milten mówi, że widział na wzgórzu wieżę i radzi udać się tam. Aby dostać się do wieży, wchodzimy na piramidę i korzystamy z teleportera, który przeniesie nas bezpośrednio tam.
+
+W jednej ze skrzyń znajdziemy księgę, którą oddajemy Miltenowi. Po rozmowie z nim zostajemy przeniesieni do groty, gdzie walczymy z bossem miniśniącym.
+
+Po walce rozmawiamy jeszcze raz z Miltenem na plaży i otrzymujemy książkę, którą warto przeczytać dla bonusu do zdrowia.
+
+### Złoża rudy
+
+**Zleca: brak (zadanie dostępne po eksploracji wyspy)**
+
+Po opuszczeniu statku udajemy się na wyspę. Idziemy w lewo wzdłuż wybrzeża, gdzie znajdziemy jaskinię pełną rudy.
+
+Informujemy przyjaciół o znalezisku, ale nie są przekonani, więc musimy znaleźć jeszcze jedną jaskinię zasłoniętą krzakami przy cieniostworze. Tam wykopujemy duży kawałek magicznej rudy i zabieramy go do kapitana.
+
+### Gdzie jest moje złoto?
+
+**Zleca: brak (zadanie pojawia się po wejściu do ładowni statku)**
+
+Po wejściu do ładowni odkrywamy, że nie ma naszego złota zabranego z Irdorath.
+
+Aby dowiedzieć się czegoś więcej, rozmawiamy z załogą, następnie wracamy do ładowni, gdzie znajdujemy kompas kapitana i oddajemy go kapitanowi.
+
+### Powrót
+
+**Zleca: brak (zadanie aktywne po zakończeniu eksploracji wyspy)**
+
+Musimy porozmawiać z załogą o powrocie na Khorinis, pamiętając o tych, którzy zostali na wyspie.
+
+Wystarczy powiedzieć każdemu o ładunku i naszej decyzji, a wszyscy się zgodzą.
+
+### Zebranie Załogi
+
+**Zleca: brak (zadanie aktywne po przygotowaniach do powrotu)**
+
+Rozmawiamy z załogą, informując o wypłynięciu z tym, co pozostali na brzegu. Następnie udajemy się do kapitana i do kajuty.
 
 # Zadania - Rozdział 7
 
@@ -457,7 +643,6 @@ Gadamy z Diego na farmie Onara. Mówi nam, że chciałby skorzystać z pomocy st
 ## Pomoc dla Cavalorna
 
 Cavalorn prosi nas o pomoc w dostaniu się do farmy Onara. Wystarczy się tam teleportować, a Cavalorn powinien pojawić się w pobliżu.
-
 
 ## Dziwne rzeczy
 
