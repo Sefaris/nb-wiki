@@ -52,10 +52,10 @@ Po wybraniu tych dialogów Onar się zgadza, a wtedy wracamy do Lutero.
 
 Lutero zleca nam przyniesienie 3 marmurowych statuetek. Musimy się udać do Zamku i dostać do pomieszczenia z Gomezem, statuetki są w skrzyni za nim, ale pierw musimy znaleźć 2 klucze:
 
-- Pierwszy klucz jest w głównym budynku, w którym przebywa Garond, mianowicie leży na stole w jednym z pokoi na pietrze.
+- Pierwszy klucz jest w głównym budynku, w którym przebywa Garond, mianowicie leży na stole w jednym z pokoi na piętrze.
 - Drugi klucz znajduje się w pokoju Engora, dokładnie jest na półce na ścianie (Pokój Engora znajduje się nad miejscem, gdzie w ciągu dnia Engor handluje z nami).
 
-Mając już oba klucze, otwieramy drzwi prowadzące do wieży. Przed nami pojawi się Zombie Gomeza, więc zabijamy go, po czym pojawi się duch Gomeza, rozmawiamy z nim na temat posążków. Prosi on nas o uwolnienie go z klątwy. W tym celu będziemy musieli wykonać inne zadania (patrz: Klątwa Gomeza). Po wykonaniu zadania dla Gomeza bierzemy klucz i otwieramy skrzynię za nim. Wracamy do Lutero z artefaktami.
+Mając już oba klucze, otwieramy drzwi prowadzące do wieży. Przed nami pojawi się Zombie Gomez, więc zabijamy go, po czym pojawi się duch Gomeza, rozmawiamy z nim na temat posążków. Prosi on nas o uwolnienie go z klątwy. W tym celu będziemy musieli wykonać inne zadanie: [Klątwa Gomeza](https://nb.mody.sefaris.eu/#/sekcje/gildie_poboczne/gildia_kupcow?id=kl%c4%85twa-gomeza-rozdzia%c5%82-3). Po wykonaniu zadania dla Gomeza, bierzemy klucz i otwieramy skrzynię za nim. Wracamy do Lutero z artefaktami.
 
 ## Klątwa Gomeza (Rozdział 3)
 
@@ -74,8 +74,8 @@ Zadanie dostajemy od Lutero. Mówi nam, że zaginął gdzieś jego posłaniec, k
 
 Po odejściu Benchela Lutero szuka nowego pomocnika. Mamy do wyboru 3 osoby:
 
-- Valeran siedzi na ławeczce w górnym mieście lub jest martwy, jeśli zabiliśmy go w zadaniu "Zagubiony Bandyta"
-- Gayvern znajduje się karczmie Kardifa
+- Valeran siedzi na ławeczce w górnym mieście lub jest martwy, jeśli zabiliśmy go w zadaniu [Zagubiony Bandyta](https://nb.mody.sefaris.eu/#/sekcje/zadania/rozdzial_i?id=zagubiony-bandyta)
+- Gayvern znajduje się w karczmie Kardifa
 - Maxi słucha kazań Vatrasa
 
 Najlepszym wyborem jest Valeran, gdyż w nagrodę da nam książkę +1% 1H/2H, jeżeli jednak go zabiliśmy to lepszy jest Maxi, gdyż Gayverna możemy rekrutować na strażnika do swojego obozu.
@@ -86,15 +86,15 @@ Zadanie zleca Lutero prosi nas, abyśmy złożyli Sarze propozycję dołączenia
 
 ## Żywność dla Sary (Rozdział 3)
 
-Sara prosi nas o przyniesienie jej 2 kawałków mięsa i mleka.
+Sara prosi nas o przyniesienie jej 2 kawałków mięsa i 2 butelek mleka.
 
 ## Pierścień Rodowy (Rozdział 3)
 
-Sara mówi, że strażnik więzienia Boltan ma jej klucz. Możemy go odkupić, pobić Boltana lub go przekonać (Część gildii ma odpowiedni dla siebie dialog). Z pierścieniem wracamy do Sary
+Sara mówi, że strażnik więzienia Boltan ma jej pierścień. Możemy go odkupić, pobić Boltana lub go przekonać (Część gildii ma odpowiedni dla siebie dialog). Z pierścieniem wracamy do Sary.
 
 ## Dług Sary (Rozdział 3)
 
-Sara prosi nas o spłacenie długo u Harada. Idziemy do Harada i płacimy 2 000 złota, a następnie wracamy do Sary
+Sara prosi nas o spłacenie długu u Harada. Idziemy do Harada i płacimy 2 000 złota, a następnie wracamy do Sary.
 
 Po wykonaniu wszystkich powyższych zadań stajemy się oficjalnie członkiem gildii kupców. Lutero daje nam pierścień gildii kupców i od teraz pozostali członkowie gildii (Salandril, Sara, Lutero, Jora, Erol, Matteo i Nigel) 
 będą sprzedawać nam dodatkowe przedmioty takie jak szczawie lub mikstury stałe.
