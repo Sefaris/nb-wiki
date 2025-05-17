@@ -10,7 +10,7 @@ Niezależnie od wyboru, po wszystkim idziemy do Kardifa, który opowiada nam o s
 ## Fałszywy posłaniec
 
 Pytając Kardiffa o specjalne zlecenie ten wysyła nas do Nagura, który mówi nam, że zabił posłańca Baltrama i sugeruje, abyśmy zostali nowym posłańcem i przynieśli mu paczkę Baltrama.  
-Teraz standardowo idziemy do Baltrama wziąć zadanie: Dostawa Baltrama i udajemy się na farmę Akila. Bierzemy paczkę i mamy dwie opcje:  
+Teraz standardowo idziemy do Baltrama wziąć zadanie: [Dostawa Baltrama](https://nb.mody.sefaris.eu/#/sekcje/zadania/rozdzial_i?id=dostawa-baltrama) i udajemy się na farmę Akila. Bierzemy paczkę i mamy dwie opcje:  
 - Oddać ją Baltramowi i wsadzić Nagura za kratki (Najkorzystniej jest wydać akurat jego, jeśli nie planujemy pokojowo dołączać do złodziei)  
 - Oddać przesyłkę Nagurowi (Baltram nie wyciągnie z tego żadnych konsekwencji)
 
