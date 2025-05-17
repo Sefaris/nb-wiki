@@ -84,7 +84,7 @@ Zadanie kończy się po rozmowie z Dexterem.
 ## Magowie Wody
 __Zleca: Cavalorn__
 
-Rozmawiamy z Vatrasem na temat magów wody i ich pracy, po czym odstajemy od niego ornament. Idziemy pogadać z Laresem i po tym jak załatwimy mu zmiennika, idziemy odnieść Ornament do magów wody. Dajemy ornament Nefariusowi, który zleca nam zebranie wszystkich ornamentów (patrz zadanie [Portal](#portal)) Po zebraniu ornamentów, musimy stać się członkiem wodnego kręgu, a także rozpocząć akt 2, po czym przedostać się do Jarkendaru.
+Rozmawiamy z Vatrasem na temat magów wody i ich pracy, po czym dostajemy od niego ornament. Idziemy pogadać z Laresem i po tym jak załatwimy mu zmiennika, idziemy odnieść Ornament do magów wody. Dajemy ornament Nefariusowi, który zleca nam zebranie wszystkich ornamentów (patrz zadanie [Portal](#portal)) Po zebraniu ornamentów, musimy stać się członkiem wodnego kręgu, a także rozpocząć akt 2, po czym przedostać się do Jarkendaru.
 
 ## Mrok północy dla Lestera
 __Zleca: Lester__  
