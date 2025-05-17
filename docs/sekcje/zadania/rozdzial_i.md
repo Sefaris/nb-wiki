@@ -58,7 +58,7 @@ Tutaj jest kilka sposobów:
 
 1. Możemy wziąć glejt od Canthara.
 2. Możemy dostać się do miasta za pomocą stroju Farmera (lepiej oddać go Gregowi)
-3. Możemy powiedzieć strażnikowi, że mamy Zioła Constantina (bonus `Retoryka +1` i dodatkowe doświadczenie)
+3. Możemy powiedzieć strażnikowi, że mamy Zioła Constantina (`Retoryka +1`)
 4. Dostać się od strony morza
 
 Można okrążyć miasto i od strony plaży Skipa przeskoczyć przez mur lub przepłynąć do portu, żeby porozmawiać najpierw z Laresem (bonus [`Zręczność +1`]), a następnie teleportować się do południowej bramy, żeby porozmawiać ze strażnikiem, i powiedzieć mu, że mamy zioła dla Constantina.
