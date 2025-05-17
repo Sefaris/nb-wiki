@@ -415,7 +415,7 @@ Gadamy z Randolphem na farmie Akila. Opowiada on nam o turnieju w piciu, który 
 ## Dostawa Baltrama
 __Zleca: Baltram__
 
-Baltram prosi nas o przyniesienie mu paczki z żywnością z farmy Akila. Udajemy się do Akila, w ramach zadania [Farmer w potrzebie](#farmer-w-potrzebie) zabijamy najemników i odbieramy paczkę, po czym odnosimy ją do z powrotem do Akila lub Nagura jeżeli wykonujemy zadanie [Fałszywy Posłaniec](#(sekcje/gildie_poboczne/gildia_zlodziei.md?id=fałszywy-posłaniec))
+Baltram prosi nas o przyniesienie mu paczki z żywnością z farmy Akila. Udajemy się do Akila, w ramach zadania [Farmer w potrzebie](#farmer-w-potrzebie) zabijamy najemników i odbieramy paczkę, po czym odnosimy ją do z powrotem do Akila lub Nagura jeżeli wykonujemy zadanie [Fałszywy Posłaniec](sekcje/gildie_poboczne/gildia_zlodziei.md?id=fałszywy-posłaniec)
 
 ## Eksperyment
 __Zleca: Ignaz__
