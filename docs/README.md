@@ -18,6 +18,7 @@ Serdeczne podziękowania dla **Marka Z** — autora oryginalnej wersji solucji. 
 
 **Członkowie Teamu Sefaris:**
 
+- Sebastian
 - Tulipan
 - fyryNy
 
