@@ -29,7 +29,7 @@ Asmal zleca nam zabicie Lehmara, więc udajemy się do domu lichwiarza, gdzie ok
 ## Błąd Canthara
 __Zleca: Asmal__
 
-Tym razem Asmal zleca nam zabicie Canthara. Po 22 siedzi on na ławce za jego straganem, gdzie nikt nie będzie nam przeszkadzał. Jeśli z jakiegoś powodu wsadziliśmy Canthara do więzienia, używamy w nim zwoju strachu, a z Cantharem rozmawiamy, aż będzie nas gonił poza miasto.
+Tym razem Asmal zleca nam zabicie Canthara. Po 22 siedzi on na ławce za jego straganem, gdzie nikt nie będzie nam przeszkadzał. Jeśli z jakiegoś powodu wsadziliśmy Canthara do więzienia, używamy na nim zwoju strachu i rozmawiamy z nim poza murami miasta.
 
 ## Dług kupca
 __Zleca: Asmal__
@@ -56,7 +56,7 @@ Wyzywamy Asmala na pojedynek, po którym go zabijamy i zwracamy się do Charlott
 ## Lisia nora
 __Zleca: Charlotte__
 
-Po zabiciu Asmala Charlotte poprosi nas o znalezienie dobrego miejsca dla zabójców. Będzie to Gorzelnia Vino, która znajduje się przy kamiennym kręgu w Mrocznym Lesie. Do otwarcia jej potrzebujemy łoju kretoszczura, który kupimy od Martina lub znajdziemy na Esmeraldzie. Jak już zabójcy się tam przeniosą, to będziemy mogli odbierać od nich cotygodniową zapłatę.  
+Po zabiciu Asmala, Charlotte poprosi nas o znalezienie dobrego miejsca dla zabójców. Będzie to Gorzelnia Vino, która znajduje się przy kamiennym kręgu w Mrocznym Lesie. Do otwarcia jej potrzebujemy łoju kretoszczura, który kupimy od Martina lub znajdziemy na Esmeraldzie. Jak już zabójcy się tam przeniosą, to będziemy mogli odbierać od nich cotygodniową zapłatę.  
 
 ## Umowa z Nigelem
 __Zleca: Nigel__
