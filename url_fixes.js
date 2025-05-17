@@ -5,8 +5,6 @@ const DOCS_PATH = path.resolve("docs");
 const SIDEBAR_PATH = path.resolve(DOCS_PATH, "_sidebar.md");
 const ALL_FILES_PATH = path.resolve(DOCS_PATH, "sekcje");
 
-console.log(DOCS_PATH);
-
 function getAllFilesToFix(directoryPath) {
   const result = [];
   const allToFix = fs.readdirSync(directoryPath);
