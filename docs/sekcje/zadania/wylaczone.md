@@ -1,6 +1,6 @@
 # Zadania domyślnie wyłączone
 
-## Opiekunowie
+# Opiekunowie
 
 Zadanie zaczyna się jak przyjmiemy ofertę Dagotha na początku gry. Po zabiciu smoka ożywieńca na Irdorath pojawia się Dagoth. Okazuje się, że opiekunowie nas zdradzili. Dagoth znika, a my musimy pokonać cztery demony. Gadamy z Pyrokarem w klasztorze i wykonujemy zadanie  
 Dziwne rzeczy, po czym znów gadamy z Pyrokarem  
