@@ -17,8 +17,17 @@ Po uzyskaniu trzech adnotacji w dzienniku o zbadaniu danego obszaru wracamy do B
 
 Johan na początku wypiera się więc zastraszamy go, a on wyjawia nam całą prawdę. Okazuje się, że wszystko zaczęło się od wieży, w której Vasco odnalazł księgę magiczną. Starał się samodzielnie praktykować magię, w wyniku czego doprowadził do śmierci trzech osób. Rozmawiamy o tym z Blizną, a ten decyzję co zrobić z rybakiem pozostawia nam:
 
-- puszczamy go wolno za co dostajemy 500 exp i zwój deszcz ognia
-- informujemy, że zabieramy go do klasztoru magów ognia, gdzie zostanie osądzony co doprowadza do walki, w której razem z Blizną zabijamy domorosłego magika. Dostajemy: 1000 exp, 2 karmy u Beliara i 15 karmy u Innosa
+<!-- tabs:start -->
+
+#### __Puścić go wolno__
+
+Puszczamy go wolno za co dostajemy 500 exp i zwój deszcz ognia
+
+#### __Zabrać do klasztoru__
+
+Informujemy, że zabieramy go do klasztoru magów ognia, gdzie zostanie osądzony co doprowadza do walki, w której razem z Blizną zabijamy domorosłego magika. Dostajemy: 1000 exp, 2 karmy u Beliara i 15 karmy u Innosa
+
+<!-- tabs:end -->
 
 Teraz znów gadamy z Blizną i umawiamy się, że na cieniostwora pójdziemy razem, a nagrodą się podzielimy. Informuje nas on również o istnieniu obozu niedaleko farmy, w którym toczą się walki na arenie. Gdy już uznamy, że chcemy wyruszyć na polowanie gadamy z nim jeszcze raz i razem udajemy się do legowiska potwora. 
 
