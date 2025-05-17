@@ -1,6 +1,7 @@
 # Zwiadowca
 
-> Kolejność wykonywania zadań:  
+> **Kolejność wykonywania zadań:**
+>
 > 1. [Dłużnik Gunnara](#dłużnik-gunnara)
 > 2. [Liczenie owiec](#liczenie-owiec)
 > 3. [Dołączenie do zwiadowców](#dołączenie-do-zwiadowców)
@@ -12,100 +13,129 @@
 > 9. [W pogoni za mrokiem (Rozdział 3)](#w-pogoni-za-mrokiem-rozdział-3)
 > 10. [Skarb Rączki](#skarb-rączki)
 > 11. [Na tropie zdrady (Rozdział 4)](#na-tropie-zdrady-rozdział-4)
+
+> **Zadania dodatkowe:**
 >
-> Zadania dodatkowe:  
 > 1. [Likwidacja orkowych najemników (Rozdział 2)](#likwidacja-orkowych-najemników-rozdział-2)
 > 2. [Sabotaż](#sabotaż)
 
-
 ## Dłużnik Gunnara
-__Zleca: Gunnar__
 
-> Jest to zadanie, które wprowadza gildię Zwiadowca
+**Zleca: Gunnar**
 
-Gunnar prosi nas o znalezienie człowieka, któremu pożyczył złoto. Ciało znajdujemy niedaleko Groma, na skałach pod wieżą Dextera.
+> Zadanie wprowadza nas do gildii Zwiadowców.
+
+Gunnar prosi o odnalezienie człowieka, któremu pożyczył złoto. Ciało znajdujemy niedaleko Groma, na skałach pod wieżą Dextera.
 
 ## Liczenie owiec
-__Zleca: Notka w ciele mężczyzny z zadania [Dłużnik Gunnara](#dłużnik-gunnara)__
 
-Po przeczytaniu notatki idziemy do Lorda Andre i zdajemy mu raport, po rozmowie z Andre zaczepia nas Allen i proponuje nam [Dołączenie do zwiadowców](#dołączenie-do-zwiadowców).
+**Zleca: Notka znaleziona przy ciele z zadania [Dłużnik Gunnara](#dłużnik-gunnara)**
+
+Po przeczytaniu notatki udajemy się do Lorda Andre i zdajemy raport. Po rozmowie zaczepia nas Allen i proponuje [Dołączenie do zwiadowców](#dołączenie-do-zwiadowców).
 
 ## Dołączenie do zwiadowców
-__Zleca: Allen__
 
-Allen zleca nam odebranie raportów od trzech żołnierzy, są to:
-1. Zwiadowca przy bramie na przełęcz.
-2. Strażnik bramy do Fortu Azgan (za farmą Onara).
-3. Zwiadowca znajdujący się przy drodze, idąc od farmy Akila w stronę lasu. Pójdziemy z nim również zapolować na grupkę orków.
+**Zleca: Allen**
 
-Po porozmawianiu z nimi, wracamy do Allena i możemy dołączyć do zwiadowców.
+Allen zleca nam odebranie raportów od trzech żołnierzy:
+
+1. Zwiadowcy przy bramie na przełęcz.
+2. Strażnika bramy do Fortu Azgan (za farmą Onara).
+3. Zwiadowcy przy drodze między farmą Akila a lasem — pójdziemy z nim także zapolować na grupkę orków.
+
+Po rozmowie z każdym z nich wracamy do Allena i oficjalnie dołączamy do zwiadowców.
 
 ## Infiltracja gildii złodziei
-__Zleca: Allen__
 
-Musimy zinfiltrować gildię złodziei i dowiedzieć się jak najwięcej o Rączce.  
-Udajemy się do kanałow pod Khorinis, do pomieszczenia za zamkniętymi drzwiami, w którym jest skrzynia Rączki. Zabieramy z niej dziennik (Jeżeli skrzynia została już opróżniona wcześniej to dziennik i tak się w niej teraz pojawi) i czytamy go. Teraz idziemy do pustego pomieszczenia obok Attili i w środku używamy zaklęcia światła, otworzy się małe przejście w ścianie, przez które przechodzimy na przemianie.  
+**Zleca: Allen**
+
+Naszym celem jest infiltracja gildii złodziei i zebranie informacji o Rączce.
+
+Udajemy się do kanałów pod Khorinis, do pomieszczenia za zamkniętymi drzwiami, gdzie znajduje się skrzynia Rączki. Zabieramy z niej dziennik (pojawi się nawet, jeśli skrzynia została wcześniej opróżniona) i go czytamy.
+
+Następnie wchodzimy do pustego pomieszczenia obok Attili i używamy zaklęcia światła — w ścianie otworzy się tajne przejście, przez które przechodzimy w przemianie.
 ![Przejście w ścianie](https://i.imgur.com/wPuXb0b.jpeg)
-Zbieramy wszystko co tam znajdziemy, czytamy pulpit, a także sprawdzamy obrazek, który tam znaleźliśmy. Po wszystkim wracamy do Allena, kończymy bieżące zadanie i rozpoczynamy kolejne, [Tajemnica starej wieży](#tajemnica-starej-wieży).
+Zbieramy wszystko, co znajdziemy, czytamy pulpit i oglądamy obrazek. Wracamy do Allena, kończymy zadanie i rozpoczynamy [Tajemnicę starej wieży](#tajemnica-starej-wieży).
 
 ## Tajemnica starej wieży
-__Zleca: Allen__
 
-Idziemy do wieży na plaży obok Skipa, rozmawiamy z Allenem, a po krótkiej cutscence wchodzimy po drabinie na wieże i używamy kołowrotu, aby otworzyć przejście. Wracamy do Allena i przenosimy się do nowej miejscówki (będzie to od teraz nasza baza), gdzie znów z nim rozmawiamy. Otrzymujemy od niego list, z którym udajemy się teraz do Lorda Hagena. Wracamy do bazy, kończymy zadanie u Allena i rozpoczynamy kolejne, [Stare ruiny](#stare-ruiny)
+**Zleca: Allen**
+
+Udajemy się do wieży na plaży obok Skipa. Po rozmowie z Allenem i krótkiej cutscence wspinamy się po drabinie i używamy kołowrotu, by otworzyć przejście. Wracamy do Allena i przenosimy się do nowej bazy, gdzie kontynuujemy rozmowę.
+
+Otrzymujemy list, który mamy dostarczyć Lordowi Hagenowi. Po powrocie kończymy zadanie i rozpoczynamy [Stare ruiny](#stare-ruiny).
 
 ## Stare ruiny
-__Zleca: Allen__
 
-Udajemy się na statek paladynów po księgę, znajduje się na stole alchemicznym. Wracamy do Allena, który wysyła nas do zniszczonego fortu, za latarnią Jacka. Czyścimy lokację, czytamy notatki i wracamy do Allena zakończyć zadanie.
+**Zleca: Allen**
+
+Na statku paladynów szukamy księgi — znajduje się na stole alchemicznym. Wracamy do Allena, który wysyła nas do zniszczonego fortu za latarnią Jacka. Czyścimy teren, czytamy notatki i wracamy do Allena zakończyć zadanie.
 
 ## Sztandar Ognia (Rozdział 2)
-__Zleca: Allen__
 
-> Aby rozpocząć zadanie musimy rozpocząć wątek w Jarkendarze (przejść przez Portal i odbyć pierwszą rozmowę z Saturasem)
+**Zleca: Allen**
 
-Allen zleca nam zdobycie artefaktu, Sztandaru Ognia. W tym celu udajemy się na skały nad leżem Czarnego Trolla. Znajdziesz się na polanie z trollami, przejście do osobnej lokacji znajduje się za jaskiniowym trollem. 
-Znajdujemy tam Erwina, zdobywamy dla niego krzesiwo (z wraku statku lub kupujemy od Matteo za 300 sztuk złota), a w zamian dowiadujemy się, że sztandar został skradziony i dostajemy od niego skrzyneczkę, w której jest złoty klucz. Wracamy do Allena zdać raport.
+> Aby rozpocząć to zadanie, musimy przejść przez portal do Jarkendaru i porozmawiać z Saturasem.
+
+Allen zleca odnalezienie Sztandaru Ognia. Wyruszamy na skały nad legowiskiem Czarnego Trolla. Na polanie z trollami znajduje się przejście do osobnej lokacji za jaskiniowym trollem.
+
+Spotykamy Erwina — zdobywamy dla niego krzesiwo (z wraku statku lub kupując od Matteo za 300 sztuk złota). Erwin informuje nas, że sztandar został skradziony i wręcza skrzyneczkę z kluczem. Wracamy do Allena.
 
 ## Sabotaż (Rozdział 2)
-__Zleca: Jergen, gdy przebywa obok kopalni Fajetha__
 
-Musimy zrobić mały sabotaż wśród orków, w tym celu udajemy się przed wejście do miasta orków (teren gdzie w podstawce stoi bagienny smok) i szukamy studni, której pilnuje ork. Podchodzimy, żeby nas zagadał, a później usypiamy go zwojem Snu (tak, żeby inni orkowie nas nie zauważyli) i zatruwamy studnie. Po wszystkim wracamy do Jergana.
+**Zleca: Jergen (przy kopalni Fajetha)**
+
+Musimy dokonać sabotażu w obozie orków. Udajemy się pod miasto orków (tam, gdzie w podstawce był bagienny smok) i odnajdujemy studnię strzeżoną przez orka.
+
+Pozwalamy się zagadać, następnie usypiamy go zwojem Snu (tak, aby nie zauważyli nas inni orkowie) i zatruwamy studnię. Po wszystkim wracamy do Jergena.
 
 ## Likwidacja orkowych najemników (Rozdział 2)
-__Zleca: Allen__
 
-> Aby rozpocząć questa, musimy najpierw zdobyć Ulu-Mulu od orkowych najemników w GD.
+**Zleca: Allen**
 
-Allen zleca nam zabicie orkowych najemników w Górniczej Dolinie, zabijamy ich i wracamy do Allena.
+> Aby rozpocząć zadanie, musimy zdobyć Ulu-Mulu od orkowych najemników w Górniczej Dolinie.
+
+Allen zleca zabicie orkowych najemników w Górniczej Dolinie. Eliminujemy ich i wracamy do Allena.
 
 ## Orkowa galera (Rozdział 3)
-__Zleca: Allen__
 
-> Aby rozpocząć zadanie musimy najpierw dostarczyć Hagenowi wieści od Garonda
+**Zleca: Allen**
 
-Allen wspomina o orkowej galerze w pobliżu Khorinis. Udajemy się do przeklętej latarni i używamy lunety (możemy to zrobić tylko w dzień w godzinach 5:00-18:40 i nie może padać deszcz). Po cutscence idziemy na południowy brzeg wyspy (między miastem, a wieżą Xardasa, koło jaskini z bandytami Cavalorna). Na miejscu wybijamy orków i palimy ich statek, po czym wracamy do Allena.
+> Wymaga wcześniejszego dostarczenia Hagenowi wiadomości od Garonda.
+
+Allen wspomina o orkowej galerze w pobliżu Khorinis. Udajemy się do Przeklętej Latarni i korzystamy z lunety (tylko w dzień, między 5:00 a 18:40, przy dobrej pogodzie). Po cutscence idziemy na południowy brzeg wyspy (między miastem a wieżą Xardasa, obok jaskini bandytów Cavalorna). Pokonujemy orków i podpalamy ich statek. Wracamy do Allena.
 
 ## W pogoni za mrokiem (Rozdział 3)
-__Zleca: Allen__
 
-> Zadanie dostępne po wykonaniu zadania [Orkowa galera](#orkowa-galera-rozdział-3)
+**Zleca: Allen**
 
-Musimy dowiedzieć się, co się stało z Eugene i Nathanielem. Idziemy do kamiennego kręgu koło farmy Lobarta, gdzie znajdujemy rannego Nathaniela. Po rozmowie z nim idziemy w stronę wieży Xardasa. Przed jaskinia z bandytami spotykamy Eugene, rozmawiamy z nim, a później zabijamy poszukiwaczy kawałek dalej. Rozmawiamy znów z Eugene i wracamy do Nathaniela, przy kamiennym kręgu. Rozmawiamy z Nathanielem, który nas atakuje. Pokonujemy go i idziemy do klasztoru porozmawiać z Pyrokarem, kupujemy od niego miksturę, następnie wracamy do naszej kryjówki. Dajemy Nathanielowi miksture, a później kończymy zadanie u Allena.
+> Zadanie dostępne po ukończeniu [Orkowej galery](#orkowa-galera-rozdział-3).
+
+Musimy dowiedzieć się, co stało się z Eugene i Nathanielem. Udajemy się do kamiennego kręgu koło farmy Lobarta — znajdujemy tam rannego Nathaniela.
+
+Po rozmowie ruszamy w stronę wieży Xardasa. Przed jaskinią bandytów spotykamy Eugene'a — rozmawiamy z nim, a następnie pokonujemy poszukiwaczy. Znów rozmawiamy z Eugene'em i wracamy do Nathaniela.
+
+Nathaniel atakuje nas — po walce udajemy się do klasztoru, gdzie kupujemy od Pyrokara miksturę. Wracamy do naszej bazy, podajemy miksturę Nathanielowi i kończymy zadanie u Allena.
 
 ## Skarb Rączki
-__Zleca: Allen__
 
-Musimy odnaleźć cztery złote klucze rączki, aby otworzyć przejście w dawnej kryjówce Rączki.
+**Zleca: Allen**
 
-Lokalizacja kluczy:  
-1. W skarbcu na wyspie złodziei
-2. Posiada go rączka - zdobycie go wymaga 60 retoryki
-3. Zakopany w pobliżu wykopalisk Magów Wody, można wykopać w trakcie zadania dla Hanny - [Ktoś coś zgubił?](sekcje/zadania/rozdzial_iii.md?id=ktoś-coś-zgubił)
-4. Posiada Erwin w nowej lokacji za górami trolli, do której udajemy się w zadaniu [Sztandar Ognia](#sztandar-ognia)
+Musimy zdobyć cztery złote klucze Rączki, aby otworzyć przejście w jego dawnej kryjówce.
+
+**Lokalizacje kluczy:**
+
+1. Skarbiec na Wyspie Złodziei
+2. U Rączki — wymaga 60 retoryki
+3. Zakopany przy wykopaliskach Magów Wody (można wykopać w trakcie zadania [Ktoś coś zgubił?](sekcje/zadania/rozdzial_iii.md?id=ktoś-coś-zgubił))
+4. U Erwina w nowej lokacji za górami trolli (tam trafiamy w zadaniu [Sztandar Ognia](#sztandar-ognia))
 
 ## Na tropie zdrady (Rozdział 4)
-__Zleca: Allen__
 
-> Zadanie można rozpocząć dopiero po zdobyciu wszystkich kluczy i otwarciu skarbca w zadaniu [Skarb Rączki](#skarb-rączki)
+**Zleca: Allen**
 
-Allen mówi nam, że Nathaniel ukradł Róg Strachu i uciekł. Czytamy notatkę, rozmawiamy znów z Allenem, a później idziemy do klasztoru do Pyrokara. Po rozmowie z Pyrokarem udajemy się do jaskini niedaleko leża czarnego trolla (jaskinia z próby ognia), gdzie pokonujemy mistrzów mroku, a także Władcę Mroku i jego nieumarłych sługusów. Po walce rozmawiamy z Nathanielem i decydujemy czy chcemy go zabić, czy pozwolić mu żyć. Wracamy do Allena i kończymy wątek zwiadowców.
+> Dostępne po zdobyciu wszystkich kluczy i otwarciu skarbca w zadaniu [Skarb Rączki](#skarb-rączki).
+
+Allen informuje nas, że Nathaniel ukradł Róg Strachu i uciekł. Czytamy notatkę, rozmawiamy z Allenem, a następnie udajemy się do klasztoru porozmawiać z Pyrokarem.
+
+Potem ruszamy do jaskini niedaleko legowiska Czarnego Trolla (jaskinia z próbą ognia). Pokonujemy Mistrzów Mroku oraz Władcę Mroku i jego sługi. Na końcu rozmawiamy z Nathanielem i decydujemy, czy go zabić, czy darować mu życie. Wracamy do Allena i zamykamy wątek zwiadowców.
