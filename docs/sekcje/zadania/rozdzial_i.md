@@ -215,7 +215,7 @@ Kardif mówi nam, że Moe odstrasza klientów i prosi nas, abyśmy coś zrobili 
 ## Dłużnik Lehmara
 __Zleca: Lehmar__
 
-Lehmar każe nam zabić typa który pożyczył pieniądze i się więcej nie pojawił. Chodzi o Millsa w magazynie w porcie.
+Lehmar każe nam zabić typa, który pożyczył pieniądze i więcej się nie pojawił. Chodzi o Millsa w magazynie w porcie.
 > Jeżeli masz problem to zadanie można zostawić na później i uzyskać dostęp do rzemieślników bez niego
 
 ## Figurka dla Eddy
@@ -226,7 +226,7 @@ Edda mówi nam, że skradziono jej statuetkę Innosa. Statuetkę znajdziemy w do
 ## Atrament dla Brahima
 __Zleca: Brahim__
 
-Brahim prosi nam, abyśmy mu przynieśli atrament. Można go kupić albo ukraść z domu Zurisa z regału.
+Brahim prosi nas, byśmy przynieśli mu atrament. Można go kupić u Zurisa lub ukraść z domu Zurisa z regału.
 
 ## Delikatesy
 __Zleca: Halvor__
