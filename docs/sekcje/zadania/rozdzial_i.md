@@ -524,7 +524,7 @@ Zadanie można dostać zaraz po odblokowaniu możliwość rozmowy z mistrzami. C
 ## Kupieckie złoto
 __Zleca: Jora__
 
-Jora mówi nam, że Rengaru go okradł. Wykonujemy zadanie [Bezczelny złodziej](Sekcje/Gildie_Poboczne/Gildia_Zlodziei.md?id=bezczelny-złodziej), a potem oddajemy złoto Jorze.
+Jora mówi nam, że Rengaru go okradł. Wykonujemy zadanie [Bezczelny złodziej](sekcje/gildie_poboczne/gildia_zlodziei.md?id=Bezczelny-złodziej), a potem oddajemy złoto Jorze.
 
 ## Leniwy farmer
 __Zleca: Till__
