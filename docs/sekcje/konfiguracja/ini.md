@@ -3,52 +3,53 @@
 ## Ogólne zmienne
 
 Poniższe wartości przyjmują wartości:
+
 - 1 - włączenie opcji
 - 0 - wyłączenie opcji
 
-| Nazwa | Opis |
-| --- | --- |
-| extModeActivate | Włącza tryb ulepszeń i pieczęci (działa od nowej gry) |
-| bSkipLogo | Pominięcie cutscenki na początku gry (Mowa Xardasa i lot kamerą wokół jego wieży) |
-| bToggleLockPickHelper | Włącza podpowiedzi podczas okradania skrzynek |
-| bPoisonWeaponEffect | Włącza efekt wizualny trucizny na broni (tylko dla mistrza trucizn) |
-| bToggleSpellHint | Włącza wyświetlanie obecnie wybranego czaru |
-| bToggleShowStat Plus | Dodaje znak "+" przed wyświetlaną wartością zregenerowaniego życia lub many |
-| bShowEnemyHealth | Pokazuje ilość życia przeciwnika |
-| bQuickLootEnabled | Włącza quickloota |
-| bHideWaterMageIceShield | Chowa efekty wizualne magicznej tarczy Magów Wody |
-| FreezeHeroSpeedNormal | Wyłącza skalowanie szybkości biegania postaci z wytrzymałością i zrecznością |
-| bToggleSeparateHealManaNumbers | Włącza wyświetlanie regeneracji many i życia w postaci oddzielnych tekstów |
-| bHideBarsText | Włączenie chowa nazwy pasków (życie/mana/wytrzymałość) |
-| bNewLegPlusNB | Włącza możliwość wyboru poziomu trudności Nightmare+ |
-| bShowMesMemoryFull | Włącza pokazywanie komunikatu o braku dostępnej pamięci |
-| bGlobalStaggerEnabled | Włącza ogłuszanie (przewracanie) innych postaci podczas walki w zwarciu |
-| bShowStaggerVisual | Włącza pasek ogłuszania |
-| bShowPoisonBarVisual | Włącza pasek zatrucia |
-| bCanRenderHotbarInBattle | Włącza możliwość używania paska szybkiego wyboru podczas walki |
-| bProtectTraders | Włączenie opcji chroni kupców przed utratą ekwipunku po ich pobiciu |
-| nightmareZeroLP | Włączenie opcji spowoduje włączenie trybu 0pn/lvl na poziomie trudności Nightmare |
-| bShowSummonHealthBar | Włącza wyświetlanie oddzielnego paska życia dla niektórych przyzwańców (Hubaxis, Krayt, Jina, Sid) |
-| bShowSummonHealthBarPosX | Pozycja X dla paska summonów |
-| bShowSummonHealthBarPosY | Pozycja Y dla paska summonów |
-| bToggle_SightColorAimBySpellLevel | Włącza podświetlenie przeciwnika podczas łądowania czarów |
-| bLinuxMusicFix | Dla systemów Linux - wyłączenie muzyki w menu, żeby zapobiec crashom |
+| Nazwa                             | Opis                                                                                               |
+| --------------------------------- | -------------------------------------------------------------------------------------------------- |
+| extModeActivate                   | Włącza tryb ulepszeń i pieczęci (działa od nowej gry)                                              |
+| bSkipLogo                         | Pominięcie cutscenki na początku gry (Mowa Xardasa i lot kamerą wokół jego wieży)                  |
+| bToggleLockPickHelper             | Włącza podpowiedzi podczas okradania skrzynek                                                      |
+| bPoisonWeaponEffect               | Włącza efekt wizualny trucizny na broni (tylko dla mistrza trucizn)                                |
+| bToggleSpellHint                  | Włącza wyświetlanie obecnie wybranego czaru                                                        |
+| bToggleShowStat Plus              | Dodaje znak "+" przed wyświetlaną wartością zregenerowaniego życia lub many                        |
+| bShowEnemyHealth                  | Pokazuje ilość życia przeciwnika                                                                   |
+| bQuickLootEnabled                 | Włącza quickloota                                                                                  |
+| bHideWaterMageIceShield           | Chowa efekty wizualne magicznej tarczy Magów Wody                                                  |
+| FreezeHeroSpeedNormal             | Wyłącza skalowanie szybkości biegania postaci z wytrzymałością i zrecznością                       |
+| bToggleSeparateHealManaNumbers    | Włącza wyświetlanie regeneracji many i życia w postaci oddzielnych tekstów                         |
+| bHideBarsText                     | Włączenie chowa nazwy pasków (życie/mana/wytrzymałość)                                             |
+| bNewLegPlusNB                     | Włącza możliwość wyboru poziomu trudności Nightmare+                                               |
+| bShowMesMemoryFull                | Włącza pokazywanie komunikatu o braku dostępnej pamięci                                            |
+| bGlobalStaggerEnabled             | Włącza ogłuszanie (przewracanie) innych postaci podczas walki w zwarciu                            |
+| bShowStaggerVisual                | Włącza pasek ogłuszania                                                                            |
+| bShowPoisonBarVisual              | Włącza pasek zatrucia                                                                              |
+| bCanRenderHotbarInBattle          | Włącza możliwość używania paska szybkiego wyboru podczas walki                                     |
+| bProtectTraders                   | Włączenie opcji chroni kupców przed utratą ekwipunku po ich pobiciu                                |
+| nightmareZeroLP                   | Włączenie opcji spowoduje włączenie trybu 0pn/lvl na poziomie trudności Nightmare                  |
+| bShowSummonHealthBar              | Włącza wyświetlanie oddzielnego paska życia dla niektórych przyzwańców (Hubaxis, Krayt, Jina, Sid) |
+| bShowSummonHealthBarPosX          | Pozycja X dla paska summonów                                                                       |
+| bShowSummonHealthBarPosY          | Pozycja Y dla paska summonów                                                                       |
+| bToggle_SightColorAimBySpellLevel | Włącza podświetlenie przeciwnika podczas łądowania czarów                                          |
+| bLinuxMusicFix                    | Dla systemów Linux - wyłączenie muzyki w menu, żeby zapobiec crashom                               |
 
 ## Wygląd ognika
 
 Wartości trzeba zmienić w gothic.ini w sekcji `[WISP_SETTINGS]`.
 
-| Nazwa | Domyślna wartość | Poprawne wartości  | Opis |
-| --- | --- | --- | --- |
-| ppsvalue | 100 | 1-500 | Zwiększa ilość cząsteczek wydzielanych przez ognika i gęstość jego ognia |
-| shpdim_s | 15 | 1-100 | Średnia wielkość płomienia |
-| color | 255 255 255 | Kolor RGB | Kolor głównego światła |
-| colorEnd | 255 255 255 | Kolor RGB | Kolor światła dodatkowego |
-| vissizestart_s | 50 50 | 1-500 | Wielkość cząsteczek ognika |
-| visAlphaStart | 0 | 0-255 | Minimalna wartość przezroczystości (opacity) |
-| visAlphaEnd | 230 | 0-255 | Maksymalna wartość przezroczystości (opacity) |
-| visalphafunc_s | ADD | ADD lub BLEND | Rodzaj wymieszania kolorów |
-| visname_s | BLUEGLOW.TGA | Nazwa tekstury światła | Zmienia teksture światła |
+| Nazwa          | Domyślna wartość | Poprawne wartości      | Opis                                                                     |
+| -------------- | ---------------- | ---------------------- | ------------------------------------------------------------------------ |
+| ppsvalue       | 100              | 1-500                  | Zwiększa ilość cząsteczek wydzielanych przez ognika i gęstość jego ognia |
+| shpdim_s       | 15               | 1-100                  | Średnia wielkość płomienia                                               |
+| color          | 255 255 255      | Kolor RGB              | Kolor głównego światła                                                   |
+| colorEnd       | 255 255 255      | Kolor RGB              | Kolor światła dodatkowego                                                |
+| vissizestart_s | 50 50            | 1-500                  | Wielkość cząsteczek ognika                                               |
+| visAlphaStart  | 0                | 0-255                  | Minimalna wartość przezroczystości (opacity)                             |
+| visAlphaEnd    | 230              | 0-255                  | Maksymalna wartość przezroczystości (opacity)                            |
+| visalphafunc_s | ADD              | ADD lub BLEND          | Rodzaj wymieszania kolorów                                               |
+| visname_s      | BLUEGLOW.TGA     | Nazwa tekstury światła | Zmienia teksture światła                                                 |
 
 ## Presety ognika
 
@@ -56,7 +57,7 @@ Oryginalnie udostępnione na [RPGRussia](https://rpgrussia.com/threads/novyj-bal
 
 <!-- tabs:start -->
 
-#### __Różowy__
+#### **Różowy**
 
 ppsvalue=125\
 shpdim_s=10\
@@ -70,7 +71,7 @@ visname_s=BLUEGLOW.TGA
 
 ![Image info](https://i.imgur.com/luZe3k2.jpg)
 
-#### __Czerwony dym__
+#### **Czerwony dym**
 
 ppsvalue=100\
 shpdim_s=10\
@@ -84,7 +85,7 @@ visname_s=BADWEATH.TGA
 
 ![Image info](https://i.imgur.com/R0p2V2t.jpg)
 
-#### __Złote światło__
+#### **Złote światło**
 
 ppsvalue=100\
 shpdim_s=10\
@@ -98,7 +99,7 @@ visname_s=BADWEATH.TGA
 
 ![Image info](https://i.imgur.com/mDkor56.png)
 
-#### __Niebiesko purpurowy__
+#### **Niebiesko purpurowy**
 
 ppsvalue=100\
 shpdim_s=15\
@@ -112,7 +113,7 @@ visname_s=BLUEGLOW.TGA
 
 ![Image info](https://i.imgur.com/2XusCpT.jpg)
 
-#### __Trujący__
+#### **Trujący**
 
 ppsvalue=120\
 shpdim_s=15\
@@ -126,7 +127,7 @@ visname_s=BLUEGLOW.TGA
 
 ![Image info](https://i.imgur.com/0H2GBSK.jpg)
 
-#### __Magiczny__
+#### **Magiczny**
 
 ppsvalue=110\
 shpdim_s=10\
@@ -140,7 +141,7 @@ visname_s=BLUEGLOW.TGA
 
 ![Image info](https://i.imgur.com/LODrOKY.jpg)
 
-#### __Święte światło__
+#### **Święte światło**
 
 ppsvalue=100\
 shpdim_s=15\
@@ -154,7 +155,7 @@ visname_s=BLUEGLOW.TGA
 
 ![Image info](https://i.imgur.com/CtR2SRE.jpg)
 
-#### __Czarna dziura__
+#### **Czarna dziura**
 
 ppsvalue=100\
 shpdim_s=15\
@@ -168,7 +169,7 @@ visname_s=BlackFlash_A5.tga
 
 ![Image info](https://i.imgur.com/O2q8uA8.jpg)
 
-#### __Niewidzialny__
+#### **Niewidzialny**
 
 ppsvalue=20\
 shpdim_s=3\
@@ -184,26 +185,28 @@ visname_s=BADWEATH.TGA
 
 ## Zmiany kolorów
 
-| Nazwa | Domyślne wartości | Opis |
-| --- | --- | --- |
-| dialogSelectedColorR <br/> dialogSelectedColorG <br/> dialogSelectedColorB | 255, 221, 0 | Określa kolor wybranej opcji dialogowej |
-| dialogCommonColorR <br/> dialogCommonColorG <br/> dialogCommonColorB | 255, 255, 255 | Określa kolor regularnych dialogów |
-| iColorPoisonR <br/> iColorPoisonG <br/> iColorPoisonB | 3, 132, 26 |  Zmienia kolor wyświetlaniego tekstu informującego o obrażeniach zadanych od trucizny |
-| expColorR <br/> expColorG <br/> expColorB | 14, 122, 18 | Zmienia kolor wyświetlaniego tekstu informującego o zdobytym doświadczeniu |
-| iColorDayR <br/> iColorDayG <br/> iColorDayB | 245, 247, 225 | Zmienia kolor wyświetlaniego tekstu informującego o godzinie w grze |
+| Nazwa                                                                      | Domyślne wartości | Opis                                                                                 |
+| -------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------ |
+| dialogSelectedColorR <br/> dialogSelectedColorG <br/> dialogSelectedColorB | 255, 221, 0       | Określa kolor wybranej opcji dialogowej                                              |
+| dialogCommonColorR <br/> dialogCommonColorG <br/> dialogCommonColorB       | 255, 255, 255     | Określa kolor regularnych dialogów                                                   |
+| iColorPoisonR <br/> iColorPoisonG <br/> iColorPoisonB                      | 3, 132, 26        | Zmienia kolor wyświetlaniego tekstu informującego o obrażeniach zadanych od trucizny |
+| expColorR <br/> expColorG <br/> expColorB                                  | 14, 122, 18       | Zmienia kolor wyświetlaniego tekstu informującego o zdobytym doświadczeniu           |
+| iColorDayR <br/> iColorDayG <br/> iColorDayB                               | 245, 247, 225     | Zmienia kolor wyświetlaniego tekstu informującego o godzinie w grze                  |
 
 ## Włączenie questów
 
 Włączenie zadania z Zębaczem u Xardasa (działa od nowej gry):
 
-- Nazwa - **bSnapperQuestStart**   
+- Nazwa - **bSnapperQuestStart**
 - Wartość - 1
 
 Włączenie zadań, które zostały usunięte w patchu z areną (działa od nowej gry):
-- Nazwa - **bOldQuestsAvailable**   
+
+- Nazwa - **bOldQuestsAvailable**
 - Wartość - 1788301
 
 Lista zadań:
+
 - Błąd lorda Andre
 - nóż Hildy
 - Facet bez dziury chodzi ponury
@@ -226,9 +229,8 @@ Lista zadań:
 
 ## Inne
 
-| Nazwa | Domyślna wartość | Opis |
-| --- | --- | --- |
-| iMsgPositionX | 200 - na lewo <br/> 4000 - na prawo | Określa pozycję wyświetlanych komunikatów |
-| bMinimalHealShow | 5 | Granica, powyżej której będzie wyświetlana ilość regenerowanej many i życia |
-| arrowsInfoPosY | 8 | Wysokość tekstu z ilością strzał. Zwiększ wartość, żeby obniżyć tekst |
-| arrowsInfoPosY | 8 | Wysokość tekstu z ilością strzał. Zwiększ wartość, żeby obniżyć tekst |
+| Nazwa            | Domyślna wartość                    | Opis                                                                        |
+| ---------------- | ----------------------------------- | --------------------------------------------------------------------------- |
+| iMsgPositionX    | 200 - na lewo <br/> 4000 - na prawo | Określa pozycję wyświetlanych komunikatów                                   |
+| bMinimalHealShow | 5                                   | Granica, powyżej której będzie wyświetlana ilość regenerowanej many i życia |
+| arrowsInfoPosY   | 8                                   | Wysokość tekstu z ilością strzał. Zwiększ wartość, żeby obniżyć tekst       |
