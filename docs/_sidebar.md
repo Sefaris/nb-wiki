@@ -17,7 +17,7 @@
 - [Mag Wody](sekcje/gildie_glowne/mag_wody.md)
 - [Mroczny Rycerz](sekcje/gildie_glowne/mroczny_rycerz.md)
 - [Nekromanta/Czarnoksiężnik/Przywolywacz](sekcje/gildie_glowne/nekromanta_czarnoksieznik.md)
-- [Potępiony](sekcje/gildie_glowne/Potepiony.md)
+- [Potępiony](sekcje/gildie_glowne/potepiony.md)
 - [Strażnik Miejski/Paladyn](sekcje/gildie_glowne/paladyn.md)
 - [Strażnik Świątynny/Guru](sekcje/gildie_glowne/straznikswiatynny_guru.md)
 - [Zwiadowca](sekcje/gildie_glowne/zwiadowca.md)
