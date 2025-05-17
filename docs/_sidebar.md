@@ -30,8 +30,15 @@
 - [Gildia Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md)
 
 - **Wątki poboczne**
+- [Asasyni](sekcje/watki/asasyni.md)
+- [Farma Oswalda](sekcje/watki/farma_oswalda.md)
 - [Fort Azgan](sekcje/watki/fort_azgan.md)
-- [Opiekunowie](sekcje/watki/opiekunowie.md)
+- [Koszmar Kruka](sekcje/watki/koszmar_kruka.md)
+- [Orkowie](sekcje/watki/orkowie.md)
+- [Pustynia Adanosa](sekcje/watki/pustynia_adanosa.md)
+- [Śnieżne Góry Orków](sekcje/watki/sniezne_gory_orkow.md)
+- [Zachodnie Wybrzeże](sekcje/watki/zachodnie_wybrzeze.md)
+- [Zagniniony Brat](sekcje/watki/zagniniony_brat.md)
 
 - **Linki**
 - [Instalacja](https://sefaris.eu/new-balance/installation)
