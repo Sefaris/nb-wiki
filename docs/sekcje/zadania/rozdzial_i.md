@@ -186,7 +186,7 @@ Ludzie, dla których musimy wykonać zadania:
 - Brahim - [Atrament dla Brahima](#atrament-dla-brahima)
 - Carla - [Węgiel dla Carla](#węgiel-dla-carla)
 - Edda - [Figurka dla Eddy](#figurka-dla-eddy)
-- Garvell - [Narzędzie dla Garvella](#narzędzie-dla-garvella)
+- Garvell - [Narzędzie dla Garvella](#narzędzia-dla-garvella)
 - Halvor - [Delikatesy](#delikatesy)
 - Kardif - [Szantażysta Moe](#szantażysta-moe)
 - Lehmar - [Dłużnik Lehmara](#dłużnik-lehmara)
