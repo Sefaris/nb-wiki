@@ -12,7 +12,7 @@
 
 ## Spór myśliwych
 
-Myśliwi założyli się kto pierwszy da radę upolować potężnego czarnego trolla, my również możemy podjąć się tego zadania. Najłatwiej będzie zrobić to za pomocą zwoju zmniejszenia, który otrzymamy od Ignaza za zadanie "Człowiek pod postacią bestii". Zabieramy skórę naszego przeciwnika i wracamy z nią do Falka.
+Myśliwi założyli się kto pierwszy da radę upolować potężnego czarnego trolla, my również możemy podjąć się tego zadania. Najłatwiej będzie zrobić to za pomocą zwoju zmniejszenia, który otrzymamy od Ignaza za zadanie [Człowiek pod obliczem bestii](https://nb.mody.sefaris.eu/#/sekcje/zadania/rozdzial_i?id=cz%c5%82owiek-pod-obliczem-bestii). Zabieramy skórę naszego przeciwnika i wracamy z nią do Falka.
 > Nie opłaca się oszczędzać zwoju zmniejszenia na później
 
 ## Wilcze skóry dla Falka
@@ -21,13 +21,13 @@ Falk prosi nas o przyniesienie mu 20 skór wilka, które powinniśmy zdobyć bez
 
 ## Przesyłka dla Bospera
 
-Po oddaniu Falkowi skór wilka, ten wysyła nas po specjalne strzał do Bospera. Nie możemy otworzyć listu, bo w innym wypadku, Falk się na nas obrazi. Ze strzałami wracamy do myśliwego, a zadanie się kończy
+Po oddaniu Falkowi skór wilka, ten wysyła nas po specjalne strzały do Bospera. Nie możemy otworzyć listu, bo w innym wypadku, Falk się na nas obrazi. Ze strzałami wracamy do myśliwego, a zadanie się kończy.
 
 ## Ranne zwierzę
 
 > UWAGA Quest należy zrobić od razu po jego rozpoczęciu, jeśli tego nie zrobimy Kieł umrze po 2-3 dniach.
 
-Myśliwy Nix mówi nam że jego wilk Kieł został ranny i prosi nas byśmy udali się do Sagitty po lekarstwo. Sagitta każe nam przynieść składniki:
+Myśliwy Nix mówi nam, że jego wilk Kieł został ranny i prosi nas byśmy udali się do Sagitty po lekarstwo. Sagitta każe nam przynieść składniki:
 - szczaw królewski
 - korzeń leczniczy
 - leśna jagoda
@@ -42,12 +42,12 @@ Po tym jak Kieł już wyzdrowiał dowiadujemy się od Nixa o innym myśliwym, kt
 
 ## Kusza Dragomira
 
-Dragomir mówi nam że zgubił kuszę obok słonecznego kręgu, idziemy tam zabieramy kuszę i oddajemy Dragomirowi.
+Dragomir mówi nam, że zgubił kuszę obok słonecznego kręgu, idziemy tam zabieramy kuszę i oddajemy Dragomirowi.
 > Nagrodą jest książka, która uczy zbierania żądeł krwiopijcy za darmo.
 
 ## Wataha zabójczych wilków
 
-Alfred zleca nam zabicie stada niebezpiecznych wilków, które znajdują się one niedaleko Martwej Harpii obok spalonej chaty. Zabijamy wilki i wracamy do Alfreda.
+Alfred zleca nam zabicie stada niebezpiecznych wilków, które znajdują się niedaleko Martwej Harpii obok spalonej chaty. Zabijamy wilki i wracamy do Alfreda.
 
 ## Szpony topielca
 
@@ -55,7 +55,7 @@ Barem prosi nas byśmy przynieśli mu 5 pazurów topielca. Zabijamy topielce, zb
 
 ## Płytowa zbroja Barema
 
-Barem prosi nas, abyśmy przynieśli mu zbroję z płytek pełzaczy. W tym celu idziemy do Wilka na farmie Onara i pytamy o zbroje pełzaczy. Okazuje się że potrzebne nam będzie do tego 10 płytek, a Barem jest nam w stanie dać tylko 6. Dwie sztuki sprzedaje Lutero, a pozostałe dwie znajdziemy w jaskiniach z pełzaczami w Khorinis (Lub zdobędziemy z pierwszego lepszego pełzacza, jeśli nauczyliśmy się ich zdobywania). Niezależnie od sposobu zdobycia płytek, wracamy do Wilka i następnego dnia odbieramy zbroję, którą oddajemy Baremowi.
+Barem prosi nas, abyśmy przynieśli mu zbroję z płytek pełzaczy. W tym celu idziemy do Wilka na farmie Onara i pytamy o zbroje pełzaczy. Okazuje się, że potrzebne nam będzie do tego 10 płytek, a Barem jest nam w stanie dać tylko 6. Dwie sztuki sprzedaje Lutero, a pozostałe dwie znajdziemy w jaskiniach z pełzaczami w Khorinis (Lub zdobędziemy z pierwszego lepszego pełzacza, jeśli nauczyliśmy się ich zdobywania). Niezależnie od sposobu zdobycia płytek, wracamy do Wilka i następnego dnia odbieramy zbroję, którą oddajemy Baremowi.
 > Łatwym do pokonania pełzaczem będzie ten za kratą w obozie bandytów Dextera
 
 ## Nowy łuk
@@ -65,7 +65,7 @@ Raff potrzebuje nowego łuku. Chodzi o łuk kompozytowy, który znajduje się w 
 
 ## Specjalna broń dla Raffa
 
-Najpierw musimy wejść w towary które oferuje na sprzedaż Raff a potem zagadać do niego że ma ciekawy wybór łuków. Wtedy Raff zleci nam przyniesienie mu specjalnej broni. Będzie nią kusza Egzekucjoner, którą otrzymamy dopiero pod koniec wątku orków w Dolinie Cieni. Szkoda sobie zaprzątać głowy tą misją w początkowym stadium gry.
+Najpierw musimy wejść w towary, które oferuje na sprzedaż Raff a potem zagadać do niego że ma ciekawy wybór łuków. Wtedy Raff zleci nam przyniesienie mu specjalnej broni. Będzie nią kusza Egzekucjoner, którą otrzymamy dopiero pod koniec wątku orków w Dolinie Cieni. Szkoda sobie zaprzątać głowy tą misją w początkowym stadium gry.
 > nagrodą będzie nauka kusznictwa +5%
 
 ## Jajo Topielca
@@ -82,7 +82,7 @@ Grom prosi nas o przyniesienie mu dwóch skór trolla. Niedaleko znajdują się 
 
 ## Prychająca istota
 
-Zadanie zleca Gaan znajdujący się na drodze z farmy Bengara do przełęczy GD. Mówi nam że z Górniczej Doliny przyszło jakieś niebezpieczne stworzenie i każe nam je zabić. Chodzi o smoczego zębacza, który znajduje się na lewo wychodząc z obozu Bractwa. Zabijamy gadzinę i wracamy do Gaana.
+Zadanie zleca Gaan znajdujący się na drodze z farmy Bengara do przełęczy GD. Mówi nam, że z Górniczej Doliny przyszło jakieś niebezpieczne stworzenie i każe nam je zabić. Chodzi o smoczego zębacza, który znajduje się na lewo wychodząc z obozu Bractwa. Zabijamy gadzinę i wracamy do Gaana.
 
 ## Obóz Myśliwych
 
@@ -122,7 +122,7 @@ W tym celu udajemy się do Jarkendaru, gdzie musimy zebrać 5 notatek:
 4. Idąc kawałek prosto przed siebie po polowaniu na błotne węże z Loganem w pobliżu schodów prowadzących do jaskini łączącej bagno z kanionem. Znajdziemy tam obozowisko, przy którym będzie notatka.  
 5. Na bagnach, przy obozowisku niedaleko jaskini Juana. Wychodząc z obozu bandytów trzymaj się lewej ściany
 
-Teraz musimy znaleźć samicę polnego pełzacza . Znajduję się ona w okolicy domu uzdrowicieli na bagnie. Zabijamy ją, zabieramy z ciała amulet Bena i zanosimy go Falkowi.
+Teraz musimy znaleźć samicę polnego pełzacza. Znajduję się ona w okolicy domu uzdrowicieli na bagnie. Zabijamy ją, zabieramy z ciała amulet Bena i zanosimy go Falkowi.
 
 ## Polowanie na rzadkie stwory (Rozdział 2)
 
