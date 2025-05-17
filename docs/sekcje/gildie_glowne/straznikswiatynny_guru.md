@@ -2,7 +2,7 @@
 
 ## Przyjęcie do Bractwa
 
-Aby dołączyć do obozu Bractwa trzeba mieć opaskę nowicjusza (Daje Lester podczas pierwszego spotkania w kotlince niedaleko wieży Xardasa), a potem zakończyć zadanie [Przesyłka dla Lariusa](Sekcje/Zadania/Rozdzial_I.md?id=przesyłka-dla-lariusa). Wtedy możemy zostać nowicjuszem Bractwa.
+Aby dołączyć do obozu Bractwa trzeba mieć opaskę nowicjusza (Daje Lester podczas pierwszego spotkania w kotlince niedaleko wieży Xardasa), a potem zakończyć zadanie [Przesyłka dla Lariusa](sekcje/zadania/rozdzial_i.md?id=przesyłka-dla-lariusa). Wtedy możemy zostać nowicjuszem Bractwa.
 
 > Kiedy już zostaniemy Nowicjuszem bractwa, odblokują się nam zadania na zostanie Guru lub Strażnikiem Świątynnym.
 
