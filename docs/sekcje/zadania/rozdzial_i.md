@@ -21,7 +21,7 @@ Da nam to bonus [`Retoryka +1`].
 Później pytamy kto wyznaczył nagrodę za nas i oferujemy mu 10 sztuk złota za informację. Należy wcześniej wyrzucić/schować gdzieś całe złoto jakie mamy, da nam to kolejny bonus [`Retoryka +1`].  
 Przy okazji rozpoczyna to zadanie [Listy gończe](#listy-gończe).
   
-Bierzemy również od Jessiego nasz portret i informujemy go, że niedługo rozpęta się tu piekło. Gdy Jesse ucieknie w inne miejsce to wracamy do Cavalorna i atakujemy bandytów.  
+Bierzemy również od Jessego nasz portret i informujemy go, że niedługo rozpęta się tu piekło. Gdy Jesse ucieknie w inne miejsce to wracamy do Cavalorna i atakujemy bandytów.  
 Po pokonaniu bandytów bieżące zadanie się kończy, a rozpoczyna nowe [Magowie Wody](#magowie-wody).
 
 ## Bandyci przy farmie Lobarta
