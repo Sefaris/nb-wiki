@@ -10,8 +10,6 @@ Mamy odnaleźć zaginionego najemnika Arokha. Schodzimy tą samą drogą którą
 
 ### W poniższym filmiku pokazane jest jak krok po kroku zdobyć Ulu-Mulu:
 
-[--> LINK <--](https://youtu.be/CM_DkDBpQEM/)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CM_DkDBpQEM?si=AxASiYWaZyFyHx5m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Najemnik orków
