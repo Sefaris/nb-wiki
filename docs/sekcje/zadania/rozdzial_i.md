@@ -149,7 +149,7 @@ W drodze do miasta idąc od wieży Xardasa spotkamy Cavalorna, który walczy z g
 ## Zebrać rzepę z pola
 __Zleca: Lobart__
 
-Lobart zleca nam, abyśmy zebrali rzepę i potem ją mu przynieśli. Wystarczy 15 zebranych rzep, by zrobić zadanie 5 możecie zachować dla siebie
+Lobart prosi nas o zebranie rzepy, którą następnie mamy mu przynieść. Do zadania wystarczy zebrać 15 rzep, a pozostałe możemy zatrzymać dla siebie.
 
 ## Za butelkę wina
 __Zleca: Vino__
