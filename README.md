@@ -39,5 +39,5 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
   - [fyryNy](https://github.com/fyryNy)
 
 - Inni:
-
-- Flopson
+  - xez20003
+  - Flopson
