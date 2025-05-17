@@ -1,7 +1,6 @@
 # Zaginiony brat
 
-> **Wymagania: Uprzednie zrobienie koszmaru Kruka**
-> 2500 zdrowia i 500 siły lub zręczności lub 900 many
+> **Wymagania:** Uprzednie zrobienie koszmaru Kruka, 2500 zdrowia, 500 siły lub 500 zręczności lub 900 many
 
 ### Wykonaj osobny zapis przed wejściem do lokacji, nie można jej opuścić przed ukończeniem w całości.
 
