@@ -1,6 +1,6 @@
 # Najemnik/Łowca smoków
 
-> Aby dołączyć do najemników trzeba zdobyć poparcie większość najemników (Zadania poniżej), a także przejść test Torlofa.
+> Aby dołączyć do najemników trzeba zdobyć poparcie większości najemników (Zadania poniżej), a także przejść test Torlofa.
 
 ## Jeden z najemników
 __Zleca: Lee__
