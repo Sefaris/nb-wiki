@@ -38,7 +38,7 @@
 - [Pustynia Adanosa](sekcje/watki/pustynia_adanosa.md)
 - [Śnieżne Góry Orków](sekcje/watki/sniezne_gory_orkow.md)
 - [Zachodnie Wybrzeże](sekcje/watki/zachodnie_wybrzeze.md)
-- [Zagniniony Brat](sekcje/watki/zagniniony_brat.md)
+- [Zaginiony Brat](sekcje/watki/zaginiony_brat.md)
 
 - **Linki**
 - [Instalacja](https://sefaris.eu/new-balance/installation)
