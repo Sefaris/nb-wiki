@@ -499,7 +499,7 @@ Teraz udajemy się na statek i gadamy z kapitanem.
 
 ## GRATULACJE UKOŃCZYŁEŚ WŁAŚNIE MODA!!!.
 
-# Jarkendar
+## Jarkendar
 
 ## Wiadomość o niebezpieczeństwie
 
@@ -515,7 +515,7 @@ Rozmawiamy z Saturasem na temat pomocy w walce z orkami. Saturas wysyła nas naj
 Po skończeniu rytuału gadamy z Saturasem i Magowie Wody oficjalnie dołączają do wojny.  
 UWAGA: Riordiana można wskrzesić przy pulpicie w piramidzie prawdy na pustyni Adanosa, ale nie pojawi się on już w grze.
 
-# Górnicza Dolina
+## Górnicza Dolina
 
 ## Paladyni w górniczej dolinie
 
