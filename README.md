@@ -41,3 +41,4 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
 - Inni:
   - xez20003
   - Flopson
+  - FortyNest22
