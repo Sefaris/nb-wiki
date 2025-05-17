@@ -179,7 +179,7 @@ Uznawane rośliny:
 
 ## Droga na szczyt
 
-Po wejściu do miasta można zauważyć, że mistrzowie nie chcą z nami rozmawiać. Udajemy się do Ruperta i rozmawiamy z nim o tej sytuacji, a ten wysyla nas do Pablo lub Vatrasa.  
+Po wejściu do miasta można zauważyć, że mistrzowie nie chcą z nami rozmawiać. Udajemy się do Ruperta i rozmawiamy z nim o tej sytuacji, a ten wysyła nas do Pablo lub Vatrasa.  
 
 <!-- tabs:start -->
 
