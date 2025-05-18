@@ -42,7 +42,7 @@ W wyniku pojawienia się zakapturzonych postaci w okolicy, Sagitta martwi się o
 
 ## Dokumenty
 
-Babo mówi nam, że Igaraz posiada jego prywatne dokumenty i szantażuje go. Idziemy do Igaraza i odkupujemy klucz. Zabieramy papiery ze skrzyni o oddajemy Babo. Polecam przeczytać je i zaszantażować Babo lepsza nagroda wpadnie.
+Babo skarży się, że Igaraz wszedł w posiadanie jego prywatnych dokumentów, którymi teraz go szantażuje. Idziemy do Igaraza i odkupujemy papiery, a ten daje nam klucz do skrzyni, z której je zabieramy. Dokumenty możemy oddać Babo lub samemu go szantażować.
 
 ## Złodzieje owiec
 
