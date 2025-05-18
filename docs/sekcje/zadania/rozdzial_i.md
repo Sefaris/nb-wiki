@@ -392,9 +392,9 @@ Przed karczmą Martwa Harpia znajduję się kobieta o imieniu Reven, powie nam o
 ## Bimber
 __Zleca: Ehnim__
 
-#### Zadanie niedostępne dla Magów Ognia/Wody.
 Ehnim na farmie Akila oferuje nam sprzedaż łoju kretoszczura do otwarcia kraty w Bimbrowni Vino.  
 Targujemy się z nim do jak najniższej kwoty, za co dostajemy bonus `Retoryka +1`, a na końcu i tak okazuje się, że wcale go nie miał.
+#### Zadanie niedostępne dla Magów Ognia/Wody.
 
 ## Broń dla Gonzalesa
 __Zleca: Gonzales__
@@ -478,10 +478,10 @@ Okazuje się ze to Fernando, by zmaksymalizować nasz zysk powinniśmy najpierw 
 ## Horror na cmentarzu
 __Zleca: Lothar__
 
-> Zadanie dostępne po zostaniu obywatelem miasta.  
+> Zadanie dostępne dopiero po zostaniu obywatelem miasta.
 
-Lothar prosi nas, abyśmy udali się w nocy na cmentarz obok miasta i sprawdzili co się tam dzieje. Idziemy nocą na cmentarz, zabijamy 2 kretoszczury i wracamy do Lothara. Dowiadujemy się od niego, że zaginęła obywatelka Vanessa. Idziemy o nią spytać Fenie w porcie, po czym do Kardifa, u którego kupujemy informacje. Potem udajemy się do magazynu portowego (między Jackiem, a koszarami, tam gdzie jest paczka z zielem), gdzie w dolnym pomieszczeniu znajdziemy ubranie.  
-Wracamy do Lothara, a ten nas wysyła do Constantino, aby wypytać o jego ucznia Rigeliona. Dowiadujemy się od niego, że jego uczeń przyjaźnił się z zarządcą cmentarza. Rozmawiamy z nim, po czym wracamy w nocy na cmentarz, gdzie czeka na nas zabójca. Czytamy jego notatkę i podnosimy kości, które leżą na przeciwnym końcu cmentarza. Udajemy się z nimi do Xardasa, który stwierdza obecność nekromanty w Khorinis. Z tą informacją udajemy się do Lothara, po czym z powrotem na cmentarz, na którym staczamy walkę z Rigelionem. Na koniec informujemy o wszystkim Lothara i odbieramy nagrodę.
+Lothar prosi nas, abyśmy udali się w nocy na cmentarz obok miasta i sprawdzili co się tam dzieje. Idziemy tam po 22, zabijamy 2 kretoszczury i wracamy do paladyna. Dowiadujemy się, że zaginęła obywatelka Vanessa. W pierwszej kolejności wypytujemy Fenię w porcie, a potem idziemy do Kardifa. Następnie udajemy się do magazynu portowego (tam gdzie była paczka z zielem), gdzie w dolnym pomieszczeniu znajdziemy ubranie.  
+Wracamy do Lothara i mówimy mu o podejrzanym Rigelionie, na co rycerz odpowiada, że chłopak pobierał niegdyś nauki u Constantino. Idziemy więc do alchemika i dowiadujemy się, że Rigelion przyjaźnił się z zarządcą cmentarza. Rozmawiamy z zarządcą, po czym wracamy w nocy na cmentarz, gdzie czeka na nas zabójca. Czytamy jego notatkę i podnosimy kości, które leżą na przeciwnym końcu cmentarza. Udajemy się z nimi do Xardasa, który stwierdza obecność nekromanty w Khorinis. Z tą informacją udajemy się do Lothara, po czym z powrotem na cmentarz, gdzie staczamy ostateczną walkę z mrocznym nowicjuszem. Na koniec informujemy o wszystkim Lothara i odbieramy nagrodę.
 
 > Po tym zadaniu możemy zostać [Mrocznym Rycerzem](sekcje/gildie_glowne/mroczny_rycerz.md?id=mroczny-rycerz)
 
