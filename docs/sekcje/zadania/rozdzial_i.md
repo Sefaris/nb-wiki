@@ -592,7 +592,7 @@ Matteo opowiada nam o skradzionej formie do pierścieni. Po zrobieniu zadania z 
 ## Nieziemskie sny
 __Zleca: Loa__
 
-O 18:00 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga! Za żaden nie przyjmujemy nagrody)
+Między 18:30 - 20:00 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga! Za żaden nie przyjmujemy nagrody)
 
 - Poezja Myrtańska (Sprzedaje ją Matteo, czytamy -> oddajemy Galahadowi -> odkupujemy od Galahada -> zanosimy do Loi)
 - Naszyjnik z czarnych pereł (Wykonać zadanie [Narzędzia Matteo](##narzędzia-matteo) i przynieść mu 5 czarnych pereł oraz sztabkę złota)
