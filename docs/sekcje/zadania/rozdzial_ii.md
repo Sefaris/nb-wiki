@@ -64,7 +64,7 @@ Vatras każe nam skontaktować się z Orlanem, a on opowie szczegóły. Orlan m�
 
 > Zadanie dostępne po wykonaniu zadania [Zlecenie Wodnego Kręgu](#zlecenie-wodnego-kręgu).
 
-Vatras mówi nam, że jeden z członków wodnego kręgu został napadnięty i okradziony przez bandytów niedaleko piramid. Zleca nam ich zabicie i odzyskanie skradzionych rzeczy. Idziemy w okolice piramid zabijamy bandytów i wracamy do Vatrasa.
+Vatras mówi nam, że jeden z członków Wodnego Kręgu został napadnięty i okradziony przez bandytów niedaleko piramid. Zleca nam ich zabicie i odzyskanie skradzionych rzeczy. Idziemy w okolice piramid zabijamy bandytów i wracamy do Vatrasa.
 
 ## Zapiski Saturasa
 
