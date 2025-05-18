@@ -772,7 +772,7 @@ Ork w mrocznym lesie, za latarnią Jacka, daje nam możliwość zostania szamane
 - Zabić wielkiego dzika, który jest w okolicy
 
 Po wykonaniu wszystkich zadań wystarczy ponownie porozmawiać z orkiem. Zadanie się kończy i od teraz możemy zostać szamanem.
-> Jeżeli gramy magiem ognia to zadanie warto wykonać nawet gdy nie mamy zamiaru zostać szamanem w celu uzyskania dodatkowego serca kamiennego golema i języka ognistego jaszczura
+> Jeżeli gramy Magiem Ognia to zadanie warto wykonać nawet gdy nie mamy zamiaru zostać szamanem w celu uzyskania dodatkowego serca kamiennego golema i języka ognistego jaszczura
 
 ## Śmierdząca bestia Erola
 __Zleca: Erol__
