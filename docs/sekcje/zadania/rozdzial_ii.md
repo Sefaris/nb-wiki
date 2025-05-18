@@ -320,7 +320,7 @@ Senyan rozpoznaje bezimiennego. W zamian za milczenie zleca nam misję - mamy i�
 
 Esteban mówi nam, że ktoś próbował go zabić, ale zamachowiec zginął. Teraz mamy znaleźć jego zleceniodawcę. Więc gadamy w tej kolejności: Finn, Lennar, Emilio, Paul (kilka razy).  
 Teraz idziemy do Huno i mówimy, że trzy osoby go podejrzewają i że chcemy dogadać się z zleceniodawcą zabójstwa. Huno nam nie wierzy i zleca, abyśmy przynieśli mu paczkę stali.  
-Stal ma Juan znajdujący się w jaskini na północny wschód bagien. Przynosimy stal Huno, a ten wysyła nas do Snafa. Gospodarz wysyła nas na górę, gdzie spotykamy Fiska. Po krótkiej rozmowie dowiadujemy się o kolejnym planie zamachu na Estebana. W tym celu mówimy Estebanowi o zleceniodawcy zabójca, a gdy jego ochroniarza odejdą, zabijamy go. Po wszystkim wracamy do Fiska
+Stal ma Juan znajdujący się w jaskini na północny wschód bagien. Przynosimy stal Huno, a ten wysyła nas do Snafa. Gospodarz wysyła nas na górę, gdzie spotykamy Fiska. Po krótkiej rozmowie dowiadujemy się o kolejnym planie zamachu na Estebana. W tym celu mówimy Estebanowi o zleceniodawcy zabójca, a gdy jego ochroniarza odejdą, zabijamy go. Po wszystkim wracamy do Fiska.
 
 ## Stal Huno
 
