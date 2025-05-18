@@ -306,7 +306,7 @@ By wejść do obozu musimy zabić Franka. Polecam najpierw wykonać jego zadania
 
 ## Polowanie na błotne węże
 
-Franko prosi nas, abyśmy pomogli Loganowi z pozbyciu się błotnych węży. Znajdziemy go za kładką na lewo od Franko
+Franko prosi nas, abyśmy pomogli Loganowi w pozbyciu się błotnych węży. Znajdziemy go za kładką na lewo od Franko.
 
 ## Kamienna tabliczka na bagnie
 
