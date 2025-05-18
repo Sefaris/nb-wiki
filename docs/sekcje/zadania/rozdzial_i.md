@@ -520,9 +520,7 @@ Hakon mówi, że kiedyś widział jednego gościa Joe, ale jakiś czas temu znik
 ## Kamienie teleportacyjne
 __Zleca: Merdarion__
 
-Zadanie zleca nam Merdarion.  
-Da on nam klucz, który otwiera pomieszczenie z teleporterem na wykopaliskach. Przeniesie on nas do jaskini przy mieście, a teleport stamtąd przed drzwi obok cmentarza przy Martwej Harpii.  
-Idziemy teraz do Orlana, który da nam klucz do teleportera przy cmentarzu, który teleportuje nas z powrotem na wykopaliska. Wracamy do Merdariona, u którego kończy się nasze zadanie.
+Merdarion daje nam klucz, który otwiera pomieszczenie z teleporterem na wykopaliskach. Przeniesie on nas do jaskini przy mieście, a teleport stamtąd przed drzwi obok cmentarza przy Martwej Harpii. Po pokazaniu Orlanowi pierścienia wodnego kręgu (może być ten od Laresa) da on nam klucz do teleportera przy cmentarzu, który teleportuje nas z powrotem na wykopaliska. Wracamy do Merdariona, u którego kończy się nasze zadanie.
 
 ## Kamienne tablice
 __Zleca: Vatras__
