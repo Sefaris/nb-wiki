@@ -1,6 +1,6 @@
 # Zadania - Rozdział 3
 
-> Przed wejściem do tego rozdziału należy ukończyć zadania "Horror na cmentarzu", "Ranny ork", "Głodny skazaniec". Warto się także przygotować na jego krótkie trwanie, jako że nie opłaca się w nim siedzieć, ze względu na mocny ekwipunek w 4 rozdziale
+> Przed wejściem do tego rozdziału należy ukończyć zadania "Horror na cmentarzu", "Ranny ork", "Głodny skazaniec". Warto też następnie szybko przejść do rozdziału 4 ze względu na mocny ekwipunek.
 
 ## Złoto Diega
 
