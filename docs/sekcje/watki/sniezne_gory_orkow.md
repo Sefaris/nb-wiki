@@ -7,7 +7,7 @@ Wejście do tej lokacji znajduje się w Wolnej Kopalni, nad miejscem gdzie w G1 
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739929992329/F9BDC24039B3917155F61BC2309E19AF07084F29/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739929992329/F9BDC24039B3917155F61BC2309E19AF07084F29/)
 
-### Bardzo istotnym jest, aby na początku udać się do punktu 5 i aktywować teleporty. Należy także unikać orków, jako że nie respektują oni symboli przyjaźni od Orków z Górniczej Doliny, więc nie pomoże nam ani zbroja, ani Ulu-Mulu.
+#### Warto na początku udać się do punktu 5 i aktywować jedyny kamień teleportacyjny oraz pogadać z szamanem na wzniesieniu niedaleko. Polecam unikać orków dopóki nie dogadamy się z szamanem, jako że nie respektują oni symboli przyjaźni od orków z Górniczej Doliny.
 
 ## Trofeum dla Groom Locka
 
