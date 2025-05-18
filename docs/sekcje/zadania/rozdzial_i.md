@@ -799,7 +799,7 @@ Zadanie zleca Wąż w karczmie Kardifa. Prosi on nas o odzyskanie torby rudy, kt
 __Zleca: Vadius__
 > Zadanie z dodatku `Droga Potępionych`
 
-W karczmie Kardifa znajduje się Vadius, który wspomina nam o winie, które zostawił przy kapliczce Innosa, za farmą Akila. Chodzi o kapliczkę niedaleko miejsca, w którym znajdziemy cialo Trokara. Przynosimy mu wino, a on nas atakuje, więc go bijemy.
+W karczmie Kardifa znajduje się Vadius, który wspomina nam o winie, które zostawił przy kapliczce Innosa, za farmą Akila. Chodzi o kapliczkę niedaleko miejsca, w którym znajdziemy ciało Trokara. Przynosimy mu wino, a on nas atakuje, więc go bijemy.
 
 ## Wycieczka do miasta
 __Zleca: Karras__
