@@ -84,13 +84,13 @@ Zadanie kończy się po rozmowie z Dexterem.
 ## Magowie Wody
 __Zleca: Cavalorn__
 
-Rozmawiamy z Vatrasem na temat magów wody i ich pracy, po czym dostajemy od niego ornament. Idziemy pogadać z Laresem i po tym jak załatwimy mu zmiennika, idziemy odnieść Ornament do magów wody. Dajemy ornament Nefariusowi, który zleca nam zebranie wszystkich ornamentów (patrz zadanie [Portal](#portal)) Po zebraniu ornamentów, musimy stać się członkiem wodnego kręgu, a także rozpocząć akt 2, po czym przedostać się do Jarkendaru.
+Rozmawiamy z Vatrasem na temat Magów Wody i ich pracy, po czym dostajemy od niego ornament. Idziemy pogadać z Laresem i po tym jak załatwimy mu zmiennika, idziemy odnieść Ornament do magów wody. Dajemy ornament Nefariusowi, który zleca nam zebranie wszystkich ornamentów (patrz zadanie [Portal](#portal)) Po zebraniu ornamentów, musimy stać się członkiem wodnego kręgu, a także rozpocząć akt 2, po czym przedostać się do Jarkendaru.
 
 ## Mrok północy dla Lestera
 __Zleca: Lester__  
 
 Jeśli zagadamy Lestera, gdy śpi w Wieży Xardasa, poprosi on nas o przyniesienie mu skręta `Mrok Północy`.  
-Skręta znaleźć można w skrzyni obok Baala Oruna, w Obozie Bractwa koło farmy Bengara. W nagrodę otrzymujemy `Szczaw Królewski`.
+Skręta znaleźć można w skrzyni obok Baala Oruna, w Obozie Bractwa koło farmy Bengara. W nagrodę otrzymujemy `szczaw królewski`.
 
 ## Obawy Lobarta
 __Zleca: Lobart__
