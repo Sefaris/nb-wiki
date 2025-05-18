@@ -45,7 +45,7 @@ Mamy udać się do Jarkendaru i dowiedzieć się co się dzieje u magów wody. K
 
 ## Orkowie w dolinie
 
-Saturas mówi nam że orkowie zalali dolinę budowniczych.  
+Saturas mówi nam, że orkowie zajęli dolinę budowniczych.  
 Musimy zabić 5 orkowych szamanów, którzy są w miejscach świątyń, z których zbieraliśmy tablice w 2 rozdziale. Ostatnim przywódcą jest Ur-Catan, który znajduje się na arenie walki z Krukiem. Dostaniemy się tam za pomocą pieścienia, który zostawił po sobie Kruk po pierwszej walce (Możemy również normalnie tam iść).
 Po wszystkim wracamy do Saturasa.
 
