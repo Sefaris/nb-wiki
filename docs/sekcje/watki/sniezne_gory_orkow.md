@@ -1,6 +1,6 @@
 # Śnieżne góry orków
 
-#### Wejście do lokacji znajduje się w Wolnej Kopalni, nad miejscem gdzie w G1 był ork Tarrok. Będziemy potrzebować wyuczonej odporności na zimno by móc swobodnie przemieszczać się po lokacji (uczy Lee lub mikstura od Neorasa). By rozpocząć zadania z tutejszymi orkami musimy posiadać orkowy pancerz, który otrzymamy od Ur-Tralla za pokonanie demona w orkowej kopalni.
+#### Wejście znajduje się w Wolnej Kopalni, nad miejscem gdzie w G1 był ork Tarrok. Będziemy potrzebować wyuczonej odporności na zimno by móc swobodnie przemieszczać się po lokacji (uczy Lee lub mikstura od Neorasa). By rozpocząć zadania z tutejszymi orkami musimy posiadać orkowy pancerz, który otrzymamy od Ur-Tralla za pokonanie demona w orkowej kopalni.
 
 ## Mapa śnieżnych gór:
 
