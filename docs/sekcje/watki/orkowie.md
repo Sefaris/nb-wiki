@@ -36,7 +36,7 @@ Ur-Karras zleca nam zabicie Muritana, który wcześniej zranił orka i zabił je
 
 ## Wiadomość Ur karrasa
 
-Ur-karras daje nam list, który mamy zanieść liderowi Klanu Wysokiej Skały (zdjęcie)
+Ur-Karras daje nam list, który mamy zanieść liderowi Klanu Wysokiej Skały (zdjęcie)
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935141406/1F6F61536DCF532217D89A4AEE448E11A44B48C1/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935141406/1F6F61536DCF532217D89A4AEE448E11A44B48C1/)
 
 Mamy dwie opcje:
