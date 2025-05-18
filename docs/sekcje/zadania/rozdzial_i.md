@@ -480,10 +480,14 @@ __Zleca: Lothar__
 
 > Zadanie dostępne dopiero po zostaniu obywatelem miasta.
 
-Lothar prosi nas, abyśmy udali się w nocy na cmentarz obok miasta i sprawdzili co się tam dzieje. Idziemy tam po 22, zabijamy 2 kretoszczury i wracamy do paladyna. Dowiadujemy się, że zaginęła obywatelka Vanessa. W pierwszej kolejności wypytujemy Fenię w porcie, a potem idziemy do Kardifa. Następnie udajemy się do magazynu portowego (tam gdzie była paczka z zielem), gdzie w dolnym pomieszczeniu znajdziemy ubranie.  
-Wracamy do Lothara i mówimy mu o podejrzanym Rigelionie, na co rycerz odpowiada, że chłopak pobierał niegdyś nauki u Constantino. Idziemy więc do alchemika i dowiadujemy się, że Rigelion przyjaźnił się z zarządcą cmentarza. Rozmawiamy z zarządcą, po czym wracamy w nocy na cmentarz, gdzie czeka na nas zabójca. Czytamy jego notatkę i podnosimy kości, które leżą na przeciwnym końcu cmentarza. Udajemy się z nimi do Xardasa, który stwierdza obecność nekromanty w Khorinis. Z tą informacją udajemy się do Lothara, po czym z powrotem na cmentarz, gdzie staczamy ostateczną walkę z mrocznym nowicjuszem. Na koniec informujemy o wszystkim Lothara i odbieramy nagrodę.
+Lothar prosi nas, abyśmy udali się w nocy na cmentarz obok miasta i sprawdzili co się tam dzieje. Idziemy tam po 22, zabijamy 2 kretoszczury i wracamy do paladyna. Dowiadujemy się, że zaginęła obywatelka Vanessa. W pierwszej kolejności wypytujemy Fenię w porcie, a potem idziemy do Kardifa.
 
-> Po tym zadaniu możemy zostać [Mrocznym Rycerzem](sekcje/gildie_glowne/mroczny_rycerz.md?id=mroczny-rycerz)
+Następnie udajemy się do magazynu portowego (tam gdzie była paczka z zielem), gdzie w dolnym pomieszczeniu znajdziemy ubranie.  
+Wracamy do Lothara i mówimy mu o podejrzanym Rigelionie, na co rycerz odpowiada, że chłopak pobierał niegdyś nauki u Constantino. Idziemy więc do alchemika i dowiadujemy się, że Rigelion przyjaźnił się z zarządcą cmentarza. Rozmawiamy z zarządcą, po czym wracamy w nocy na cmentarz, gdzie czeka na nas zabójca. Czytamy jego notatkę i podnosimy kości, które leżą na przeciwnym końcu cmentarza. 
+
+Udajemy się z nimi do Xardasa, który stwierdza obecność nekromanty w Khorinis. Z tą informacją udajemy się do Lothara, po czym z powrotem na cmentarz, gdzie staczamy ostateczną walkę z mrocznym nowicjuszem. Na koniec informujemy o wszystkim Lothara i odbieramy nagrodę.
+
+Wykonanie tego zadania jest wymagane by zostać [Mrocznym Rycerzem](sekcje/gildie_glowne/mroczny_rycerz.md?id=mroczny-rycerz)
 
 ## Informacje dla Garvella
 __Zleca: Garvell__
