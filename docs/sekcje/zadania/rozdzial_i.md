@@ -159,7 +159,7 @@ Wystarczy dać Vino butelkę wina. Wino dostajemy np. za wykonanie zadania od [M
 ## Zioła dla Constantina
 __Zleca: Lester__
 
-W kotlinie koło wieży Xardasa spotykamy Lestera, po wypytaniu go o sposoby na dostanie się do miasta Khorinis mówi nam, że możemy się tam dostać, jeśli powiemy strażnikom, że przynosimy zioła dla Constantina. Żeby skorzystać z tej opcji, przy rozmowie ze strażnikiem przy bramie, należy posiadać co najmniej 10 sztuk jednego rodzaju rośliny.  
+W kotlinie koło wieży Xardasa spotykamy Lestera, po wypytaniu go o sposoby na dostanie się do miasta Khorinis mówi nam, że możemy się tam dostać, jeśli powiemy strażnikom, że przynosimy zioła dla Constantina. Żeby skorzystać z tej opcji, przy rozmowie ze strażnikiem przy bramie, należy posiadać co najmniej 10 sztuk jednego rodzaju .  
 Gdy już będziemy w mieście i wykonamy zadanie [Droga na szczyt](#droga-na-szczyt), które odblokowuje możliwość rozmawiania z mistrzami, należy porozmawiać z Constantino i powiedzieć mu, że mamy dla niego rośliny.  
 Uznawane rośliny:
 1. Ognista pokrzywa
@@ -275,8 +275,10 @@ __Zleca: Thorben__
 
 Thorben prosi nas byśmy uzyskali błogosławieństwo od Innosa i Adanosa.  
 - Błogosławieństwo Adanosa dostaniemy od Vatrasa za darmo.  
-- Błogosławieństwo Innosa natomiast od maga ognia Darona (trzeba zapłacić) lub Isgarotha (za darmo).  
-  Najlepiej wyrzucić lub schować całe złoto jakie mamy i porozmawiać z Daronem i wybrać opcję `Jestem biedakiem!`, da nam to bonus [`Retoryka +1`] oraz 20 sztuk złota, a następnie zapytać się go ile wynosi ofiara mając w ekwipunku 11 sztuk złota.
+- Błogosławieństwo Innosa daje mag ognia Daron (trzeba zapłacić) lub Isgaroth (za darmo).
+
+Najlepiej wyrzucić lub schować całe złoto jakie mamy, porozmawiać z Daronem i wybrać opcję `Jestem biedakiem!`, da nam to bonus `Retoryka +1` oraz 20 sztuk złota, a następnie zapytać się go ile wynosi ofiara mając w ekwipunku 11 sztuk złota.
+  
 ## Rośliny dla Constantina
 __Zleca: Constantino__
 
