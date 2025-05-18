@@ -127,7 +127,7 @@ Po użyciu teleportu i dostaniu się na pustynię wracamy do Merdariona.
 
 ## Posiadłości budowniczych
 
-Po aktywowaniu drugiego teleportu Merdarion powie nam, że Saturas chce się z nami widziec. Ten udziela nam pewnych informacji na temat Jarkendaru oraz każe nam iść do Riordiana. Prosi on o sprawdzenie posiadłości budowniczych (miejsca gdzie znajdujemy kolorowe tabliczki). Po odwiedzeniu ich wracamy do maga i zdajemy raport.
+Po aktywowaniu drugiego teleportu Merdarion powie nam, że Saturas chce się z nami widzieć. Ten udziela nam pewnych informacji na temat Jarkendaru oraz każe nam iść do Riordiana. Prosi on o sprawdzenie posiadłości budowniczych (miejsca gdzie znajdujemy kolorowe tabliczki). Po odwiedzeniu ich wracamy do maga i zdajemy raport.
 
 ## Orkowie w kanionie
 
@@ -141,9 +141,9 @@ Po ukończeniu zadania [Posiadłości budowniczych](#posiadłości-budowniczych)
 
 Myxir mówi nam, że budowniczy zapisywali swoje przemyślenia nie tylko na tabliczkach. Idziemy do biblioteki uczonych, gdzie znajdujemy pergamin, który po przeczytaniu oddajemy Myxirowi.
 
-## Straż przednia magów wody
+## Straż przednia Magów Wody
 
-Jeden z nowych członków wodnego kręgu poszedł na bagna w celu obadania sytuacji, ale nie wrócił. Na bagnie, na prawo od mostu do obozu bandytów, znajdziemy Lance'a wśród aligatorów. Podnosimy jego pierścień i wracamy do Saturasa.
+Jeden z nowych członków Wodnego Kręgu poszedł na bagna w celu obadania sytuacji, ale nie wrócił. Na bagnie, na prawo od mostu do obozu bandytów, znajdziemy Lance'a wśród aligatorów. Podnosimy jego pierścień i wracamy do Saturasa.
 
 ## Zastępstwo za Lance'a
 
