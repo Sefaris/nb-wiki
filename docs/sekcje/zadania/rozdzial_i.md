@@ -482,8 +482,7 @@ __Zleca: Lothar__
 
 Lothar prosi nas, abyśmy udali się w nocy na cmentarz obok miasta i sprawdzili co się tam dzieje. Idziemy tam po 22, zabijamy 2 kretoszczury i wracamy do paladyna. Dowiadujemy się, że zaginęła obywatelka Vanessa. W pierwszej kolejności wypytujemy Fenię w porcie, a potem idziemy do Kardifa.
 
-Następnie udajemy się do magazynu portowego (tam gdzie była paczka z zielem), gdzie w dolnym pomieszczeniu znajdziemy ubranie.  
-Wracamy do Lothara i mówimy mu o podejrzanym Rigelionie, na co rycerz odpowiada, że chłopak pobierał niegdyś nauki u Constantino. Idziemy więc do alchemika i dowiadujemy się, że Rigelion przyjaźnił się z zarządcą cmentarza. Rozmawiamy z zarządcą, po czym wracamy w nocy na cmentarz, gdzie czeka na nas zabójca. Czytamy jego notatkę i podnosimy kości, które leżą na przeciwnym końcu cmentarza. 
+Następnie udajemy się do magazynu portowego (tam gdzie była paczka z zielem), gdzie w dolnym pomieszczeniu znajdziemy ubranie. Wracamy do Lothara i mówimy mu o podejrzanym Rigelionie, na co rycerz odpowiada, że chłopak pobierał niegdyś nauki u Constantino. Idziemy więc do alchemika i dowiadujemy się, że Rigelion przyjaźnił się z zarządcą cmentarza. Rozmawiamy z zarządcą, po czym wracamy w nocy na cmentarz, gdzie czeka na nas zabójca. Czytamy jego notatkę i podnosimy kości, które leżą na przeciwnym końcu cmentarza. 
 
 Udajemy się z nimi do Xardasa, który stwierdza obecność nekromanty w Khorinis. Z tą informacją udajemy się do Lothara, po czym z powrotem na cmentarz, gdzie staczamy ostateczną walkę z mrocznym nowicjuszem. Na koniec informujemy o wszystkim Lothara i odbieramy nagrodę.
 
@@ -755,9 +754,8 @@ Alwin skarży się, że Fellan cały czas tłucze młotkiem. Prosi nas, abyśmy 
 ## Szczury pokładowe
 __Zleca: Paladyn na statku__
 
-> Magowie Ognia/Wody/Mroku oraz Zwiadowcy mogą zrobić te zadanie w 1 rozdziale, Paladyni w 3 rozdziale, a pozostali dopiero w 5 rozdziale.
-
-Zadanie polega na pozbyciu się szczurów grasujących w ładowni statku.
+Magowie Ognia/Wody/Mroku oraz Zwiadowcy mogą otrzymać zadanie w 1 rozdziale, Paladyni w 3 rozdziale, a pozostali dopiero w 5 rozdziale.
+Pozbywamy się wszystkich szczurów grasujących w ładowni statku i wracamy do paladyna.
 
 ## Ścieżka szamana
 __Zleca: Ur-Azog__
