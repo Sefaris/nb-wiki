@@ -753,7 +753,7 @@ __Zleca: Paladyn na statku__
 
 > Magowie Ognia/Wody/Mroku oraz Zwiadowcy mogą zrobić te zadanie w 1 rozdziale, Paladyni w 3 rozdziale, a pozostali dopiero w 5 rozdziale.
 
-Zadanie zleca Paladyn strzegący statku. W zadaniu chodzi o to, by zabić szczury w ładowni statku.
+Zadanie polega na pozbyciu się szczurów grasujących w ładowni statku.
 
 ## Ścieżka szamana
 __Zleca: Ur-Azog__
