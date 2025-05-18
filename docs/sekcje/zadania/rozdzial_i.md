@@ -673,7 +673,7 @@ Bengar mówi nas o groźnym wilku, który grasuje w okolicy. Znajdziemy go nieda
 __Zleca: Fregyal__
 
 Musimy zabić zębacza, który znajduje się gdzieś niedaleko wejścia do jaskini Freygala.
-> Zadanie to otwiera możliwość gry pod trucizny.
+> Zadanie to otwiera możliwość gry druidem oraz podklasę truciciela.
 
 ## Proste przyjemności
 __Zleca: Ogrodnik__
