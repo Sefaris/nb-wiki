@@ -5,7 +5,6 @@
 ## Mapa śnieżnych gór:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739929992329/F9BDC24039B3917155F61BC2309E19AF07084F29/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739929992329/F9BDC24039B3917155F61BC2309E19AF07084F29/)
-
 #### Warto na początku udać się do punktu 5 i aktywować jedyny kamień teleportacyjny oraz pogadać z szamanem na wzniesieniu niedaleko. Polecam unikać orków dopóki nie dogadamy się z szamanem, jako że nie respektują oni symboli przyjaźni od orków z Górniczej Doliny.
 
 ## Trofeum dla Groom Locka
