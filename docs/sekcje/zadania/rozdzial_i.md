@@ -712,7 +712,7 @@ Jeśli nie zamierzacie dołączać do Bractwa, sakiewkę można otworzyć. Jest 
 ## Przyjaciel Bartoka
 __Zleca: Bartok__
 
-Zadanie zleca Bartok. Mówi, że gdzieś zaginął jego przyjaciel, Trokar. Ciało Trokara leży między farmą Akila, a kamiennym kręgiem w lesie. Wokół ciała jest masa orków i wargów, którzy mogą sprawić problemy. Z pierścieniem Trokara wracamy do Bartoka.
+Od Bartoka dowiadujemy się, że zaginął jego przyjaciel, Trokar. Ciało Trokara leży między farmą Akila, a kamiennym kręgiem w lesie. Wokół ciała jest masa orków i wargów, którzy mogą sprawić problemy. Z pierścieniem Trokara wracamy do Bartoka.
 > Zadanie można łatwo wykonać podczas wykonywania zadania na dołączenie do zwiadowców (zadanie można wykonać nawet gdy nie zamierzamy zostać zwiadowcą).
 
 ## Ranny ork
