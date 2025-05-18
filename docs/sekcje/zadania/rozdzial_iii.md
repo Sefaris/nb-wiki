@@ -38,7 +38,7 @@ Hanna mówi, że przypadkiem sprzedała ważne dokumenty kartografowi w porcie. 
 
 > UWAGA: Zadanie należy zrobić w 3 rozdziale, w 4 akcie będzie martwa.
 
-Sagitta martwi się o zakapturzone postaci w okolicy. Idziemy do Lee i prosimy o ochronę dla Sagitty.
+W wyniku pojawienia się zakapturzonych postaci w okolicy, Sagitta martwi się o swoje bezpieczeństwo. Idziemy do Lee i prosimy o ochronę dla guślarki, następnie wracamy do Saggity.
 
 ## Dokumenty
 
