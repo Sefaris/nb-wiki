@@ -70,7 +70,7 @@ Vatras mówi nam, że jeden z członków Wodnego Kręgu został napadnięty i ok
 
 > Zadanie dostępne po wykonaniu zadania [List do Lee](#list-do-lee)
 
-Lee daje nam klucz i każe odzyskać wpisy magów wody ze skrzyni w Nowym Obozie. Znajduje się ona na prawo od lodowego smoka. Zabieramy wpisy, zanosimy je do Lee, po czym ten każe nam je zanieść do Saturasa.
+Lee daje nam klucz i każe odzyskać wpisy Magów Wody ze skrzyni w Nowym Obozie. Znajduje się ona na prawo od lodowego smoka. Zabieramy wpisy, zanosimy je do Lee, po czym ten każe nam je zanieść do Saturasa.
 > Możemy je zanieść od razu do Saturasa.
 
 
@@ -147,9 +147,9 @@ Jeden z nowych członków Wodnego Kręgu poszedł na bagna w celu obadania sytua
 
 ## Zastępstwo za Lance'a
 
-Po dostarczeniu wieść Saturasowi na temat śmierć Lenca ten prosi żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quachodrona.
+Po dostarczeniu wieści Saturasowi na temat śmierci Lance'a, ten prosi, żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quachodrona.
 
-## Zapasy dla magów wody
+## Zapasy dla Magów Wody
 
 Cronos prosi nas o przyniesienie 50 sztuk surowego mięsa, które powinniśmy już mieć, a jeśli nie, to z pewnością zdobędziemy je w Jarkendarze.
 
@@ -182,14 +182,14 @@ Wracamy do Norolasa, stworzy on dla nas miksturę, wypijamy ją i idziemy prosto
 
 ## Sekret magii Guru
 
-Saturas po przeczytaniu księgi Yberiona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas nas prosi, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała skała, czytamy ją i wracamy do Saturasa.
+Saturas po przeczytaniu księgi Y'beriona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas prosi nas, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała Skała, czytamy ją i wracamy do Saturasa.
 > Rozmowa z Freygalem nie jest potrzebna do znalezienia i odczytania tabliczki.
 
 # Jarkendar - Piraci
 
 ## Polowanie na szczury
 
-W pobliżu ruin magów wody przebywa Jack Aligator. Po rozmowie należy udać się z nim na polowanie.
+W pobliżu ruin Magów Wody przebywa Jack Aligator. Po rozmowie należy udać się z nim na polowanie.
 
 ## Aligator Jacka
 
