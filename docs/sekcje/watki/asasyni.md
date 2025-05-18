@@ -5,7 +5,6 @@
 Zadanie zleca jeden ze strażników przy bramie do obozu Bractwa. Musimy udać się do Baal Namiba, który zleci nam sprawdzenie obozów zbieraczy ziela. Odwiedzamy wszystkie 3 obozy oraz gadamy z Baalem Parvezem na rynku.
 
 W obozach zbieraczy gadamy z Shratem (Przy farmie Lobarta), Balamem (Przy jeziorze obok czarnego trolla), z Hanisem (nad kamiennym kręgiem w Mrocznym Lesie). Hanis się wykrwawia i ostatkiem sił mówi, że zaatakowano jego obóz. Udajemy się teraz do bimbrowni Vino i wykańczamy napastnika. Pokazujemy jego miecz Namibowi, po czym idziemy kolejno do Harada, Carla i Benneta, a na końcu udajemy się do Darriona w Obozie Netbeka.
-> Możemy od razu iść do Darriona
 
 Darrion powie nam, że miecz pochodzi z Varantu, więc wykonujemy zadanie [Broń dla Gonzalesa](sekcje/zadania/rozdzial_i?id=broń-dla-gonzalesa), Gonzales siedzi w karczmie portowej lub w burdelu. Pokazujemy mu miecz i dowiadujemy się, że za porwaniami stoi Bractwo Masjafu. Wracamy do Namiba, a ten wysyła nas do Gor na Totha w celu wysłania strażników do obozu Balama, gdyż właśnie ten obóz może zostać napadnięty. Gadamy z Gor na Tothem po czym udajemy się do obozu Balama.
 
