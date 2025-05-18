@@ -96,7 +96,7 @@ UWAGA: Od tej pory stajemy się muridem Osaira. Idziemy teraz do Nrozasa, który
 
 ## Opłata za niewolników
 
-Będąc Muridem Osaira ten zleci nam zadanie. Mamy przekazać zapłatę Hasimowi i Narugowi. Hasima znajdziemy w świątyni, gdzie dajemy mu mieszek i pytamy o Naruga. Teraz udajemy się do Gonzalesa i widzimy jak ten zabija Naruga. Gonzales przedstawia nam swój plan po czym idziemy do Hasima i kradniemy mu naszyjnik oraz pytamy się jak możemy go przekonać do pomocy nam. Chce on wino z magazynu (Dostęp do magazynu zyskamy podczas zadania [składniki dla Nrozasa](#składniki-dla-nrozasa)). Kiedy mamy już wino, oddajemy je Hasimowi, a ten się zgadza przyjąć sakiewkę Naruga. Wracamy do Gonzalesa z naszyjnikiem, a następnie do Osaira.
+Będąc Muridem Osaira ten zleci nam zadanie. Mamy przekazać zapłatę Hasimowi i Narugowi. Hasima znajdziemy w świątyni, gdzie dajemy mu mieszek i pytamy o Naruga. Teraz udajemy się do Gonzalesa i widzimy jak ten zabija Naruga. Gonzales przedstawia nam swój plan po czym idziemy do Hasima i kradniemy mu naszyjnik oraz pytamy się jak możemy go przekonać do pomocy nam. Chce on wino z magazynu, do którego dostęp zyskamy podczas zadania [składniki dla Nrozasa](#składniki-dla-nrozasa). Kiedy mamy już wino, oddajemy je Hasimowi, a ten się zgadza przyjąć sakiewkę Naruga. Wracamy do Gonzalesa z naszyjnikiem, a następnie do Osaira.
 
 ## Składniki dla Nrozasa
 
