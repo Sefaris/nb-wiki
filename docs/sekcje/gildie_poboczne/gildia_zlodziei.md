@@ -81,7 +81,7 @@ Po wyuczeniu się wszystkich receptur na szpady, Ramirez opowie nam o specjalnym
 
 ## Rubin dla Cassii (Rozdział 3)
 
-Cassia mówi nam że Paladyni przywieźli wielki rubin, znajduje się on w skrzyni obok Lariusa w ratuszu. Potrzebujemy do tego 80 zręczności lub wypitej mikstury odporności na hita, ponieważ w innym wypadku skrzynia nas zabije.
+Cassia mówi nam że Paladyni przywieźli wielki rubin, znajduje się on w skrzyni obok Lariusa w ratuszu. Potrzebujemy do tego 130 zręczności lub wypitej mikstury odporności na hita, ponieważ w innym wypadku skrzynia nas zabije.
 > Nagrodą jest umiejętność zmniejszająca koszt wytrzymałości podczas sprintu o 50%
 
 ## Skarb smoków (Rozdział 4)

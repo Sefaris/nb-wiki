@@ -120,7 +120,7 @@ Tiamant zleca nam zabicie Hasima, więc musimy wyciągnąć go ze świątyni. Id
 
 Tiamant zleca nam to zadanie podczas zadania z zabójstwem Hasima, mamy udać się do kopalni i w jednej z odnóg pozabijać górskie pełzacze.
 
-## UWAGA: Po wykonaiu tego zadania zostajemy muridem Tiamanta.
+## UWAGA: Po wykonaniu tego zadania zostajemy muridem Tiamanta.
 
 ## Intrygi bractwa Masjafu
 
@@ -148,10 +148,10 @@ Kamienie księżycowe znajdziemy w ciele Im’Araha i w czyśćcu Adanosa na pus
 
 Zadanie zleca Osair, jeśli wybierzemy tą opcję podczas targowania o recepturę na księżycowe ostrza. Mamy załatwić czterech ludzi dla Osaira, są to:
 
-1. Rafat - modli się przy kapliczce Beliara, dołączy do Osaira jak ten pozwoli mu się modlić w świątyni.
+1. Rafat - Modli się przy kapliczce Beliara, dołączy do Osaira jak ten pozwoli mu się modlić w świątyni.
 2. Famid - Znajduje się w świątyni, a dołączy do Osaira jak zapłacimy mu 3 000 złota.
-3. Nazim- Znajduje się on w kopalni, którą wchodziliśmy do lasu. Dołączy do Osaira, jeśli pozwoli mu na to Haniar.
-4. Kudir pojawia się obok Nrozasa o 1-2 w nocy. Zgodzi się on dołączyć, jeśli przyniesiemy mu trollest (który zrespi się w dolince obok Gonzalesa)  
+3. Nazim - Znajduje się on w kopalni, którą wchodziliśmy do lasu. Dołączy do Osaira, jeśli pozwoli mu na to Haniar.
+4. Kudir - Pojawia się obok Nrozasa o 1-2 w nocy. Zgodzi się on dołączyć, jeśli przyniesiemy mu trollest (który zrespi się w dolince obok Gonzalesa)  
    Kiedy mamy już czterech ludzi wracamy do Osaira i mówimy mu o tym.
 
 ## Kopalnia złota

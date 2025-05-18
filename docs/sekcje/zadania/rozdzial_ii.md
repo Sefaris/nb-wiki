@@ -64,7 +64,7 @@ Vatras każe nam skontaktować się z Orlanem, a on opowie szczegóły. Orlan m�
 
 > Zadanie dostępne po wykonaniu zadania [Zlecenie Wodnego Kręgu](#zlecenie-wodnego-kręgu).
 
-Vatras mówi nam, że jeden z członków wodnego kręgu został napadnięty i okradziony przez bandytów niedaleko piramid. Zleca nam ich zabicie i odzyskanie skradzionych rzeczy. Idziemy w okolice piramid zabijamy bandytów i wracamy do Vatrasa.
+Vatras mówi nam, że jeden z członków Wodnego Kręgu został napadnięty i okradziony przez bandytów niedaleko piramid. Zleca nam ich zabicie i odzyskanie skradzionych rzeczy. Idziemy w okolice piramid zabijamy bandytów i wracamy do Vatrasa.
 
 ## Zapiski Saturasa
 
@@ -127,7 +127,7 @@ Po użyciu teleportu i dostaniu się na pustynię wracamy do Merdariona.
 
 ## Posiadłości budowniczych
 
-Po aktywowaniu drugiego teleportu Merdarion powie nam, że Saturas chce się z nami widziec. Ten udziela nam pewnych informacji na temat Jarkendaru oraz każe nam iść do Riordiana. Prosi on o sprawdzenie posiadłości budowniczych (miejsca gdzie znajdujemy kolorowe tabliczki). Po odwiedzeniu ich wracamy do maga i zdajemy raport.
+Po aktywowaniu drugiego teleportu Merdarion powie nam, że Saturas chce się z nami widzieć. Ten udziela nam pewnych informacji na temat Jarkendaru oraz każe nam iść do Riordiana. Prosi on o sprawdzenie posiadłości budowniczych (miejsca gdzie znajdujemy kolorowe tabliczki). Po odwiedzeniu ich wracamy do maga i zdajemy raport.
 
 ## Orkowie w kanionie
 
@@ -141,9 +141,9 @@ Po ukończeniu zadania [Posiadłości budowniczych](#posiadłości-budowniczych)
 
 Myxir mówi nam, że budowniczy zapisywali swoje przemyślenia nie tylko na tabliczkach. Idziemy do biblioteki uczonych, gdzie znajdujemy pergamin, który po przeczytaniu oddajemy Myxirowi.
 
-## Straż przednia magów wody
+## Straż przednia Magów Wody
 
-Jeden z nowych członków wodnego kręgu poszedł na bagna w celu obadania sytuacji, ale nie wrócił. Na bagnie, na prawo od mostu do obozu bandytów, znajdziemy Lance'a wśród aligatorów. Podnosimy jego pierścień i wracamy do Saturasa.
+Jeden z nowych członków Wodnego Kręgu poszedł na bagna w celu obadania sytuacji, ale nie wrócił. Na bagnie, na prawo od mostu do obozu bandytów, znajdziemy Lance'a wśród aligatorów. Podnosimy jego pierścień i wracamy do Saturasa.
 
 ## Zastępstwo za Lance'a
 
@@ -306,7 +306,7 @@ By wejść do obozu musimy zabić Franka. Polecam najpierw wykonać jego zadania
 
 ## Polowanie na błotne węże
 
-Franko prosi nas, abyśmy pomogli Loganowi z pozbyciu się błotnych węży. Znajdziemy go za kładką na lewo od Franko
+Franko prosi nas, abyśmy pomogli Loganowi w pozbyciu się błotnych węży. Znajdziemy go za kładką na lewo od Franko.
 
 ## Kamienna tabliczka na bagnie
 
@@ -320,7 +320,7 @@ Senyan rozpoznaje bezimiennego. W zamian za milczenie zleca nam misję - mamy i�
 
 Esteban mówi nam, że ktoś próbował go zabić, ale zamachowiec zginął. Teraz mamy znaleźć jego zleceniodawcę. Więc gadamy w tej kolejności: Finn, Lennar, Emilio, Paul (kilka razy).  
 Teraz idziemy do Huno i mówimy, że trzy osoby go podejrzewają i że chcemy dogadać się z zleceniodawcą zabójstwa. Huno nam nie wierzy i zleca, abyśmy przynieśli mu paczkę stali.  
-Stal ma Juan znajdujący się w jaskini na północny wschód bagien. Przynosimy stal Huno, a ten wysyła nas do Snafa. Gospodarz wysyła nas na górę, gdzie spotykamy Fiska. Po krótkiej rozmowie dowiadujemy się o kolejnym planie zamachu na Estebana. W tym celu mówimy Estebanowi o zleceniodawcy zabójca, a gdy jego ochroniarza odejdą, zabijamy go. Po wszystkim wracamy do Fiska
+Stal ma Juan znajdujący się w jaskini na północny wschód bagien. Przynosimy stal Huno, a ten wysyła nas do Snafa. Gospodarz wysyła nas na górę, gdzie spotykamy Fiska. Po krótkiej rozmowie dowiadujemy się o kolejnym planie zamachu na Estebana. W tym celu mówimy Estebanowi o zleceniodawcy zabójca, a gdy jego ochroniarza odejdą, zabijamy go. Po wszystkim wracamy do Fiska.
 
 ## Stal Huno
 

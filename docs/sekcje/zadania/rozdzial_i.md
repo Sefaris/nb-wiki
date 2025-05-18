@@ -84,13 +84,13 @@ Zadanie kończy się po rozmowie z Dexterem.
 ## Magowie Wody
 __Zleca: Cavalorn__
 
-Rozmawiamy z Vatrasem na temat magów wody i ich pracy, po czym dostajemy od niego ornament. Idziemy pogadać z Laresem i po tym jak załatwimy mu zmiennika, idziemy odnieść Ornament do magów wody. Dajemy ornament Nefariusowi, który zleca nam zebranie wszystkich ornamentów (patrz zadanie [Portal](#portal)) Po zebraniu ornamentów, musimy stać się członkiem wodnego kręgu, a także rozpocząć akt 2, po czym przedostać się do Jarkendaru.
+Rozmawiamy z Vatrasem na temat Magów Wody i ich pracy, po czym dostajemy od niego ornament. Idziemy pogadać z Laresem i po tym jak załatwimy mu zmiennika, idziemy odnieść Ornament do magów wody. Dajemy ornament Nefariusowi, który zleca nam zebranie wszystkich ornamentów (patrz zadanie [Portal](#portal)) Po zebraniu ornamentów, musimy stać się członkiem wodnego kręgu, a także rozpocząć akt 2, po czym przedostać się do Jarkendaru.
 
 ## Mrok północy dla Lestera
 __Zleca: Lester__  
 
 Jeśli zagadamy Lestera, gdy śpi w Wieży Xardasa, poprosi on nas o przyniesienie mu skręta `Mrok Północy`.  
-Skręta znaleźć można w skrzyni obok Baala Oruna, w Obozie Bractwa koło farmy Bengara. W nagrodę otrzymujemy `Szczaw Królewski`.
+Skręta znaleźć można w skrzyni obok Baala Oruna, w Obozie Bractwa koło farmy Bengara. W nagrodę otrzymujemy `szczaw królewski`.
 
 ## Obawy Lobarta
 __Zleca: Lobart__
@@ -592,7 +592,7 @@ Matteo opowiada nam o skradzionej formie do pierścieni. Po zrobieniu zadania z 
 ## Nieziemskie sny
 __Zleca: Loa__
 
-O 18:00 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga! Za żaden nie przyjmujemy nagrody)
+Między 18:30 - 20:00 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga! Za żaden nie przyjmujemy nagrody)
 
 - Poezja Myrtańska (Sprzedaje ją Matteo, czytamy -> oddajemy Galahadowi -> odkupujemy od Galahada -> zanosimy do Loi)
 - Naszyjnik z czarnych pereł (Wykonać zadanie [Narzędzia Matteo](##narzędzia-matteo) i przynieść mu 5 czarnych pereł oraz sztabkę złota)
@@ -712,7 +712,7 @@ Jeśli nie zamierzacie dołączać do Bractwa, sakiewkę można otworzyć. Jest 
 ## Przyjaciel Bartoka
 __Zleca: Bartok__
 
-Zadanie zleca Bartok. Mówi, że gdzieś zaginął jego przyjaciel, Trokar. Ciało Trokara leży między farmą Akila, a kamiennym kręgiem w lesie. Wokół ciała jest masa orków i wargów, którzy mogą sprawić problemy. Z pierścieniem Trokara wracamy do Bartoka.
+Od Bartoka dowiadujemy się, że zaginął jego przyjaciel, Trokar. Ciało Trokara leży między farmą Akila, a kamiennym kręgiem w lesie. Wokół ciała jest masa orków i wargów, którzy mogą sprawić problemy. Z pierścieniem Trokara wracamy do Bartoka.
 > Zadanie można łatwo wykonać podczas wykonywania zadania na dołączenie do zwiadowców (zadanie można wykonać nawet gdy nie zamierzamy zostać zwiadowcą).
 
 ## Ranny ork
@@ -753,7 +753,7 @@ __Zleca: Paladyn na statku__
 
 > Magowie Ognia/Wody/Mroku oraz Zwiadowcy mogą zrobić te zadanie w 1 rozdziale, Paladyni w 3 rozdziale, a pozostali dopiero w 5 rozdziale.
 
-Zadanie zleca Paladyn strzegący statku. W zadaniu chodzi o to, by zabić szczury w ładowni statku.
+Zadanie polega na pozbyciu się szczurów grasujących w ładowni statku.
 
 ## Ścieżka szamana
 __Zleca: Ur-Azog__
@@ -772,7 +772,7 @@ Ork w mrocznym lesie, za latarnią Jacka, daje nam możliwość zostania szamane
 - Zabić wielkiego dzika, który jest w okolicy
 
 Po wykonaniu wszystkich zadań wystarczy ponownie porozmawiać z orkiem. Zadanie się kończy i od teraz możemy zostać szamanem.
-> Jeżeli gramy magiem ognia to zadanie warto wykonać nawet gdy nie mamy zamiaru zostać szamanem w celu uzyskania dodatkowego serca kamiennego golema i języka ognistego jaszczura
+> Jeżeli gramy Magiem Ognia to zadanie warto wykonać nawet gdy nie mamy zamiaru zostać szamanem w celu uzyskania dodatkowego serca kamiennego golema i języka ognistego jaszczura
 
 ## Śmierdząca bestia Erola
 __Zleca: Erol__
@@ -799,7 +799,7 @@ Zadanie zleca Wąż w karczmie Kardifa. Prosi on nas o odzyskanie torby rudy, kt
 __Zleca: Vadius__
 > Zadanie z dodatku `Droga Potępionych`
 
-W karczmie Kardifa znajduje się Vadius, który wspomina nam o winie, które zostawił przy kapliczce Innosa, za farmą Akila. Chodzi o kapliczkę niedaleko miejsca, w którym znajdziemy cialo Trokara. Przynosimy mu wino, a on nas atakuje, więc go bijemy.
+W karczmie Kardifa znajduje się Vadius, który wspomina nam o winie, które zostawił przy kapliczce Innosa, za farmą Akila. Chodzi o kapliczkę niedaleko miejsca, w którym znajdziemy ciało Trokara. Przynosimy mu wino, a on nas atakuje, więc go bijemy.
 
 ## Wycieczka do miasta
 __Zleca: Karras__
@@ -863,7 +863,7 @@ Gdy Bengar się zgodzi dostajemy bonus `Retoryka +1`, a my możemy wrócić do B
 ## Zarzuty Parlana
 
 > Zadanie dostępne tylko jeśli dostaliśmy się do klasztoru przez dach.  
-> Aby je otrzymać musimy posiadać conajmniej 10 retoryki lub posiadać umiejętność czarnej magii.
+> Aby je otrzymać musimy posiadać co najmniej 10 retoryki lub posiadać umiejętność czarnej magii.
 
 Musimy się włamać do klasztoru dachem i zagadać do Parlana, ale musi to być pierwsze wejście do klasztoru, bo jeśli już tam byliśmy wcześniej, w zadaniu dla kupców albo po dołączeniu jako nowicjusz, to zadanie przepadnie.  
 W rozmowie z Parlanem wybieramy opcję z retoryką lub czarną magią, za co dodatkowo dostajemy bonus `Retoryka +1`, po czym zleci on nam zadanie, aby kupić od Lehmara relikwię magów ognia (Wymagane 1000 sztuk złota, aby Lehmar otworzył sklep).  

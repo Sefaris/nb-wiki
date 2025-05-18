@@ -12,7 +12,7 @@ Po wykonaniu tego zadania oficjalnie zostajemy Nekromantą lub Czarnoksiężniki
 ## Posążek Beliara
 __Zleca: Xardas__
 
-Posążek można znaleźć w ciele Rigelion z zadania Horror na cmentarzu lub na skałach między Martwą Harpią, a mostem bandytów.
+Posążek można znaleźć w ciele Rigeliona z zadania [Horror na cmentarzu](#sekcje/zadania/rozdzial_i?id=horror-na-cmentarzu) lub na skałach między Martwą Harpią, a mostem bandytów.
 
 ## Droga Ciemności
 

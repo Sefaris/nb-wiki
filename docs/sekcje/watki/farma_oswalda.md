@@ -49,6 +49,6 @@ Razem z Blizną udajemy się w ustronne miejsce i obmyślamy plan zemsty na Trig
 
 ## Dodatkowe aktywności
 
-1. W zamku w górniczej dolinie w komnacie gdzie siedzi Garond jest zamknięta skrzynia, a w niej miecz Blizny. Możemy oddać go Bliźnie.
+1. W zamku w Górniczej Dolinie w komnacie, gdzie przebywa Garond jest zamknięta skrzynia, a w niej miecz Blizny. Możemy oddać go Bliźnie.
 2. Po zabiciu Trigo pogadaj z karczmarzem, dostaniesz kolejne specjalne piwko.
 3. Blizna oprócz nagród za walki będzie również sprzedawał różne przedmioty, pojawiać się one będą w jego inwentarzu po wygraniu kolejnych walk. 
