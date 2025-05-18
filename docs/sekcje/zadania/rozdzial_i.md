@@ -392,10 +392,9 @@ Przed karczmą Martwa Harpia znajduję się kobieta o imieniu Reven, powie nam o
 ## Bimber
 __Zleca: Ehnim__
 
-> Zadanie niedostępne dla Magów Ognia/Wody
-
-Enhim na farmie Akila oferuje nam sprzedaż łoju kretoszczura do otwarcia Bimbrowni Vino.  
-Targujemy się z nim do jak najniższej kwoty, za co dostajemy bonus [`Retoryka +1`], a na końcu i tak okazuje się, że wcale go nie miał.
+#### Zadanie niedostępne dla Magów Ognia/Wody.
+Ehnim na farmie Akila oferuje nam sprzedaż łoju kretoszczura do otwarcia kraty w Bimbrowni Vino.  
+Targujemy się z nim do jak najniższej kwoty, za co dostajemy bonus `Retoryka +1`, a na końcu i tak okazuje się, że wcale go nie miał.
 
 ## Broń dla Gonzalesa
 __Zleca: Gonzales__
