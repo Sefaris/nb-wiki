@@ -18,6 +18,7 @@ Xardas prosi o przyniesienie posążka Beliara, możemy takowy znaleźć:
 - W zamkniętej skrzyni na wieży obok Nicklasa i rannego orka
 - Nad legowiskiem czarnego trolla, trzeba przejść bokiem po górach
 - Na plaży przy wraku pod starą latarnią, niedaleko wieży Amon-Shen i jaskini z bandytami
+
 #### Zadanie nie blokuje dostępu do innych gildii.
 
 ## Droga Ciemności
