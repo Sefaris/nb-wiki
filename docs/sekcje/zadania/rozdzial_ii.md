@@ -106,11 +106,11 @@ Nefarius prosi nas o dowód na to, że architekci używali magicznych run. Jedyn
 
 ## Receptura Nefariusa
 
-### Uwaga: Zadanie jest dostępne tylko wtedy, jesli zrobiliśmy dla Gildii Kupców zadanie "Przysługa dla Jory", a w finale misji przyznaliśmy się, że pracujemy dla Lutero
+### Uwaga: Zadanie jest dostępne tylko wtedy, jesli zrobiliśmy dla Gildii Kupców zadanie [Przysługa dla Jory](sekcje/gildie_poboczne/gildia_kupcow?id=przysługa-dla-jory), a w finale misji przyznaliśmy się, że pracujemy dla Lutero
 
 Nefarius prosi nas, abyśmy udali się do kopalni Nowego Obozu i przynieśli mu przepis. Przepis ten znajduje się w skrzyni w miejscu, gdzie w Gothic 1 był ranny ork. Oddajemy przepis i przynosimy mu składniki: grog, perły, dwa serca ognistego golema.  
 Oddajemy składniki i dostajemy eliksir dający +15 obrony przed magią.
-> ogniste golemy spotkasz na pustyni Adanosa lub w górniczej dolinie na drodze do ognistego smoka
+> ogniste golemy spotkasz na pustyni Adanosa lub w Górniczej Dolinie na drodze do ognistego smoka
 
 ## Relikty
 
@@ -479,7 +479,7 @@ Engrom, myśliwy obozujący nad chatą Cavalorna, prosi nas o pozbycie się gobl
 
 ## Ur-Shak
 
-Ur-Shaka spotykamy na klifie pomiędzy starą wieżą Xardasa i obozem Fajetha. Został on wygnany ze wspólnoty orków i bardzo pragnie tam wrócić. Jeżeli w międzyczasie zamordowaliśmy Hosh-Paka i powiedzieliśmy o tym Ur-Shakowi to ten się na nas obrazi i musimy rzucić na niego czar zapomnienia (ten sam, który sprzedaje Ignaz), wtedy znowu będzie z nami gadał. Dopiero po ukończeniu całej serii trudnych zadań w wątku orków, z których ostatnim będzie zabić Azgalora w dolinie cienia uzyskamy prawo do prośby o to by przywrócić naszego szamana do łask. Po tym jak Ur-Thrall wyrazi zgodę idziemy do Ur-Shaka by mu o tym powiedzieć i dostajemy 1PN w nagrodę.
+Ur-Shaka spotykamy na klifie pomiędzy starą wieżą Xardasa i obozem Fajetha. Został on wygnany ze wspólnoty orków i bardzo pragnie tam wrócić. Jeżeli w międzyczasie zamordowaliśmy Hosh-Paka i powiedzieliśmy o tym Ur-Shakowi to ten się na nas obrazi i musimy rzucić na niego czar zapomnienia (ten sam, który sprzedaje Ignaz), wtedy znowu będzie z nami gadał. Dopiero po ukończeniu całej serii trudnych zadań w wątku orków, z których ostatnim będzie zabicie Azgalora w Dolinie Cieni uzyskamy prawo do prośby o to by przywrócić naszego szamana do łask. Po tym jak Ur-Thrall wyrazi zgodę idziemy do Ur-Shaka by mu o tym powiedzieć i dostajemy 1PN w nagrodę.
 
 ## Posiłki dla Alberta
 
