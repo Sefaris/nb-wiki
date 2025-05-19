@@ -106,7 +106,7 @@ Nefarius prosi nas o dowód na to, że architekci używali magicznych run. Jedyn
 
 ## Receptura Nefariusa
 
-#### Uwaga: Zadanie jest dostępne tylko wtedy, jesli zrobiliśmy dla Gildii Kupców zadanie [Przysługa dla Jory](sekcje/gildie_poboczne/gildia_kupcow?id=przysługa-dla-jory), a w finale misji przyznaliśmy się, że pracujemy dla Lutero
+#### Zadanie jest dostępne tylko wtedy, jesli zrobiliśmy misję  [Przysługa dla Jory](sekcje/gildie_poboczne/gildia_kupcow?id=przysługa-dla-jory) dla Gildii Kupców i w finale przyznaliśmy się Zurisowi, że pracujemy dla Lutero.
 
 Nefarius prosi nas, abyśmy udali się do kopalni Nowego Obozu i przynieśli mu przepis. Znajduje się on w skrzyni w miejscu, gdzie w Gothic 1 był ranny ork. Oddajemy przepis i przynosimy mu składniki: grog, perły, dwa serca ognistego golema. Po dostarczeniu składników dostajemy eliksir dający ochronę przed zimnem i +15 obrony przed magią.
 > ogniste golemy spotkasz na pustyni Adanosa lub w Górniczej Dolinie na drodze do ognistego smoka
