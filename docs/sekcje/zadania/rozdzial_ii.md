@@ -540,7 +540,7 @@ UWAGA: Za to zadanie dostaniecie miecz potrzebny w zadaniu Broń dla Gonzalesa.
 ## Serce królowej Harpii
 
 Myśliwy Gestath opowiada o królowej Harpii i prosi o przyniesienie jej serca. Harpia znajduje się w Kamiennej Fortecy na drodze do kamiennego smoka. Zabijamy królową i oddajemy serce Gestathowi.  
-**Uwaga: Po tym zadaniu nauczy on nas za darmo smoczej krwi**
+**Uwaga: Po tym zadaniu nauczy on nas za darmo smoczej krwi.**
 > Serce dalej można oddać Gestathowi gdy znajduje się on w obozie myśliwych.
 
 ## Tajemniczy portal
