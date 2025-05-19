@@ -86,7 +86,7 @@ Torlof prosi nas o pozbycie się zakapturzonych postaci w obozie Dextera. Wybija
 
 ## Koszmar Roscoe
 
-Roscoe obok tawerny Orlana zleca nam oczyszczenie cmentarza obok Martwej harpii. Zabijamy szkielety i poszukiwacza po czym wracamy do zleceniodawcy.
+Roscoe obok tawerny Orlana zleca nam oczyszczenie cmentarza obok Martwej Harpii. Zabijamy szkielety i poszukiwacza po czym wracamy do zleceniodawcy.
 
 ## Boska moc gwiazd
 
