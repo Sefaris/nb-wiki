@@ -12,12 +12,13 @@ Po wykonaniu tego zadania oficjalnie zostajemy Nekromantą lub Czarnoksiężniki
 ## Posążek Beliara
 __Zleca: Xardas__
 
-Posążki na wyspie Khorinis:
+Xardas prosi o przyniesienie posążka Beliara, możemy takowy znaleźć:
 - W ciele Rigeliona z zadania [Horror na cmentarzu](sekcje/zadania/rozdzial_i?id=horror-na-cmentarzu)
 - Na skałach między Martwą Harpią, a mostem bandytów. Dostajemy się tam idąc po górach od wieży Xardasa
 - W zamkniętej skrzyni na wieży obok Nicklasa i rannego orka
 - Nad legowiskiem czarnego trolla, trzeba przejść bokiem po górach
 - Na plaży przy wraku pod starą latarnią, niedaleko wieży Amon-Shen i jaskini z bandytami
+#### Zadanie nie blokuje dostępu do innych gildii.
 
 ## Droga Ciemności
 
