@@ -90,6 +90,8 @@ Po odejściu Benchela Lutero szuka nowego pomocnika. Mamy do wyboru 3 osoby:
 
 Najlepszym wyborem jest Valeran, gdyż w nagrodę da nam książkę +1% 1H/2H, jeżeli jednak go zabiliśmy to lepszy jest Maxi, gdyż Gayverna możemy rekrutować na strażnika do swojego obozu.
 
+## Poniższe zadania związane z Sarą są dostępne tylko jeżeli trafiła ona do więzienia po tym jak wrobiliśmy ją razem z Cantharem w 1 rozdziale. Jeżeli do więzienia trafił Canthar to zadania gildii kupców kończą się wraz z zadaniem [Asystent](#asystent)
+
 ## Ochrona dla Sary (Rozdział 3)
 
 Zadanie zleca Lutero prosi nas, abyśmy złożyli Sarze propozycję dołączenia do gildii. W tym celu rozmawiamy z Lordem Andre, a następnie z Sarą. Teraz przesiaduje ona na ławce koło gospody Coragona. Rozmawiamy z nią i przepraszamy za to, że wsadziliśmy ją do więzienia. Sara zgodzi się dołączyć gdy wykonany dla niej 3 zadania (opisane niżej). Po ich wykonaniu Sara dołączy do gildii kupców.
