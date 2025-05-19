@@ -103,7 +103,7 @@ Serpentes każe nam dowiedzieć się kto rozprowadza fałszywe udziały w kopaln
 - Elena na Farmie Onara
 - Orlan w gospodzie Martwa Harpia
 
-Wykupione udziały oddajemy Serpentesowi, a Saladrila przekonujemy by udał się do klasztoru gdzie stanie przed sądem.
+Wykupione udziały oddajemy Serpentesowi, a Salandrila przekonujemy by udał się do klasztoru gdzie stanie przed sądem.
 
 ## Mroczna sieć
 
