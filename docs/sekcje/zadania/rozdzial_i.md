@@ -473,7 +473,7 @@ Zadanie zleca Vatras, idziemy pogadać z Martinem. Teraz musimy zebrać kilka do
 - Pierścień gildii kupieckiej Araxos (Ma go przy sobie jeden z bandytów, którzy więżą Elvricha).
 - List obok skrzyni w obozie bandytów za farmą Sekoba.
 
-Okazuje się ze to Fernando, by zmaksymalizować nasz zysk powinniśmy najpierw pogadać z Fernando mając w ekwipunku ze wszystkich dowodów jedynie 1 pałasz bandytów i zgodzić się na jego ofertę, następnie wydajemy go u Martina. Na końcu gadamy z Vatrasem.
+Okazuje się ze to Fernando, by zmaksymalizować nasz zysk powinniśmy najpierw pogadać z Fernando mając dowody w ekwipunku i zgodzić się na jego ofertę, a następnie zdradzić go u Martina. Na końcu gadamy z Vatrasem.
 
 ## Horror na cmentarzu
 __Zleca: Lothar__
@@ -818,13 +818,10 @@ Canthar prosi nas, abyśmy odzyskali jego stoisko na targu. Mówi nam, abyśmy p
 ## Zabójca orków
 __Zleca: Harad__
 
-Po wykonaniu zadania Wielkie wyzwanie pytamy Harada o jego przeszłość wtedy ten zleca nam misję byśmy przynieśli mu amulet orka elity. W lesie nieopodal farmy Akila pojawi się specjalny ork, chociaż może być to dowolny czarny ork wojownik.  
-Zabijamy orka, zabieramy amulet i oddajemy go Haradowi. Nagrodą jest miecz 1H siła, więc z zadaniem warto pospieszyć się jedynie, gdy gramy pod tarczownika.
-
-> Ork elita na tym etapie jest ciężkim przeciwnikiem, dlatego warto skorzystać z pomocy Laresa, gdy wybieramy się z nim po ornament.
+Po wykonaniu zadania Wielkie wyzwanie pytamy Harada o jego przeszłość wtedy ten zleca nam misję byśmy przynieśli mu amulet orka elity. W momencie przyjęcia zadania w lesie nieopodal farmy Akila pojawi się elitarny ork wojownik, który umożliwia wykonanie zadania już w 1 rozdziale. Może to jednak być dowolny elitarny ork lub herszt, również Ci w górniczej dolinie. Zabijamy orka, zabieramy amulet i oddajemy go Haradowi. Nagrodą jest miecz 1H siła, więc z zadaniem warto pospieszyć się jedynie, gdy gramy pod tarczownika. Pomocne może być skorzystanie z Laresa w trakcie drogi do kamiennego kręgu.
 
 ## Zaginieni ludzie
-__Zleca: Rozmowa z osobą, która poszukuje kogoś zaginionego (Thorben, Farim, Garvell, Akil, Bengar, Cord, Bromor)__
+__Zleca: Rozmowa z osobą, której ktoś zaginął (Thorben, Farim, Garvell, Akil, Bengar, Cord, Bromor)__
 
 Mieszkańcy znikają na całym Khorinis. Musisz ich odnaleźć, są to:
 - Elvrich - mówi o nim Thorben. Jest w obozie bandytów nieopodal golema z zadania "Żywa skała".  

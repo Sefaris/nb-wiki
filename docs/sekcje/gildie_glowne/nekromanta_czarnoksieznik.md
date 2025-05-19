@@ -12,12 +12,14 @@ Po wykonaniu tego zadania oficjalnie zostajemy Nekromantą lub Czarnoksiężniki
 ## Posążek Beliara
 __Zleca: Xardas__
 
-Posążki na wyspie Khorinis:
+Xardas prosi o przyniesienie posążka Beliara, możemy takowy znaleźć:
 - W ciele Rigeliona z zadania [Horror na cmentarzu](sekcje/zadania/rozdzial_i?id=horror-na-cmentarzu)
 - Na skałach między Martwą Harpią, a mostem bandytów. Dostajemy się tam idąc po górach od wieży Xardasa
 - W zamkniętej skrzyni na wieży obok Nicklasa i rannego orka
 - Nad legowiskiem czarnego trolla, trzeba przejść bokiem po górach
 - Na plaży przy wraku pod starą latarnią, niedaleko wieży Amon-Shen i jaskini z bandytami
+
+#### Zadanie nie blokuje dostępu do innych gildii.
 
 ## Droga Ciemności
 
@@ -28,7 +30,7 @@ Xardas każe nam zabić sługę Innosa, może to być dowolny nowicjusz z klaszt
 > Zadanie dostępne tylko po wyborze klasy: "Nekromanta"
 
 Xardas da nam runę zniszczenia ożywieńca (bez wydatku PN), jeśli przyniesiemy mu 5 ektoplazm.
-Ektoplazmę sprzedają Constantino, Salandril i Ramirez, a dwie pozostałe najłatwiej zdobyć z ognistych cieniostworów w bibliotece w Jarkendarze, które pojawią się dopiero w końcowym etapie wątku Jarkendaru. By zdobyć runę szybciej będziemy musieli pokonać widma, które są na tym etapie bardzo silne. Po zebraniu ektoplazm wracamy do Xardasa i otrzymujemy darmową runę.
+Ektoplazmę sprzedają Constantino i Salandril, a trzy pozostałe najłatwiej zdobyć z ognistych cieniostworów w bibliotece w Jarkendarze, które pojawią się dopiero w końcowym etapie wątku Jarkendaru. By zdobyć runę szybciej będziemy musieli pokonać widma, które są na tym etapie bardzo silne. Po zebraniu ektoplazm wracamy do Xardasa i otrzymujemy darmową runę.
 
 ## Zapiski Xardasa
 

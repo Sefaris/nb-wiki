@@ -147,7 +147,7 @@ Jeden z nowych członków Wodnego Kręgu poszedł na bagna w celu obadania sytua
 
 ## Zastępstwo za Lance'a
 
-Po dostarczeniu wieści Saturasowi na temat śmierci Lance'a, ten prosi, żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quachodrona.
+Po dostarczeniu wieści Saturasowi na temat śmierci Lance'a, ten prosi, żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quarhodrona.
 
 ## Zapasy dla Magów Wody
 
@@ -182,7 +182,7 @@ Wracamy do Norolasa, stworzy on dla nas miksturę, wypijamy ją i idziemy prosto
 
 ## Sekret magii Guru
 
-Saturas po przeczytaniu księgi Y'beriona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas prosi nas, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała Skała, czytamy ją i wracamy do Saturasa.
+Saturas po przeczytaniu księgi Y'Beriona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas prosi nas, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała Skała, czytamy ją i wracamy do Saturasa.
 > Rozmowa z Freygalem nie jest potrzebna do znalezienia i odczytania tabliczki.
 
 # Jarkendar - Piraci
@@ -361,7 +361,7 @@ Strażnik drzwi do świątyni Adanosa nie chce nas wpuścić. Musimy udać się 
 
 ## Moc strażnika umarłych
 
-Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysyła nas do Myxira. Dostajemy zaklęcie przywołania i udajemy się do grobowca Quahodrona, gdzie za pomocą zwoju przyzywamy go. Potrzebujemy do tego znajomości języka kapłanów lub wojowników. By duch nam zaufał musimy odpowiedzieć mu na kilka pytań: 
+Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysyła nas do Myxira. Dostajemy zaklęcie przywołania i udajemy się do grobowca Quarhodrona, gdzie za pomocą zwoju przyzywamy go. Potrzebujemy do tego znajomości języka kapłanów lub wojowników. By duch nam zaufał musimy odpowiedzieć mu na kilka pytań: 
 
 1. Strażnicy Umarłych
 2. Kasta Wojowników 
@@ -371,8 +371,8 @@ Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysył
 6. Uzdrowiciele 
 7. Nie wiem  
 
-Po podaniu odpowiedzi Quahodron da nam klucz do świątyni. Wracamy do Myxira i Saturasa.
-> Nie trzeba oddawać Saturasowi wszystkich 5 kolorowych tabliczek przed wejściem do świątyni, można tam iść od razu po rozmowie z Quahodronem.
+Po podaniu odpowiedzi Quarhodron da nam klucz do świątyni. Wracamy do Myxira i Saturasa.
+> Nie trzeba oddawać Saturasowi wszystkich 5 kolorowych tabliczek przed wejściem do świątyni, można tam iść od razu po rozmowie z Quarhodronem.
 
 ## Kruk
 
@@ -467,7 +467,7 @@ Na płaskowyżu nad Starym Miastem Orków spotkamy Wrzoda, który pilnuje dużeg
 
 ## Ucieczka
 
-Kilka dni po uwolnieniu Gorna Cliff chce uciec, a my musimy znaleźć odpowiednie ku temu miejsce. Udajemy się do leśnego obozu Netbeka, a potem ponownie Cliffa. Przychodzimy w nocy do Cliffa, wraz z ze zbroją myśliwych/z płytek pełzacza oraz dowolną bronią. Po rozmowie będzie on czekał przed taranem, skąd prowadzimy go aż przed drewnianą kładkę przed Klasztorem Zmiennokształtnych. Kiedy doprowadzimy go do obozu Netbeka dostaniemy klucz do skrzyni w domu Ryżowego księcia w G1. Otwieramy tamtejszą skrzynie i dostajemy kolejny klucz do skrzyni w wieży w zamku.
+Kilka dni po uwolnieniu Gorna Cliff chce uciec, a my musimy znaleźć odpowiednie ku temu miejsce. Udajemy się do leśnego obozu Netbeka, a potem ponownie Cliffa. Przychodzimy w nocy do Cliffa, wraz z ze zbroją myśliwych/z płytek pełzacza oraz dowolną bronią. Po rozmowie będzie on czekał przed taranem, skąd prowadzimy go aż przed drewnianą kładkę przed Klasztorem Zmiennokształtnych. Kiedy doprowadzimy go do obozu Netbeka dostaniemy klucz do skrzyni w domu Ryżowego Księcia w G1. Otwieramy tamtejszą skrzynie i dostajemy kolejny klucz do skrzyni w wieży w zamku.
 
 ## Amulet Angara
 
@@ -540,8 +540,8 @@ UWAGA: Za to zadanie dostaniecie miecz potrzebny w zadaniu Broń dla Gonzalesa.
 ## Serce królowej Harpii
 
 Myśliwy Gestath opowiada o królowej Harpii i prosi o przyniesienie jej serca. Harpia znajduje się w Kamiennej Fortecy na drodze do kamiennego smoka. Zabijamy królową i oddajemy serce Gestathowi.  
-**Uwaga: Po tym zadaniu nauczy on nas za darmo smoczej krwi**
-> Serce dalej można oddać Gestachowi gdy znajduje się on w obozie myśliwych.
+**Uwaga: Po tym zadaniu nauczy on nas za darmo smoczej krwi.**
+> Serce dalej można oddać Gestathowi gdy znajduje się on w obozie myśliwych.
 
 ## Tajemniczy portal
 __Zleca: Lord Hagen__

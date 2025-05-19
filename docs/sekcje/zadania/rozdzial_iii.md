@@ -1,6 +1,6 @@
 # Zadania - Rozdział 3
 
-> Przed wejściem do tego rozdziału należy ukończyć zadania "Horror na cmentarzu", "Ranny ork", "Głodny skazaniec". Warto też następnie szybko przejść do rozdziału 4 ze względu na mocny ekwipunek.
+> Przed wejściem do tego rozdziału należy ukończyć zadania [Horror na cmentarzu](sekcje/zadania/rozdzial_i.md?id=horror-na-cmentarzu), [Ranny ork](sekcje/zadania/rozdzial_i.md?id=ranny-ork) i [Głodny skazaniec](sekcje/zadania/rozdzial_i.md?id=głodny-skazaniec). Warto też szybko przejść do rozdziału 4 ze względu na mocny ekwipunek.
 
 ## Złoto Diega
 
@@ -50,14 +50,17 @@ Akil mówi, że bandyci kradną owce z jego farmy. Znajdują się oni w jaskini 
 
 ## Tajemnicze morderstwo
 
-> Zadanie dostępne jest już w 2 rozdziale jeżeli możemy już dostać się do biblioteki magów.
+#### Zadanie dostępne jest już w 2 rozdziale jeżeli możemy już dostać się do biblioteki magów.
 
-Aby otrzymać to zadanie musimy dostarczyć truciznę Constantino oraz wykonać zadanie dla Karrasa z trzema zwojami zapomnienia.
-> Przed wykonaniem tych zadań powinieneś najpierw ukończyć zadanie "Polny drapieżnik", które zleca Akil w trakcie wykonywania zadania "Polowanie na rzadkie potwory" od Falka.
+Aby otrzymać to zadanie musimy [dostarczyć truciznę Constantino](sekcje/zadania/rozdzial_ii.md?id=dziwna-prośba-constantino) oraz wykonać [zadanie dla Karrasa](sekcje/zadania/rozdzial_i.md?id=wycieczka-do-miasta).
+
+> Przed wykonaniem powyższych zadań powinieneś najpierw ukończyć zadanie [Polny drapieżnik](sekcje/zadania/rozdzial_ii.md?id=polny-drapieżnik), które zleca Akil w trakcie [polowania na rzadkie potwory](sekcje/gildie_poboczne/gildia_mysliwych.md?id=polowanie-na-rzadkie-stwory-rozdział-2).
 
 Kilka dni po wykonaniu zadań z trucizną i zwojami zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek rozmawiamy z Zurisem i udajemy się do domu Ignaza. Za płotem znajdujemy pustą butelkę bo truciźnie, pokazujemy ją Constantino i zgadzamy się mu pomóc.
-Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre. Wybór nie ma znaczenia, gdyż nagrody są podobne.
-> Dla dodatkowego doświadczenia możemy również porozmawiać z Kardifem, Coragonem i Constantino zaraz po rozpoczęciu zadania u Lorda Andre.
+
+Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre.
+
+Wybór nie ma znaczenia, gdyż nagrody są podobne. Dla dodatkowego doświadczenia możemy również porozmawiać z Kardifem, Coragonem i Constantino zaraz po rozpoczęciu zadania u Lorda Andre.
 
 ## Wygnany farmer
 
@@ -103,7 +106,7 @@ Serpentes każe nam dowiedzieć się kto rozprowadza fałszywe udziały w kopaln
 - Elena na Farmie Onara
 - Orlan w gospodzie Martwa Harpia
 
-Wykupione udziały oddajemy Serpentesowi, a Saladrila przekonujemy by udał się do klasztoru gdzie stanie przed sądem.
+Wykupione udziały oddajemy Serpentesowi, a Salandrila przekonujemy by udał się do klasztoru gdzie stanie przed sądem.
 
 ## Mroczna sieć
 
