@@ -45,3 +45,4 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
   - Flopson
   - FortyNest22
   - Deetom554
+  - Delph
