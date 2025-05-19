@@ -149,6 +149,12 @@ __Zleca: Baltram__
 
 Ze względu na to, że jesteśmy najemnikiem Baltram nie chce z nami handlować. Możemy to odpokutować, jeśli przyniesiemy mu 10 szynek i 10 butelek wina.
 
+## Lokaj Sędziego  (Rozdział 3)
+__Zleca: Lee__
+
+Lee chce zaszkodzić Sędziemu, więc prosi nas, abyśmy udali się do niego, zaoferowali mu współpracę i odkryli w ten sposób jakieś jego brudne machlojki, które Lee następnie wykorzysta przeciw niemu. Jako test zaufania, musimy przynieść Sędzi Młot Innosa z piwnicy klasztoru. Następnym zadaniem będzie odnaleźć zbiegłych więźniów i ich zabić. Pierwszy z nich jest w jaskini z bandytą Jessem. Rozmawiamy ze zbiegiem, następnie idziemy do Martwej Harpii i znajdujemy kolejnego zbiega, który zdradza nam położenie ich przywódcy. Na farmie Onara spotykamy Morgaharda, który wręcza nam list, którego potrzebuje Lee. Odnosimy go do Lee, a zadanie się kończy.
+> Młot Innosa może się nam przydać do walki z golemem na [Pustyni Adanosa](sekcje/watki/pustynia_adanosa.md)
+
 ## Bajer (Rozdział 4)
 __Zleca: Dar__
 
