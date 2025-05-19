@@ -90,7 +90,7 @@ Po odejściu Benchela Lutero szuka nowego pomocnika. Mamy do wyboru 3 osoby:
 
 Najlepszym wyborem jest Valeran, gdyż w nagrodę da nam książkę +1% 1H/2H, jeżeli jednak go zabiliśmy to lepszy jest Maxi, gdyż Gayverna możemy rekrutować na strażnika do swojego obozu.
 
-## Poniższe zadania związane z Sarą są dostępne tylko jeżeli trafiła ona do więzienia po tym jak wrobiliśmy ją razem z Cantharem w 1 rozdziale. Jeżeli do więzienia trafił Canthar to zadania gildii kupców kończą się wraz z zadaniem [Asystent](#asystent)
+### Poniższe zadania związane z Sarą są dostępne tylko jeżeli trafiła ona do więzienia po tym jak wrobiliśmy ją razem z Cantharem w 1 rozdziale. Jeżeli do więzienia trafił Canthar to zadania gildii kupców kończą się wraz z zadaniem Asystent
 
 ## Ochrona dla Sary (Rozdział 3)
 
