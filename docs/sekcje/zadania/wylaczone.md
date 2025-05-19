@@ -414,11 +414,6 @@ Ork znajduje się przy samym taranie. Zabijamy go i wracamy do Parcivala.
 
 W trakcie wykonywania zadania „Ślady Ciemności” trafiamy na cienia o imieniu Świstak, który chce się wydostać z podziemi zamku. Przechodzimy kilka razy między Świstakiem a Garondem, aż misja się zakończy.
 
-## Lokaj Sędziego  (Rozdział 3)
-__Zleca: Lee__
-
-Lee chce zdemaskować Sędziego, więc prosi nas, abyśmy udali się do Sędziego i zaoferowali mu współpracę. Musimy przed tym udać się do Vatrasa, który rzuci na nas stosowne zaklęcie. Jako test zaufania, musimy przynieść młot Innosa z klasztoru. Teraz sędzia każe nam odnaleźć zbiegłych więźniów i ich zabić. Pierwszy z nich jest w jaskini z bandytą Jessem. Rozmawiamy ze zbiegiem, a następnie idziemy do Martwej Harpii. W gospodzie znajduje się kolejny zbieg, który zdradza nam położenie ich przywódcy. Na farmie Onara spotykamy Morgaharda, który wręcza nam list, którego potrzebuje Lee. Odnosimy go do Lee, a zadanie się kończy.
-
 ### Zemsta Pradawnych
 
 **Zleca: Vatras**
