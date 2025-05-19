@@ -40,7 +40,7 @@ Kiedy już będziemy w klasztorze szukamy 2 części rękopisów Xardasa:
 - pierwsze znajdują się w dawnym pokoju Xardasa (To ten zamknięty pokój przy którym sprząta Babo), klucz daje nam Xardas.
 - drugie rękopisy znajdują się w klasztornej bibliotece. Dostać się tam możemy poprzez kradzież klucza od Parlana albo czekać do 3 rozdziału, aż sami dostaniemy ten klucz.
 
-Wracamy do Xardasa i okazuje się, że druga część rękopisów jest fałszywa, więc udajemy się do Parlana, a potem Marduka. Okazuje się, że w bibliotece pracował mag z Trevius, który zaginął. Idziemy do jaskini obok cmentarza przy Martwej Harpii, gdzie znajdujemy martwego maga i demona, który lata nad jego zwłokami. Zabieramy notatki i wracamy do Xardasa.
+Wracamy do Xardasa, a ten mówi, że druga część rękopisów jest fałszywa, więc udajemy się do Parlana, a potem Marduka. Okazuje się, że w bibliotece pracował mag Trevius, który zaginął. Idziemy do jaskini obok cmentarza przy Martwej Harpii, gdzie znajdujemy martwego maga i demona, który lata nad jego zwłokami. Zabieramy notatki i wracamy do Xardasa. Możemy też powiedzieć Mardukowi, że znaleźliśmy Treviusa.
 
 ## Droga do nikąd
 
