@@ -14,6 +14,7 @@ __Zleca: Xardas__
 
 Xardas prosi o przyniesienie posążka Beliara, możemy takowy znaleźć:
 - W ciele Rigeliona z zadania [Horror na cmentarzu](sekcje/zadania/rozdzial_i?id=horror-na-cmentarzu)
+- W paczce Rigeliona. By otworzyć ją już w 1 rozdziale musimy iść do Mrocznego Mentora i odmówić mu oddania paczki, a następnie przeżyć.
 - Na skałach między Martwą Harpią, a mostem bandytów. Dostajemy się tam idąc po górach od wieży Xardasa
 - W zamkniętej skrzyni na wieży obok Nicklasa i rannego orka
 - Nad legowiskiem czarnego trolla, trzeba przejść bokiem po górach
