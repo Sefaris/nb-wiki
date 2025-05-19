@@ -399,7 +399,7 @@ Targujemy się z nim do jak najniższej kwoty, za co dostajemy bonus `Retoryka +
 ## Broń dla Gonzalesa
 __Zleca: Gonzales__
 
-Gonzales z karczmy Kardifa zgodzi się nauczyć nas odporności na gorąco, jeśli przyniesiemy mu specjalną broń. Jest nią miecz asasyna, który otrzymamy od Parcivala za zadanie „Przewaga Taktyczna”
+Gonzales z karczmy Kardifa zgodzi się nauczyć nas odporności na gorąco, jeśli przyniesiemy mu specjalną broń. Jest nią miecz asasyna, który otrzymamy od paladyna Parcivala w zamku w Górniczej Dolinie za zadanie [Przewaga Taktyczna](sekcje/zadania/rozdzial_ii.md?id=przewaga-taktyczna).
 
 ## Czarna skóra
 __Zleca: Raoul__
