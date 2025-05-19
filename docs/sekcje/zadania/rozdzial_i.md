@@ -286,7 +286,7 @@ Aby zostać czeladnikiem, należy najpierw wykonać zadania dla mistrzów:
 ## Wielkie wyzwanie
 __Zleca: Harad__
 
-Harad chce broń orka. Zgodę Harada można też uzyskać zabijając bandytów obok farmy Akila, którzy napadli kupca Hakona.
+Harad chce broń orka. Zgodę kowala można też uzyskać zabijając bandytów obok farmy Akila, którzy napadli kupca Hakona. Najłatwiej będzie podnieść orkowy topór leżący w jaskini na lewo wychodząc ze wschodniej bramy miasta, będziemy musieli przedrzeć się przez kilka szczurów.
 
 ## Błogosławieństwo bogów
 __Zleca: Thorben__
