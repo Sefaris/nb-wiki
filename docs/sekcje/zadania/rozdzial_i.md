@@ -258,7 +258,7 @@ By uzyskać dostęp do górnego miasta należy zostać czeladnikiem u jednego z 
 
 ####__Bosper__
 
-W New Ballance łuczarz oferuje nam najgorsze zarobki spośród wszystkich mistrzów, wynika to w dużej mierze z istnienia konkurencyjnego skupu trofeów w obozie myśliwych niedaleko przejścia na przełęcz. Najwięcej profitów z pracy u Bospera będzie miała oczywiście postać budowana pod walkę łukiem, gdyż będziemy mogli uczyć się produkcji łuków, które w 1 rozdziale będą bardzo dobre.
+W New Balance łuczarz oferuje nam najgorsze zarobki spośród wszystkich mistrzów, wynika to w dużej mierze z istnienia konkurencyjnego skupu trofeów w obozie myśliwych niedaleko przejścia na przełęcz. Najwięcej profitów z pracy u Bospera będzie miała oczywiście postać budowana pod walkę łukiem, gdyż będziemy mogli uczyć się produkcji łuków, które w 1 rozdziale będą bardzo dobre.
 
 Oprócz tego Bosper nauczy nas tworzenia specjalnych strzał do łuku Kerenowego, który zdobędziemy na przestrzeni 2 i 3 rozdziału. Jeżeli chodzi o sprzedaż trofeów myśliwskich to Bosper da nam trochę lepsze ceny na skóry niż myśliwi w obozie.
 
