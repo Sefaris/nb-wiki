@@ -147,7 +147,7 @@ Jeden z nowych członków Wodnego Kręgu poszedł na bagna w celu obadania sytua
 
 ## Zastępstwo za Lance'a
 
-Po dostarczeniu wieści Saturasowi na temat śmierci Lance'a, ten prosi, żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quachodrona.
+Po dostarczeniu wieści Saturasowi na temat śmierci Lance'a, ten prosi, żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quarhodrona.
 
 ## Zapasy dla Magów Wody
 
@@ -361,7 +361,7 @@ Strażnik drzwi do świątyni Adanosa nie chce nas wpuścić. Musimy udać się 
 
 ## Moc strażnika umarłych
 
-Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysyła nas do Myxira. Dostajemy zaklęcie przywołania i udajemy się do grobowca Quahodrona, gdzie za pomocą zwoju przyzywamy go. Potrzebujemy do tego znajomości języka kapłanów lub wojowników. By duch nam zaufał musimy odpowiedzieć mu na kilka pytań: 
+Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysyła nas do Myxira. Dostajemy zaklęcie przywołania i udajemy się do grobowca Quarhodrona, gdzie za pomocą zwoju przyzywamy go. Potrzebujemy do tego znajomości języka kapłanów lub wojowników. By duch nam zaufał musimy odpowiedzieć mu na kilka pytań: 
 
 1. Strażnicy Umarłych
 2. Kasta Wojowników 
@@ -371,8 +371,8 @@ Po tym jak Kruk zamknie wejście do świątyni idziemy do Saturasa, a ten wysył
 6. Uzdrowiciele 
 7. Nie wiem  
 
-Po podaniu odpowiedzi Quahodron da nam klucz do świątyni. Wracamy do Myxira i Saturasa.
-> Nie trzeba oddawać Saturasowi wszystkich 5 kolorowych tabliczek przed wejściem do świątyni, można tam iść od razu po rozmowie z Quahodronem.
+Po podaniu odpowiedzi Quarhodron da nam klucz do świątyni. Wracamy do Myxira i Saturasa.
+> Nie trzeba oddawać Saturasowi wszystkich 5 kolorowych tabliczek przed wejściem do świątyni, można tam iść od razu po rozmowie z Quarhodronem.
 
 ## Kruk
 
