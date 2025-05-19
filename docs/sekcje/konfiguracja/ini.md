@@ -208,19 +208,19 @@ Włączenie zadań, które zostały usunięte w patchu z areną (działa od nowe
 Lista zadań:
 
 - Błąd lorda Andre
-- nóż Hildy
+- Nóż Hildy
 - Facet bez dziury chodzi ponury
 - Loa wspomnienia
 - Problematyczny strażnik
-- Nekromanta w khorinis
+- Nekromanta w Khorinis
 - Przebaczenie dla zdrajcy
 - Obawy Pepe
-- Poszukiwania nowcjusza
+- Poszukiwania nowicjusza
 - Szybki sposób na zarobek
 - Zbrodnia i kara
-- Zadanie ze świstakiem
+- Zadanie ze Świstakiem
 - Kłopoty Parcivala
-- Zadanie z miltenem (od Brutusa)
+- Zadanie z Miltenem (od Brutusa)
 - Przeklęte dusze
 - Orkowie nad jaskinią
 - Statek dla Silvio
