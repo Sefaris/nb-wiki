@@ -473,7 +473,7 @@ Zadanie zleca Vatras, idziemy pogadać z Martinem. Teraz musimy zebrać kilka do
 - Pierścień gildii kupieckiej Araxos (Ma go przy sobie jeden z bandytów, którzy więżą Elvricha).
 - List obok skrzyni w obozie bandytów za farmą Sekoba.
 
-Okazuje się ze to Fernando, by zmaksymalizować nasz zysk powinniśmy najpierw pogadać z Fernando mając w ekwipunku ze wszystkich dowodów jedynie 1 pałasz bandytów i zgodzić się na jego ofertę, następnie wydajemy go u Martina. Na końcu gadamy z Vatrasem.
+Okazuje się ze to Fernando, by zmaksymalizować nasz zysk powinniśmy najpierw pogadać z Fernando mając dowody w ekwipunku i zgodzić się na jego ofertę, a następnie zdradzić go u Martina. Na końcu gadamy z Vatrasem.
 
 ## Horror na cmentarzu
 __Zleca: Lothar__
