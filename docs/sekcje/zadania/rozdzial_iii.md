@@ -94,7 +94,7 @@ Hyglas zleca nam przyniesienie książki Boska moc gwiazd. Kupić ją możemy od
 
 ## Fałszywe udziały w kopalni
 
-#### Zadanie dostępne tylko dla magów ognia i najemników.
+#### Zadanie dostępne tylko dla Magów Ognia i Najemników.
 
 > Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstury z orkowych pomyj. Przed rozmową z Salandrilem należy zdobyć pierścień gildii kupców, następnie wykupić od niego wszystkie istotne przedmioty oraz ukończyć zadanie związane z orkowymi pomyjami.
 
