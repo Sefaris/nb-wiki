@@ -252,11 +252,23 @@ Jeśli należymy do gildii lub jesteśmy czeladnikiem, to przy rozmowie ze stra�
 
 ## Czeladnik Khorinis
 
-Należy zostać Czeladnikiem u jednego z mistrzów.  
-Do wyboru:
-- Constantino
-- Harad
-- Bosper
+By uzyskać dostęp do górnego miasta należy zostać czeladnikiem u jednego z mistrzów. Jest to również jeden z najlepszych sposobów na zarobek, aż do końca gry. Za zostanie czeladnikiem otrzymamy również silną miksturę do statystyk, którą możemy wybrać niezależnie od wyboru mistrza.
+
+<!-- tabs:start -->
+
+####__Bosper__
+
+W New Ballance łuczarz oferuje nam najgorsze zarobki spośród wszystkich mistrzów, wynika to w dużej mierze z istnienia konkurencyjnego skupu trofeów w obozie myśliwych niedaleko przejścia na przełęcz. Najwięcej profitów z pracy u Bospera będzie miała oczywiście postać budowana pod walkę łukiem, gdyż będziemy mogli uczyć się produkcji łuków, które w 1 rozdziale będą bardzo dobre. Oprócz tego Bosper nauczy nas tworzenia specjalnych strzał do łuku Kerenowego, który zdobędziemy na przestrzeni 2 i 3 rozdziału. Jeżeli chodzi o sprzedaż trofeów myśliwskich to Bosper da nam trochę lepsze ceny na skóry niż myśliwi w obozie.
+
+####__Harad__
+
+Jako czeladnik Harada będziemy kuć, kuć i jeszcze raz kuć. Jeżeli chcemy terminować u Harada to nie warto uczyć się kowalstwa wcześniej, gdyż nauka u niego jest tańsza. Z nauki u mistrza kowalstwa najbardziej skorzysta postać budowana pod siłę, gdyż Harad nauczy nas kucia pięciu mieczy jednoręcznych i pięciu dwuręcznych tylko i wyłącznie pod ten atrybut, oferując nam świetny oręż na cały rozdział 1 i kawałek rozdziału 2. Kolejną opcją dochodu jest sprzedawanie Haradowi znajdowanych przez nas broni, nie są to oczywiście wszystkie istniejące miecze, lecz jest ich całkiem sporo. Zanim zaczniemy sprzedawać znalezione miecze u kupca, zawsze powinniśmy najpierw zajrzeć czy Harad nie da nam lepszej ceny. Najlepszy biznes u Harada zrobimy jako Najemnik, gdyż kowal chętnie skupi wykute przez nas miecze z magicznej rudy, których tworzenia nauczy nas Bennet, jest to najlepszy zarobkowy sposób wykorzystania magicznej rudy jaki obecnie oferuje nam gra. Jako uczeń kowala powinniśmy skupić się na znalezieniu wszystkich brył żelaza i rudy jakie gra nam oferuje.
+
+####__Constantino__
+
+Constantino jako mistrz jest bardzo uniwersalny, możemy bez wyrzutów sumienia terminować u niego niezależnie od tego jaką postacią gramy, nie musi być to postać magiczna. Stary alchemik oprócz darmowej nauki jednej podstawowej mikstury będzie skupował od nas rośliny, rzadkie mikstury oraz trofea takie jak skrzydła, żuwaczki czy żądła. Jeżeli chodzi o grzyby to powinniśmy oddać mu jedynie 20 ciemnych grzybów, a następnie odpalić dialog "czemu te grzyby są takie ważne" - da nam to bonus 1PN. Ilość złota jaką Constantino potrafi nam wygenerować jest przybliżona do zarobków u Harada, oczywiście o ile nauczyliśmy się zdobywania trofeów i skrupulatnie zabijamy wszystkie mobki.
+
+<!-- tabs:end -->
 
 Aby zostać czeladnikiem, należy najpierw wykonać zadania dla mistrzów:
 - [Wielkie wyzwanie](#wielkie-wyzwanie)
