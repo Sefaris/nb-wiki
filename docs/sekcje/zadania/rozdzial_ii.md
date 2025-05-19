@@ -70,7 +70,7 @@ Vatras mówi nam, że jeden z członków Wodnego Kręgu został napadnięty i ok
 
 > Zadanie dostępne po wykonaniu zadania [List do Lee](#list-do-lee)
 
-Lee daje nam klucz i każe odzyskać wpisy magów wody ze skrzyni w Nowym Obozie. Znajduje się ona na prawo od lodowego smoka. Zabieramy wpisy, zanosimy je do Lee, po czym ten każe nam je zanieść do Saturasa.
+Lee daje nam klucz i każe odzyskać wpisy Magów Wody ze skrzyni w Nowym Obozie. Znajduje się ona na prawo od lodowego smoka. Zabieramy wpisy, zanosimy je do Lee, po czym ten każe nam je zanieść do Saturasa.
 > Możemy je zanieść od razu do Saturasa.
 
 
@@ -147,9 +147,9 @@ Jeden z nowych członków Wodnego Kręgu poszedł na bagna w celu obadania sytua
 
 ## Zastępstwo za Lance'a
 
-Po dostarczeniu wieść Saturasowi na temat śmierć Lenca ten prosi żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quachodrona.
+Po dostarczeniu wieści Saturasowi na temat śmierci Lance'a, ten prosi, żeby sprowadzić mu zmiennika. Tą osobą będzie pustelnik obok teleportu niedaleko grobu Quachodrona.
 
-## Zapasy dla magów wody
+## Zapasy dla Magów Wody
 
 Cronos prosi nas o przyniesienie 50 sztuk surowego mięsa, które powinniśmy już mieć, a jeśli nie, to z pewnością zdobędziemy je w Jarkendarze.
 
@@ -171,7 +171,7 @@ Uwaga: Zadanie dostępne po wykonaniu zadania [Zapiski Saturasa](#zapiski-satura
 
 Saturas mówi nam, że interesował się kiedyś magią Guru, ale badania zostały porzucone po upadku Bariery. Mówi on nam także, że wysłał do obozu Bractwa jednego z magów wody. Norolas znajduje się przy ognisku za palisadą w GD obok Draxa i Ratforda. Prosi nas o udanie się po księgę Y'Beriona na bagna jednak roi się tam od nieumarłych. Mamy dwie opcje:
 
-- Wybić wszystkich nieumarłych z demonem na czele (którego będziemy mogli przyzwać dopiero w zadaniu "Mroczne Rytuały"), zabrać księgę Y'beriona i wrócić do Norolasa.
+- Wybić wszystkich nieumarłych z demonem na czele (którego będziemy mogli przyzwać dopiero w zadaniu "Mroczne Rytuały"), zabrać księgę Y'Beriona i wrócić do Norolasa.
 - Tworzymy specjalny eliksir który pozwoli nam się poruszać wśród nieumarłych, eliksir podniesie nam również statystyki więc warto go zdobyć.
 
 Jeżeli chcemy stworzyć eliksir, musimy przynieść Norolasowi przepis i składniki do niego.  
@@ -182,14 +182,14 @@ Wracamy do Norolasa, stworzy on dla nas miksturę, wypijamy ją i idziemy prosto
 
 ## Sekret magii Guru
 
-Saturas po przeczytaniu księgi Yberiona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas nas prosi, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała skała, czytamy ją i wracamy do Saturasa.
+Saturas po przeczytaniu księgi Y'beriona nadal nie wie jak Guru używali swojej magii. W księdze jest napisane, że bagienne ziele odpowiada za magiczną moc Guru. Saturas prosi nas, abyśmy dowiedzieli się więcej o tym zielu. Pomoże nam w tym druid Fregyal mieszkający w jaskini w lesie za farmą Onara. Fregyal mówi nam, że najpewniej ziele posiada część magii żywiołów. Teraz musimy się udać do miejsca gdzie siła żywiołów jest najmocniejsza. Chodzi o miejsce ze Sferą ziemi w Orkowej Kopalni. Dostaniemy się tam w trakcie wątku orków. Zabijamy strażnika sfery, zabieramy z jego ciała tabliczkę o nazwie Biała Skała, czytamy ją i wracamy do Saturasa.
 > Rozmowa z Freygalem nie jest potrzebna do znalezienia i odczytania tabliczki.
 
 # Jarkendar - Piraci
 
 ## Polowanie na szczury
 
-W pobliżu ruin magów wody przebywa Jack Aligator. Po rozmowie należy udać się z nim na polowanie.
+W pobliżu ruin Magów Wody przebywa Jack Aligator. Po rozmowie należy udać się z nim na polowanie.
 
 ## Aligator Jacka
 
@@ -224,9 +224,9 @@ Brandon prosi nas o przyniesienie specjalnego napoju, a w zamian będzie nas ucz
 
 Morgan prosi nas, abyśmy oczyścili plażę na północy, a także jaskinie, która tam się znajduje.
 
-## Kompas Garreta
+## Kompas Garetta
 
-Garret prosi nas o przyniesienie jego kompasu, który niegdyś zabrał mu Greg. Kompas jest w posiadaniu kapitana Drake'a w jaskini na południowej plaży.
+Garett prosi nas o przyniesienie jego kompasu, który niegdyś zabrał mu Greg. Kompas jest w posiadaniu kapitana Drake'a w jaskini na południowej plaży.
 
 ## Angus i Hank
 
@@ -245,7 +245,7 @@ Abigail prosi nas o odzyskanie swojej szpady. Znajduje się ona za drzewem, mię
 
 ## Prezent dla Hanny
 
-Po wykonaniu zadania ze szpadą, Abigail prosi nas, abyśmy dostarczyli jej naszyjnik Hannie. Gdy dotrzemy do gospody, zamiast Hanny spotkamy Gaspara. Rozmawiamy z nim i dowiadujemy się, że Hanna siedzi w więzieniu. Rozmawiamy po kolei z Lordem Andre, Hakonem i Abigail. Wracamy do Khorinis, pytamy się karczmarza Coragona "Czy wydarzyło się coś nowego?" i kupujemy od niego pierścień. Teraz musimy iść do Joe, który znajduje się w karczmie Kardiffa (o ile uwolniliśmy go z wieży przy Thorbenie). Rozmawiamy z nim o pierścieniu i wysyłamy go do Andre. Teraz możemy iść jeszcze do Gaspara lub od razu do Lorda Andre, a potem do gospody oddać Hannie naszyjnik. Przy okazji oddajemy też pierścień Hakonowi i wracamy do Abigail.
+Po wykonaniu zadania ze szpadą, Abigail prosi nas, abyśmy dostarczyli jej naszyjnik Hannie. Gdy dotrzemy do gospody, zamiast Hanny spotkamy Gaspara. Rozmawiamy z nim i dowiadujemy się, że Hanna siedzi w więzieniu. Rozmawiamy po kolei z Lordem Andre, Hakonem i Abigail. Wracamy do Khorinis, pytamy się karczmarza Coragona "Czy wydarzyło się coś nowego?" i kupujemy od niego pierścień. Teraz musimy iść do Joe, który znajduje się w karczmie Kardifa (o ile uwolniliśmy go z wieży przy Thorbenie). Rozmawiamy z nim o pierścieniu i wysyłamy go do Andre. Teraz możemy iść jeszcze do Gaspara lub od razu do Lorda Andre, a potem do gospody oddać Hannie naszyjnik. Przy okazji oddajemy też pierścień Hakonowi i wracamy do Abigail.
 
 > Hanna w nagrodę da wam mieszek, po jego otwarciu dostaniecie klucz do skrzyni na wyspie złodziei w której znajdują się skradzione narzędzia Matteo.
 
