@@ -197,7 +197,7 @@ Zadanie dostajemy od Xardasa na początku gry. Musimy udać się do stawu obok j
 
 **Zleca: Hilda**
 
-Hilda prosi nas, abyśmy udali się do miasta i znaleźli kowala, który naostrzy dla nas nóż. Zrobi to dla nas Carl za niewielką opłatą. Z naostrzonym nożem wracamy do Hildy.
+Hilda prosi nas, abyśmy udali się do miasta i znaleźli kowala, który naostrzy dla niej nóż. Zrobi to dla niej Carl za niewielką opłatą. Z naostrzonym nożem wracamy do zleceniodawcy.
 
 ### Atak cieniostwora
 
@@ -251,7 +251,7 @@ Po chwili pojawia się sędzia. Idziemy za strażnikiem na miejsce egzekucji. Gd
 
 > Zadanie dostępne po wykonaniu "Szybki sposób na zarobek".
 
-Rozmawiamy z Laresem o zemście na sędzim. Musimy osłabić jego pozycję, eliminując jego ludzi.
+Rozmawiamy z Laresem o zemście na sędzi. Musimy osłabić jego pozycję, eliminując jego ludzi.
 
 1. **Marvolo** – udajemy się do Martwej Harpii, wyprowadzamy go z karczmy, rozmawiamy z nim i zabijamy. Wracamy do Laresa.
 2. **Larius** – używamy na nim zaklęcia niepamięci, po czym wracamy do Laresa.
