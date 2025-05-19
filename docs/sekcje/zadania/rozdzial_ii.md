@@ -467,7 +467,7 @@ Na płaskowyżu nad Starym Miastem Orków spotkamy Wrzoda, który pilnuje dużeg
 
 ## Ucieczka
 
-Kilka dni po uwolnieniu Gorna Cliff chce uciec, a my musimy znaleźć odpowiednie ku temu miejsce. Udajemy się do leśnego obozu Netbeka, a potem ponownie Cliffa. Przychodzimy w nocy do Cliffa, wraz z ze zbroją myśliwych/z płytek pełzacza oraz dowolną bronią. Po rozmowie będzie on czekał przed taranem, skąd prowadzimy go aż przed drewnianą kładkę przed Klasztorem Zmiennokształtnych. Kiedy doprowadzimy go do obozu Netbeka dostaniemy klucz do skrzyni w domu Ryżowego księcia w G1. Otwieramy tamtejszą skrzynie i dostajemy kolejny klucz do skrzyni w wieży w zamku.
+Kilka dni po uwolnieniu Gorna Cliff chce uciec, a my musimy znaleźć odpowiednie ku temu miejsce. Udajemy się do leśnego obozu Netbeka, a potem ponownie Cliffa. Przychodzimy w nocy do Cliffa, wraz z ze zbroją myśliwych/z płytek pełzacza oraz dowolną bronią. Po rozmowie będzie on czekał przed taranem, skąd prowadzimy go aż przed drewnianą kładkę przed Klasztorem Zmiennokształtnych. Kiedy doprowadzimy go do obozu Netbeka dostaniemy klucz do skrzyni w domu Ryżowego Księcia w G1. Otwieramy tamtejszą skrzynie i dostajemy kolejny klucz do skrzyni w wieży w zamku.
 
 ## Amulet Angara
 
@@ -541,7 +541,7 @@ UWAGA: Za to zadanie dostaniecie miecz potrzebny w zadaniu Broń dla Gonzalesa.
 
 Myśliwy Gestath opowiada o królowej Harpii i prosi o przyniesienie jej serca. Harpia znajduje się w Kamiennej Fortecy na drodze do kamiennego smoka. Zabijamy królową i oddajemy serce Gestathowi.  
 **Uwaga: Po tym zadaniu nauczy on nas za darmo smoczej krwi**
-> Serce dalej można oddać Gestachowi gdy znajduje się on w obozie myśliwych.
+> Serce dalej można oddać Gestathowi gdy znajduje się on w obozie myśliwych.
 
 ## Tajemniczy portal
 __Zleca: Lord Hagen__
