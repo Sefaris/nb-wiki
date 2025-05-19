@@ -57,8 +57,10 @@ Aby otrzymać to zadanie musimy [dostarczyć truciznę Constantino](sekcje/zadan
 > Przed wykonaniem powyższych zadań powinieneś najpierw ukończyć zadanie [Polny drapieżnik](sekcje/zadania/rozdzial_ii.md?id=polny-drapieżnik), które zleca Akil w trakcie [polowania na rzadkie potwory](sekcje/gildie_poboczne/gildia_mysliwych.md?id=polowanie-na-rzadkie-stwory-rozdział-2).
 
 Kilka dni po wykonaniu zadań z trucizną i zwojami zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek rozmawiamy z Zurisem i udajemy się do domu Ignaza. Za płotem znajdujemy pustą butelkę bo truciźnie, pokazujemy ją Constantino i zgadzamy się mu pomóc.
-Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre. Wybór nie ma znaczenia, gdyż nagrody są podobne.
-Dla dodatkowego doświadczenia możemy również porozmawiać z Kardifem, Coragonem i Constantino zaraz po rozpoczęciu zadania u Lorda Andre.
+
+Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre.
+
+Wybór nie ma znaczenia, gdyż nagrody są podobne. Dla dodatkowego doświadczenia możemy również porozmawiać z Kardifem, Coragonem i Constantino zaraz po rozpoczęciu zadania u Lorda Andre.
 
 ## Wygnany farmer
 
