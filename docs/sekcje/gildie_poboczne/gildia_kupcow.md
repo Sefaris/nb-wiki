@@ -26,14 +26,23 @@ Wino zanosimy Lutero.
 
 ## Przysługa dla Jory
 
-Zadanie zleca nam Lutero. Wspomina nam, że ma problemy z Zurisem. Zuris odmawia dzierżawy miejsca, w którym handluje Jora. Idziemy do Zurisa i udajemy, że nie słyszeliśmy o Gildii Kupców i że martwimy się o Jorę. Ten nam mówi o sporze z Lutero, więc do niego idziemy i dowiadujemy się o zaginionym eliksirze. Teraz w Górniczej Dolinie udajemy się do Grimesa (który jest w kopalni Marcosa, na prawo od zejścia z przełęczy). Jeśli mieliśmy wystarczającą ilość retoryki, to dostaniemy od niego klucz, który otwiera skrzynię, którą znajdziemy na poniższym filmie.  
-[https://www.youtube.com/watch?v=I0VAum9-g3o](https://www.youtube.com/watch?v=I0VAum9-g3o)
+Zadanie zleca nam Lutero. Wspomina nam, że ma problemy z Zurisem. Zuris odmawia dzierżawy miejsca, w którym handluje Jora. Idziemy do Zurisa i udajemy, że nie słyszeliśmy o Gildii Kupców i że martwimy się o Jorę. Ten nam mówi o sporze z Lutero, więc do niego idziemy i dowiadujemy się o zaginionym eliksirze. Teraz w Górniczej Dolinie udajemy się do Grimesa (który jest w kopalni Marcosa, na prawo od zejścia z przełęczy). Jeśli mieliśmy wystarczającą ilość retoryki, to dostaniemy od niego klucz, który otwiera skrzynię, którą znajdziemy na poniższym filmie.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I0VAum9-g3o?si=lEHaNop1nCO-cBhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Teraz wracamy do Zurisa i oddajemy mu eliksir:
 
-1. Jeśli przyznamy się do współpracy odblokuje nam się zadanie u Nefariusa na miksturę odporności na zimno, ale nie będziemy mogli kupić Płomienia Eligora. (odporności na ogień nauczy nas Gonzales)
-2. Jeśli nie przyznamy się do współpracy z Lutero, otrzymamy możliwość kupna Płomienia Eligora za 7000 złota, ale nie otrzymamy zadania od Nefariusa. (odporności na zimno nauczy nas Lee)
-> Wybierając kłamstwo uzyskujemy wygodę posiadania mikstury już teraz za cenę 7000 sztuk złota, mówiąc prawdę oszczędzamy pieniądze, lecz będziemy musieli wykonać dodatkowe zadanie.
+<!-- tabs:start -->
+
+####__Przyznanie się do współpracy z Lutero__
+
+Nie będziemy mogli kupić Płomienia Eligora, ale za to odblokuje nam się [zadanie u Nefariusa](sekcje/zadania/rozdzial_ii.md?id=receptura-nefariusa) na miksturę odporności na zimno. Odporności na ogień nauczy nas Gonzales [po oddaniu mu jego miecza](sekcje/zadania/rozdzial_i.md?id=broń-dla-gonzalesa). Wybierając tę opcję oszczędzamy 7000 sztuk złota, lecz będziemy musieli wykonać dodatkowe zadanie.
+
+####__Udawanie, że działaliśmy we własnym imieniu__
+
+Nie przyznając się do współpracy z Lutero, otrzymamy możliwość kupna Płomienia Eligora za 7000 złota, ale nie otrzymamy [zadania u Nefariusa](sekcje/zadania/rozdzial_ii.md?id=receptura-nefariusa), więc odporności na zimno musimy nauczyć się od Lee. Wyjątkiem jest tutaj Mag Wody, który miksturę odporności na zimno znajdzie w końcowym etapie [Pustyni Adanosa](sekcje/watki/pustynia_adanosa.md). Wybierając tę opcję uzyskujemy wygodę posiadania mikstury już teraz za cenę 7000 sztuk złota, więc nie musimy dodatkowo biegać za recepturą dla Nefariusa.
+
+<!-- tabs:end -->
 
 ## Zapasy dla Paladynów
 
