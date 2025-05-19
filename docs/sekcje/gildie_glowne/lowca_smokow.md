@@ -99,7 +99,7 @@ Cipher mówi, że ktoś ukradł mu paczkę bagiennego ziela, podejrzewa Bodo. Ga
 ## Laboratorium Jacko
 __Zleca: Cipher__
 
-Po oddaniu paczki z zielem Cipher prosi nas, abyśmy przynieśli mu kolejną paczkę, tym razem z laboratorium obok Nowego Obozu. Gorzelnia znajduje się w jaskini z bandytami, przy zatopionej chacie, na lewo od wejścia na lodowy biom.
+Po oddaniu paczki z zielem Cipher prosi nas, abyśmy przynieśli mu kolejną paczkę, tym razem z laboratorium obok Nowego Obozu. Gorzelnia znajduje się w jaskini z bandytami, przy zatopionej chacie, na lewo od wejścia na lodowy biom. Zadanie przepada jeżeli weszliśmy do 4 rozdziału, Cipher zostaje wtedy łowcą smoków i nie przyjmie od nas paczki.
 
 ## Strzał w dziesiątkę!
 __Zleca: Wilk__
