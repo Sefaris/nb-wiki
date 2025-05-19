@@ -28,7 +28,7 @@ Xardas każe nam zabić sługę Innosa, może to być dowolny nowicjusz z klaszt
 > Zadanie dostępne tylko po wyborze klasy: "Nekromanta"
 
 Xardas da nam runę zniszczenia ożywieńca (bez wydatku PN), jeśli przyniesiemy mu 5 ektoplazm.
-Ektoplazmę sprzedają Constantino, Salandril i Ramirez, a dwie pozostałe najłatwiej zdobyć z ognistych cieniostworów w bibliotece w Jarkendarze, które pojawią się dopiero w końcowym etapie wątku Jarkendaru. By zdobyć runę szybciej będziemy musieli pokonać widma, które są na tym etapie bardzo silne. Po zebraniu ektoplazm wracamy do Xardasa i otrzymujemy darmową runę.
+Ektoplazmę sprzedają Constantino i Salandril, a trzy pozostałe najłatwiej zdobyć z ognistych cieniostworów w bibliotece w Jarkendarze, które pojawią się dopiero w końcowym etapie wątku Jarkendaru. By zdobyć runę szybciej będziemy musieli pokonać widma, które są na tym etapie bardzo silne. Po zebraniu ektoplazm wracamy do Xardasa i otrzymujemy darmową runę.
 
 ## Zapiski Xardasa
 
