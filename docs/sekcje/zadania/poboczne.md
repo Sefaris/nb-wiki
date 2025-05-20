@@ -2,7 +2,7 @@
 > Poniższe zadania są teoretycznie dostępne od 1 rozdziału, lecz część z nich możliwa do ukończenia staje się dużo później ze względu na poziom trudności i dostęp do określonych lokacji.
 
 ## Kamienie runiczne
-__Zleca: Podejście do kamienia teleportacyjnego kolo wieży Xardasa__
+__Zleca: Podejście do kamienia teleportacyjnego koło wieży Xardasa__
 
 Zadanie te odblokowuje możliwość teleportacji za pomocą runy już od samego początku gry. Po rozpoczęciu zadania należy porozmawiać z Xardasem, aby otrzymać runę teleportacyjną.  
 Do odblokowania nowo odkrytego kamienia teleportacyjnego potrzebna jest każdorazowo `Stara runiczna płytka`. Mając płytkę w ekwipunku wystarczy wcisnąć przycisk w filarze teleportacyjnym.  
@@ -12,8 +12,8 @@ Zadanie kończy się po odblokowaniu pierwszego kamienia i ponownej rozmowie z X
 ## Rytuał magicznej wymiany
 > Zadanie nie pojawia się w dzienniku
 
-Na dachu wieży Xardasa (musimy wejść na szczyt wieży i wyjść przez okno) znajdujemy miejsce rytuału, notkę która opisuje jego cały przebieg oraz wszystkie potrzebne przedmioty.  
-1. Czytamy notkę
+Na dachu wieży Xardasa (musimy wejść na sam szczyt wieży i wyjść przez okno) znajduje się miejsce rytuału, notatka opisująca jego przebieg oraz wszystkie potrzebne przedmioty.  
+1. Czytamy notatkę
 2. Zabieramy Eliksir many i używamy Starożytnego ołtarza
 3. Czekamy do godziny minimum 4:00 i używamy Rytualnej figurki w ekwipunku, żeby się pomodlić
 4. Zabieramy z ołtarza potkę `Rytualna mikstura` (Max mana +2, Max hp +2)
@@ -25,10 +25,10 @@ __Zleca: Notatki z tablicy ogłoszeń w koszarach__
 
 Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Koszarach. Musimy dopaść imiennych bandytów i przynieść ich głowy Andre:
 
-1. **Farhaart** - Aby do niego dotrzeć, należy wyjść przez wschodnią bramę Khorinis i kierować się w lewo(nie idziemy w górę do latarni, tylko cały czas zostajemy na dole). Natrafiamy na jaskinię i kierujemy się w lewą odnogę, aż natrafimy na bandytów.  
-2. **Kurdupel** - Znajduje się on w jaskini z notatką Halvora. Idąc z farmy Akila do Mrocznego Lasu, zbaczamy ze ścieżki i trzymamy się skał po lewej stronie.  
-3. **Brzytwa** - Znajduje się on w jaskini za lasem, w którym polujemy z Bartokiem.  
-4. **Skiron** - Znajduje się on w miejscu bandytów z listem Fernando. Idąc drogą od Martwej Harpii na wykopaliska, skręcamy w dół obok kapliczki i "wracamy dołem" w stronę karczmy.  
+1. **Farhaart** - Aby do niego dotrzeć, należy wyjść przez wschodnią bramę Khorinis i kierować się w lewo (nie idziemy w górę do latarni, tylko cały czas zostajemy na dole). Natrafiamy na jaskinię i kierujemy się w lewą odnogę, aż natrafimy na bandytów.  
+2. **Kurdupel** - Znajduje się w jaskini z notatką Halvora. Idąc z farmy Akila do Mrocznego Lasu, zbaczamy ze ścieżki i trzymamy się skał po lewej stronie.  
+3. **Brzytwa** - Znajduje się w jaskini za lasem, w którym polujemy z Bartokiem.  
+4. **Skiron** - Znajduje się w miejscu bandytów z listem Fernando. Idąc drogą od Martwej Harpii na wykopaliska, skręcamy w dół obok kapliczki i "wracamy dołem" w stronę karczmy.  
 5. **Zręczny** - Zaczynamy od gospody Martwa Harpia, po czym idziemy ścieżką, po której szliśmy z Laresem odnieść ornament, idziemy do momentu, do którego spotkamy pierwszą kapliczkę Innosa, bandyci są na wzgórzu za kapliczką.  
 6. **Dexter i Góra** - Znajdują się oni w obozie Dextera, czyli nieopodal farmy Onara.  
 7. **Hannibal** - Znajduje się on na nowych terenach obok wieży Xardasa. Idąc ścieżką skręcamy w lewo przed jaskinią z bandytami Cavalorna. Stamtąd idziemy cały czas prosto, aż natkniemy się na ścieżkę w górę, gdzie znajdziemy jego obóz.
@@ -40,7 +40,7 @@ __Zleca: Pulpit w piwnicy Klasztoru__
 
 > Można je zrobić nawet w 2 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
 
-Czytając pulpit w piwnicy klasztoru magów ognia w pomieszczeniu z Talomonem, dostaniemy wpis do dziennika. Udajemy się teraz do Pyrokara, a następnie do Xardasa, który każe nam przynieść jego zapiski z piętra wieży. Czytamy dziennik i oddajemy go Xardasowi.
+Czytając pulpit w piwnicy klasztoru Magów Ognia w pomieszczeniu z Talomonem, dostaniemy wpis do dziennika. Udajemy się teraz do Pyrokara, a następnie do Xardasa, który każe nam przynieść jego zapiski z piętra wieży. Czytamy dziennik i oddajemy go Xardasowi.
 
 Kolejnym krokiem jest otwarcie skrzyni w Zatopionej Wieży Xardasa w Górniczej Dolinie. Znajdujemy tam pierwszą część "Kronik Stonnosa", o których była mowa w pamiętniku mrocznego maga. Czytamy i dowiadujemy się, że musimy znaleźć kolejne części. Nie musimy znajdować ani czytać ich w kolejności, liczy się tylko przeczytanie każdej:
 
@@ -50,7 +50,7 @@ Kolejnym krokiem jest otwarcie skrzyni w Zatopionej Wieży Xardasa w Górniczej 
 - Piąty tom ma przy sobie strażnik sfery w orkowej kopalni.
 - Szósty tom zdobędziemy po pokonaniu Azgalora z Doliny Cieni
 
-Po przeczytaniu wszystkich kronik dowiadujemy się, że golem jest nieśmiertelny i jedynie krew bogów może go zabić. Idziemy do Pyrokara i mówimy mu o problemie. Ten wykona nam specjalną runę, którą odbieramy następnego dnia. Runę musimy naładować energią kopca magicznej rudy. Wystarczy tylko jedno takie ładowanie, wybieramy więc jeden z kopców:
+Po przeczytaniu wszystkich kronik dowiadujemy się, że golem jest nieśmiertelny i jedynie krew bogów może go zabić. Idziemy do Pyrokara i mówimy mu o problemie. Ten wykona nam specjalną runę, którą odbieramy następnego dnia. Runę musimy naładować energią kopca magicznej rudy. Wystarczy tylko jedno takie ładowanie, wybieramy, więc jeden z kopców:
 
 - na samym dole w Starej Kopalni
 - w Kopalni Orków, niedaleko Windy
