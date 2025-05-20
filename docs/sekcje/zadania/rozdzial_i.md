@@ -259,6 +259,7 @@ By uzyskać dostęp do górnego miasta należy zostać czeladnikiem u jednego z 
 ####__Bosper__
 
 W New Balance łuczarz oferuje nam najgorsze zarobki spośród wszystkich mistrzów, wynika to w dużej mierze z istnienia konkurencyjnego skupu trofeów w obozie myśliwych niedaleko przejścia na przełęcz. Najwięcej profitów z pracy u Bospera będzie miała oczywiście postać budowana pod walkę łukiem, gdyż będziemy mogli uczyć się produkcji łuków, które w 1 rozdziale będą bardzo dobre.
+
 Łuki tworzymy z [samodzielnie wyciętego drewna](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1294509902#gid=1294509902&range=A1:I35).
 
 Oprócz tego Bosper nauczy nas tworzenia specjalnych strzał do łuku Kerenowego, który zdobędziemy na przestrzeni 2 i 3 rozdziału. Jeżeli chodzi o sprzedaż trofeów myśliwskich to Bosper da nam trochę lepsze ceny na skóry niż myśliwi w obozie.
@@ -273,7 +274,7 @@ Najlepszy biznes u Harada zrobimy jako Najemnik, gdyż kowal chętnie skupi wyku
 
 ####__Constantino__
 
-Constantino jako mistrz jest bardzo uniwersalny, możemy bez wyrzutów sumienia terminować u niego niezależnie od tego jaką postacią gramy, nie musi być to postać magiczna. Stary alchemik oprócz darmowej nauki jednej podstawowej mikstury będzie skupował od nas rośliny, rzadkie mikstury oraz trofea takie jak skrzydła, żuwaczki czy żądła.
+Constantino jako mistrz jest bardzo uniwersalny, możemy bez wyrzutów sumienia terminować u niego niezależnie od tego jaką postacią gramy, nie musi być to postać magiczna. Stary alchemik oprócz darmowej nauki jednej podstawowej mikstury będzie skupował od nas [rośliny](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=553268031#gid=553268031&range=A1:P13), [rzadkie mikstury](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1144435735#gid=1144435735&range=A1:Q3) oraz [trofea](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1317776566#gid=1317776566&range=A85:Z87) takie jak skrzydła, żuwaczki czy żądła.
 
 Jeżeli chodzi o grzyby to powinniśmy oddać mu jedynie 20 ciemnych grzybów, a następnie odpalić dialog "czemu te grzyby są takie ważne" - da nam to bonus 1PN. Ilość złota jaką Constantino potrafi nam wygenerować jest przybliżona do zarobków u Harada, oczywiście o ile nauczyliśmy się zdobywania trofeów i skrupulatnie zabijamy wszystkie mobki.
 
