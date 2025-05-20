@@ -346,12 +346,12 @@ Salandril prosi nas, abyśmy przynieśli mu orkową miksturę. Po tej rozmowie n
 ## Podręcznik retoryki
 __Zleca: Fernando__
 
-Fernando chce zdobyć Podręcznik Retoryki, który jest w posiadaniu Gallahada. Były mag nie chce go jednak oddać. Idziemy do Ignaza i wykonujemy zadanie [Prośba Ignaza](#prośba-ignaza). Gdy Gallahad pójdzie do Ignaza to zabieramy książkę ze stołu, czytamy ją i oddajemy Fernando w zamian za upragniony list.
+Fernando chce zdobyć "Podręcznik Retoryki", który jest w posiadaniu Gallahada, rozmawiamy z magiem, a ten nie chce go nam oddać. Idziemy do Ignaza i wykonujemy zadanie [Prośba Ignaza](#prośba-ignaza). Gdy Gallahad pójdzie do Ignaza to zabieramy książkę ze stołu, czytamy ją i oddajemy Fernando w zamian za upragniony list. Oczywiście książkę można ukraść niezależnie od zadania Ignaza.
 
 ## Prośba Ignaza
 __Zleca: Ignaz__
 
-Ignaz prosi nas o przypomnienie Gallahadowi, że ten miał przynieść mu paczkę ziół.
+Ignaz prosi nas o przypomnienie Gallahadowi, że ten miał przynieść mu paczkę ziół. Zadanie pojawia się dopiero po rozmowie z Galahadem, podczas której odmówił on oddania książki.
 
 ## Tajemnicze spotkanie
 __Zleca: Gerbrandt__
