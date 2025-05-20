@@ -121,8 +121,7 @@ Merdarion zleca nam aktywowanie wszystkich kamieni teleportacyjnych w Jarkendarz
 
 ## Dziwne ruiny
 
-Merdarion opowiada nam o dziwnych ruinach w kanionie i chce, abyśmy je zbadali. Chodzi o teleport na pustynię Adanosa (jak odblokować opisane jest w wątku Pustynia Adanosa).  
-Po użyciu teleportu i dostaniu się na pustynię wracamy do Merdariona.
+Merdarion opowiada nam o dziwnych ruinach w kanionie i chce, abyśmy je zbadali. Chodzi o teleport na [Pustynię Adanosa](sekcje/watki/pustynia_adanosa.md). Do Merdariona wracamy gdy już go aktywujemy i użyjemy.
 
 ## Posiadłości budowniczych
 
