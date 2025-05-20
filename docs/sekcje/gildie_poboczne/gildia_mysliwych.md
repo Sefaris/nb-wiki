@@ -137,8 +137,8 @@ Po zabiciu wszystkich trzech potworów wracamy do Falka.
 
 Po wykonaniu zadania z polowania na rzadkie potwory Falk daje nam nowe zadanie, mamy zabić trzech kolejnych unikatowych wrogów:
 
-- Drake na kamiennej plaży, którą znajdziemy płynąc wpław przy wybrzeżu w stronę Skipa  
-- Pełzacza w jaskini przy schodach pod Słonecznym Kręgiem  
+- Kolcogrzbiet na kamiennej plaży, którą znajdziemy płynąc wpław przy wybrzeżu w stronę Skipa  
+- Pełzacz w jaskini przy schodach pod Słonecznym Kręgiem  
 - Ogr w jaskini obok farmy Onara, tam gdzie goblin w zadaniu dla Pepe
 
 Po zabiciu wszystkich potworów wracamy do Falka.
