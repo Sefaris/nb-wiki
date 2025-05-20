@@ -18,7 +18,7 @@ Zabijamy bandytów znajdujących się przed wyjściem z doliny i wracamy do Fryd
 ## Krwawy diament
 __Zleca: Notatka znaleziona w zamku__
 
-W zamku znajdujemy notatkę na temat rzadkiego kamienia, który nosi nazwę `Krwawy diament`. Rozmawiamy z Remusem na ten temat, po czym idziemy do Lutero, on natomiast mówi nam, że kamień został wysłany jako zapłata za transport rudy. W zamku w Górniczej Dolinie, w pokoju Gomeza, znajdujemy notatkę, w której jest wspomiane, że kamień został wysłany do obozu bractwa w zamian za bagienne ziele. Diament znajduje się w pomieszczeniu zamkniętym przez przełączniki, przedmiot należy podnieść własnoręcznie po czym wracamy do Remusa i kończymy zadanie.
+W zamku znajdujemy notatkę na temat rzadkiego kamienia, który nosi nazwę `Krwawy diament`. Rozmawiamy z Remusem na ten temat, po czym idziemy do Lutero, on natomiast mówi nam, że kamień został wysłany jako zapłata za transport rudy. W zamku w Górniczej Dolinie, w pokoju Gomeza, znajdujemy notatkę, w której jest wspomniane, że kamień został wysłany do obozu bractwa w zamian za bagienne ziele. Diament znajduje się w pomieszczeniu zamkniętym przez przełączniki, przedmiot należy podnieść własnoręcznie po czym wracamy do Remusa i kończymy zadanie.
 
 ## Mikstura wybawienia
 __Zleca: Remus__
@@ -27,7 +27,7 @@ Remus mówi nam o klątwię słońca ciążącej na potępionych. Wspomina nam t
 - Słoneczny Aloes - znajduje się obok czarnych trolli 
 - Esencja arcydemona - należy zabić jakiegoś arcydemona, w grze znajduje się ich kilka
 - Kwiat kaktusa - można znaleźć na Pustyni Adanosa, jeden znajduje się w oazie z bossem `Kajma`, a drugi przy małym wodospadzie przy ścianie mapy
-- Trzy sztuki czarnej rudy - czarnej rudy jest sporo w świecie gry,prędzej czy później podczas eksploracji się znajdzie
+- Trzy sztuki czarnej rudy - czarnej rudy jest sporo w świecie gry, prędzej czy później podczas eksploracji się znajdzie
 - Krew opętanego maga - item pojawia się w 2 magach: 
   - Itu'Seld z zadania Mroczna sieć
   - Mag z obozu bractwa na bagnie
@@ -40,7 +40,7 @@ Aby ukończyć to zadanie trzeba ukończyć zadania zlecone nam przez Remusa lub
 ## Morderstwo w mieście (3R)
 __Zleca: Lares__
 
-Lares wspomina nam o ciele, które zostało znalezione niedaleko wschodniej bramy miasta. Ciało było kompletnie pozbawione krwi, przez co podejrzewamy, że pojawił się nowy potępiony. Kierujemy się do wschodniej bramy i spotykamy handlarza Johna który wspomina nam, że kilka dni temu widział nieznajomego w kapturze niedaleko miasta. Idziemy do Remusa i konfrontujemy go z tym co wiemy, jednak Remus temu zaprzecza. Wracamy z powrotem do Johna i mówi nam że widział kogoś pasującego do opisu zmierzającego do Martwej Harpii. Po przybyciu do karczmy zagaduje nas Orlan i wręcza nam notatkę, czytamy i obok karczmy spotykamy potępionego imieniem Fergus. Tłumaczy nam on, że miał silne pragnienie i nie chciał, aby tak wyszło. Przy okazji chce on, żeby Remus pomógł mu osiedlić się w Khorinis. Informujemy Remusa, że znaleźliśmy mordercę, i kończymy zadanie.
+Lares wspomina nam o ciele, które zostało znalezione niedaleko wschodniej bramy miasta. Ciało było kompletnie pozbawione krwi, przez co podejrzewamy, że pojawił się nowy potępiony. Kierujemy się do wschodniej bramy i spotykamy handlarza Johna który wspomina nam, że kilka dni temu widział nieznajomego w kapturze niedaleko miasta. Idziemy do Remusa i konfrontujemy go z tym co wiemy, jednak Remus temu zaprzecza. Wracamy z powrotem do Johna i mówi nam, że widział kogoś pasującego do opisu zmierzającego do Martwej Harpii. Po przybyciu do karczmy zagaduje nas Orlan i wręcza nam notatkę, czytamy i obok karczmy spotykamy potępionego imieniem Fergus. Tłumaczy nam on, że miał silne pragnienie i nie chciał, aby tak wyszło. Przy okazji chce on, żeby Remus pomógł mu osiedlić się w Khorinis. Informujemy Remusa, że znaleźliśmy mordercę, i kończymy zadanie.
 
 ## Pierwsza krew
 __Zleca: Remus__
@@ -50,7 +50,7 @@ Remus zleca nam zdobycie 10 fiolek z ludzką krwią, za pomocą runy, którą od
 ## Porządki w krypcie (2R)
 __Zleca: Remus__
 
-Remus mówi nam, że w krypcie niedaleko jego zamku zamieszkują nieumarli, którzy strzegą magii szkodliwej dla potępionych. Idziemy do krypty, otwieramy ją i zabijamy szkielety i zombie, które się znajdują w krypcie. Na koniec wracamy do Remusa.
+Remus mówi nam, że kryptę niedaleko jego zamku zamieszkują nieumarli, którzy strzegą magii szkodliwej dla potępionych. Idziemy do niej, otwieramy ją i zabijamy szkielety i zombie, które się tam znajdują. Na koniec wracamy do Remusa.
 
 ## Szturm na zamek (3R)
 __Zleca: Angel__
