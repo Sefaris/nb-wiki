@@ -3,7 +3,7 @@
 ## Jak się dostać na pustynię Adanosa.
 
 W trakcie walki z Krukiem w Jarkendarze, ten znika, a my idziemy do pomieszczenia z teleportem, jednak przed teleportacją zabieramy wszystkie przedmioty leżące obok: kryształ, płytkę i runę przyzwania kamiennego strażnika. Czytamy tabliczkę, idziemy z nią do Saturasa i gadamy z nim o Kruku, a potem o krysztale, możemy przy okazji pogadać z Nefariusem o runie. Kryształ uaktywnia teleport w ruinach na placu z magami wody, używamy go na piedestale i przechodzimy przez teleport. Tam napotkamy kamienną pumę, którą zabijamy i aktywujemy kolejny teleport, tym razem do osobnej lokacji.
-> Niedaleko kamiennej pumy rośnie również kwiatek potrzebny do zadania Loi.
+> Niedaleko kamiennej pumy rośnie również kwiatek potrzebny do zadania [Loi](sekcje/zadania/rozdzial_i?id=nieziemskie-sny).
 
 Dostajemy się do oazy złotego smoka Ashtara, rozmawiamy z nim, a ten twierdzi, że tabliczka musi zostać naładowana mocą runy, którą znaleźliśmy po walce z Krukiem. Udajemy się zatem do biblioteki w kanionie i przekierowujemy moc runy na tabliczkę, poniżej screen miejsca, w którym możemy to zrobić.
 
