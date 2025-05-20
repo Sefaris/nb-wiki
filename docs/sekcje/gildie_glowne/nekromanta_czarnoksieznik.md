@@ -16,7 +16,7 @@ Xardas prosi o przyniesienie posążka Beliara, możemy takowy znaleźć:
 - W ciele Rigeliona z zadania [Horror na cmentarzu](sekcje/zadania/rozdzial_i?id=horror-na-cmentarzu)
 - W paczce Rigeliona. By otworzyć ją już w 1 rozdziale musimy iść do Mrocznego Mentora i odmówić mu oddania paczki, a następnie przeżyć.
 - Na skałach między Martwą Harpią, a mostem bandytów. Dostajemy się tam idąc po górach od wieży Xardasa
-- W zamkniętej skrzyni na wieży obok Nicklasa i rannego orka
+- W zamkniętej skrzyni na wieży obok Niclasa i rannego orka
 - Nad legowiskiem czarnego trolla, trzeba przejść bokiem po górach
 - Na plaży przy wraku pod starą latarnią, niedaleko wieży Amon-Shen i jaskini z bandytami
 
@@ -24,7 +24,7 @@ Xardas prosi o przyniesienie posążka Beliara, możemy takowy znaleźć:
 
 ## Droga Ciemności
 
-Xardas każe nam zabić sługę Innosa, może to być dowolny nowicjusz z klasztoru, lecz najlepszym celem będzie pasterz owiec Opolos. O godzinie 17 wychodzi on z klasztoru zapalić ziele, więc mamy idealną okazję, aby go zabić. Po wszystkim wracamy do Xardasa
+Xardas każe nam zabić sługę Innosa, może to być dowolny nowicjusz z klasztoru, lecz najlepszym celem będzie pasterz owiec Opolos. O godzinie 17 wychodzi on z klasztoru zapalić ziele, więc mamy idealną okazję, aby go zabić. Po wszystkim wracamy do Xardasa.
 
 ## Runa Xardasa (2 rozdział)
 
@@ -35,7 +35,7 @@ Ektoplazmę sprzedają Constantino i Salandril, a trzy pozostałe najłatwiej zd
 
 ## Zapiski Xardasa
 
-Xardas mówi nam, abyśmy odzyskali jego stare rękopisy. Znajdują się w Klasztorze Magów Ognia. Dostaniemy się tam podczas wątku gildii kupców lub po górach przez dach co pozwoli na rozpoczęcie zadania Zarzut Parlana.  
+Xardas mówi nam, abyśmy odzyskali jego stare rękopisy. Znajdują się w Klasztorze Magów Ognia. Dostaniemy się tam podczas wątku gildii kupców lub po górach przez dach co pozwoli na rozpoczęcie zadania [Zarzuty Parlana](sekcje/zadania/rozdzial_i?id=zarzuty-parlana).  
 Kiedy już będziemy w klasztorze szukamy 2 części rękopisów Xardasa:
 - pierwsze znajdują się w dawnym pokoju Xardasa (To ten zamknięty pokój przy którym sprząta Babo), klucz daje nam Xardas.
 - drugie rękopisy znajdują się w klasztornej bibliotece. Dostać się tam możemy poprzez kradzież klucza od Parlana albo czekać do 3 rozdziału, aż sami dostaniemy ten klucz.
@@ -44,9 +44,9 @@ Wracamy do Xardasa, a ten mówi, że druga część rękopisów jest fałszywa, 
 
 ## Droga do nikąd
 
-Xardas zleca byśmy przynieśli mu pewną księgę która jest w posiadaniu Gallahada. Idziemy do Gallahada i pytamy o księgę, ale mag chce w zamian coś cennego. Możemy mu dać szczaw królewski lub dowolny eliksir stały, lecz najlepszym wyborem będzie zwój odwołania, który możemy dostać od Xardasa podczas wykonywania zadania "Dziwne stworzenie". Książkę czytamy, oddajemy Galahadowi za manę/HP, odkupujemy i oddajemy Xardasowi.
+Xardas zleca byśmy przynieśli mu pewną księgę, która jest w posiadaniu Gallahada. Idziemy do Gallahada i pytamy o księgę, ale mag chce w zamian coś cennego. Możemy mu dać szczaw królewski lub dowolny eliksir stały, lecz najlepszym wyborem będzie zwój wygnania, który możemy dostać od Xardasa podczas wykonywania zadania [Dziwne stworzenie](sekcje/zadania/rozdzial_ii?id=dziwne-stworzenie). Książkę czytamy, oddajemy Galahadowi za manę/HP, odkupujemy i oddajemy Xardasowi.
 
-## Necromonicon
+## Necronomicon
 
 > Misję również można zrobić po prostu zdobywając Święty Płomień i odnosząc księgę Xardasowi, lecz będzie się to wiązało ze stratą 1PN i doświadczenia
 
@@ -55,7 +55,7 @@ Xardas prosi nas, abyśmy przynieśli mu starożytną księgę - Necronomicon. W
 Musimy udać się aż do Górniczej Doliny i przedostać się za palisadę orków. Dostajemy się do Wieży Mgieł przez kopalnię od dołu i rozmawiamy z nekromantą Kreolem. Po krótkiej rozmowie Kreol daje nam klucz, z którym udajemy się do wieży Nergala za farmą Onara (Tam, gdzie 2 trolle i Grom), zabijamy nieumarłych i czytamy pulpit na środku. Pojawia się boss zombie, który dzięki naszej pomocy ląduje w krainie Beliara. Zabieramy z jego ciała prochy i wracamy do Xardasa, a ten opowiada nam o pewnym rytuale.
 > Klucz dostępny dla każdej gildii znajduje się również w skrzyni w ukrytym pomieszczeniu obok Kreola
 
-Czekamy kilka dni i gdy wszystko będzie gotowe, idziemy się przespać, a następnie stajemy na jednym z rogów pentagramu. Odpala się rytuał podczas którego Xardas rozmawia z Nergalem. Po wszystkim Xardas mówi nam gdzie jest Necronomicon. Lepszą opcją jednak jest wyjść z pentagramu wbrew poleceniom Xardasa co przerwie rytuał czego skutkiem będzie walka z bossem, które pokonanie daje dodatkowe PN’y. 
+Czekamy kilka dni i gdy wszystko będzie gotowe, idziemy się przespać, a następnie stajemy na jednym z rogów pentagramu. Odpala się rytuał podczas którego Xardas rozmawia z Nergalem. Po wszystkim Xardas mówi nam gdzie jest Necronomicon. Lepszą opcją jednak jest wyjść z pentagramu wbrew poleceniom Xardasa co przerwie rytuał czego skutkiem będzie walka z bossem, którego pokonanie daje dodatkowe PN’y. 
 
 Udajemy się w stronę plaży Skipa i płyniemy dalej, aż odnajdziemy wieżę na kamiennej plaży. Wchodzimy do środka, za pomocą zaklęcia Święty Płomień (które znajdziemy w jaskini w kotlinie obok wschodniej bramy) zabijamy Mrocznego Golema i przechodzimy przez otwarte kraty. Lądujemy na szczycie wieży, gdzie jest księga, którą może przeczytać jedynie każda mroczna gildia. Wracamy do Xardasa i oddajemy księgę.
 > Zwój Święty Płomień możemy kupić u Sengratha lub znaleźć w jaskini w kotlince idąc prosto ze wschodniej bramy Khorinis. Można go też ukraść Ingmarowi
