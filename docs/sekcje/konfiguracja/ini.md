@@ -49,7 +49,7 @@ Wartości trzeba zmienić w gothic.ini w sekcji `[WISP_SETTINGS]`.
 | visAlphaStart  | 0                | 0-255                  | Minimalna wartość przezroczystości (opacity)                             |
 | visAlphaEnd    | 230              | 0-255                  | Maksymalna wartość przezroczystości (opacity)                            |
 | visalphafunc_s | ADD              | ADD lub BLEND          | Rodzaj wymieszania kolorów                                               |
-| visname_s      | BLUEGLOW.TGA     | Nazwa tekstury światła | Zmienia teksture światła                                                 |
+| visname_s      | BLUEGLOW.TGA     | Nazwa tekstury światła | Zmienia teksturę światła                                                 |
 
 ## Presety ognika
 
@@ -195,7 +195,7 @@ visname_s=BADWEATH.TGA
 
 ## Włączenie questów
 
-Włączenie zadania z Zębaczem u Xardasa (działa od nowej gry):
+Włączenie zadania z zębaczem u Xardasa (działa od nowej gry):
 
 - Nazwa - **bSnapperQuestStart**
 - Wartość - 1
@@ -207,25 +207,39 @@ Włączenie zadań, które zostały usunięte w patchu z areną (działa od nowe
 
 Lista zadań:
 
+<<<<<<< HEAD
 - Błąd lorda Andre
 - Nóż Hildy
 - Facet bez dziury chodzi ponury
 - Loa wspomnienia
 - Problematyczny strażnik
+=======
+- Błąd Lorda Andre
+- Nóż Hildy
+- Facet bez dziury chodzi ponury
+- Zapomniane wspomnienia Loi
+- Kłopotliwy strażnik
+>>>>>>> 09a9f8e (Poprawiony opis wyłączonych zadań)
 - Nekromanta w Khorinis
 - Przebaczenie dla zdrajcy
 - Obawy Pepe
 - Poszukiwania nowicjusza
 - Szybki sposób na zarobek
 - Zbrodnia i kara
+<<<<<<< HEAD
 - Zadanie ze Świstakiem
 - Kłopoty Parcivala
 - Zadanie z Miltenem (od Brutusa)
+=======
+- Cień w potrzebie
+- Kłopoty Parcivala
+- Magiczne zbawienie
+>>>>>>> 09a9f8e (Poprawiony opis wyłączonych zadań)
 - Przeklęte dusze
 - Orkowie nad jaskinią
-- Statek dla Silvio
-- Dług Silvio
-- Zemsta Starożytnych
+- Statek dla Sylvio
+- Dług Sylvio
+- Zemsta Pradawnych
 
 ## Inne
 
