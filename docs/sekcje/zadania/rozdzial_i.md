@@ -258,7 +258,8 @@ By uzyskać dostęp do górnego miasta należy zostać czeladnikiem u jednego z 
 
 ####__Bosper__
 
-W New Balance łuczarz oferuje nam najgorsze zarobki spośród wszystkich mistrzów, wynika to w dużej mierze z istnienia konkurencyjnego skupu trofeów w obozie myśliwych niedaleko przejścia na przełęcz. Najwięcej profitów z pracy u Bospera będzie miała oczywiście postać budowana pod walkę łukiem, gdyż będziemy mogli uczyć się produkcji łuków, które w 1 rozdziale będą bardzo dobre. Łuki tworzymy z [samodzielnie wyciętego drewna](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1294509902#gid=1294509902&range=A1:I35).
+W New Balance łuczarz oferuje nam najgorsze zarobki spośród wszystkich mistrzów, wynika to w dużej mierze z istnienia konkurencyjnego skupu trofeów w obozie myśliwych niedaleko przejścia na przełęcz. Najwięcej profitów z pracy u Bospera będzie miała oczywiście postać budowana pod walkę łukiem, gdyż będziemy mogli uczyć się produkcji łuków, które w 1 rozdziale będą bardzo dobre.
+Łuki tworzymy z [samodzielnie wyciętego drewna](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1294509902#gid=1294509902&range=A1:I35).
 
 Oprócz tego Bosper nauczy nas tworzenia specjalnych strzał do łuku Kerenowego, który zdobędziemy na przestrzeni 2 i 3 rozdziału. Jeżeli chodzi o sprzedaż trofeów myśliwskich to Bosper da nam trochę lepsze ceny na skóry niż myśliwi w obozie.
 
@@ -266,7 +267,9 @@ Oprócz tego Bosper nauczy nas tworzenia specjalnych strzał do łuku Kerenowego
 
 Jako czeladnik Harada będziemy kuć, kuć i jeszcze raz kuć. Jeżeli chcemy terminować u Harada to nie warto uczyć się kowalstwa wcześniej, gdyż nauka u niego jest tańsza. Z mistrza kowalstwa najbardziej skorzysta postać budowana pod siłę, gdyż Harad nauczy nas kucia pięciu mieczy jednoręcznych i pięciu dwuręcznych wyłącznie pod ten atrybut, oferując nam świetny oręż na cały rozdział 1. 
 
-Kolejną opcją dochodu jest sprzedawanie Haradowi znajdowanych przez nas broni, nie są to oczywiście wszystkie istniejące miecze, lecz jest ich całkiem sporo. Zanim zaczniemy sprzedawać znalezione miecze u kupca, zawsze powinniśmy najpierw zajrzeć czy Harad nie da nam lepszej ceny. Najlepszy biznes u Harada zrobimy jako Najemnik, gdyż kowal chętnie skupi wykute przez nas miecze z magicznej rudy, których tworzenia nauczy nas Bennet, jest to najlepszy zarobkowy sposób wykorzystania magicznej rudy jaki obecnie oferuje nam gra. Jako uczeń kowala powinniśmy skupić się na znalezieniu wszystkich brył żelaza i rudy jakie gra nam oferuje.
+Kolejną opcją dochodu jest sprzedawanie Haradowi znajdowanych przez nas broni, nie są to oczywiście wszystkie istniejące miecze, lecz jest ich całkiem sporo. Zanim zaczniemy sprzedawać znalezione miecze u kupca, zawsze powinniśmy najpierw zajrzeć czy Harad nie da nam lepszej ceny.
+
+Najlepszy biznes u Harada zrobimy jako Najemnik, gdyż kowal chętnie skupi wykute przez nas miecze z magicznej rudy, których tworzenia nauczy nas Bennet, jest to najlepszy zarobkowy sposób wykorzystania magicznej rudy jaki obecnie oferuje nam gra. Jako uczeń kowala powinniśmy skupić się na eksploatowaniu [wszystkich brył żelaza i rudy](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1835251166#gid=1835251166&range=A1:F2) jakie gra nam oferuje.
 
 ####__Constantino__
 
