@@ -26,12 +26,12 @@ __Zleca: Notatki z tablicy ogłoszeń w koszarach__
 Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Koszarach. Musimy dopaść imiennych bandytów i przynieść ich głowy Andre:
 
 1. **Farhaart** - Aby do niego dotrzeć, należy wyjść przez wschodnią bramę Khorinis i kierować się w lewo (nie idziemy w górę do latarni, tylko cały czas zostajemy na dole). Natrafiamy na jaskinię i kierujemy się w lewą odnogę, aż natrafimy na bandytów.  
-2. **Kurdupel** - Znajduje się w jaskini z notatką Halvora. Idąc z farmy Akila do Mrocznego Lasu, zbaczamy ze ścieżki i trzymamy się skał po lewej stronie.  
+2. **Kurdupel** - W jaskini z notatką Halvora. Idąc z farmy Akila do Mrocznego Lasu, zbaczamy ze ścieżki i trzymamy się skał po lewej stronie.  
 3. **Brzytwa** - Znajduje się w jaskini za lasem, w którym polujemy z Bartokiem.  
-4. **Skiron** - Znajduje się w miejscu bandytów z listem Fernando. Idąc drogą od Martwej Harpii na wykopaliska, skręcamy w dół obok kapliczki i "wracamy dołem" w stronę karczmy.  
+4. **Skiron** - Obóz bandytów z listem Fernando. Idąc drogą z Martwej Harpii na wykopaliska, skręcamy w prawo zaraz za spaloną chatką. 
 5. **Zręczny** - Zaczynamy od gospody Martwa Harpia, po czym idziemy ścieżką, po której szliśmy z Laresem odnieść ornament, idziemy do momentu, do którego spotkamy pierwszą kapliczkę Innosa, bandyci są na wzgórzu za kapliczką.  
-6. **Dexter i Góra** - Znajdują się oni w obozie Dextera, czyli nieopodal farmy Onara.  
-7. **Hannibal** - Znajduje się on na nowych terenach obok wieży Xardasa. Idąc ścieżką skręcamy w lewo przed jaskinią z bandytami Cavalorna. Stamtąd idziemy cały czas prosto, aż natkniemy się na ścieżkę w górę, gdzie znajdziemy jego obóz.
+6. **Dexter i Góra** - Znajdują się w obozie Dextera, czyli nieopodal farmy Onara.  
+7. **Hannibal** - Na nowych terenach obok wieży Xardasa. Idąc ścieżką skręcamy w lewo przed jaskinią z bandytami Cavalorna. Stamtąd idziemy cały czas prosto, aż natkniemy się na ścieżkę w górę, gdzie znajdziemy jego obóz.
 
 ## Ekspedycja Magów Ognia
 __Zleca: Pulpit w piwnicy Klasztoru__
