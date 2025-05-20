@@ -4,6 +4,11 @@
 > Żeby dołączyć do gildii, należy porozmawiać z Remusem w `Martwej Harpii` (zadanie [Nieznajomy z Tawerny](#nieznajomy-z-tawerny)).  
 > Zalecane jest dokończenie lub niezaczynanie zadań ograniczonych czasowo, ponieważ po rozmowie z Remusem mija czas w grze i niektóre zadania triggerują swój warunek czasowy.
 
+## Nieznajomy z tawerny
+__Zleca: Remus__
+
+Spotykamy w tawernie Orlana nieznajomego o imieniu Remus, rozmawiamy z nim i godzimy się napić z nim wina. Światła gasną i budzimy się w jaskini za karczmą, czytamy leżącą obok nas notatkę i kierujemy się do zamku Remusa. Wejscie do wampirzej lokacji ukryte jest za wodospadem obok przejścia na przełęcz. Zadanie kończy się gdy porozmawiamy z Remusem.
+
 ## Bandyci w dolinie (2R)
 __Zleca: Fryderyk__
 
@@ -36,11 +41,6 @@ Aby ukończyć to zadanie trzeba ukończyć zadania zlecone nam przez Remusa lub
 __Zleca: Lares__
 
 Lares wspomina nam o ciele, które zostało znalezione niedaleko wschodniej bramy miasta. Ciało było kompletnie pozbawione krwi, przez co podejrzewamy, że pojawił się nowy potępiony. Kierujemy się do wschodniej bramy i spotykamy handlarza Johna który wspomina nam, że kilka dni temu widział nieznajomego w kapturze niedaleko miasta. Idziemy do Remusa i konfrontujemy go z tym co wiemy, jednak Remus temu zaprzecza. Wracamy z powrotem do Johna i mówi nam że widział kogoś pasującego do opisu zmierzającego do Martwej Harpii. Po przybyciu do karczmy zagaduje nas Orlan i wręcza nam notatkę, czytamy i obok karczmy spotykamy potępionego imieniem Fergus. Tłumaczy nam on, że miał silne pragnienie i nie chciał, aby tak wyszło. Przy okazji chce on, żeby Remus pomógł mu osiedlić się w Khorinis. Informujemy Remusa, że znaleźliśmy mordercę, i kończymy zadanie.
-
-## Nieznajomy z tawerny
-__Zleca: Remus__
-
-Spotykamy w tawernie nieznajomego o imieniu Remus i rozmawiamy z nim. Daje on nam łyk wina, po czym budzimy się w schowku za karczmą Orlana. Czytamy notatkę z ziemi i kierujemy się do zamku Remusa. Po rozmowie z nim kończymy zadanie.
 
 ## Pierwsza krew
 __Zleca: Remus__
