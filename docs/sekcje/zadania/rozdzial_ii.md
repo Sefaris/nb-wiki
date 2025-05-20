@@ -70,10 +70,7 @@ Vatras mówi nam, że jeden z członków Wodnego Kręgu został napadnięty i ok
 
 > Zadanie dostępne po wykonaniu zadania [List do Lee](#list-do-lee)
 
-Lee daje nam klucz i każe odzyskać wpisy Magów Wody ze skrzyni w Nowym Obozie. Znajduje się ona na prawo od lodowego smoka. Zabieramy wpisy, zanosimy je do Lee, po czym ten każe nam je zanieść do Saturasa.
-> Możemy je zanieść od razu do Saturasa.
-
-
+Oferujemy Lee naszą pomoc w odzyskaniu zapisków. Dostajemy klucz, którym otworzymy skrzynię w jaskini na prawo od Lodowego Smoka. Zabieramy zapiski i odnosimy do Lee lub od razu do Saturasa.
 
 ## Niebezpieczny eksperyment
 
