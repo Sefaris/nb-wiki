@@ -266,7 +266,7 @@ Oprócz tego Bosper nauczy nas tworzenia specjalnych strzał do łuku Kerenowego
 
 ####__Harad__
 
-Jako czeladnik Harada będziemy kuć, kuć i jeszcze raz kuć. Jeżeli chcemy terminować u Harada to nie warto uczyć się kowalstwa wcześniej, gdyż nauka u niego jest tańsza. Z mistrza kowalstwa najbardziej skorzysta postać budowana pod siłę, gdyż Harad nauczy nas kucia pięciu mieczy jednoręcznych i pięciu dwuręcznych wyłącznie pod ten atrybut, oferując nam świetny oręż na cały rozdział 1. 
+Jako czeladnik Harada będziemy kuć, kuć i jeszcze raz kuć. Jeżeli chcemy terminować u Harada to nie warto uczyć się kowalstwa wcześniej, gdyż nauka u niego jest tańsza. Z mistrza kowalstwa najbardziej skorzysta postać budowana pod siłę, ponieważ Harad nauczy nas kucia pięciu mieczy jednoręcznych i pięciu dwuręcznych wyłącznie pod ten atrybut, oferując nam świetny oręż na cały rozdział 1. 
 
 Kolejną opcją dochodu jest sprzedawanie Haradowi znajdowanych przez nas broni, nie są to oczywiście wszystkie istniejące miecze, lecz jest ich całkiem sporo. Zanim zaczniemy sprzedawać znalezione miecze u kupca, zawsze powinniśmy najpierw zajrzeć czy Harad nie da nam lepszej ceny.
 
