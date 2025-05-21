@@ -83,7 +83,7 @@ Po zabiciu Kruka gadamy z Saturasem i Złotym smokiem. Szpon Beliara zachowujemy
 
 ## Zaginiony totem goblinów
 
-Uwaga: Do tego zadania potrzebne będzie goblińskie Ulu-mulu, możemy dostać je od [gadającego goblina](https://nb.mody.sefaris.eu/#/sekcje/zadania/rozdzial_ii?id=dziwne-stworzenie) w Górniczej Dolinie.
+Uwaga: Do tego zadania potrzebne będzie goblińskie Ulu-mulu, możemy dostać je od [gadającego goblina](sekcje/zadania/rozdzial_ii?id=dziwne-stworzenie) w Górniczej Dolinie.
 
 Mając założony gobliński kijek udajemy się do obozu goblinów na pustyni i gadamy z ich wodzem:
 
