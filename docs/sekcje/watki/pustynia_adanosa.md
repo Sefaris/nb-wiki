@@ -56,7 +56,14 @@ Netbeka znajdziemy w Górniczej Dolinie, w Klasztorze Zmiennokształtnych, gdzie
 
 ####__Pomoc Xardasa__
 
-Pytamy się Saturasa czy może nam pomóc, a ten odsyła nas do Xardasa, twierdząc, że nekromanta zajmował się kiedyś magią druidów. Xardas zgadza się uwarzyć dla nas miksturę, jednak będzie potrzebował do tego rzadkich roślin, a w tym szczaw królewski. Lepiej skorzystać z pomocy Netbeka.
+Pytamy się Saturasa czy może nam pomóc, a ten odsyła nas do Xardasa, twierdząc, że nekromanta zajmował się kiedyś magią druidów. Xardas zgadza się stworzyć dla nas korzeń życia, jednak będzie potrzebował do tego rzadkich roślin:
+- kwiat kaktusa
+- ognisty korzeń
+- 3x roślina lecznicza
+- szczaw królewski
+- trollest (wyspawni się u Zurisa)
+
+Lepiej skorzystać z pomocy Netbeka by nie wydawać cennego szczawiu królewskiego
 
 <!-- tabs:end -->
 
