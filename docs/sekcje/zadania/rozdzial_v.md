@@ -10,11 +10,11 @@ Idziemy do Pyrokara, a ten daje nam klucze do trzech grobowców paladynów:
 - Mirrat w jaskini pomiędzy Grimbaldem, a słonecznym kregiem
 - Inubis na cmentarzu za farmą Onara
 
-Po zabiciu Panów cienia idziemy do Pyrokara. Okazuje się, że plaga się nie skończyła, idziemy do Hagena, który opowiada nam o upadłym paladynie Ginnoku. Jego Grobowiec znajduje w jaskini w kotlince idąc prosto ze wschodniej bramy Khorinis. Idziemy tam, zabijamy nieumarłych i szalonego krzyżowca Ginnoka, po czym wracamy do Hagena, a zadanie dobiega końca.
+Po zabiciu Panów cienia idziemy do Pyrokara. Okazuje się, że plaga się nie skończyła, idziemy do Hagena, który opowiada nam o upadłym paladynie Ginnoku. Jego grobowiec znajduje w jaskini w kotlince idąc prosto ze wschodniej bramy Khorinis. Idziemy tam, zabijamy nieumarłych i szalonego krzyżowca Ginnoka, po czym wracamy do Hagena, a zadanie dobiega końca.
 
 ## Sekob tęskni za żoną
 
-Sekob mówi, że gdzieś przepadła jego żona. Prosi by ją odnaleźć i sprowadzić z powrotem na farmę. Rosi znajduje się z Tilem na drodze z tawerny Orlana do jaskini Sagitty.  
+Sekob mówi, że gdzieś przepadła jego żona. Prosi by ją odnaleźć i sprowadzić z powrotem na farmę. Rosi znajduje się z Tillem na drodze z tawerny Orlana do jaskini Sagitty.  
 W rozmowie zdradzi nam, że nie mogła wytrzymać z mężem i uciekła. Poprosi cię o odprowadzenie w bezpieczne miejsce. Po odprowadzeniu jej rozmawiamy z Sekobem.
 
 ## Ucieczka Rosi

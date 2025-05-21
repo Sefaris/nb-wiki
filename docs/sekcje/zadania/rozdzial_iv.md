@@ -77,7 +77,7 @@ Feros mówi nam, że zgubił swój miecz. Znajduje się on na klifie obok szaman
 Paladyn Udar mówi nam, że Sengrath udał się poza zamek.  
 Natrafimy na jego ciało idąc wzdłuż palisady. Z kuszą i wieściami wracamy do Udara.
 
-## Hosh-pak
+## Hosh-Pak
 
 Orik zleca nam zabicie szamana orków Hosh-Paka. Znajduje się on na klifie obok jaskini z kamiennymi stopniami.
 
@@ -117,9 +117,9 @@ Po zabiciu każdego ze smoków wracamy do Garonda i ładujemy Oko Innosa przy st
 ## Dwa lodowe golemy dla Sylvia
 
 Sylvio siedzi w obozie przy wejściu na lodowy biom. Prosi on nas o zabicie dwóch lodowych golemów, które zabiły jego ludzi. Po wszystkim wracamy do Sylvia.
-> Po pokonaniu lodowego smoka Sylvio i Bulko rzucą się na nas.
+> Po pokonaniu lodowego smoka Sylvio i Bullko rzucą się na nas.
 
 ## Muszę się stąd wydostać!
 
 Talbin mówi nam, że gdzieś zniknął jego przyjaciel Engrom, jego ciało znajduje się obok chaty Cavalorna gdzie stoi Marcos. Mówimy Talbinowi o Engromie po czym ten ucieka na przełęcz. Najlepiej odrazu przeteleportować się na przełęcz, żeby Talbina przeniosło, w innym wypadku może zginąć. Gadamy z nim na przełęczy Górniczej Doliny, a następnie możemy go wziąć do swojego obozu, jak już będzie w Khorinis.
-> Engrom żyje i jest opętany jeżeli gramy magiem ognia.
+> Engrom żyje i jest opętany jeżeli gramy Magiem Ognia.
