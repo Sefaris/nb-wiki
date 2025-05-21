@@ -14,16 +14,16 @@ Po zabiciu Panów cienia idziemy do Pyrokara. Okazuje się, że plaga się nie s
 
 ## Sekob tęskni za żoną
 
-Sekob mówi że gdzieś przepadła jego żona, prosi o jej znalezienie i sprowadzenie z powrotem na farmę. Rosi znajduje się z Tilem na drodze z tawerny Orlana do jaskini Sagitty.  
+Sekob mówi, że gdzieś przepadła jego żona. Prosi by ją odnaleźć i sprowadzić z powrotem na farmę. Rosi znajduje się z Tilem na drodze z tawerny Orlana do jaskini Sagitty.  
 W rozmowie zdradzi nam, że nie mogła wytrzymać z mężem i uciekła. Poprosi cię o odprowadzenie w bezpieczne miejsce. Po odprowadzeniu jej rozmawiamy z Sekobem.
 
 ## Ucieczka Rosi
 
-Na drodze z tawerny Orlana do jeziora spotkamy Rosi. Powie nam, że już nie mogła wytrzymać z mężem i uciekła z domu. Poprosi cię o odprowadzenie w bezpieczne miejsce. Paladyn będzie musiał eskortować ją do Khorinis, mag do klasztoru, a najemnik na farmę Onara.
+Na drodze z tawerny Orlana do jaskini Sagitty spotkamy Rosi. Powie nam, że już nie mogła wytrzymać z mężem i uciekła z domu. Poprosi cię o odprowadzenie w bezpieczne miejsce. Paladyn będzie musiał eskortować ją do Khorinis, mag do klasztoru, a najemnik na farmę Onara.
 
 ## Kto będzie dowodził moim okrętem?
 
-Mamy trzy osoby które mogą zostać kapitanem Esmeraldy:
+Mamy trzy osoby, które mogą zostać kapitanem Esmeraldy:
 
 - Jorgen - Pyrokar zgodzi się puścić Jorgena jeśli zabijemy nieumarłych w wieży Xardasa.
 - Jack - zgodzi się jak znajdziemy kogoś do pilnowania jego latarni, będzie to Brian czeladnik Harada  
@@ -31,7 +31,7 @@ Mamy trzy osoby które mogą zostać kapitanem Esmeraldy:
 
 ## Powrót do wieży
 
-Po dowiedzeniu się gdzie czai się nieprzyjaciel pytamy się Pyrokara czy możemy wziąć Jorgena, a ten zleca nam oczyszczenie wieży Xardasa z nieumarłych, zabijamy wszystko wliczając bossa na szczycie wieży i wracamy do Pyrokara.
+Gdy dowiadujemy się, gdzie czai się nieprzyjaciel, pytamy Pyrokara, czy możemy zabrać ze sobą Jorgena. Ten zleca nam oczyszczenie wieży Xardasa z nieumarłych. Zabijamy wszystkich, włącznie z bossem na szczycie wieży, po czym wracamy do Pyrokara.
 
 ## Nie można podróżować bez załogi
 
