@@ -99,7 +99,7 @@ Hyglas zleca nam przyniesienie książki Boska moc gwiazd. Kupić ją możemy od
 > Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstury z orkowych pomyj. Przed rozmową z Salandrilem należy zdobyć pierścień gildii kupców, następnie wykupić od niego wszystkie istotne przedmioty oraz ukończyć zadanie związane z orkowymi pomyjami.
 
 Serpentes każe nam dowiedzieć się kto rozprowadza fałszywe udziały w kopalni, musimy również usunąć je z obiegu. Istnieje 10 takich udziałów, sprzedają je:  
-- Salandril w swoim sklepie w górnym miescie
+- Salandril w swoim sklepie w górnym mieście
 - Rosi na farmie Sekoba
 - Matteo w swoim domu w dzielnicy rzemieślników
 - Hakon na rynku Khorinis
@@ -143,13 +143,13 @@ Teraz Erol mówi nam, że mamy zorganizować więcej ludzi:
 **Ochroniarze:**  
 - Gayvern (zgodzi się od razu)  
 - Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)  
-- Billgot (po przyprowadzeniu go z górniczej doliny)
+- Bilgot (po przyprowadzeniu go z górniczej doliny)
 
 Następnie Erol zagaduje nas o kowala i kucharza:  
 - Edda (dołączy, jeśli pomogliśmy jej w 1r z posążkiem)  
 - Carl (dołączy, jeśli oddaliśmy mu węgiel w 1r)
 
-Po zebraniu powyższych osób Erol prosi o znalezienie uzdrowicielki. Chodzi o Saggitę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
+Po zebraniu powyższych osób Erol prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
 Ostatnie zadanie w obozie polega na znalezieniu schematu zbroi. Znajdziemy go w Opuszczonej Kopalni nad przejściem do Khorinis, tam gdzie Płomień Eligora dla gildii kupców. Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
 > rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem
