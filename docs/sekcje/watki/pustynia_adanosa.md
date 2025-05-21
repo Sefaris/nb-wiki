@@ -63,7 +63,7 @@ Pytamy się Saturasa czy może nam pomóc, a ten odsyła nas do Xardasa, twierdz
 - szczaw królewski
 - trollest (wyspawni się u Zurisa)
 
-Lepiej skorzystać z pomocy Netbeka by nie wydawać cennego szczawiu królewskiego
+Lepiej skorzystać z pomocy Netbeka by nie wydawać cennego szczawiu królewskiego. Na dodatek pomoc Netbeka przepada po zapytaniu się Xardasa o pomoc, więc nie można wyspawnić sobie darmowego trollestu.
 
 <!-- tabs:end -->
 
