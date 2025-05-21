@@ -83,10 +83,10 @@ Po zabiciu Kruka gadamy z Saturasem i Złotym smokiem. Szpon Beliara zachowujemy
 
 ## Zaginiony totem goblinów
 
-Uwaga: Do tego zadania potrzebnę będzie goblińskie Ulu-mulu, możemy zdobyć je za zadanie z gadającym goblinem obok starej wieży Xardasa w GD (patrz dziwne stworzenie - Zadanie w GD 2 rozdział)
+Uwaga: Do tego zadania potrzebnę będzie goblińskie Ulu-mulu, możemy zdobyć je za zadanie z [gadającym goblinem](https://github.com/Sefaris/nb-wiki/blob/master/docs/sekcje/zadania/rozdzial_ii.md#dziwne-stworzenie) obok starej wieży Xardasa w Górniczej Dolinie.
 
 Mając założony gobliński kijek udajemy się do obozu goblinów na pustyni i gadamy z ich wodzem:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954274103078/DAA43423153BD5242F1219AFD28DEE5613CB8053/)](https://steamuserimages-a.akamaihd.net/ugc/969852954274103078/DAA43423153BD5242F1219AFD28DEE5613CB8053/)  
 
-Wódz goblinów zleca nam odzyskanie skradzionego totemu. Ukradł go boss goblinów dosiadający kąsacza, znajduje się on pod wystającym klifem w centrum pustyni. Po zabiciu bossa zabieramy totem i oddajemy go wodzowi za co ten daje nam klucz do skrzyni z dobrym młotkiem 1H pod siłę i pierścieniem do HP. Po wykonaniu tego zadania można wybić gobliny, za wodza dostaniemy 1 PN.
+Wódz goblinów zleca nam odzyskanie skradzionego totemu. Ukradł go boss goblinów dosiadający kąsacza, znajduje się on pod wystającym klifem w centrum pustyni. Po zabiciu bossa zabieramy totem i oddajemy go wodzowi za co ten daje nam klucz do skrzyni z dobrym [młotkiem](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1118678332#gid=1118678332&range=A71:P71) i [pierścieniem Adanosa](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=516905758#gid=516905758&range=R119:U125). Po wykonaniu tego zadania można wybić gobliny, za wodza dostaniemy 1 PN.
