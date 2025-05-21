@@ -288,10 +288,19 @@ Po tym jak oddamy Samuelowi recepturę na Młot Lou to Barthomolew zleca nam, ab
 
 ## Ukryty łup
 
-W chacie Grega znajdujemy notatkę mówiącą o łupie ukrytym we wschodnim lesie Khorinis.  
-Za chatą Grega na beczce znajdziemy klucz do kryjówki ze skarbem.  
-Sam skarb znajdziemy podążając za filmikiem lub uważnie czytając notatkę.  
-[--> LINK <--](https://youtu.be/XJ9wYFRZZOc)
+W chacie Grega znajdujemy notatkę mówiącą o łupie ukrytym we wschodnim lesie Khorinis, a za chatą na beczce znajdziemy klucz do kryjówki z łupem.
+
+<!-- tabs:start -->
+
+####__jak dotrzeć do ukrytego łupu__
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XJ9wYFRZZOc?si=Ow3XdOm3qWWiKNkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+####__zakopane skarby w Jarkendarze__
+
+![image info](https://imgur.com/wIG83U6.png)
+
+<!-- tabs:end -->
 
 # Bandyci
 
