@@ -26,7 +26,7 @@ Mapa pustyni i krzyształ ogniskujący znajdują się w pierwszym budynku, na je
 
 ####__starożytne tabliczki i mroczni strażnicy__
 
-[![](https://imgur.com/L58vtNS)](https://imgur.com/L58vtNS)
+![image info](https://imgur.com/L58vtNS)
 
 <!-- tabs:end -->
 
