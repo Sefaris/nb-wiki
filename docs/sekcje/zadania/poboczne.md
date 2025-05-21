@@ -15,7 +15,7 @@ Zadanie kończy się po odblokowaniu pierwszego kamienia i ponownej rozmowie z X
 Na dachu wieży Xardasa (musimy wejść na sam szczyt wieży i wyjść przez okno) znajduje się miejsce rytuału, notatka opisująca jego przebieg oraz wszystkie potrzebne przedmioty.  
 1. Czytamy notatkę
 2. Zabieramy Eliksir many i używamy Starożytnego ołtarza
-3. Czekamy do godziny minimum 4:00 i używamy Rytualnej figurki w ekwipunku, żeby się pomodlić
+3. Czekamy do godziny minimum 5:00 i używamy Rytualnej figurki w ekwipunku, żeby się pomodlić
 4. Zabieramy z ołtarza potkę `Rytualna mikstura` (Max mana +2, Max hp +2)
 
 ## Żywy lub Martwy
