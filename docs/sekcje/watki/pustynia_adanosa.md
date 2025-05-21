@@ -35,24 +35,32 @@ Idziemy prosto przed siebie, aż natrafimy na rozwidlenie, w prawo ścieżka mag
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270905887/6B42FF559B6B8A90AF1A65DD9DFCE41052EFB253/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270905887/6B42FF559B6B8A90AF1A65DD9DFCE41052EFB253/)  
 
-Mając obydwie połówki musimy połączyć je w budynku obok mniejszej piramidy, gdzie znaleźliśmy berło Adanosa, po połączeniu czytamy tabliczkę. Idziemy teraz przed wielką piramidę, zabijamy dwóch mrocznych strażników. Otwieramy wejście przy pomocy tabliczki i czytamy wszystkie pulpity w środku poza jednym, który jest tymczasowo zablokowany. Dostaniemy 2 zadania:
+Mając obydwie połówki musimy połączyć je w budynku obok mniejszej piramidy, gdzie znaleźliśmy berło Adanosa, po połączeniu czytamy tabliczkę. Idziemy teraz przed wielką piramidę, zabijamy dwóch mrocznych strażników i otwieramy wejście przy pomocy tabliczki. Czytamy dwa pulpity w środku po lewej, trzeciego nie możemy, gdyż tymczasowo jest zablokowany. Dostaniemy 2 zadania:
 
 1. Zabić stworzenie Innosa - golema Magolemusa, który pojawia się w miejscu ze zdjęcia niżej. Pokonujemy go świętym Młotem Innosa z klasztoru.
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270940452/BEEE34AE829A6DF810878C57795999FF00B3DA1E/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270940452/BEEE34AE829A6DF810878C57795999FF00B3DA1E/)  
 
-2. Umieścić smocze jajo na piedestale w ruinach niedaleko obozu goblinów. Możemy je znaleźć w małej jaskini znajdującej się na obrzeżach pustyni
-> smocze jaja występują również w skarbach smoków oraz w jaskiniach Khorinis od 4 rozdziału
+2. Umieścić smocze jajo na piedestale w ruinach niedaleko obozu goblinów. Możemy je znaleźć w małej jaskini znajdującej się na obrzeżach pustyni. Jeżeli wykorzystaliśmy już pustynne jajko to pozostaje nam szukać ich w skarbach smoków lub w jaskiniach Khorinis od 4 rozdziału.
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270267470/0820A651A4676C33FD6117CAA9B3B7D118CE3637/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270267470/0820A651A4676C33FD6117CAA9B3B7D118CE3637/)  
 
-Po wykonaniu powyższych prób czytamy główny pulpit w dużej piramidzie (już jest dostępny). Trzecim zadaniem będzie ożywienie drzewa życia. Znajdziemy je nieopodal kamiennego kręgu i czarnego trolla.
+Po wykonaniu obydwóch powyższych prób, wracamy do dużej piramidy i czytamy główny pulpit, który jest już dostępny. Trzecim zadaniem będzie ożywienie drzewa życia. Znajdziemy je nieopodal kamiennego kręgu i czarnego trolla.
 Mamy 2 opcje:
 
-1. Udajemy się do Saturasa, a ten wysyła nas do Xardasa, który zgadza się nam pomóc, pod warunkiem że przyniesiemy mu rzadkie rośliny, w tym szczaw królewski.
-2. Idziemy do Netbeka, a ten pomoże nam za darmo. (lepsza opcja)
+<!-- tabs:start -->
 
-Wracamy do kamiennego kręgu i składamy otrzymany korzeń na ołtarzu. Drzewo zostaje uleczone, a my wracamy do dużej piramidy i wchodzimy przez teleport do Czyśca Adanosa gdzie zbieramy fanty i czytamy pulpit na środku.
+####__Pomoc Baal Netbeka__
+
+Netbeka znajdziemy w Górniczej Dolinie, w Klasztorze Zmiennokształtnych, gdzie z Gornem szukaliśmy kamienia ogniskującego w G1. Drzewolubny łysol z chęcią pomoże nam za darmo.
+
+####__Pomoc Xardasa__
+
+Pytamy się Saturasa czy może nam pomóc, a ten odsyła nas do Xardasa, twierdząc, że nekromanta zajmował się kiedyś magią druidów. Xardas zgadza się uwarzyć dla nas miksturę, jednak będzie potrzebował do tego rzadkich roślin, a w tym szczaw królewski. Lepiej skorzystać z pomocy Netbeka.
+
+<!-- tabs:end -->
+
+Wracamy do kamiennego kręgu i składamy korzeń lub miksturę na ołtarzu. Drzewo zostaje uleczone, a my wracamy do dużej piramidy i wchodzimy przez teleport do Czyśca Adanosa gdzie zbieramy fanty i czytamy pulpit na środku.
 > Przeczytanie pulpitu oczyści nas z grzechów resetując negatywną karmę u Bogów, możemy więc trochę nagrzeszyć zanim to zrobimy.
 
 W piramidzie powinno otworzyć się przejście na dół, gdzie znajdziemy potężne przedmioty, a w tym Koronę Adanosa. Teraz możemy udać się dalej przez jaskinię blisko dużej piramidy tutaj:
