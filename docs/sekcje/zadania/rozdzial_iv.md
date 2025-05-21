@@ -8,20 +8,20 @@ Zabijamy orków wzdłuż drogi do Khorinis i gadamy z Lobartem.
 
 ## Oddziały orków
 
-Orkowie rozpoczynają inwazję na Khorinis. Gadamy z Lordem Hagenem, a następnie z Ingmarem. Naszym celem jest odnaleźć bazę, w której przebywa główny herszt i zabić go. Urzęduje on w jaskini na końcu ścieżki tam gdzie szliśmy na polowanie z Bartokiem. Po zabiciu go gadamy o tym z Ingmarem. Dodatkowo możemy znaleźć przy nim mapę, na której pokazane są wszystkie orkowe patrole na całej wyspie. Możemy więc wyłowić je wszystkie, a pierścienie hersztów zanieść Hagenowi. Od pewnego momentu uzna on, że przynieśliśmy wystarczająco, ale możemy mu je oddawać do końca gry w zamian za expa.
+Orkowie rozpoczynają inwazję na Khorinis. Gadamy z Lordem Hagenem, a następnie z Ingmarem. Naszym celem jest odnaleźć bazę, w której przebywa główny herszt i zabić go. Urzęduje on w jaskini na końcu ścieżki, tam gdzie szliśmy na polowanie z Bartokiem. Po jego zabiciu gadamy o tym z Ingmarem. Dodatkowo możemy znaleźć przy nim mapę, na której zaznaczone są wszystkie orkowe patrole na całej wyspie. Możemy więc rozprawić się ze wszystkimi i zanieść Hagenowi pierścienie hersztów. Od pewnego momentu uzna on, że przynieśliśmy wystarczająco, ale możemy mu je oddawać do końca gry w zamian za expa.
 > Często oddział orków łączyć się będzie z grupą jaszczuroludzi strzegących smoczych jaj. Warto więc pamiętać o zbieraniu ich gdy będziemy polować na orków.
 
 ## Smocze jaja
 
-Po pokazaniu Bennetowi smoczego jaja i zgodzeniu się na sprzedaż daje on nam mapę jaskiń w Khorinis. Od teraz możemy mu je sprzedawać po 350 złota. Zadanie jest nieopłacalne, jako że z jaj możemy zrobić miksturę Embrala Firgasto w 6 rozdziale.
+Po pokazaniu Bennetowi smoczego jaja i zgodzeniu się na sprzedaż, daje on nam mapę jaskiń w Khorinis. Od teraz możemy mu je sprzedawać po 350 złota. Zadanie jest jednak nieopłacalne, ponieważ z jaj możemy zrobić miksturę Embarla Firgasto w 6 rozdziale.
 
 ## Smocze jajo dla Neorasa
 
-Neoras prosi nas o przyniesienie jednego smoczego jaja. Przynosimy i po kilku dniach dostajemy miksturę zwiększającą siłę +3.
+Neoras prosi nas o przyniesienie jednego smoczego jaja. Przynosimy i po kilku dniach dostajemy miksturę zwiększającą siłę o trzy punkty.
 
 ## Próba Ragnara
 
-Zadanie dostępne jeżeli wykonaliśmy zadanie asystent Neorasa. Ragnar prosi byśmy przynieśli mu runę ognisty pocisk. Znaleźliśmy ją podczas robienia wątku głównego w skrzyni na farmie Sekoba.
+Zadanie dostępne jeżeli wykonaliśmy zadanie [Asystent Neorasa](sekcje/zadania/rozdzial_ii?id=asystent-neorasa). Ragnar prosi byśmy przynieśli mu runę ognisty pocisk. Znaleźliśmy ją podczas robienia wątku głównego w skrzyni na farmie Sekoba.
 
 ## Tajemnica starej księgi
 
@@ -33,13 +33,13 @@ Czytamy księgę, którą dał nam Ragnar po wykonaniu zadania Próba Ragnara. K
 
 Czwarty odłamek dostaniemy od Kreola, po zebraniu trzech pozostałych.
 
-Gadamy z Kreolem, a ten mówi nam o reszcie potrzebnych składników. Poza fragmentami różdżki potrzebne są także 4 czaszki smoka i jedno oko smoka. Oko możemy zdobyć zabijając Azgalora lub Adanara (krzyżem żywiołów). Ewentualnie podczas samobójstwa Ashtara.
+Gadamy z Kreolem, a ten mówi nam o reszcie potrzebnych składników. Poza fragmentami różdżki potrzebne są także 4 czaszki smoków i jedno oko smoka. Oko możemy zdobyć zabijając Azgalora lub Adanara (krzyżem żywiołów). Ewentualnie podczas samobójstwa Ashtara.
 
 Po zebraniu wszystkich składników wytwarzamy różdżkę na kowadle i cieszymy się czaderskim smokiem, który jest dobry tylko w teorii, bo tak naprawdę odstaje na takim etapie gry.
 
 ## Wiadomości dla Vatrasa
 
-Mamy udać się do Jarkendaru i dowiedzieć się co się dzieje u magów wody. Kiedy już całkowicie wykonamy zadania Saturasa związane z inwazją orków wracamy do Vatrasa.
+Mamy udać się do Jarkendaru i dowiedzieć się co się dzieje u Magów Wody. Gdy całkowicie wykonamy zadania Saturasa związane z inwazją orków, wracamy do Vatrasa.
 
 # Jarkendar
 
@@ -74,7 +74,7 @@ Feros mówi nam, że zgubił swój miecz. Znajduje się on na klifie obok szaman
 
 ## Zguba w ciemności
 
-Paladyn Udar mówi nam że Sengrath udał się poza zamek.  
+Paladyn Udar mówi nam, że Sengrath udał się poza zamek.  
 Natrafimy na jego ciało idąc wzdłuż palisady. Z kuszą i wieściami wracamy do Udara.
 
 ## Hosh-pak
@@ -100,7 +100,7 @@ UWAGA: Zadanie ma ograniczenie czasowe, jeśli się nie wyrobimy - Parlaf zginie
 Garond zleca nam odnalezienie kowala Dobara i jego pomocnika Parlafa.  
 Ciało Dobara znajdziemy na terenach między taranem, a palisadą.  
 Parlaf ukrył się w jaskini Gilberta, która znajduje się po lewo od barykady prowadzącej na tereny orków.  
-Musimy zaprowadzić Parlafa do zamku. Wystarczy że zaprowadzimy go przed taran.  
+Musimy zaprowadzić Parlafa do zamku. Wystarczy, że zaprowadzimy go przed taran.  
 Wracamy do Garonda z wieściami.
 > Nagrody za przeżycie Parlafa są na ten moment bezwartościowe, także bez nerwów.
 
@@ -121,5 +121,5 @@ Sylvio siedzi w obozie przy wejściu na lodowy biom. Prosi on nas o zabicie dwó
 
 ## Muszę się stąd wydostać!
 
-Talbin mówi nam że gdzieś zniknął jego przyjaciel Engrom, jego ciało znajduje się obok chaty Cavalorna gdzie stoi Marcos. Mówimy Talbinowi o Engromie po czym ten ucieka na przełęcz. Najlepiej odrazu przeteleportować się na przełęcz, żeby Talbina przeniosło, w innym wypadku może zginąć. Gadamy z nim na przełęczy Górniczej Doliny, a następnie możemy go wziąć do swojego obozu, jak już będzie w Khorinis.
+Talbin mówi nam, że gdzieś zniknął jego przyjaciel Engrom, jego ciało znajduje się obok chaty Cavalorna gdzie stoi Marcos. Mówimy Talbinowi o Engromie po czym ten ucieka na przełęcz. Najlepiej odrazu przeteleportować się na przełęcz, żeby Talbina przeniosło, w innym wypadku może zginąć. Gadamy z nim na przełęczy Górniczej Doliny, a następnie możemy go wziąć do swojego obozu, jak już będzie w Khorinis.
 > Engrom żyje i jest opętany jeżeli gramy magiem ognia.
