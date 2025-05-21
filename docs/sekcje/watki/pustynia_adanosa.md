@@ -67,7 +67,7 @@ Lepiej skorzystać z pomocy Netbeka by nie wydawać cennego szczawiu królewskie
 
 <!-- tabs:end -->
 
-Wracamy do kamiennego kręgu i składamy korzeń lub miksturę na ołtarzu. Drzewo zostaje uleczone, a my wracamy do dużej piramidy i wchodzimy przez teleport do Czyśca Adanosa gdzie zbieramy fanty i czytamy pulpit na środku.
+Wracamy do kamiennego kręgu i składamy korzeń życia na ołtarzu. Drzewo zakwita, a my wracamy do dużej piramidy i wchodzimy przez teleport do Czyśca Adanosa gdzie zbieramy fanty i czytamy pulpit na środku.
 > Przeczytanie pulpitu oczyści nas z grzechów resetując negatywną karmę u Bogów, możemy więc trochę nagrzeszyć zanim to zrobimy.
 
 W piramidzie powinno otworzyć się przejście na dół, gdzie znajdziemy potężne przedmioty, a w tym Koronę Adanosa. Teraz możemy udać się dalej przez jaskinię blisko dużej piramidy tutaj:
