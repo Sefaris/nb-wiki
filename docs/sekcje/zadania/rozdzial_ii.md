@@ -496,16 +496,16 @@ Zabijamy orków na Drakkarze łącznie z Hersztem. Z ciała Herszta zbieramy not
 
 ## Dziwne stworzenie
 
-Na skałach obok starej wieży Xardasa spotykamy gadającego goblina. Uderzamy go, a on prosi nas on o przyniesienie zwoju wygnania znajdującego się w starej wieży Xardasa. Idziemy do biblioteki na górze wieży Xardasa i zabieramy zwój wygnania. Wracamy do goblina, rozmawiamy z nim i używamy zwoju. Na końcu otwieramy skrzynie zabieramy broń goblinów wymaganą do innego zadania na pustyni.
+Na skałach obok starej wieży Xardasa spotykamy gadającego goblina. Uderzamy go, a on prosi nas o przyniesienie zwoju wygnania znajdującego się w starej wieży Xardasa. Idziemy do biblioteki na górze wieży i zabieramy zwój. Wracamy do goblina, rozmawiamy z nim i używamy zwoju. Na końcu otwieramy skrzynie zabieramy broń goblinów wymaganą do innego zadania na pustyni.
 > Jako mroczna gildia lepiej jest dostać ten zwój od samego Xardasa, a drugi leżący w starej wieży oddać Galahadowi do zadania gildyjnego.
 
 ## Pierścień Kruka
 
-Drax w obozie za palisadą zleca nam przyniesienie pierścienia który ma Kruk. Pierścień zdobędziemy po walce z Krukiem w świątyni Adanosa.
+Drax w obozie za palisadą zleca nam przyniesienie pierścienia, który ma Kruk. Pierścień zdobędziemy po walce z nim w świątyni Adanosa.
 
 ## Pozdrowienia od Ratforda
 
-Po przyniesieniu pierścienia Kruka Draxowi zagada do nas Ratford. Zleci on nam udanie się do Fiska z pozdrowieniami. Idziemy do Fiska i dostajemy paczkę, którą oddajemy Ratfordowi. W nagrodę dostajemy od niego szczaw królewski.
+Po przyniesieniu pierścienia Kruka Draxowi, zagada do nas Ratford. Zleci on nam udanie się do Fiska z pozdrowieniami. Idziemy do Fiska i dostajemy paczkę, którą oddajemy Ratfordowi. W nagrodę dostajemy od niego szczaw królewski.
 
 ## Zaginieni bez wieści
 
