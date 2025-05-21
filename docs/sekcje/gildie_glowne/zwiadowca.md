@@ -113,7 +113,7 @@ Allen wspomina o orkowej galerze w pobliżu Khorinis. Udajemy się do Przeklęte
 
 Musimy dowiedzieć się, co stało się z Eugene i Nathanielem. Udajemy się do kamiennego kręgu koło farmy Lobarta — znajdujemy tam rannego Nathaniela.
 
-Po rozmowie ruszamy w stronę wieży Xardasa. Przed jaskinią bandytów spotykamy Eugene'a — rozmawiamy z nim, a następnie pokonujemy poszukiwaczy. Znów rozmawiamy z Eugene'em i wracamy do Nathaniela.
+Po rozmowie ruszamy w stronę wieży Xardasa. Przed jaskinią bandytów spotykamy Eugene — rozmawiamy z nim, a następnie pokonujemy poszukiwaczy. Znów rozmawiamy z Eugene i wracamy do Nathaniela.
 
 Nathaniel atakuje nas — po walce udajemy się do klasztoru, gdzie kupujemy od Pyrokara miksturę. Wracamy do naszej bazy, podajemy miksturę Nathanielowi i kończymy zadanie u Allena.
 
