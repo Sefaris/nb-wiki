@@ -18,7 +18,17 @@ Korzystając z pierścienia, który znaleźliśmy po walce z Krukiem przenosimy 
 
 Mapa pustyni i krzyształ ogniskujący znajdują się w pierwszym budynku, na jednym z piedestałów teleportujących. Kryształ pozwoli nam aktywować teleporty do ważnych miejsc. Polecam NIE atakować goblinów pustynnych jeżeli natkniesz się na ich obóz.
 
+<!-- tabs:start -->
+
+####__miejsca szczególne__
+
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)  
+
+####__starożytne tabliczki i mroczni strażnicy__
+
+[![](https://imgur.com/L58vtNS)](https://imgur.com/L58vtNS)
+
+<!-- tabs:end -->
 
 Pierwszym krokiem będzie zebranie 4 kawałków ornamentu. Znajdziemy je w oazach. Dwóch kluczy pilnują Mroczni Strażnicy, a dwóch Wyżsi Kapłani Budowniczych.  
 Kiedy już zbierzecie 4 odłamki musicie umieścić je w pulpitach w tej piramidzie
