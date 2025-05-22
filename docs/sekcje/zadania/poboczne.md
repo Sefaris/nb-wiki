@@ -206,7 +206,7 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
 
 1.  Zdobyć uznanie ludzi w porcie by móc rozmawiać z mistrzami
 2.  Zostać czeladnikiem u jednego z mistrzów (Patrz Zadania na zostanie obywatelem miasta)
-3.  Następnie, aby dostać się do Hagena, trzeba dołączyć do gildii głównej. Są to: Straż miejska, Najemnicy, Magowie Ognia, Nekromanci, Obóz Bractwa (Guru/Strażnik świątynny), Magowie wody.
+3.  Następnie, aby dostać się do Hagena, trzeba dołączyć do gildii głównej. Są to: Straż miejska, Najemnicy, Magowie Ognia, Nekromanci, Obóz Bractwa (Guru/Strażnik Świątynny), Magowie Wody.
 4.  Po dołączeniu do Gildii, zabiciu Dextera i złożeniu ornamentu gadamy z Hagenem, zaczyna się Rozdział 2.
 5.  Hagen da nam klucz jak zrobimy dla niego zadanie Tajemnica portalu. Mówiąc prościej musimy zrobić wątek główny w Jarkendarze aż do walki z Krukiem w świątyni Adanosa. Po walce z Krukiem i rozmowie z Saturasem wracamy do Hagena a ten daje nam klucz na przełęcz.
 6.  Po dostaniu klucza Hagen każe nam przynieść z Górniczej Doliny dowód na istnienie smoków.
