@@ -220,13 +220,13 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
 9.  Wychodzimy z klasztoru, gadamy z Jergenem następnie wskakujemy do rzeki i płyniemy tak długo aż natrafimy na włóczęgę, gadamy z nim i idziemy w stronę słonecznego kręgu, gadamy po drodze z Grimbaldem i zabijamy dwóch bandytów.
 10. Idziemy do słonecznego kręgu, zabijamy poszukiwaczy i zabieramy Oko innosa, okazuje się że amulet jest uszkodzony. Udajemy się do Pyrokara, potem Vatrasa, który mówi żeby iść do jakiegoś kowala i naprawić fizyczne uszkodzenia, natomiast by przywrócić moc amuletowi trzeba mocy wyznawcy każdego z bogów Innosa, Beliara i Adanosa.
 
-11. Amulet naprawimy u Benneta jeśli wcześniej zrobiliśmy zadanie (Bennet siedzi w wiezieniu).
+11. Amulet naprawimy u Benneta jeśli wcześniej zrobiliśmy zadanie (Bennet siedzi w więzieniu).
 
-12. Co do magów to Vatras pójdzie od razu, Pyrokar nie ufa Xardasowi dlatego musimy go przekonać, idziemy do Xardasa i mówimy o sytuacji , wtedy dostajemy klucz do skrzyni w domu Sekoba, otwieramy skrzynie i zabieramy księgę Dwór Irdorath i oddajemy Pyrokarowi. Pyrokar jest zaskoczony i zgadza się pomóc przy rytuale .
+12. Co do magów to Vatras pójdzie od razu, Pyrokar nie ufa Xardasowi dlatego musimy go przekonać, idziemy do Xardasa i mówimy o sytuacji, wtedy dostajemy klucz do skrzyni w domu Sekoba, otwieramy skrzynie i zabieramy księgę Dwór Irdorath i oddajemy Pyrokarowi. Pyrokar jest zaskoczony i zgadza się pomóc przy rytuale.
 
 13. Idziemy do słonecznego kręgu i czekamy aż rytuał przywrócenia mocy amuletowi dobiegnie końca, wtedy gadamy z Vatrasem i Xardasem i na końcu gadamy z Pyrokarem.
 
-14. Pyrokar zleca nam zabicie smoków w GD ( Rozpoczyna się Rozdział 4)
+14. Pyrokar zleca nam zabicie smoków w GD (Rozpoczyna się Rozdział 4)
 
 15. Wracamy do GD i zabijamy smoki:  
     - Bagienny Smok w Starym Obozie Bractwa  
@@ -235,10 +235,10 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
     - Lodowy Smok w ruinach Nowego Obozu  
     
     Od smoków dowiadujemy się, że mają swojego pana na dworze Irdorath.  
-    wracamy do Garonda mówimy mu, że smoki są martwe, po czym udajemy się do Pyrokara
+    Wracamy do Garonda mówimy mu, że smoki są martwe, po czym udajemy się do Pyrokara.
 
-16. Idziemy do Lestera dostajemy od niego list od Xardasa (w liście jest klucz do księgi Dwór Irdorath) idziemy do Pyrokara i prosimy o księgę, a ten mówi, by iść do Talamona. Talamon nas przepuszcza, zabieramy księgę ze stołu alchemicznego, czytamy i dostajemy klucz. Teraz musimy przekręcić lampę i otwiera się przejście do podziemi. Wybijamy szkielety, aż dotrzemy do zamkniętych drzwi. Otwiera je klucz który był schowany w księdze Irdorath, zabijamy bossa i dostajemy się do biblioteki. Zabieramy mapę dworu Irdorath, a także Almanach . (Czytamy też pulpit o łzach Innosa i wtedy otworzy się sekretne pomieszczenie). Wracamy ze wszystkim do Pyrokara.
+16. Idziemy do Lestera dostajemy od niego list od Xardasa (w liście jest klucz do księgi Dwór Irdorath) idziemy do Pyrokara i prosimy o księgę, a ten mówi, by iść do Talamona. Talamon nas przepuszcza, zabieramy księgę ze stołu alchemicznego, czytamy i dostajemy klucz. Teraz musimy przekręcić lampę i otwiera się przejście do podziemi. Wybijamy szkielety, aż dotrzemy do zamkniętych drzwi. Otwiera je klucz, który był schowany w księdze Irdorath, zabijamy bossa i dostajemy się do biblioteki. Zabieramy mapę dworu Irdorath, a także Almanach. (Czytamy też pulpit o łzach Innosa i wtedy otworzy się sekretne pomieszczenie). Wracamy ze wszystkim do Pyrokara.
 
-17. Teraz naszym celem jest znalezienie kapitana i zebranie załogi. Kapitanem może zostać Jack, Torlof albo Jorgen. Kiedy mamy już kapitania zbieramy załogę , na pokład możemy zabrać: Diego, Lester, Gorn, Milten, Lee, Lares, Angar, Bennet, Vatras, Biff,Girion i Mario. Po zebraniu załogi odpływamy z Khorinis (Zaczyna się 6 rozdział).
+17. Teraz naszym celem jest znalezienie kapitana i zebranie załogi. Kapitanem może zostać Jack, Torlof albo Jorgen. Kiedy mamy już kapitania zbieramy załogę, na pokład możemy zabrać: Diego, Lester, Gorn, Milten, Lee, Lares, Angar, Bennet, Vatras, Biff, Girion i Mario. Po zebraniu załogi odpływamy z Khorinis (Zaczyna się 6 rozdział).
 
-18. Dopływamy na Irdorath, lokacja jest liniowa więc wybijamy wszystko aż dotrzemy do smoka ożywieńca, po jego zabiciu kończy się fabuła podstawki.
+18. Dopływamy na Irdorath, lokacja jest liniowa, więc wybijamy wszystko aż dotrzemy do smoka ożywieńca, po jego zabiciu kończy się fabuła podstawki.
