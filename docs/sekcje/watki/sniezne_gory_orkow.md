@@ -17,7 +17,7 @@ Grum-Lok zleca nam zabicie białego górskiego trolla i przyniesienie jego skór
 
 ## Chata Oddlera
 
-Na szczycie jednej z gór **(punkt 10 na mapie)** znajdziemy Oddlera niewidomego maga woda. Buduje on chatę ale brakuje mu narzędzi kilofów , młotków i pił. Narzędzia pewnie już mamy oddajemy, koniec zadania.
+Na szczycie jednej z gór **(punkt 10 na mapie)** znajdziemy Oddlera niewidomego maga woda. Buduje on chatę ale brakuje mu narzędzi kilofów, młotków i pił. Narzędzia pewnie już mamy oddajemy, koniec zadania.
 > Nagrodą jest zwój zmniejszenia potwora, dzięki któremu możemy spokojnie pokonać białego trolla w 2r i korzystać z jego trofeum oraz nowego hełmu.
 
 ## Wojna klanów
