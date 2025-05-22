@@ -211,8 +211,8 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
 5.  Hagen da nam klucz jak zrobimy dla niego zadanie Tajemnica portalu. Mówiąc prościej musimy zrobić wątek główny w Jarkendarze aż do walki z Krukiem w świątyni Adanosa. Po walce z Krukiem i rozmowie z Saturasem wracamy do Hagena a ten daje nam klucz na przełęcz.
 6.  Po dostaniu klucza Hagen każe nam przynieść z Górniczej Doliny dowód na istnienie smoków.
 7.  Udajemy się do GD do Garonda który zleca nam byśmy sprawdzili jak idzie wydobywanie rudy w okolicznych kopalniach, biegamy po kopalniach jest ich 3 :  
-    -Kopalnia Markosa obok starej kopalni, natomiast sam Marcos przebywa obok chaty Cavalorna  
-    - kopalnia Fejetha znajduje się na ziemiach orków , obok jeziora przy starej wieży Xardasa  
+    -Kopalnia Marcosa obok starej kopalni, natomiast sam Marcos przebywa obok chaty Cavalorna  
+    - kopalnia Fajetha znajduje się na ziemiach orków , obok jeziora przy starej wieży Xardasa  
     - kopalnia Silvestra, wszystkich zabiły pełzacze, musimy odnaleźć Diego i z nim pogadać.  
     
     Po odwiedzeniu wszystkich kopalni wracamy do Garonda i zdajemy mu relacje co się dzieje z rudą wtedy dostajemy upragniony dowód.
