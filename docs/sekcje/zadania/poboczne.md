@@ -23,7 +23,7 @@ __Zleca: Notatki z tablicy ogłoszeń w koszarach__
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1619563003222744326/8840BB650FDCF18FC2B080036251E244C96DCCC0/)](https://steamuserimages-a.akamaihd.net/ugc/1619563003222744326/8840BB650FDCF18FC2B080036251E244C96DCCC0/)
 
-Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Koszarach. Musimy dopaść imiennych bandytów i przynieść ich głowy Andre:
+Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w koszarach. Musimy dopaść imiennych bandytów i przynieść ich głowy Andre:
 
 1. **Farhaart** - Aby do niego dotrzeć, należy wyjść przez wschodnią bramę Khorinis i kierować się w lewo (nie idziemy w górę do latarni, tylko cały czas zostajemy na dole). Natrafiamy na jaskinię i kierujemy się w lewą odnogę, aż natrafimy na bandytów.  
 2. **Kurdupel** - W jaskini z notatką Halvora. Idąc z farmy Akila do Mrocznego Lasu, zbaczamy ze ścieżki i trzymamy się skał po lewej stronie.  
@@ -34,7 +34,7 @@ Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w Kos
 7. **Hannibal** - Na nowych terenach obok wieży Xardasa. Idąc ścieżką skręcamy w lewo przed jaskinią z bandytami Cavalorna. Stamtąd idziemy cały czas prosto, aż natkniemy się na ścieżkę w górę, gdzie znajdziemy jego obóz.
 
 ## Ekspedycja Magów Ognia
-__Zleca: Pulpit w piwnicy Klasztoru__
+__Zleca: Pulpit w piwnicy klasztoru__
 
 > Wykonanie tego zadania jest wymagane do ukończenia: [Bezgraniczna potęga](#bezgraniczna-potęga).
 
@@ -124,7 +124,7 @@ Zadanie jest trochę pogmatwane. Jeżeli nie wiesz na co się zdecydować to naj
 Udajemy się do Xardasa i pytamy o runę, ten nam mówi że Beliar dam nam runę w zamian za inny artefakt amulet Triamar. Idziemy teraz do portu, a przed posągiem paladyna w porcie powinien pojawić się paladyn Melchior. Szantażujemy go, a ten wyjawia nam, że amulet znajduje się na wyspie Etlu, a klucz ma sam Hagen. Okradamy Hagena lub odkupujemy klucz od ogrodnika. Idziemy teraz do Xardasa i mówimy o wszystkim. Teraz możemy udać się na Etlu i zabrać amulet w sposób pokojowy lub zabić wszystkich paladynów. Wejście do Etlu znajduje się w jaskini przy zbieraczach ziela niedaleko czarnego trolla.
 > Zabicie paladynów jest bardziej opłacalną opcją, jeżeli jednak nie chcemy tego robić to polecam zaopatrzyć się w miksturę niewidzialności.
 
-Jeśli chcemy uzyskać amulet w "pokojowy" sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie mogą tego zrobić paladyn i mag ognia). Przed modlitwą zapisz grę.  
+Jeśli chcemy uzyskać amulet w "pokojowy" sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie może tego zrobić Paladyn ani Mag Ognia). Przed modlitwą zapisz grę.  
 > Jeżeli nie zniszczyłeś szponu, ani go jeszcze nie posiadłeś za karmę to pamiętaj by wyrzucić go z ekwipunku przed modlitwą o pomoc.
 
 Pojawia się Zigos, który po krótkiej rozmowie zgadza się na pomóc, jeśli zabijemy szalonego Fellangora, który kiedyś był sługą Beliara. Fellangor potrafi przybierać formę innych ludzi, dlatego dostajemy od Zigosa amulet, który zakładamy przed każdą rozmową z Fellangorem.
