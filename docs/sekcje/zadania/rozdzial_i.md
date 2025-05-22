@@ -703,7 +703,7 @@ Musimy zabić zębacza, który znajduje się gdzieś niedaleko wejścia do jaski
 ## Proste przyjemności
 __Zleca: Ogrodnik__
 
-Zleca Ogrodnik po tym jak pokażemy mu złodziejski gest. Prosi nas o przyniesienie 5 skrętów i 3 butelek ginu. W zamian daje nam klucz do skrzyni, która znajduje się w na piętrze domu, gdzie śpią paladyni.
+Ogrodnik prosi o przyniesienie 5 skrętów i 3 butelek ginu gdy pokażemy mu [złodziejski gest](sekcje/gildie_poboczne/gildia_zlodziei.md). W zamian daje nam klucz do skrzyni, która znajduje się w na piętrze domu, gdzie śpią paladyni.
 
 ## Przeklęta latarnia
 __Zleca: Jack__
