@@ -200,7 +200,7 @@ Wracamy do Xardasa i mówimy ze mamy amulet. Teraz udajemy się do posągu Belia
 
 # Wątek główny podstawki G2 1-6 rozdział (Streszczenie)
 
-Solucja głównego wątku z smokami z podstawki będzie napisana w formie znacznie skróconej .
+Solucja głównego wątku z smokami z podstawki będzie napisana w formie znacznie skróconej.
 
 Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i robić wszystko według kolejności:
 
