@@ -215,12 +215,12 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
     - Fajetha znajduje się na ziemiach orków, obok jeziora przy starej wieży Xardasa  
     - Silvestra, wszystkich zabiły pełzacze, musimy odnaleźć Diego i z nim pogadać.  
     
-    Po odwiedzeniu wszystkich kopalni wracamy do Garonda i zdajemy mu relacje co się dzieje z rudą wtedy dostajemy upragniony dowód.
-8.  Wracamy do Khorinis zaczyna się 3 rozdział, gadamy z poszukiwaczem na przełęczy , po czym go zabijamy, gadamy z Lesterem , który mówi nam byśmy jak najszybciej udali się do Xardasa. Gadamy z Xardasem , potem z Hagenem i oddajemy mu dowód. Ten wysyła nas do Klasztoru po oko Innosa, gadamy z Pyrokarem i okazuje się że oko zostało skradzione przez jednego z nowicjuszy Pedra.
-9.  Wychodzimy z klasztoru , gadamy z Jergenem następnie wskakujemy do rzeki i płyniemy tak długo aż natrafimy na włóczęgę , gadamy z nim i idziemy w stronę słonecznego kręgu, gadamy po drodze z Grimbaldem i zabijamy dwóch bandytów.
-10. Idziemy do słonecznego kręgu, zabijamy poszukiwaczy i zabieramy Oko innosa, okazuje się że amulet jest uszkodzony. Udajemy się do Pyrokara , potem Vatrasa, który mówi żeby iść do jakiegoś kowala i naprawić fizyczne uszkodzenia, natomiast by przywrócić moc amuletowi trzeba mocy wyznawcy każdego z bogów Innosa , Beliara i Adanosa.
+    Po odwiedzeniu wszystkich kopalni wracamy do Garonda i zdajemy mu relacje co się dzieje z rudą, wtedy dostajemy upragniony dowód.
+8.  Wracamy do Khorinis zaczyna się 3 rozdział, gadamy z poszukiwaczem na przełęczy, po czym go zabijamy, gadamy z Lesterem, który mówi nam byśmy jak najszybciej udali się do Xardasa. Gadamy z Xardasem, potem z Hagenem i oddajemy mu dowód. Ten wysyła nas do Klasztoru po oko Innosa, gadamy z Pyrokarem i okazuje się, że oko zostało skradzione przez jednego z nowicjuszy Pedra.
+9.  Wychodzimy z klasztoru, gadamy z Jergenem następnie wskakujemy do rzeki i płyniemy tak długo aż natrafimy na włóczęgę, gadamy z nim i idziemy w stronę słonecznego kręgu, gadamy po drodze z Grimbaldem i zabijamy dwóch bandytów.
+10. Idziemy do słonecznego kręgu, zabijamy poszukiwaczy i zabieramy Oko innosa, okazuje się że amulet jest uszkodzony. Udajemy się do Pyrokara, potem Vatrasa, który mówi żeby iść do jakiegoś kowala i naprawić fizyczne uszkodzenia, natomiast by przywrócić moc amuletowi trzeba mocy wyznawcy każdego z bogów Innosa, Beliara i Adanosa.
 
-11. Amulet naprawimy u Benneta jeśli wcześniej zrobiliśmy zadanie ( Bennet siedzi w wiezieniu ).
+11. Amulet naprawimy u Benneta jeśli wcześniej zrobiliśmy zadanie (Bennet siedzi w wiezieniu).
 
 12. Co do magów to Vatras pójdzie od razu, Pyrokar nie ufa Xardasowi dlatego musimy go przekonać, idziemy do Xardasa i mówimy o sytuacji , wtedy dostajemy klucz do skrzyni w domu Sekoba, otwieramy skrzynie i zabieramy księgę Dwór Irdorath i oddajemy Pyrokarowi. Pyrokar jest zaskoczony i zgadza się pomóc przy rytuale .
 
