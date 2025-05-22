@@ -210,10 +210,10 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
 4.  Po dołączeniu do Gildii, zabiciu Dextera i złożeniu ornamentu gadamy z Hagenem, zaczyna się Rozdział 2.
 5.  Hagen da nam klucz jak zrobimy dla niego zadanie Tajemnica portalu. Mówiąc prościej musimy zrobić wątek główny w Jarkendarze aż do walki z Krukiem w świątyni Adanosa. Po walce z Krukiem i rozmowie z Saturasem wracamy do Hagena a ten daje nam klucz na przełęcz.
 6.  Po dostaniu klucza Hagen każe nam przynieść z Górniczej Doliny dowód na istnienie smoków.
-7.  Udajemy się do GD do Garonda który zleca nam byśmy sprawdzili jak idzie wydobywanie rudy w okolicznych kopalniach, biegamy po kopalniach jest ich 3 :  
-    -Kopalnia Marcosa obok starej kopalni, natomiast sam Marcos przebywa obok chaty Cavalorna  
-    - kopalnia Fajetha znajduje się na ziemiach orków , obok jeziora przy starej wieży Xardasa  
-    - kopalnia Silvestra, wszystkich zabiły pełzacze, musimy odnaleźć Diego i z nim pogadać.  
+7.  Udajemy się do GD, do Garonda, który zleca nam sprawwdzenie postępów w wydobyciu rudy w okolicznych kopalniach. Odwiedzamy trzy kopalnie:  
+    - Marcosa obok Starej Kopalni, natomiast sam Marcos przebywa obok chaty Cavalorna  
+    - Fajetha znajduje się na ziemiach orków, obok jeziora przy starej wieży Xardasa  
+    - Silvestra, wszystkich zabiły pełzacze, musimy odnaleźć Diego i z nim pogadać.  
     
     Po odwiedzeniu wszystkich kopalni wracamy do Garonda i zdajemy mu relacje co się dzieje z rudą wtedy dostajemy upragniony dowód.
 8.  Wracamy do Khorinis zaczyna się 3 rozdział, gadamy z poszukiwaczem na przełęczy , po czym go zabijamy, gadamy z Lesterem , który mówi nam byśmy jak najszybciej udali się do Xardasa. Gadamy z Xardasem , potem z Hagenem i oddajemy mu dowód. Ten wysyła nas do Klasztoru po oko Innosa, gadamy z Pyrokarem i okazuje się że oko zostało skradzione przez jednego z nowicjuszy Pedra.
