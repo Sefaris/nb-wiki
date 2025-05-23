@@ -84,14 +84,25 @@ Po modlitwach wracamy do szamana. (+20 reputacji)
 
 ## Mroczne rytuały
 
-Hush-Nar chce zbudować świątynie orków w Starym Obozie Bractwa na bagnach.  
-Wysłał tam oddział orków i słuch po nim zaginał. Zanim udacie się do obozu Bractwa musicie nauczyć się odporności na truciznę w Lesie Asasynów za darmo lub od Constantina po zadaniu "Tajemnicze Morderstwo". Idziemy na bagna, spotykamy grupę orków i gadamy z ich liderem. Mamy 3 opcje:
-1. Idziemy do świątyni, zabijamy maga, a następnie przy użyciu księgi przyzywamy demona, którego również zabijamy. Wracamy do lidera orków i do orkowego szamana po nagrodę.
-2. Wracamy do Hush-Nara i mówimy o sytuacji, ten odsyła nas do Ur-Tralla. Po rozmowie z wodzem decyduje się on zaatakować bagna. Wracamy na bagna, przyzywamy demona i z pomocą orków pokonujemy go. Wracamy do lidera orków i do orkowego szamana po nagrodę.
-3. Zabijamy wszystko co się rusza na bagnach oprócz demona, następnie przysyłamy orków na bagna tak jak w opcji 2, zabijamy wszystkich orków i dopiero teraz przyzywamy demona, którego pokonujemy. Wracamy do lidera orków i do orkowego szamana po nagrodę. (najwięcej expa i pracy)
-> Odporność na trucizny można również uzyskać na 5 minut pijąc miksturę
+Hush-Nar chce zbudować świątynie orków w Starym Obozie Bractwa na bagnach. Wysłał tam oddział orków i słuch po nich zaginął. Powietrze na terenie bagna jest zatrute więc by się po nim poruszać potrzebujemy jakoś radzić sobie z trucizną. Najlepszym sposobem jest nauczyć się odporności na truciznę za darmo w [Lesie Asasynów](sekcje/watki/asasyni.md?id=wątek-asasynów) lub od Constantina po zrobieniu zadania [Tajemnicze Morderstwo](sekcje/zadania/rozdzial_iii.md?id=tajemnicze-morderstwo). Oprócz tego, możemy również korzystać z mikstur tymczasowej odporności na truciznę za 700 złota lub przejść do świątyni bokiem przy ścianie na lewo od wejścia do obozu na bagnie (trucizna nas nie dotknie). Idziemy na bagna, przed wejściem do obozu spotykamy grupę orków i gadamy z ich liderem. Mamy 3 opcje:
 
-+50 reputacji orków
+<!-- tabs:start -->
+
+####__standard__
+
+Idziemy do świątyni, zabijamy maga, a następnie przy użyciu księgi przyzywamy demona, którego również zabijamy. Wracamy do lidera orków i do orkowego szamana po nagrodę.
+
+####__sposób ułatwiony__
+
+Wracamy do Hush-Nara i mówimy o sytuacji, ten odsyła nas do Ur-Tralla. Po rozmowie z wodzem decyduje się on zaatakować bagna. Wracamy tam i widzimy, że cały obóz na bagnie stał się obszarem walk orków z nieumarłymi, idziemy do świątyni i z pomocą orków pokonujemy nieumarłych, poszukiwaczy i demona. Trzeba się postarać o lasthit na bossach, by nie stracić cennych punktów nauki. Wracamy do lidera orków i do orkowego szamana po nagrodę.
+
+####__maxowanie expa__
+
+Zabijamy wszystko co się rusza w całym obozie oprócz demona, następnie przysyłamy orków na bagna tak jak w opcji 2, zabijamy wszystkich orków i dopiero teraz przyzywamy demona, którego pokonujemy. Wracamy do lidera orków i do orkowego szamana po nagrodę. (najwięcej expa i pracy)
+
+<!-- tabs:end -->
+
++50 reputacji orków, uzyskujemy również dostęp do kopalni orków.
 
 ## Miecz dla wodza
 
