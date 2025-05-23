@@ -66,7 +66,7 @@ Baal Orun każe nam odnaleźć Cor Angara. Siedzi on przy ognisku Ratforda i Dra
 
 ## Przepis Cor Kaloma (Rozdział 2)
 
-Baal Cadar prosi nas o przyniesienie receptury Cor Kaloma, która znajduje się w jego starym laboratorium. Udajemy się do GD do Starego Obozu Śniącego i idziemy do laboratorium Kaloma. Zabieramy przepis, czytamy go, a na końcu oddajemy Baal Cadarowi.
+Baal Cadar prosi nas o przyniesienie receptury Cor Kaloma, która znajduje się w jego starym laboratorium. Udajemy się do GD do Starego Obozu Śniącego i idziemy do laboratorium Kaloma. Zabieramy przepis, czytamy go, a na końcu oddajemy Baal Cadarowi. Przepis warto przeczytać jak najszybciej ze względu na ogromne wzmocnienie wynikające z palenia najsilniejszych skrętów. [Bonus INT](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1775023601#gid=1775023601&range=A87:L97) dla Guru i [spowolnienie czasu](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=844661289#gid=844661289&range=A3:L9) dla Strażnika Świątynnego.
 
 ## Opętani (Rozdział 3)
 
