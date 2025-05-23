@@ -98,7 +98,7 @@ Wracamy do Hush-Nara i mówimy o sytuacji, ten odsyła nas do Ur-Tralla. Po rozm
 
 ####__maxowanie expa__
 
-Zabijamy wszystko co się rusza w całym obozie oprócz demona, następnie przysyłamy orków na bagna tak jak w opcji 2, zabijamy wszystkich orków i dopiero teraz przyzywamy demona, którego pokonujemy. Wracamy do lidera orków i do orkowego szamana po nagrodę. (najwięcej expa i pracy)
+Zabijamy wszystko co się rusza w całym obozie oprócz demona, następnie rozmawiamy z Hush-Narem i Ur-Thrallem i przysyłamy orków na bagna, zabijamy wszystkich orków i dopiero teraz przyzywamy demona, którego pokonujemy. Wracamy do lidera orków i do orkowego szamana po nagrodę. (najwięcej expa i pracy)
 
 <!-- tabs:end -->
 
