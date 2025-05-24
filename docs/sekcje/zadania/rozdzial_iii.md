@@ -139,8 +139,8 @@ Następnie zarządca mówi nam, że mamy zorganizować więcej ludzi:
 Po przyprowadzeniu przynajmniej jednego dostawcy dowiemy się, że potrzebny jest kucharz, chodzi o Eddę, która dołączy, jeśli pomogliśmy jej w 1r z posążkiem
 
 **Kopacze**  
-- Wąż (40 retoryki i oddana ruda z zadania "Torba pełna rudy")  
-- Snipes (50 retoryki i oddana ruda z zadania "Torba pełna rudy")  
+- Wąż (40 retoryki i oddana ruda z zadania [Torba pełna rudy](sekcje/zadania/rozdzial_i.md?id=torba-pełna-rudy))  
+- Snipes (50 retoryki i oddana ruda z zadania [Torba pełna rudy](sekcje/zadania/rozdzial_i.md?id=torba-pełna-rudy))  
 - Grimes i jego kumpel w GD (Rozmawiamy z Grimesem, a ten planuje uciec, więc musimy przygotować 3 zwoje snu i przyjść nazajutrz. Na miejscu okazuje się, że były niepotrzebne, więc odprowadzamy ich przed kopalnie łączącą Khorinis z GD. Pojawiają się wtedy przy bramie przełęczy, skąd prowadzimy ich do obozu.  
 
 Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi że potrzebny jest kowal, będzie to Carl, który dołączy, jeśli oddaliśmy mu węgiel w 1r)
@@ -148,7 +148,7 @@ Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi że potrzebny
 **Ochroniarze**  
 - Gayvern (zgodzi się od razu)  
 - Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)  
-- Bilgot (po przyprowadzeniu go z górniczej doliny)
+- Bilgot (po przyprowadzeniu go z Górniczej Doliny)
 
 Po przyprowadzeniu co najmniej jednego strażnika zarządca prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
