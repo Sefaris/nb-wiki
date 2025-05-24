@@ -8,7 +8,7 @@ Diego prosi nas o przyniesienie jego sakiewki ze złotem. Znajdziemy ją w ciele
 
 ## Sprawa Diega
 
-Diego daje nam list, który mamy przekazać Gerbrandtowi. Idziemy do górnej części miasta i dajemy mu list. Gerbrant wynosi się z domu, mówimy o tym Diego.
+Diego prosi o przekazanie listu Gerbrandtowi w górnym mieście. Robimy to i wracamy do Diego.
 
 ## Pedro zdrajca
 
@@ -153,7 +153,7 @@ Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi że potrzebny
 Po przyprowadzeniu co najmniej jednego strażnika zarządca prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
 Ostatnim zadaniem będzie zdobycie schematu zbroi. Znajdziemy go w Opuszczonej Kopalni w GD nad przejściem do Khorinis, tam gdzie Płomień Eligora dla [gildii kupców](sekcje/gildie_poboczne/gildia_kupcow.md). Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
-> rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem
+> Rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem.
 
 ## Co z kopalnią?
 
