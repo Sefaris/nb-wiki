@@ -126,32 +126,33 @@ Po oczyszczeniu obozu Dextera Hagen chce nam dać na własność obóz i okolicz
 
 Zanim zaczniemy rekrutację musimy najpierw udać się do naszego obozu i pogadać ze strażnikiem na moście.
 
-Teraz musimy znaleźć zarządcę. Mogą to być Valeran lub Erol. Polecam Erola, gdyż Valeran przyda wam się do zadania dla kupców. Pytamy się Erola czy zostanie zarządcą obozu, a ten się zgadza, jeśli będziemy go opłacać.  
-Kiedy Erol będzie już w obozie prosi on nas o początkowe zasoby do obozu czyli 5 000 złota, 50 sztuk pieczonego mięsa, 25 ryb i 5 bochenków chleba (chleb pojawi się u Baltrama).
+Kolejny krok to znaleźć zarządcę. Mogą to być Valeran lub Erol. Polecam Erola, gdyż Valeran przyda się do zadania [Asystent](sekcje/gildie_poboczne/gildia_kupcow.md?id=asystent-rozdział-3). Pytamy się kandydata czy zostanie zarządcą obozu, a ten zgadza się, jeśli zgodzimy się na jego stawkę. Od teraz w każdej sprawie dotyczącej rozwoju naszego obozu rozmawiać będziemy z naszym zarządcą. 
 
-Teraz Erol mówi nam, że mamy zorganizować więcej ludzi: 
+Pierwszym zadaniem będzie przynieść zasoby potrzebne do rozkręcenia obozu: 5 000 złota, 50 sztuk pieczonego mięsa, 25 ryb i 5 bochenków chleba (chleb pojawi się u Baltrama).
 
-**Dostawcy żywności:**  
+Następnie zarządca mówi nam, że mamy zorganizować więcej ludzi: 
+
+**Dostawcy żywności**  
 - Farim i Niclas (od razu, wystarczy zagadać)  
 - Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)  
 
-**Kopacze:**  
+Po przyprowadzeniu przynajmniej jednego dostawcy dowiemy się, że potrzebny jest kucharz, chodzi o Eddę, która dołączy, jeśli pomogliśmy jej w 1r z posążkiem
+
+**Kopacze**  
 - Wąż (40 retoryki i oddana ruda z zadania "Torba pełna rudy")  
 - Snipes (50 retoryki i oddana ruda z zadania "Torba pełna rudy")  
 - Grimes i jego kumpel w GD (Rozmawiamy z Grimesem, a ten planuje uciec, więc musimy przygotować 3 zwoje snu i przyjść nazajutrz. Na miejscu okazuje się, że były niepotrzebne, więc odprowadzamy ich przed kopalnie łączącą Khorinis z GD. Pojawiają się wtedy przy bramie przełęczy, skąd prowadzimy ich do obozu.  
 
-**Ochroniarze:**  
+Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi że potrzebny jest kowal, będzie to Carl, który dołączy, jeśli oddaliśmy mu węgiel w 1r)
+
+**Ochroniarze**  
 - Gayvern (zgodzi się od razu)  
 - Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)  
 - Bilgot (po przyprowadzeniu go z górniczej doliny)
 
-Następnie Erol zagaduje nas o kowala i kucharza:  
-- Edda (dołączy, jeśli pomogliśmy jej w 1r z posążkiem)  
-- Carl (dołączy, jeśli oddaliśmy mu węgiel w 1r)
+Po przyprowadzeniu co najmniej jednego strażnika zarządca prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
-Po przyprowadzeniu co najmniej jednego strażnika Erol prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
-
-Ostatnie zadanie w obozie polega na znalezieniu schematu zbroi. Znajdziemy go w Opuszczonej Kopalni nad przejściem do Khorinis, tam gdzie Płomień Eligora dla gildii kupców. Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
+Ostatnim zadaniem będzie zdobycie schematu zbroi. Znajdziemy go w Opuszczonej Kopalni w GD nad przejściem do Khorinis, tam gdzie Płomień Eligora dla [gildii kupców](sekcje/gildie_poboczne/gildia_kupcow.md). Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
 > rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem
 
 ## Co z kopalnią?
