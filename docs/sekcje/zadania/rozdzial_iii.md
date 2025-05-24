@@ -149,7 +149,7 @@ Następnie Erol zagaduje nas o kowala i kucharza:
 - Edda (dołączy, jeśli pomogliśmy jej w 1r z posążkiem)  
 - Carl (dołączy, jeśli oddaliśmy mu węgiel w 1r)
 
-Po zebraniu powyższych osób Erol prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
+Po przyprowadzeniu co najmniej jednego strażnika Erol prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
 Ostatnie zadanie w obozie polega na znalezieniu schematu zbroi. Znajdziemy go w Opuszczonej Kopalni nad przejściem do Khorinis, tam gdzie Płomień Eligora dla gildii kupców. Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
 > rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem
