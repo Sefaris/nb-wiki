@@ -205,8 +205,7 @@ Ferd prosi nas o trzy eliksiry lecznicze, więc mu je oddajemy.
 
 ## Chciwy ork
 
-Ferd chce odzyskać swój pierścień, który zabrał mu Vakur-Shak. Idziemy do orka, który porozmawia z nami, jeśli damy mu 30 bryłek złota. Następnie ork żąda 50 bryłek za pierścień, ale mając odpowiednio dużo retoryki możemy go zastraszyć, dzięki czemu poza pierścieniem dostaniemy też eliksir siły.  
-> Jeśli nie mamy już bryłek złota, warto zainteresować się zadaniem ze Scattym z 4 rozdziału
+Ferd chce odzyskać swój pierścień, który zabrał mu Vakur-Shak. Idziemy do orka, który porozmawia z nami, jeśli damy mu 30 bryłek złota. Następnie ork żąda 50 bryłek za pierścień, ale mając odpowiednio dużo retoryki możemy go zastraszyć, dzięki czemu poza pierścieniem dostaniemy też eliksir siły. Jeśli nie mamy już bryłek złota, to zdobyć je możemy z zadań: [Złoto Scattyego](sekcje/zadania/rozdzial_iv.md?id=złoto-scattyego) lub [Dzienna norma rudy](#Dzienna-norma-rudy), możemy też sprawdzić u Lutero w Khorinis.
 
 ## Dziennik Crowe'a
 
@@ -235,7 +234,7 @@ Morrigan prosi nas o odnalezienie ojca Carla w Khorinis. Idziemy do kowala Carla
 
 ## Dzienna norma rudy
 
-Clovis prosi nas o przyniesienie 30 kawałków rudy żelaza, które możemy wykopać w okolicy.
+Clovis prosi nas o przyniesienie 30 kawałków rudy żelaza, które możemy wykopać w okolicy. W zamian daje 30 bryłek złota, czyli akurat tyle ile potrzebujemy dla Chciwego orka.
 
 ## Zapomniane wspomnienia
 
