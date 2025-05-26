@@ -60,6 +60,11 @@ Po przeczytaniu wszystkich kronik dowiadujemy się, że golem jest nieśmierteln
 
 Po naładowaniu pojawia się nam nowy wpis i mamy gotową runę na golema. Znajdujemy go robiąc misję [Bezgraniczna potęga](#bezgraniczna-potęga). Po zabiciu golema zadanie się kończy.
 
+## Kryształy duszy
+
+Zadanie zleca Xardas jak przyniesiemy mu jeden kryształ duszy. Wypadają one z Mrocznych Strażników, których znajdziemy min. na Pustyni Adanosa i w kopalniach ze sferami. Oddajemy kryształy i dostajemy specjalną miksturę podnoszącą statystyki.
+> Od tej pory możemy oddawać kryształy przy kaplicy Beliara za 5hp każdy.
+
 ## Bezgraniczna potęga
 __Zleca: Hokurn__
 
