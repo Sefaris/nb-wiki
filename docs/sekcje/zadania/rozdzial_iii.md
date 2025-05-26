@@ -66,11 +66,6 @@ Wybór nie ma znaczenia, gdyż nagrody są podobne. Dla dodatkowego doświadczen
 
 Sekob mówi nam, że jego dom zajęli zakapturzone typy. Zabijamy i wracamy do Sekoba po nagrodę.
 
-## Kryształy duszy
-
-Zadanie zleca Xardas jak przyniesiemy mu jeden kryształ duszy. Wypadają one z Mrocznych Strażników, których znajdziemy min. na Pustyni Adanosa i w kopalniach ze sferami. Oddajemy kryształy i dostajemy specjalną miksturę podnoszącą statystyki.
-> Od tej pory możemy oddawać kryształy przy kaplicy Beliara za 5hp każdy.
-
 ## Samotność Bengara
 
 Bengar mówi nam, że rolnicy uciekli i prosi o załatwienie ochrony na farmie.  
