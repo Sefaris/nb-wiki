@@ -213,8 +213,7 @@ Crowe mówi nam, że ork imieniem Kor-Shak zabrał mu dziennik. Idziemy do orka 
 
 ## Klucz do orkowego magazynu
 
-Gars prosi nas, abyśmy ukradli klucz do magazynu od Ar-Dagara. Dialog kradzieży kieszonkowej pojawi się pomimo braku umiejętności, po uzyskaniu klucza wracamy do Garsa.
-> Sami nie możemy w żaden sposób skorzystać z tego klucza
+Gars prosi nas, abyśmy ukradli klucz do magazynu od Ar-Dagara. Dialog kradzieży kieszonkowej pojawi się pomimo braku umiejętności, kradniemy i wracamy do Garsa. Sami nie możemy w żaden sposób skorzystać z tego klucza.
 
 ## Nowy kilof dla Elka
 
