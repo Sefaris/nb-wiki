@@ -50,7 +50,7 @@ Gor na Kosh zleca nam przyniesienie legendarnego artefaktu znanego jako Młot Ta
 
 ## Alternatywny składnik
 
-Po wykonaniu zadania [Magiczny Eliksir](#magiczny-eliksir) Ball Tyon zleci nam przyniesienie 5 żuwaczek polnej bestii, celem sprawdzenia czy nadają się do czegoś tak jak żuwaczki pełzaczy. Przynosimy i kończymy zadanie.
+Po wykonaniu zadania [Magiczny Eliksir](#magiczny-eliksir) Baal Tyon zleci nam przyniesienie 5 żuwaczek polnej bestii, celem sprawdzenia czy nadają się do czegoś tak jak żuwaczki pełzaczy. Przynosimy i kończymy zadanie.
 
 ## Zapasy stali
 
