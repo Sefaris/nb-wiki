@@ -620,7 +620,7 @@ __Zleca: Loa__
 Między 18:30 - 20:00 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy ją po cutscence, po czym dostajemy polecenie przynieść jej 3 prezenty (Uwaga! Za żaden nie przyjmujemy nagrody)
 
 - Poezja Myrtańska (Sprzedaje ją Matteo, czytamy -> oddajemy Galahadowi -> odkupujemy od Galahada -> zanosimy do Loi)
-- Naszyjnik z czarnych pereł (Wykonać zadanie [Narzędzia Matteo](##narzędzia-matteo) i przynieść mu 5 czarnych pereł oraz sztabkę złota)
+- Naszyjnik z czarnych pereł (Wykonać zadanie [Narzędzia Matteo](#narzędzia-matteo) i przynieść mu 5 czarnych pereł oraz sztabkę złota)
 - Niebieska Malwa (Kwiat znajdziemy po ukończeniu wątku Jarkendaru, niedaleko teleportu do Złotego Smoka)
 
 Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po oddaniu wszystkich przedmiotów Loa nas zaczepia i prosi o spotkanie w nocy w latarni Jacka tego samego dnia. Udajemy się do latarni Jacka o 00:00, a Loa powinna na nas czekać na szczycie Latarni. Polecam zrobić zapis o ~23:00 na wypadek nie pojawienia się Loi. Wybieramy odpowiednie opcje dialogowe po kolei:
