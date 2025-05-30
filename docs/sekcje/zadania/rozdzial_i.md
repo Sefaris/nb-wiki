@@ -428,7 +428,7 @@ __Zleca: Raoul__
 
 > Zadanie dostępne po dołączeniu do jakiejkolwiek gildii
 
-Raoul prosi nas o przyniesienie skóry czarnego trolla. Tą z Khorinis lepiej oddać Falkowi, ale kolejną zdobędziemy już w Jarkendarze.
+Raoul prosi nas o przyniesienie skóry czarnego trolla. Tą z Khorinis lepiej oddać Falkowi, ale kolejną zdobędziemy już na farmie Oswalda bądź w Jarkendarze.
 
 ## Do dna
 __Zleca: Randolph__
