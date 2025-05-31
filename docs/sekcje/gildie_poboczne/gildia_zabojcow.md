@@ -1,6 +1,6 @@
 # Gildia Zabójców
 
-> Są dwa sposoby, aby dostać się do gildii zabójców:
+> Są dwa sposoby na dołączenie do gildii zabójców:
 > 1. Wykonując zadanie Gallahada poproś Gerbrandta o napisanie listu. Ten zleci Ci zadanie zaniesienia notatki i mieszka do karczmy Orlana o północy. Podczas rozmowy z nieznajomym powiedz mu prawdę, że to nie Ty jesteś zleceniodawcą, lecz nie wydaj, kto nim jest. Później zapytaj Gerbranta kim był człowiek, którego spotkałeś. Powie ci, że przekonasz się, jeśli o 22:30-23:00 pójdziesz za budynek paladynów w górnym mieście. Idziemy tam i z daleka obserwujemy, jak nieznajomy z tawerny zabija Wambo. Teraz konfrontujemy Asmala i możemy dołączyć do gildii zabójców.
 > 2. Tylko jeśli jesteś w milicji! Dołącz do gildii złodziei w Khorinis. Następnie dowiesz się o zabójcach od Ramireza. Idź do Lorda Andre, który da ci zadanie. Idź teraz do Cassii, potem do Ramireza, a potem na plac wisielców i porozmawiaj z Gilianem. Następnej nocy idź do domku przy ławce na której siedzi Jack, a spotkasz Giliana. Teraz możemy dołączyć do gildii jako strażnik miejski.
 

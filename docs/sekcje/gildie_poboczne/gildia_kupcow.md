@@ -1,8 +1,8 @@
 # Gildia Kupców
 
-> Są 2 sposoby na dołączenie do gildii kupców:  
-> - Pomagamy Erolowi w zadaniu Napadnięci kupcy, za co dostajemy list polecający
-> - Pomagamy Nigelowi odzyskać złoto (zadanie "Dług Kupca" w wątku zabójców) i wtedy również dostajemy list polecający
+> Są dwa sposoby na dołączenie do gildii kupców:  
+> 1. Pomagamy Erolowi w zadaniu Napadnięci kupcy, za co dostajemy list polecający
+> 2. Pomagamy Nigelowi odzyskać złoto (zadanie "Dług Kupca" w wątku zabójców) i wtedy również dostajemy list polecający
 >
 > List ten dajemy Lutero w górnym mieście i dołączamy do gildii kupców.
 

@@ -1,9 +1,8 @@
 # Gildia Złodziei
 
-Są dwa sposoby na dołączenie do gildii złodziei
-
-1. Wsadzamy do więzienia jednego z członków gildii (Rengaru/Halvor/Nagur)
-2. Robimy zadania dla całej powyższej trójki.
+> Są dwa sposoby na dołączenie do gildii złodziei:
+> 1. Wsadzamy do więzienia jednego z członków gildii (Rengaru/Halvor/Nagur)
+> 2. Robimy zadania dla całej powyższej trójki.
 
 Niezależnie od wyboru, po wszystkim idziemy do Kardifa, który opowiada nam o spotkaniu za chatą Halvora. Tam walczymy z Atillą lub otrzymujemy od niego klucz, który otwiera kanały.
 
