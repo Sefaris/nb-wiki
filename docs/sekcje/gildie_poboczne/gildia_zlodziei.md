@@ -1,6 +1,6 @@
 # Gildia Złodziei
 
-Są dwa sposoby na dołączenie do Gildii złodziei
+Są dwa sposoby na dołączenie do gildii złodziei
 
 1. Wsadzamy do więzienia jednego z członków gildii (Rengaru/Halvor/Nagur)
 2. Robimy zadania dla całej powyższej trójki.
@@ -9,14 +9,14 @@ Niezależnie od wyboru, po wszystkim idziemy do Kardifa, który opowiada nam o s
 
 ## Fałszywy posłaniec
 
-Pytając Kardiffa o specjalne zlecenie ten wysyła nas do Nagura, który mówi nam, że zabił posłańca Baltrama i sugeruje, abyśmy zostali nowym posłańcem i przynieśli mu paczkę Baltrama.  
+Pytając Kardiffa o specjalne zlecenie, ten wysyła nas do Nagura, który mówi nam, że zabił posłańca Baltrama i sugeruje, abyśmy zostali nowym posłańcem i przynieśli mu paczkę Baltrama.  
 Teraz standardowo idziemy do Baltrama wziąć zadanie: [Dostawa Baltrama](https://nb.mody.sefaris.eu/#/sekcje/zadania/rozdzial_i?id=dostawa-baltrama) i udajemy się na farmę Akila. Bierzemy paczkę i mamy dwie opcje:  
 - Oddać ją Baltramowi i wsadzić Nagura za kratki (Najkorzystniej jest wydać akurat jego, jeśli nie planujemy pokojowo dołączać do złodziei)  
 - Oddać przesyłkę Nagurowi (Baltram nie wyciągnie z tego żadnych konsekwencji)
 
 ## Najazdy bandytów
 
-Hakon na targowisku mówi nam, że został napadnięty i obrabowany przez bandytów poza miastem. Bandyci są w jaskini obok farmy Akila, więc zabijamy ich i zbieramy ze skrzyni specjalną rybę. Otwieramy ją i dostajemy śmierdzącą notatkę (okazuje się, że Halvor handluje z bandytami). Na koniec pogadajcie z Hakonem by zakończyć zadanie.  
+Hakon na targowisku mówi nam, że został napadnięty i obrabowany przez bandytów poza miastem. Bandyci są w jaskini obok farmy Akila, więc zabijamy ich i zbieramy ze skrzyni specjalną rybę. Otwieramy ją i dostajemy śmierdzącą notatkę (okazuje się, że Halvor handluje z bandytami). Na koniec pogadajcie z Hakonem, by zakończyć zadanie.  
 **Nie poleca się go wydawać, jako że to po prostu strzał w kolano, biorąc pod uwagę ilość złota, którą możemy u niego zyskać.**
 
 ## Bezczelny złodziej
@@ -58,7 +58,7 @@ Po zebraniu wszystkich pucharów zanosimy je Cassii i odbieramy nagrodę.
 
 Cassia prosi nas o przyniesienie oryginalnej statuetki Innosa:
 
-Oryginalne statuetki znajdują się w jaskini z goblinami (czyścimy z Gregiem) i w ciele bossa goblina obok jaskini z próbą ognia. Fałszywą statuetkę mają bandyci obok farmy Akila. Mając statuetki wracamy do Cassi. Możemy oddac jej:
+Oryginalne statuetki znajdują się w jaskini z goblinami (czyścimy z Gregiem) i w ciele bossa goblina obok jaskini z próbą ognia. Fałszywą statuetkę mają bandyci obok farmy Akila. Mając statuetki wracamy do Cassi. Możemy oddać jej:
 - tylko fałszywkę - najgorsza nagroda
 - tylko 1 oryginał - średnia nagroda
 - fałszywkę i 1 oryginał - najlepsza nagroda (mikstura zręczności)
@@ -76,12 +76,12 @@ Cassia prosi nas o przyniesienie instrumentów muzycznych. Jeżeli skończyliśm
 
 ## Miecz Arcymistrza (Rozdział 2)
 
-Po wyuczeniu się wszystkich receptur na szpady, Ramirez opowie nam o specjalnym mieczu Rączki. Rączka znajduje się w Forcie Azgan, jeżeli mamy wystarczająco zręczności to pojawi się opcja kradzieży kieszonkowej. Koniecznie trzeba oddać skradziony mieszek Rączce, za co on da nam klucz do swojej chaty w Górniczej Dolinie. Po znalezieniu schematu możemy go przeczytać, ale musimy znać wszystkie poprzednie schematy na szpady.
+Po wyuczeniu się wszystkich receptur na szpady, Ramirez opowie nam o specjalnym mieczu Rączki. Rączka znajduje się w Forcie Azgan, jeżeli mamy wystarczająco zręczności to pojawi się opcja kradzieży kieszonkowej. Koniecznie trzeba oddać skradziony mieszek Rączce, za co da nam klucz do swojej chaty w Górniczej Dolinie. Po znalezieniu schematu możemy go przeczytać, ale musimy znać wszystkie poprzednie schematy na szpady.
 > Schematy można znajdować w grze lub kupować od Ramireza. Tylko pierwsze 3 schematy są dostępnie jedynie do kupna.
 
 ## Rubin dla Cassii (Rozdział 3)
 
-Cassia mówi nam że Paladyni przywieźli wielki rubin, znajduje się on w skrzyni obok Lariusa w ratuszu. Potrzebujemy do tego 130 zręczności lub wypitej mikstury odporności na hita, ponieważ w innym wypadku skrzynia nas zabije.
+Cassia mówi nam, że Paladyni przywieźli wielki rubin, znajduje się on w skrzyni obok Lariusa w ratuszu. Potrzebujemy do tego 130 zręczności lub wypitej mikstury odporności na hita, ponieważ w innym wypadku skrzynia nas zabije.
 > Nagrodą jest umiejętność zmniejszająca koszt wytrzymałości podczas sprintu o 50%
 
 ## Skarb smoków (Rozdział 4)

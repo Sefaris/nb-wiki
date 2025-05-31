@@ -1,7 +1,7 @@
 # Gildia Kupców
 
 > Są 2 sposoby na dołączenie do gildii kupców:  
-> - Pomożemy Erolowi w zadaniu Napadnięci kupcy wtedy dostajemy list polecający
+> - Pomagamy Erolowi w zadaniu Napadnięci kupcy, za co dostajemy list polecający
 > - Pomagamy Nigelowi odzyskać złoto (zadanie "Dług Kupca" w wątku zabójców) i wtedy również dostajemy list polecający
 >
 > List ten dajemy Lutero w górnym mieście i dołączamy do gildii kupców.
@@ -19,7 +19,7 @@ Lutero daje nam listę i każe iść po przesyłkę do Bengara, a potem zanieś�
 Lutero daje nam 500 sztuk złota i każe kupić wino w Klasztorze po rozsądnej cenie. Idziemy do klasztoru do Goraxa i zaczynamy negocjacje.
 
 > Najlepsza oferta, którą można wytargować, to 50 sztuk złota lub mniej
-> Taką cenę można uzyskać automatycznie będąc Czarnoksiężnikiem lub posiadając conajmniej 50 retoryki
+> Taką cenę można uzyskać automatycznie będąc Czarnoksiężnikiem lub posiadając co najmniej 50 retoryki
 
 Maksymalnie można zejść do 50 sztuk złota i to polecam, bo dostaniecie od Lutero 1 retoryki. Podczas ustalania ceny zniżamy cenę o 10%, a jak nastrój spadnie za nisko, to podwyższamy o 5%, aż nastrój Goraxa wróci do normy i robimy tak, aż cena wyniesie poniżej 50 złota.  
 Wino zanosimy Lutero.
@@ -51,8 +51,8 @@ Lutero mówi nam, abyśmy dowiedzieli się, ile zapasów mają paladyni. Idziemy
 
 ## Umowa z Onarem
 
-W tym zadaniu Lutero wysyła nad do Onara. Musimy wynegocjować, aby Onar zgodził się sprzedawać swoje towary gildii kupców. W rozmowie z Onarem wybieramy takie dialogi:  
-**Pewien sprzedawca oferuję ci umowę.  
+W tym zadaniu Lutero wysyła nas do Onara. Musimy wynegocjować, aby Onar zgodził się sprzedawać swoje towary gildii kupców. W rozmowie z Onarem wybieramy takie dialogi:  
+**Pewien sprzedawca oferuje ci umowę.  
 Zapomnij o tym.  
 Wystarczy to, że chce zarobić więcej.  
 Nie twoja sprawa!**  
@@ -60,7 +60,7 @@ Po wybraniu tych dialogów Onar się zgadza, a wtedy wracamy do Lutero.
 
 ## Antyki (Rozdział 3)
 
-Lutero zleca nam przyniesienie 3 marmurowych statuetek. Musimy się udać do Zamku i dostać do pomieszczenia z Gomezem, statuetki są w skrzyni za nim, ale pierw musimy znaleźć 2 klucze:
+Lutero zleca nam przyniesienie 3 marmurowych statuetek. Musimy się udać do Zamku i dostać do pomieszczenia z Gomezem, statuetki są w skrzyni za nim, ale najpierw musimy znaleźć 2 klucze:
 
 - Pierwszy klucz jest w głównym budynku, w którym przebywa Garond, mianowicie leży na stole w jednym z pokoi na piętrze.
 - Drugi klucz znajduje się w pokoju Engora, dokładnie jest na półce na ścianie (Pokój Engora znajduje się nad miejscem, gdzie w ciągu dnia Engor handluje z nami).
@@ -73,7 +73,7 @@ Zadanie zleca Gomez. Należy wykonać w odpowiedniej kolejności trzy poniższe 
 
 1. Musimy uzyskać wybaczenie dla Gomeza od 3 bogów (Innosa i Beliara przy kapliczce, wymagane jest dużo karmy lub osiągnięcia Wojownik Innosa i Ręka Beliara, natomiast przebaczenia Adanosa udzieli Vatras w mieście)
 2. Musimy teraz udać się do Starej Kopalni i uzyskać tam przebaczenie 10 dusz kopaczy (to takie zjawy zombie musimy do nich zagadać, po czym je zabić).
-3. Wracamy do zamku i idziemy do budynku, w którym w G1 przebywali magowie. Stajemy na piętrze na Pentagramie i wzywamy zmarłych magów ognia za pomocą notatki, którą dał na Gomez. Prosimy Corristo o wybaczenie dla Gomeza, ten jednak zgodzi się kiedy oczyścimy dla niego kryptę ze zła. Jaskinia Bólu znajduje się obok starej wieży Xardasa, musimy przejść przez most. Czyścimy tam wszelkie plugastwo, po czym wracamy do Corristo i zyskujemy tym samym przebaczenie od magów ognia. Wracamy do Gomeza i mówimy mu, że wykonaliśmy wszystkie jego polecenia, W nagrodę Gomez daje na klucz do skrzyni z marmurowymi statuetkami z zadania Antyki.
+3. Wracamy do zamku i idziemy do budynku, w którym w G1 przebywali magowie. Stajemy na piętrze na Pentagramie i wzywamy zmarłych magów ognia za pomocą notatki, którą dał na Gomez. Prosimy Corristo o wybaczenie dla Gomeza, ten jednak zgodzi się kiedy oczyścimy dla niego kryptę ze zła. Jaskinia Bólu znajduje się obok starej wieży Xardasa, musimy przejść przez most. Czyścimy tam wszelkie plugastwo, po czym wracamy do Corristo i zyskujemy tym samym przebaczenie od magów ognia. Wracamy do Gomeza i mówimy mu, że wykonaliśmy wszystkie jego polecenia, W nagrodę Gomez daje nam klucz do skrzyni z marmurowymi statuetkami z zadania Antyki.
 
 ## Czarna Brendy (Rozdział 3)
 
@@ -94,7 +94,7 @@ Najlepszym wyborem jest Valeran, gdyż w nagrodę da nam książkę +1% 1H/2H, j
 
 ## Ochrona dla Sary (Rozdział 3)
 
-Zadanie zleca Lutero prosi nas, abyśmy złożyli Sarze propozycję dołączenia do gildii. W tym celu rozmawiamy z Lordem Andre, a następnie z Sarą. Teraz przesiaduje ona na ławce koło gospody Coragona. Rozmawiamy z nią i przepraszamy za to, że wsadziliśmy ją do więzienia. Sara zgodzi się dołączyć gdy wykonany dla niej 3 zadania (opisane niżej). Po ich wykonaniu Sara dołączy do gildii kupców.
+Zadanie zleca Lutero. Prosi on nas, abyśmy złożyli Sarze propozycję dołączenia do gildii. W tym celu rozmawiamy z Lordem Andre, a następnie z Sarą. Teraz przesiaduje ona na ławce koło gospody Coragona. Rozmawiamy z nią i przepraszamy za to, że wsadziliśmy ją do więzienia. Sara zgodzi się dołączyć gdy wykonamy dla niej 3 zadania (opisane niżej). Po ich wykonaniu Sara dołączy do gildii kupców.
 
 ## Żywność dla Sary (Rozdział 3)
 

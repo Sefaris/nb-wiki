@@ -28,7 +28,7 @@ Domyślnie projekt uruchamia się pod adresem: `http://localhost:3000`.
 
 ## Dokonywanie zmian
 
-Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach występujących w tyn repozytorium, utwórz forka, dokonaj zmian, a następnie w utwórz Pull Requesta. Nie zapomnij dopisać się w sekcji [Autorzy](#Autorzy)!
+Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach występujących w tym repozytorium, utwórz forka, dokonaj zmian, a następnie w utwórz Pull Requesta. Nie zapomnij dopisać się w sekcji [Autorzy](#Autorzy)!
 
 ## Autorzy
 
@@ -46,3 +46,4 @@ Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach wystę
   - FortyNest22
   - Deetom554
   - Delph
+  - Katspa
