@@ -126,7 +126,7 @@ Zadanie jest trochę pogmatwane. Jeżeli nie wiesz na co się zdecydować to naj
 
 ## Mora Ulartu
 
-Udajemy się do Xardasa i pytamy o runę, ten nam mówi, że Beliar dam nam runę w zamian za inny artefakt amulet Triamar. Idziemy teraz do portu, a przed posągiem paladyna w porcie powinien pojawić się paladyn Melchior. Szantażujemy go, a ten wyjawia nam, że amulet znajduje się na wyspie Etlu, a klucz ma sam Hagen. Okradamy Hagena lub odkupujemy klucz od ogrodnika. Idziemy teraz do Xardasa i mówimy o wszystkim. Teraz możemy udać się na Etlu i zabrać amulet w sposób pokojowy lub zabić wszystkich paladynów. Wejście do Etlu znajduje się w jaskini przy zbieraczach ziela niedaleko czarnego trolla.
+Udajemy się do Xardasa i pytamy o runę. Ten mówi nam, że Beliar dam nam runę w zamian za inny artefakt - amulet Triamar. Idziemy teraz do portu, a przed posągiem paladyna w porcie powinien pojawić się paladyn Melchior. Szantażujemy go, a ten wyjawia nam, że amulet znajduje się na wyspie Etlu, a klucz ma sam Hagen. Okradamy Hagena lub odkupujemy klucz od ogrodnika. Idziemy teraz do Xardasa i mówimy o wszystkim. Teraz możemy udać się na Etlu i zabrać amulet w sposób pokojowy lub zabić wszystkich paladynów. Wejście do Etlu znajduje się w jaskini przy zbieraczach ziela niedaleko czarnego trolla.
 > Zabicie paladynów jest bardziej opłacalną opcją, jeżeli jednak nie chcemy tego robić to polecam zaopatrzyć się w miksturę niewidzialności.
 
 Jeśli chcemy uzyskać amulet w "pokojowy" sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie może tego zrobić Paladyn ani Mag Ognia). Przed modlitwą zapisz grę.  

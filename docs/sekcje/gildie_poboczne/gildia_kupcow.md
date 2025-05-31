@@ -27,7 +27,7 @@ Wino zanosimy Lutero.
 ## Przysługa dla Jory
 __Zleca: Lutero__
 
-Lutero wspomina nam, że ma problemy z Zurisem, gdyż ten odmawia dzierżawy miejsca, w którym handluje Jora. Idziemy do Zurisa i udajemy, że nie słyszeliśmy o Gildii Kupców i że martwimy się o Jorę. Ten nam mówi o sporze z Lutero, więc do niego idziemy i dowiadujemy się o zaginionym eliksirze. Teraz w Górniczej Dolinie udajemy się do Grimesa (który jest w kopalni Marcosa, na prawo od zejścia z przełęczy). Jeśli mieliśmy wystarczającą ilość retoryki, to dostaniemy od niego klucz, który otwiera skrzynię, którą znajdziemy na poniższym filmie.
+Lutero wspomina nam, że ma problemy z Zurisem, gdyż ten odmawia dzierżawy miejsca, w którym handluje Jora. Idziemy do Zurisa i udajemy, że nie słyszeliśmy o Gildii Kupców i że martwimy się o Jorę. Ten mówi nam o sporze z Lutero, więc do niego idziemy i dowiadujemy się o zaginionym eliksirze. Teraz w Górniczej Dolinie udajemy się do Grimesa (który jest w kopalni Marcosa, na prawo od zejścia z przełęczy). Jeśli mieliśmy wystarczającą ilość retoryki, to dostaniemy od niego klucz, który otwiera skrzynię, którą znajdziemy na poniższym filmie.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I0VAum9-g3o?si=lEHaNop1nCO-cBhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
