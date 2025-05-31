@@ -145,7 +145,7 @@ Po zabiciu wszystkich potworów wracamy do Falka.
 
 ## Dzik Barema (Rozdział 2)
 
-Barem mówi nam że w lesie na północy pojawił się niebezpieczny dzik.  
+Barem mówi nam, że w lesie na północy pojawił się niebezpieczny dzik.  
 Zwierzę znajduje się niedaleko kamiennego kręgu w lesie na północy (Nad gorzelnią Vina). Zabijamy go i wracamy do Barema.
 
 ## Polowanie na orków (Rozdział 2)
