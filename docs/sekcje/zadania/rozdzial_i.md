@@ -429,6 +429,7 @@ __Zleca: Raoul__
 > Zadanie dostępne po dołączeniu do jakiejkolwiek gildii
 
 Raoul prosi nas o przyniesienie skóry czarnego trolla. Tą z Khorinis lepiej oddać Falkowi, ale kolejną zdobędziemy już w Jarkendarze.
+W tym celu możemy wykorzystać kolejny zwój zmniejszenia potwora, który otrzymujemy w ramach zadania [Gorzałka Bartholomewa](sekcje/zadania/rozdzial_ii?id=gorzałka-bartholomewa)
 
 ## Do dna
 __Zleca: Randolph__
@@ -623,7 +624,7 @@ Między 18:30 - 20:00 za kuchnią Thekli, spotkamy tańczącą Loe. Zagadujemy j
 - Naszyjnik z czarnych pereł (Wykonać zadanie [Narzędzia Matteo](#narzędzia-matteo) i przynieść mu 5 czarnych pereł oraz sztabkę złota)
 - Niebieska Malwa (Kwiat znajdziemy po ukończeniu wątku Jarkendaru, niedaleko teleportu do Złotego Smoka)
 
-Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po oddaniu wszystkich przedmiotów Loa nas zaczepia i prosi o spotkanie w nocy w latarni Jacka tego samego dnia. Udajemy się do latarni Jacka o 00:00, a Loa powinna na nas czekać na szczycie Latarni. Polecam zrobić zapis o ~23:00 na wypadek nie pojawienia się Loi. Wybieramy odpowiednie opcje dialogowe po kolei:
+Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po oddaniu wszystkich przedmiotów Loa nas zaczepia i prosi o spotkanie w nocy w latarni Jacka **tego samego dnia**. Udajemy się do latarni Jacka o 00:00, a Loa powinna na nas czekać na szczycie Latarni. Polecam zrobić zapis o ~23:00 na wypadek nie pojawienia się Loi. Wybieramy odpowiednie opcje dialogowe po kolei:
 
 - Robi wrażenie!
 - Moje myśli płyną podobnym torem, co twoje.

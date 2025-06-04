@@ -126,7 +126,7 @@ Zadanie jest trochę pogmatwane. Jeżeli nie wiesz na co się zdecydować to naj
 
 ## Mora Ulartu
 
-Udajemy się do Xardasa i pytamy o runę, ten nam mówi że Beliar dam nam runę w zamian za inny artefakt amulet Triamar. Idziemy teraz do portu, a przed posągiem paladyna w porcie powinien pojawić się paladyn Melchior. Szantażujemy go, a ten wyjawia nam, że amulet znajduje się na wyspie Etlu, a klucz ma sam Hagen. Okradamy Hagena lub odkupujemy klucz od ogrodnika. Idziemy teraz do Xardasa i mówimy o wszystkim. Teraz możemy udać się na Etlu i zabrać amulet w sposób pokojowy lub zabić wszystkich paladynów. Wejście do Etlu znajduje się w jaskini przy zbieraczach ziela niedaleko czarnego trolla.
+Udajemy się do Xardasa i pytamy o runę. Ten mówi nam, że Beliar dam nam runę w zamian za inny artefakt - amulet Triamar. Idziemy teraz do portu, a przed posągiem paladyna w porcie powinien pojawić się paladyn Melchior. Szantażujemy go, a ten wyjawia nam, że amulet znajduje się na wyspie Etlu, a klucz ma sam Hagen. Okradamy Hagena lub odkupujemy klucz od ogrodnika. Idziemy teraz do Xardasa i mówimy o wszystkim. Teraz możemy udać się na Etlu i zabrać amulet w sposób pokojowy lub zabić wszystkich paladynów. Wejście do Etlu znajduje się w jaskini przy zbieraczach ziela niedaleko czarnego trolla.
 > Zabicie paladynów jest bardziej opłacalną opcją, jeżeli jednak nie chcemy tego robić to polecam zaopatrzyć się w miksturę niewidzialności.
 
 Jeśli chcemy uzyskać amulet w "pokojowy" sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie może tego zrobić Paladyn ani Mag Ognia). Przed modlitwą zapisz grę.  
@@ -223,7 +223,7 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
     Po odwiedzeniu wszystkich kopalni wracamy do Garonda i zdajemy mu relacje co się dzieje z rudą, wtedy dostajemy upragniony dowód.
 8.  Wracamy do Khorinis zaczyna się 3 rozdział, gadamy z poszukiwaczem na przełęczy, po czym go zabijamy, gadamy z Lesterem, który mówi nam byśmy jak najszybciej udali się do Xardasa. Gadamy z Xardasem, potem z Hagenem i oddajemy mu dowód. Ten wysyła nas do Klasztoru po oko Innosa, gadamy z Pyrokarem i okazuje się, że oko zostało skradzione przez jednego z nowicjuszy Pedra.
 9.  Wychodzimy z klasztoru, gadamy z Jergenem następnie wskakujemy do rzeki i płyniemy tak długo aż natrafimy na włóczęgę, gadamy z nim i idziemy w stronę słonecznego kręgu, gadamy po drodze z Grimbaldem i zabijamy dwóch bandytów.
-10. Idziemy do słonecznego kręgu, zabijamy poszukiwaczy i zabieramy Oko innosa, okazuje się że amulet jest uszkodzony. Udajemy się do Pyrokara, potem Vatrasa, który mówi żeby iść do jakiegoś kowala i naprawić fizyczne uszkodzenia, natomiast by przywrócić moc amuletowi trzeba mocy wyznawcy każdego z bogów Innosa, Beliara i Adanosa.
+10. Idziemy do słonecznego kręgu, zabijamy poszukiwaczy i zabieramy Oko innosa. Okazuje się, że amulet jest uszkodzony. Udajemy się do Pyrokara, potem Vatrasa, który mówi żeby iść do jakiegoś kowala i naprawić fizyczne uszkodzenia, natomiast by przywrócić moc amuletowi trzeba mocy wyznawcy każdego z bogów Innosa, Beliara i Adanosa.
 
 11. Amulet naprawimy u Benneta jeśli wcześniej zrobiliśmy zadanie (Bennet siedzi w więzieniu).
 

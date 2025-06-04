@@ -2,7 +2,7 @@
 
 ## Droga do obozu myśliwych
 
-Żeby dołączyć do myśliwych trzeba udać się do ich obozu (Obóz znajduje się obok schodów do farmy Bangara) i zagadać z Falkiem. Zleci on nam przyniesienie 3 skór cieniostwora. Sposoby zdobycia:  
+Żeby dołączyć do myśliwych, trzeba udać się do ich obozu (Obóz znajduje się obok schodów do farmy Bangara) i zagadać z Falkiem. Zleci on nam przyniesienie 3 skór cieniostwora. Sposoby zdobycia:  
 - W namiocie obok wilków Pepe na farmie Onara  
 - Przy bandytach w jaskini obok farmy Akila  
 - W namiocie bandytów za farmą Sekoba
@@ -65,7 +65,7 @@ Raff potrzebuje nowego łuku. Chodzi o łuk kompozytowy, który znajduje się w 
 
 ## Specjalna broń dla Raffa
 
-Najpierw musimy wejść w towary, które oferuje na sprzedaż Raff a potem zagadać do niego że ma ciekawy wybór łuków. Wtedy Raff zleci nam przyniesienie mu specjalnej broni. Będzie nią kusza Egzekucjoner, którą otrzymamy dopiero pod koniec wątku orków w Dolinie Cieni. Szkoda sobie zaprzątać głowy tą misją w początkowym stadium gry.
+Najpierw musimy wejść w towary, które oferuje na sprzedaż Raff, a potem zagadać do niego, że ma ciekawy wybór łuków. Wtedy Raff zleci nam przyniesienie mu specjalnej broni. Będzie nią kusza Egzekucjoner, którą otrzymamy dopiero pod koniec wątku orków w Dolinie Cieni. Szkoda sobie zaprzątać głowy tą misją w początkowym stadium gry.
 > nagrodą będzie nauka kusznictwa +5%
 
 ## Jajo Topielca
@@ -120,7 +120,7 @@ W tym celu udajemy się do Jarkendaru, gdzie musimy zebrać 5 notatek:
 2. Przy ognisku obok jeziora, gdzie schodziliśmy w dół z Jackiem Aligatorem. Znajdujemy tam dziwną rybę i wyjmujemy z niej notatkę, którą oczywiście czytamy.  
 3. Na skałce nad małym jeziorkiem w głębi kanionu obok biblioteki. Znajdziemy na niej butelkę, w której jest notatka prowadząca nas dalej.  
 4. Idąc kawałek prosto przed siebie po polowaniu na błotne węże z Loganem w pobliżu schodów prowadzących do jaskini łączącej bagno z kanionem. Znajdziemy tam obozowisko, przy którym będzie notatka.  
-5. Na bagnach, przy obozowisku niedaleko jaskini Juana. Wychodząc z obozu bandytów trzymaj się lewej ściany
+5. Na bagnach, przy obozowisku niedaleko jaskini Juana. Wychodząc z obozu bandytów, trzymaj się lewej ściany
 
 Teraz musimy znaleźć samicę polnego pełzacza. Znajduję się ona w okolicy domu uzdrowicieli na bagnie. Zabijamy ją, zabieramy z ciała amulet Bena i zanosimy go Falkowi.
 
@@ -145,8 +145,8 @@ Po zabiciu wszystkich potworów wracamy do Falka.
 
 ## Dzik Barema (Rozdział 2)
 
-Barem mówi nam że w lesie na północy pojawił się niebezpieczny dzik.  
-Zwierze znajduje się niedaleko kamiennego kręgu w lesie na północy (Nad gorzelnią Vina), zabijamy go i wracamy do Barema.
+Barem mówi nam, że w lesie na północy pojawił się niebezpieczny dzik.  
+Zwierzę znajduje się niedaleko kamiennego kręgu w lesie na północy (Nad gorzelnią Vina). Zabijamy go i wracamy do Barema.
 
 ## Polowanie na orków (Rozdział 2)
 

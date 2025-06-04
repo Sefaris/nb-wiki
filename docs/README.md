@@ -29,6 +29,7 @@ Serdeczne podziękowania dla **Marka Z** — autora oryginalnej wersji solucji. 
 - FortyNest22
 - Deetom554
 - Delph
+- Katspa
 ---
 
 ## Jak aktualizować solucję

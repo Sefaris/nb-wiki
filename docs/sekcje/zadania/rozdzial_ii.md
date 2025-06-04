@@ -397,7 +397,7 @@ Zadanie zleca Saturas, polega ono na przejściu wszystkich pułapek w świątyni
 
 ## Złe wieści
 
-Będąc pierwszy raz w GD schodząc z przełęczy spotkamy Jergana. Zleci nam zaniesienie wieści o śmierci paladyna do Orika w zamku..
+Będąc pierwszy raz w GD schodząc z przełęczy spotkamy Jergana. Zleci nam zaniesienie wieści o śmierci paladyna do Orika w zamku.
 
 ## Ślady ciemności
 
