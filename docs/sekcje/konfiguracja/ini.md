@@ -207,34 +207,28 @@ Włączenie zadań, które zostały usunięte w patchu z areną (działa od nowe
 
 Lista zadań:
 
-<<<<<<< HEAD
 - Błąd lorda Andre
 - Nóż Hildy
 - Facet bez dziury chodzi ponury
 - Loa wspomnienia
 - Problematyczny strażnik
-=======
 - Błąd Lorda Andre
 - Nóż Hildy
 - Facet bez dziury chodzi ponury
 - Zapomniane wspomnienia Loi
 - Kłopotliwy strażnik
->>>>>>> 09a9f8e (Poprawiony opis wyłączonych zadań)
 - Nekromanta w Khorinis
 - Przebaczenie dla zdrajcy
 - Obawy Pepe
 - Poszukiwania nowicjusza
 - Szybki sposób na zarobek
 - Zbrodnia i kara
-<<<<<<< HEAD
 - Zadanie ze Świstakiem
 - Kłopoty Parcivala
 - Zadanie z Miltenem (od Brutusa)
-=======
 - Cień w potrzebie
 - Kłopoty Parcivala
 - Magiczne zbawienie
->>>>>>> 09a9f8e (Poprawiony opis wyłączonych zadań)
 - Przeklęte dusze
 - Orkowie nad jaskinią
 - Statek dla Sylvio
