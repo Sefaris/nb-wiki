@@ -536,7 +536,7 @@ Netbek prosi nas, abyśmy pozbyli się wielkiego trolla w jego lesie. Chodzi o b
 
 ## Przewaga taktyczna
 
-#### Nagrodą za to zadanie będzie [broń dla Gonzalesa](sekcje/zadania/rozdzial_i?id=broń-dla-gonzalesa)
+#### Nagrodą za to zadanie będzie [ broń dla Gonzalesa](sekcje/zadania/rozdzial_i?id=broń-dla-gonzalesa)
 
 Parcival zleca nam zabicie orków kuszników, herszta, a także pobliskich wojowników, którzy znajdują się na tym klifie. Po zabiciu wszystkich wracamy do Parcivala po nagrodę.  
 
