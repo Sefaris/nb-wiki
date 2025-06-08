@@ -554,10 +554,11 @@ Zanim będziemy mogli wyruszyć do Górniczej Doliny, Hagen każe nam się dowie
 
 ## Stary przyjaciel Lee
 
-Zadanie dostaniemy od Lee w drugim rozdziale. Lee prosi o odnalezienie jego starego przyjaciela Dariusa. Idziemy do Śnieżnych Gór Orków i szukamy drewnianego fortu (punkt 2 na mapie). Włamujemy się do małego magazynu w forcie, pojawia się najemnik Adelhard i dowiadujemy się o losie Dariusa. Wyjdząc z fortu na lewo na wzgórzach powinien być ork szaman (punkt 4 na mapie). Gor-Kar jest jedynym orkiem, który póki co nas nie atakuje, więc opowie nam o wojnie klanów, po czym wyśle nas do lidera. Obóz orków znajduje się tu (punkt 6 na mapie):
+Zadanie dostaniemy od Lee w drugim rozdziale, prosi on nas o odnalezienie jego starego przyjaciela Dariusa. Idziemy do [Śnieżnych Gór Orków](sekcje/watki/sniezne_gory_orkow) i szukamy drewnianego fortu (punkt 2 na mapie). Będąc tam szukamy pomieszczenia, w którym na stole leży mięsko i zabieramy je, przez co za naszymi plecami pojawia się najemnik Adelhard i każe oddawać jedzenie. Gadamy z nim i dowiadujemy się o losie Dariusa - zaginionego przyjaciela Lee. Wychodząc z fortu na lewo na wzgórzach powinien być ork szaman (punkt 4 na mapie). Szaman jest jedynym orkiem, który póki co nas nie atakuje, więc opowie nam o wojnie klanów, po czym wyśle nas do lidera (punkt 6 na mapie). Poniżej screen wejścia do obozu orków:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)  
-Podchodzimy do strażnika bramy i pokazujemy mu 50 bryłek rudy dla wodza. Idziemy do Grum-Loka, który zgodzi się uwolnić Dariusa w zamian za trofeum białego trolla. Po oddaniu trofeum gadamy z Dariusem i wracamy do Lee.
+ 
+Podchodzimy do strażnika bramy i pokazujemy mu 50 bryłek rudy dla wodza. Idziemy do Groom-Locka, który zgodzi się uwolnić Dariusa w zamian za trofeum białego trolla. Po oddaniu trofeum gadamy z Dariusem i wracamy do Lee.
 
 ## Dowody
 __Zleca: Lord Hagen__
