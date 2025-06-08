@@ -9,7 +9,7 @@
 
 ## Trofeum dla Groom Locka
 
-Mamy przynieść głowę członka starszyzny wrogiego klanu. Znajduje się on niedaleko jaskini, którą dostaliście się do śnieżnej lokacji **(punkt 8 na mapie)**. Zabijamy orków i zanosimy głowę jednego z nich do Grum-Loka.
+Mamy przynieść głowę członka starszyzny wrogiego klanu. Znajduje się on niedaleko jaskini, którą dostaliście się do śnieżnej lokacji **(punkt 8 na mapie)**. Zabijamy orków i zanosimy głowę jednego z nich do Groom-Loka.
 
 ## Cena wolności
 
@@ -22,4 +22,4 @@ Na szczycie jednej z gór **(punkt 10 na mapie)** znajdziemy Oddlera niewidomego
 
 ## Wojna klanów
 
-Zadanie zleca Grum-Lock. Mamy rozprawić się z wrogim klanem (punkt 12 na mapie). Przy okazji robienia zadania Ekspedycja Magów Ognia zabierzemy moc rudy co pozwoli Grum-Lockowi zaatakować wrogi klan. Możemy również samodzielnie pozabijać nieprzyjaznych orków bez zabierania mocy rudy.
+Mamy rozprawić się z wrogim klanem orków (punkt 12 na mapie). Przy okazji robienia zadania [Ekspedycja Magów Ognia](sekcje/zadania/poboczne?id=ekspedycja-magów-ognia) będziemy mogli zabrać im moc rudy co pozwoli Groom-Lockowi zaatakować wrogi klan. Możemy również samodzielnie pozabijać nieprzyjaznych orków bez zabierania mocy rudy, co pozwala wykonać cały wątek orków nawet w 2 rozdziale.
