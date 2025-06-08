@@ -70,7 +70,7 @@ __Zleca: Hokurn__
 
 > Zadanie powiązane z [Ekspedycja Magów Ognia](#ekspedycja-magów-ognia).
 
-> Można je zrobić nawet w 2 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
+> Można je zrobić nawet w 3 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
 
 > Zadanie trzeba rozpocząć przed 4 rozdziałem, jako że później Hokurn zostaje łowcą smoków.
 
