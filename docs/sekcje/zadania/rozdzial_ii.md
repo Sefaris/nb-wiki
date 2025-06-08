@@ -482,7 +482,7 @@ Engrom, myśliwy obozujący nad chatą Cavalorna, prosi nas o pozbycie się gobl
 
 ## Ur-Shak
 
-Ur-Shaka spotykamy na klifie pomiędzy starą wieżą Xardasa i obozem Fajetha. Został on wygnany ze wspólnoty orków i bardzo pragnie tam wrócić. Jeżeli w międzyczasie zamordowaliśmy Hosh-Paka i powiedzieliśmy o tym Ur-Shakowi to ten się na nas obrazi i musimy rzucić na niego czar zapomnienia (ten sam, który sprzedaje Ignaz), wtedy znowu będzie z nami gadał. Dopiero po ukończeniu całej serii trudnych zadań w wątku orków, z których ostatnim będzie zabicie Azgalora w Dolinie Cieni uzyskamy prawo do prośby o to by przywrócić naszego szamana do łask. Po tym jak Ur-Thrall wyrazi zgodę idziemy do Ur-Shaka by mu o tym powiedzieć i dostajemy 1PN w nagrodę.
+Ur-Shaka spotykamy na klifie pomiędzy starą wieżą Xardasa i obozem Fajetha. Został on wygnany ze wspólnoty orków i bardzo pragnie tam wrócić. Jeżeli w międzyczasie zamordowaliśmy Hosh-Paka i powiedzieliśmy o tym Ur-Shakowi to ten się na nas obrazi i musimy rzucić na niego czar zapomnienia (ten sam, który sprzedaje Ignaz), wtedy znowu będzie z nami gadał i wróci nad obóz Fajetha. Dopiero po ukończeniu całej serii trudnych zadań w [wątku orków](sekcje/watki/orkowie?id=wątek-orków), z których ostatnim będzie zabicie Azgalora w [Dolinie Cieni](sekcje/watki/orkowie?id=wątek-orków-dolina-cieni) uzyskamy prawo do prośby o to by przywrócić naszego szamana do łask. Po tym jak Ur-Thrall wyrazi zgodę idziemy do Ur-Shaka by mu o tym powiedzieć i dostajemy 1PN w nagrodę.
 
 ## Posiłki dla Alberta
 
