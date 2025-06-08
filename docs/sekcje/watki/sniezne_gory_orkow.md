@@ -13,7 +13,7 @@ Mamy przynieść głowę członka starszyzny wrogiego klanu. Znajduje się on ni
 
 ## Cena wolności
 
-Grum-Lok zleca nam zabicie białego górskiego trolla i przyniesienie jego skóry. Troll znajduje się w lodowej jaskini **(punkt 9 na mapie)**. Zabijamy i oddajemy skórę Grum lokowi, który zgadza się wypuścić Dariusa.
+Zadanie powiązane jest z [Stary przyjaciel Lee](sekcje/zadania/rozdzial_ii.md?id=stary-przyjaciel-lee). Najpierw gadamy z Adelhardem **(punkt 2 na mapie)**, a potem z orkowym wodzem na temat uwięzionego przez nich człowieka. Groom-Lock zleca nam zabicie białego górskiego trolla i przyniesienie jego skóry. Troll znajduje się w lodowej jaskini **(punkt 9 na mapie)**. Zabijamy i oddajemy skórę wodzowi, który zgadza się wypuścić Dariusa. Rozmawiamy z najemnikiem, później spotykamy go na farmie Onara.
 
 ## Chata Oddlera
 
