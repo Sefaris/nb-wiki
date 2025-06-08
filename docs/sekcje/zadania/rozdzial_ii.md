@@ -558,7 +558,7 @@ Zadanie dostaniemy od Lee w drugim rozdziale, prosi on nas o odnalezienie jego s
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)  
  
-Podchodzimy do strażnika bramy i pokazujemy mu 50 bryłek rudy dla wodza. Idziemy do Groom-Locka, który zgodzi się uwolnić Dariusa w zamian za trofeum białego trolla. Po oddaniu trofeum gadamy z Dariusem i wracamy do Lee.
+Podchodzimy do strażnika bramy i pokazujemy mu 50 bryłek rudy dla wodza. Idziemy do Groom-Locka, który zgodzi się uwolnić Dariusa w zamian za skórę białego trolla. Po oddaniu trofeum gadamy z Dariusem i wracamy do Lee.
 
 ## Dowody
 __Zleca: Lord Hagen__
