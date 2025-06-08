@@ -536,8 +536,10 @@ Netbek prosi nas, abyśmy pozbyli się wielkiego trolla w jego lesie. Chodzi o b
 
 ## Przewaga taktyczna
 
+#### Nagrodą za to zadanie będzie [broń dla Gonzalesa](sekcje/zadania/rozdzial_i?id=broń-dla-gonzalesa)
+
 Parcival zleca nam zabicie orków kuszników, herszta, a także pobliskich wojowników, którzy znajdują się na tym klifie. Po zabiciu wszystkich wracamy do Parcivala po nagrodę.  
-UWAGA: Za to zadanie dostaniecie miecz potrzebny w zadaniu Broń dla Gonzalesa.  
+
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935099257/63652F643D0BF7E2106C45D81DCC7D2DCC7E3F74/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935099257/63652F643D0BF7E2106C45D81DCC7D2DCC7E3F74/)
 > Jeżeli nie możemy zakończyć zadania to znaczy, że pominęliśmy paru orków. Po walce najlepiej odejść od klifów poza zasięg rysowania NPC, wrócić i przejść całe od nowa uwzględniając jaskinię, w której siedzą Herszt i pająk.
 
