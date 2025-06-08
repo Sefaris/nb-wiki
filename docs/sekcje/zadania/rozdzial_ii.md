@@ -524,7 +524,7 @@ Jest pod obozem Netbeka za palisadą orków, gadamy z Albertem wracamy do Garond
 - **Grupa Wenzela**  
 Najpierw musimy pogadać z Jerganem w obozie Fajetha i z Talbinem nad chatą Cavalorna. Dowiadujemy się, że Wenzela i jego ekipę pojmali orkowie. Wracamy do Garonda, a ten prosi nas o uwolnienie paladynów. Udajemy się do [miasta orków](sekcje/watki/orkowie.md) gdzie musimy uzyskać reputację by dostać się do Ur-Thralla. Gadamy z wodzem, który wpuści nas do kopalni jeśli:  
   - Mamy powyżej 40 retoryki  
-  - Zrobione zadanie "Mroczne Rytuały"
+  - Zrobione zadanie [Mroczne Rytuały](sekcje/watki/orkowie?id=mroczne-rytuały)
   
 Po spełnieniu powyższych warunków możemy wejść do [kopalni orków](sekcje/watki/orkowie?id=wątek-orków-orkowa-kopalnia). Robimy tamtejsze zadania, co kończy się uwolnieniem niewolników, a w tym Wenzela. Po wszystkim wracamy do Garonda.
 
