@@ -22,7 +22,7 @@ Zadanie powiązane jest z [Stary przyjaciel Lee](sekcje/zadania/rozdzial_ii.md?i
 
 ## Wojna klanów
 
-Mamy rozprawić się z wrogim klanem orków (punkt 12 na mapie). Przy okazji robienia zadania [Ekspedycja Magów Ognia](sekcje/zadania/poboczne?id=ekspedycja-magów-ognia) będziemy mogli zabrać im moc rudy co pozwoli Groom-Lockowi zaatakować wrogi klan. Możemy również samodzielnie pozabijać nieprzyjaznych orków bez zabierania mocy rudy, co pozwala wykonać cały wątek orków nawet w 2 rozdziale.
+Mamy rozprawić się z wrogim klanem orków **(punkt 12 na mapie)**. Przy okazji robienia zadania [Ekspedycja Magów Ognia](sekcje/zadania/poboczne?id=ekspedycja-magów-ognia) będziemy mogli zabrać im moc rudy co pozwoli Groom-Lockowi zaatakować wrogi klan. Możemy również samodzielnie pozabijać nieprzyjaznych orków bez zabierania mocy rudy, co pozwala wykonać cały wątek orków nawet w 2 rozdziale.
 
 ## Dodatkowe informacje
 
