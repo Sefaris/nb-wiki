@@ -520,14 +520,13 @@ Po przyniesieniu pierścienia Kruka Draxowi, zagada do nas Ratford. Zleci on nam
 
 Garond chce się dowiedzieć co się stało z dwoma grupami Paladynów Wenzela i Alberta.  
 - **Grupa Alberta**  
-Jest pod obozem Netbeka za palisadą, gadamy z Albertem wracamy do Garonda.  
+Jest pod obozem Netbeka za palisadą orków, gadamy z Albertem wracamy do Garonda.  
 - **Grupa Wenzela**  
-Tutaj musimy pogadać z Jerganem w kopalni Fajetha, a potem Talbinem, który jest nad chatą Cavalorna. Dowiadujemy się, że Wenzela i jego ekipę pojmali orkowie. Wracamy do Garonda, a ten prosi nas o uwolnienie paladynów. Udajemy się do miasta orków gdzie musimy uzyskać reputację by dostać się do Ur thralla (Patrz wątek orków).  
-Gadamy z wodzem, który wpuści nas do kopalni jeśli:  
+Najpierw musimy pogadać z Jerganem w obozie Fajetha i z Talbinem nad chatą Cavalorna. Dowiadujemy się, że Wenzela i jego ekipę pojmali orkowie. Wracamy do Garonda, a ten prosi nas o uwolnienie paladynów. Udajemy się do [miasta orków](sekcje/watki/orkowie.md) gdzie musimy uzyskać reputację by dostać się do Ur-Thralla. Gadamy z wodzem, który wpuści nas do kopalni jeśli:  
   - Mamy powyżej 40 retoryki  
   - Zrobione zadanie "Mroczne Rytuały"
   
-Po spełnieniu powyższych warunków, robimy zadania opisane w wątku orków, co kończy się uwolnieniem Wenzela. Po wszystkim wracamy do Garonda
+Po spełnieniu powyższych warunków możemy wejść do [kopalni orków](sekcje/watki/orkowie?id=wątek-orków-orkowa-kopalnia). Robimy tamtejsze zadania, co kończy się uwolnieniem niewolników, a w tym Wenzela. Po wszystkim wracamy do Garonda.
 
 ## Nieproszony gość
 
