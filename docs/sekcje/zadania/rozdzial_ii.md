@@ -426,7 +426,8 @@ Możemy zapłacić z własnej kieszeni lub iść do Diego i Miltena po kasę. P�
 
 ## Zapasy węgla
 
-Dobar potrzebuje paczek z węgiel. Znajdziemy je przy piecach w kopalni Starej (obok kopalni Marcosa) i Wolnej (nad Nowym Obozem). Po odnalezieniu jednej lub dwóch paczek wracamy po nagrodę.  
+Dobar potrzebuje paczek z węglem. Znajdziemy je przy piecach w kopalni Starej (obok kopalni Marcosa) i Wolnej (nad Nowym Obozem). Do wykonania zadania wystarczy jedna paczka, a nagroda za więcej paczek jest bardzo niewielka. Dobar umiera w 4 rozdziale więc zadanie trzeba wykonać w 2-3 rozdziale.
+ 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739934477441/39A6C6553E2653D6EA1FA4349733BD7DEA0D0E79/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739934477441/39A6C6553E2653D6EA1FA4349733BD7DEA0D0E79/)
 
 ## Przeszpiegi w Wolnej Kopalni
