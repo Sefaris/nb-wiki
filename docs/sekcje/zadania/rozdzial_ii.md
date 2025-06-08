@@ -531,8 +531,7 @@ Po spełnieniu powyższych warunków, robimy zadania opisane w wątku orków, co
 
 ## Nieproszony gość
 
-Netbek prosi nas, abyśmy pozbyli się wielkiego trolla w jego lesie. Chodzi o bossa trolli, który znajduje się między Wieżą Mgieł, a urwiskiem nad Starym Obozem Bractwa.
-
+Netbek prosi nas, abyśmy pozbyli się wielkiego trolla w jego lesie, który znajduje się między Wieżą Mgieł, a urwiskiem nad Starym Obozem Bractwa.
 
 ## Przewaga taktyczna
 
