@@ -27,4 +27,4 @@ Mamy rozprawić się z wrogim klanem orków **(punkt 12 na mapie)**. Przy okazji
 ## Dodatkowe informacje
 
 - Dwulicowy Janus jest nieśmiertelny i warto iść do niego dopiero w ramach zadania [Bezgraniczna Potęga](sekcje/zadania/poboczne?id=bezgraniczna-potęga)
-- W sanktuarium orków **(punkt 11 na mapie)** znajdziemy [Lodowy Młot](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1118678332#gid=1118678332&range=A186:B186), najlepszy obuch dwuręczny w grze
+- W sanktuarium orków **(punkt 11 na mapie)** znajdziemy [Lodowy Młot](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1118678332#gid=1118678332&range=A186:B186), najlepszy dwuręczny obuch w grze.
