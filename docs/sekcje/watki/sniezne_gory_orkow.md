@@ -5,7 +5,7 @@
 ## Mapa śnieżnych gór:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739929992329/F9BDC24039B3917155F61BC2309E19AF07084F29/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739929992329/F9BDC24039B3917155F61BC2309E19AF07084F29/)
-#### Warto na początku udać się do punktu 5 i aktywować jedyny kamień teleportacyjny oraz pogadać z szamanem na wzniesieniu niedaleko. Polecam unikać orków dopóki nie dogadamy się z szamanem, jako że nie respektują oni symboli przyjaźni od orków z Górniczej Doliny.
+#### Warto na początku udać się do punktu 2 i pogadać z najemnikiem Adelhardem, a następnie do punktu 5 i aktywować jedyny kamień teleportacyjny oraz pogadać z szamanem na wzniesieniu niedaleko. Polecam unikać orków dopóki nie dogadamy się z szamanem, jako że nie respektują oni symboli przyjaźni od orków z Górniczej Doliny.
 
 ## Chata Oddlera
 
@@ -18,8 +18,13 @@ Mamy przynieść głowę członka starszyzny wrogiego klanu. Znajduje się on ni
 
 ## Cena wolności
 
-Zadanie powiązane jest z [Stary przyjaciel Lee](sekcje/zadania/rozdzial_ii.md?id=stary-przyjaciel-lee). Najpierw gadamy z Adelhardem **(punkt 2 na mapie)**, a potem z orkowym wodzem na temat uwięzionego przez nich człowieka. Groom-Lock zleca nam zabicie białego górskiego trolla i przyniesienie jego skóry. Troll znajduje się w lodowej jaskini **(punkt 9 na mapie)**. Zabijamy i oddajemy skórę wodzowi, który zgadza się wypuścić Dariusa. Rozmawiamy z najemnikiem, później spotykamy go na farmie Onara.
+Zadanie powiązane jest z [Stary przyjaciel Lee](sekcje/zadania/rozdzial_ii.md?id=stary-przyjaciel-lee). Groom-Lock zleca nam zabicie białego górskiego trolla i przyniesienie jego skóry. Troll znajduje się w lodowej jaskini **(punkt 9 na mapie)**. Zabijamy i oddajemy skórę wodzowi, który zgadza się wypuścić Dariusa. Rozmawiamy z najemnikiem, później spotykamy go na farmie Onara.
 
 ## Wojna klanów
 
 Mamy rozprawić się z wrogim klanem orków (punkt 12 na mapie). Przy okazji robienia zadania [Ekspedycja Magów Ognia](sekcje/zadania/poboczne?id=ekspedycja-magów-ognia) będziemy mogli zabrać im moc rudy co pozwoli Groom-Lockowi zaatakować wrogi klan. Możemy również samodzielnie pozabijać nieprzyjaznych orków bez zabierania mocy rudy, co pozwala wykonać cały wątek orków nawet w 2 rozdziale.
+
+## Dodatkowe informacje
+
+- Dwulicowy Janus jest nieśmiertelny i warto iść do niego dopiero w ramach zadania [Bezgraniczna Potęga](sekcje/zadania/poboczne?id=bezgraniczna-potęga)
+- W sanktuarium orków **(punkt 11 na mapie)** znajdziemy najlepszy [Lodowy Młot](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=1118678332#gid=1118678332&range=A186:B186), najlepszy obuch dwuręczny w grze
