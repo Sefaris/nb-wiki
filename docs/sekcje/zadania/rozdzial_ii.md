@@ -437,7 +437,6 @@ Garond prosi nas byśmy udali się do Wolnej kopalni i sprawdzili co się tam dz
 
 Garond prosi nas o przyniesienie 50 kawałków surowego mięsa i 50 ryb.
 
-
 ## Pierścień Tengrona
 
 Tengron daje nam pierścień, który musimy zanieść Paladynowi Udarowi w zamku.
@@ -505,7 +504,7 @@ Zabijamy orków na Drakkarze łącznie z Hersztem. Z ciała Herszta zbieramy not
 
 ## Dziwne stworzenie
 
-Na skałach obok starej wieży Xardasa spotykamy gadającego goblina. Uderzamy go, a on prosi nas o przyniesienie zwoju wygnania znajdującego się w starej wieży Xardasa. Idziemy do biblioteki na górze wieży i zabieramy zwój. Wracamy do goblina, rozmawiamy z nim i używamy zwoju. Na końcu otwieramy skrzynie zabieramy broń goblinów wymaganą do innego zadania na pustyni.
+Na skałach obok starej wieży Xardasa spotykamy gadającego goblina. Uderzamy go, a on prosi nas o przyniesienie zwoju wygnania znajdującego się w starej wieży Xardasa. Idziemy do biblioteki na górze wieży, zabieramy zwój i wracamy do goblina. Na końcu otwieramy skrzynie zabieramy broń goblinów wymaganą do zadania [Zaginiony totem goblinów](sekcje/watki/pustynia_adanosa?id=zaginiony-totem-goblinów).
 > Jako mroczna gildia lepiej jest dostać ten zwój od samego Xardasa, a drugi leżący w starej wieży oddać Galahadowi do zadania gildyjnego.
 
 ## Pierścień Kruka
