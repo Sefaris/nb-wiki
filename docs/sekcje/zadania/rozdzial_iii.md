@@ -56,7 +56,7 @@ Aby otrzymać to zadanie musimy [dostarczyć truciznę Constantino](sekcje/zadan
 
 > Przed wykonaniem powyższych zadań powinieneś najpierw ukończyć zadanie [Polny drapieżnik](sekcje/zadania/rozdzial_ii.md?id=polny-drapieżnik), które zleca Akil w trakcie [polowania na rzadkie potwory](sekcje/gildie_poboczne/gildia_mysliwych.md?id=polowanie-na-rzadkie-stwory-rozdział-2).
 
-Kilka dni po wykonaniu zadań z trucizną i zwojami zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek rozmawiamy z Zurisem i udajemy się do domu Ignaza. Za płotem znajdujemy pustą butelkę bo truciźnie, pokazujemy ją Constantino i zgadzamy się mu pomóc.
+Kilka dni po wykonaniu zadań z trucizną i zwojami zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek rozmawiamy z Zurisem i udajemy się do domu Ignaza. Za płotem znajdujemy pustą butelkę po truciźnie, pokazujemy ją Constantino i zgadzamy się mu pomóc.
 
 Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschodniej bramy. Rozmawiamy tam z Ortegą, a po krótkiej rozmowie dochodzi do walki. Zabijamy typa, czytamy notatkę z jego ciała i czekamy na prawdziwego zleceniodawcę. To mag ognia Karras. Rozmawiamy z nim i dowiadujemy się o powodzie zabójstwa alchemika. Teraz musimy zdecydować co powiedzieć Lordowi Andre.
 
@@ -69,7 +69,7 @@ Sekob mówi nam, że jego dom zajęli zakapturzone typy. Zabijamy i wracamy do S
 ## Samotność Bengara
 
 Bengar mówi nam, że rolnicy uciekli i prosi o załatwienie ochrony na farmie.  
-Najpierw udajemy się do Wilka i oferujemy mu pracę na farmie Bengara, ten się zgadza jak mu zapłacimy. Teraz idziemy do Malaka i mówimy że najemnicy chronią farmę, po czym rolnicy wracają. Na koniec idziemy do Bengara.
+Najpierw udajemy się do Wilka i oferujemy mu pracę na farmie Bengara, ten się zgadza jak mu zapłacimy. Teraz idziemy do Malaka i mówimy, że najemnicy chronią farmę, po czym rolnicy wracają. Na koniec idziemy do Bengara.
 
 ## Rogi cieniostwora dla Bustera
 
@@ -105,7 +105,7 @@ Wykupione udziały oddajemy Serpentesowi, a Salandrila przekonujemy by udał si�
 
 ## Mroczna sieć
 
-Zadanie zleca Hagen, po wyciągnięciu Benneta z więzienia. Musimy się dowiedzieć, kto stoi za morderstwem Lothara. Podnosimy pierścień spod mostu przy południowej bramie i udajemy się z nim do Vatrasa. Idziemy również do Hodgesa, który da nam zwój, pod warunkiem że mamy 50 retoryki. Teraz ponownie udajemy się do Vatrasa, który nazajutrz tworzy dla nas runę teleportacyjną do wieży maga. W środku eliminujemy silnego bossa i używamy runy, którą się tutaj przenieśliśmy. Wracamy zdać relacje Hagenowi.
+Zadanie zleca Hagen, po wyciągnięciu Benneta z więzienia. Musimy się dowiedzieć, kto stoi za morderstwem Lothara. Podnosimy pierścień spod mostu przy południowej bramie i udajemy się z nim do Vatrasa. Idziemy również do Hodgesa, który da nam zwój, jeśli mamy co najmniej 50 retoryki. Teraz ponownie udajemy się do Vatrasa, który nazajutrz tworzy dla nas runę teleportacyjną do wieży maga. W środku eliminujemy silnego bossa i używamy runy, którą się tutaj przenieśliśmy. Wracamy zdać relacje Hagenowi.
 
 ## Ogniem i mieczem
 
@@ -138,7 +138,7 @@ Po przyprowadzeniu przynajmniej jednego dostawcy dowiemy się, że potrzebny jes
 - Snipes (50 retoryki i oddana ruda z zadania [Torba pełna rudy](sekcje/zadania/rozdzial_i.md?id=torba-pełna-rudy))  
 - Grimes i jego kumpel w GD (Rozmawiamy z Grimesem, a ten planuje uciec, więc musimy przygotować 3 zwoje snu i przyjść nazajutrz. Na miejscu okazuje się, że były niepotrzebne, więc odprowadzamy ich przed kopalnie łączącą Khorinis z GD. Pojawiają się wtedy przy bramie przełęczy, skąd prowadzimy ich do obozu.  
 
-Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi że potrzebny jest kowal, będzie to Carl, który dołączy, jeśli oddaliśmy mu węgiel w 1r.
+Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi, że potrzebny jest kowal. Kowalem w obozie zostanie Carl, jeśli oddaliśmy mu węgiel w 1r.
 
 **Ochroniarze**  
 - Gayvern (zgodzi się od razu)  
@@ -152,6 +152,6 @@ Ostatnim zadaniem będzie zdobycie schematu zbroi. Znajdziemy go w Opuszczonej K
 
 ## Co z kopalnią?
 
-Musimy się dowiedzieć czy w kopalni w naszym obozie jest magiczna ruda. Idziemy do Węża i prowadzimy go do kopalni. Wąż mówi że w kopalni nadal jest ruda oraz żeby załatwić ludzi, aby można było wznowić wydobycie. Idziemy teraz do Hagena i mówimy o rudzie i przystajemy na jego ofertę.
+Musimy się dowiedzieć czy w kopalni w naszym obozie jest magiczna ruda. Idziemy do Węża i prowadzimy go do kopalni. Wąż mówi, że w kopalni nadal jest ruda i poleci nam załatwić ludzi, aby można było wznowić wydobycie. Idziemy teraz do Hagena, mówimy o rudzie i przystajemy na jego ofertę.
 
 > Na tym kończy się wątek naszego obozu. Jeśli mamy wystarczającą ilość kopaczy, to będzie on przynosił zyski, więc co jakiś czas możemy odbierać rudę/złoto

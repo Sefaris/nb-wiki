@@ -80,7 +80,7 @@ Gdy udamy się do Osaira z listem Nrozasa ten zleci nam pierwsze zadanie. Mamy p
 
 ## Spisek niewolników
 
-Osair mówi nam, że wśród niewolników jest jakiś buntownik, mamy wybadać sprawę. Bierzemy klucz od strażnika i gadamy z niewolnikami. Jeden z niewolników zacznie gadać podejrzane rzeczy, że wkrótce się wydostanie, zagadujemy do niego drugi raz i dowiadujemy się że bunt organizuje Marius w świątyni. Gadamy z Mariusem, i teraz musimy podstawić kogoś innego, gdyż Osair pragnie śmierci buntownika. Idziemy do niewolnika, który wcześniej wskazał na Mariusa i prowadzimy go do Osaira, po chwili ten go zabija. (Wracamy do Mariusa)
+Osair mówi nam, że wśród niewolników jest buntownik i zleca nam zbadanie sprawy. Zabieramy klucz od strażnika i rozmawiamy z niewolnikami. Jeden z nich zaczyna mówić podejrzane rzeczy o tym, że wkrótce ucieknie. Gdy zagadujemy go ponownie, dowiadujemy się, że bunt organizuje Marius w świątyni. Rozmawiamy z Mariusem, ale teraz musimy podstawić kogoś innego, ponieważ Osair chce śmierci buntownika. Wracamy do niewolnika, który wskazał na Mariusa, i prowadzimy go do Osaira - po chwili Osair go zabija. Następnie wracamy do Mariusa.
 
 ## Paczki z bronią dla Mariusza
 
@@ -104,7 +104,7 @@ Kiedy jesteśmy już muridem Nrozasa ten zaczepi nas i zleci przyniesienie paczk
 
 ## Śmiertelne polowanie
 
-Tiamant zleca nam zabicie Muritana, mówi nam też że Hasim zdołał zabić takową bestię. Idziemy do Hasima, potem łączymy na stole alchemicznym mięso z siarką. Idziemy teraz na sam dół kopalni siarki, gdzie klikamy na mięso w ekwipunku. W jednej z odnóg powinien pojawić się Muritan, którego zabijamy.
+Tiamant zleca nam zabicie Muritana, mówi nam też, że Hasim zdołał zabić takową bestię. Idziemy do Hasima, potem łączymy na stole alchemicznym mięso z siarką. Idziemy teraz na sam dół kopalni siarki, gdzie klikamy na mięso w ekwipunku. W jednej z odnóg powinien pojawić się Muritan, którego zabijamy.
 
 ## Nieproszeni goście
 
@@ -124,7 +124,7 @@ Tiamant zleca nam to zadanie podczas zadania z zabójstwem Hasima, mamy udać si
 
 ## Intrygi bractwa Masjafu
 
-Haniar zagaduje do nas i prosi, byśmy udali się z dala od wścibskich oczu. Gdy pyta, czy boimy się śmierci, odpowiadamy, że nie. Haniar mówi nam że, Hasim zbierał dla niego informacje i prosi byśmy go zastąpili. Zgadzamy się i czytamy list, który dał nam Haniar.
+Haniar zagaduje do nas i prosi, byśmy udali się z dala od wścibskich oczu. Gdy pyta, czy boimy się śmierci, odpowiadamy, że nie. Haniar mówi nam, że Hasim zbierał dla niego informacje i prosi byśmy go zastąpili. Zgadzamy się i czytamy list, który dał nam Haniar.
 
 UWAGA: Po zaakceptowaniu oferty Haniara stajemy się jego muridem.  
 Idziemy teraz do jaskini Osaira i gadamy z nowicjuszem Joaquinem, po czym mówimy mu jak zostać muridem Osaira. Następny jest Kaduyin, którego znajdziemy przed świątynią. Dajemy mu kieł Muritana a ten nam powie trochę informacji odnośnie Tiamanta.

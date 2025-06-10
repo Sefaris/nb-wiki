@@ -688,7 +688,7 @@ Po bitwie Hagen zleca nam wybicie pozostałych orków. Wystarczy wybić tych, kt
 
 ## Magia runiczna
 
-Po bitwie Pyrokar mówi że jego runy nie działają, idziemy teraz popytać innych, pytamy jednego z Magów Ognia, Magów Wody, Guru, Paladynów. Następnie sami próbujemy użyć runy, okazuje się że działa. Wracamy do Pyrokara, który mówi nam że działa tylko nasza magia ze względu na to, że mamy błogosławieństwo bogów.
+Po bitwie Pyrokar mówi nam, że jego runy przestały działać. Musimy popytać innych: rozmawiamy z jednym z Magów Ognia, Magów Wody, Guru oraz z Paladynami. Następnie sami próbujemy użyć runy i okazuje się, że nasze runy wciąż działają. Wracamy do Pyrokara, który wyjaśnia, że tylko nasza magia funkcjonuje, ponieważ mamy błogosławieństwo bogów.
 
 ## Oblężenie klasztoru
 
@@ -747,7 +747,7 @@ Nathan zleca nam uwolnienie paladynów z zamku. Robimy jak w zadaniu wyżej. Zad
 
 Mówimy Nathanowi o szturmie na zamek. Paladyn mówi, że przydałoby się więcej ludzi. Idziemy do łowców smoków, którzy znajdują się w jaskini obok wodospadu. Po walce z orkami rozmawiamy z Kurganem i mówimy, aby dołączyli do paladynów podczas szturmu na zamek. Możemy zagrozić Kurganowi, że wydamy orkom położenie łowców smoków albo zapłacić mu 50 000 złota. Polecam pierwszą opcję, gdyż nie będzie żadnych konsekwencji. Teraz szturmujemy zamek i odbijamy paladynów.
 
-### UWAGA: Trzy zadania niżej są dostępne tylko, jeśli wybierzemy pokojowe uwolnienie paladynów, można wykonać tylko jedno z nich, w zależności która opcję wybierzemy.
+### UWAGA: Trzy poniższe zadania są dostępne tylko wtedy, gdy zdecydujemy się na pokojowe uwolnienie paladynów. Można wykonać tylko jedno z nich - w zależności od wybranej opcji.
 
 ## Zlecenie Hag-Tara
 

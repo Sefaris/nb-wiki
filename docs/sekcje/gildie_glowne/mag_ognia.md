@@ -66,7 +66,7 @@ Gorax prosi nas, abyśmy udali się do Orlana w Martwej Harpii i sprzedali wino 
 
 ## Trening bojowy dla Babo
 
-Babo prosi nas, abyśmy udali się do Paladyna Sergio i poprosili go, aby nauczał Babo walki. Gadamy z Sergio który zgadza się trenować nowicjusza, po czym wracamy do Babo.
+Babo prosi nas, abyśmy udali się do Paladyna Sergio i poprosili go, aby nauczał Babo walki. Gadamy z Sergio, który zgadza się trenować nowicjusza, po czym wracamy do Babo.
 
 ## Darowizna dla klasztoru
 
