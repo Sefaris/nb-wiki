@@ -671,7 +671,7 @@ Zadanie otrzymamy tylko gdy potrafimy już stworzyć jakąkolwiek miksturę lub 
 ## Piracki handel
 __Zleca: Skip__
 
-Na plaży niedaleko Khorinis spotykamy Skipa, ten prosi nas byśmy udali się do Baltrama po dostawę. Idziemy do Baltrama, odbieramy dostawę i dajemy ją Skipowi. Skip daje nam 2 butelki, rumu które zanosimy Baltramowi.
+Na plaży niedaleko Khorinis spotykamy Skipa, ten prosi nas byśmy udali się do Baltrama po dostawę. Idziemy do Baltrama, odbieramy dostawę i dajemy ją Skipowi. Skip daje nam 2 butelki rumu, które zanosimy Baltramowi.
 > Możemy teraz odkupić od Baltrama rum i wykorzystać go do zadania [Jedzenie dla Farima](#jedzenie-dla-farima)
 
 ## Pomoc dla Laresa
