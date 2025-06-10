@@ -163,9 +163,8 @@ Po stworzeniu kuszy możemy ją zachować dla siebie lub oddać Tag-Norowi za je
 
 Aby Ur-Thrall wpuścił nas do orkowej kopalni musimy spełnić kilka wymagań:
 
-- Zabić demona na bagnach w zadaniu "Mroczne Rytuały"  
-- Posiadać 50 retoryki  
-- W zadaniu "Zaginieni bez wieści" porozmawiać z Jerganem i Talbinem, aż Garond wyśle nas na poszukiwania Wenzela pośród orków.
+- Zabić demona na bagnach w zadaniu [Mroczne Rytuały](sekcje/watki/orkowie?id=mroczne-rytuały)
+- W zadaniu [Zaginieni bez wieści](sekcje/zadania/rozdzial_ii?id=zaginieni-bez-wieści) porozmawiać z Jerganem i Talbinem, aż Garond wyśle nas na poszukiwania Wenzela pośród orków.
 
 W dialogach z Ur-Thrallem mówimy, że chcemy porozmawiać z niewolnikami, bo jeden z nich może być paladynem. Wódz przystaje na nasz pomysł i daje nam klucz. Teleportujemy się przed wejście do kopalni i klikamy w filar po lewej stronie.
 

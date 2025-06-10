@@ -427,7 +427,8 @@ Możemy zapłacić z własnej kieszeni lub iść do Diego i Miltena po kasę. P�
 
 ## Zapasy węgla
 
-Dobar potrzebuje paczek z węgiel. Znajdziemy je przy piecach w kopalni Starej (obok kopalni Marcosa) i Wolnej (nad Nowym Obozem). Po odnalezieniu jednej lub dwóch paczek wracamy po nagrodę.  
+Dobar potrzebuje paczek z węglem. Znajdziemy je przy piecach w kopalni Starej (obok kopalni Marcosa) i Wolnej (nad Nowym Obozem). Do wykonania zadania wystarczy jedna paczka, a nagroda za więcej paczek jest bardzo niewielka. Dobar umiera w 4 rozdziale więc zadanie trzeba wykonać w 2-3 rozdziale.
+ 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739934477441/39A6C6553E2653D6EA1FA4349733BD7DEA0D0E79/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739934477441/39A6C6553E2653D6EA1FA4349733BD7DEA0D0E79/)
 
 ## Przeszpiegi w Wolnej Kopalni
@@ -437,7 +438,6 @@ Garond prosi nas byśmy udali się do Wolnej kopalni i sprawdzili co się tam dz
 ## Jedzenie dla paladynów
 
 Garond prosi nas o przyniesienie 50 kawałków surowego mięsa i 50 ryb.
-
 
 ## Pierścień Tengrona
 
@@ -484,7 +484,7 @@ Engrom, myśliwy obozujący nad chatą Cavalorna, prosi nas o pozbycie się gobl
 
 ## Ur-Shak
 
-Ur-Shaka spotykamy na klifie pomiędzy starą wieżą Xardasa i obozem Fajetha. Został on wygnany ze wspólnoty orków i bardzo pragnie tam wrócić. Jeżeli w międzyczasie zamordowaliśmy Hosh-Paka i powiedzieliśmy o tym Ur-Shakowi to ten się na nas obrazi i musimy rzucić na niego czar zapomnienia (ten sam, który sprzedaje Ignaz), wtedy znowu będzie z nami gadał. Dopiero po ukończeniu całej serii trudnych zadań w wątku orków, z których ostatnim będzie zabicie Azgalora w Dolinie Cieni uzyskamy prawo do prośby o to by przywrócić naszego szamana do łask. Po tym jak Ur-Thrall wyrazi zgodę idziemy do Ur-Shaka by mu o tym powiedzieć i dostajemy 1PN w nagrodę.
+Ur-Shaka spotykamy na klifie pomiędzy starą wieżą Xardasa i obozem Fajetha. Został on wygnany ze wspólnoty orków i bardzo pragnie tam wrócić. Jeżeli w międzyczasie zamordowaliśmy Hosh-Paka i powiedzieliśmy o tym Ur-Shakowi to ten się na nas obrazi i musimy rzucić na niego czar zapomnienia (ten sam, który sprzedaje Ignaz), wtedy znowu będzie z nami gadał i wróci nad obóz Fajetha. Dopiero po ukończeniu całej serii trudnych zadań w [wątku orków](sekcje/watki/orkowie?id=wątek-orków), z których ostatnim będzie zabicie Azgalora w [Dolinie Cieni](sekcje/watki/orkowie?id=wątek-orków-dolina-cieni) uzyskamy prawo do prośby o to by przywrócić naszego szamana do łask. Po tym jak Ur-Thrall wyrazi zgodę idziemy do Ur-Shaka by mu o tym powiedzieć i dostajemy 1PN w nagrodę.
 
 ## Posiłki dla Alberta
 
@@ -506,7 +506,7 @@ Zabijamy orków na Drakkarze łącznie z Hersztem. Z ciała Herszta zbieramy not
 
 ## Dziwne stworzenie
 
-Na skałach obok starej wieży Xardasa spotykamy gadającego goblina. Uderzamy go, a on prosi nas o przyniesienie zwoju wygnania znajdującego się w starej wieży Xardasa. Idziemy do biblioteki na górze wieży i zabieramy zwój. Wracamy do goblina, rozmawiamy z nim i używamy zwoju. Na końcu otwieramy skrzynie zabieramy broń goblinów wymaganą do innego zadania na pustyni.
+Na skałach obok starej wieży Xardasa spotykamy gadającego goblina. Uderzamy go, a on prosi nas o przyniesienie zwoju wygnania znajdującego się w starej wieży Xardasa. Idziemy do biblioteki na górze wieży, zabieramy zwój i wracamy do goblina. Otwieramy skrzynię i zabieramy broń goblinów wymaganą do zadania [Zaginiony totem goblinów](sekcje/watki/pustynia_adanosa?id=zaginiony-totem-goblinów).
 > Jako mroczna gildia lepiej jest dostać ten zwój od samego Xardasa, a drugi leżący w starej wieży oddać Galahadowi do zadania gildyjnego.
 
 ## Pierścień Kruka
@@ -521,24 +521,24 @@ Po przyniesieniu pierścienia Kruka Draxowi, zagada do nas Ratford. Zleci on nam
 
 Garond chce się dowiedzieć co się stało z dwoma grupami Paladynów Wenzela i Alberta.  
 - **Grupa Alberta**  
-Jest pod obozem Netbeka za palisadą, gadamy z Albertem wracamy do Garonda.  
+Jest pod obozem Netbeka za palisadą orków, gadamy z Albertem wracamy do Garonda.  
 - **Grupa Wenzela**  
-Tutaj musimy pogadać z Jerganem w kopalni Fajetha, a potem Talbinem, który jest nad chatą Cavalorna. Dowiadujemy się, że Wenzela i jego ekipę pojmali orkowie. Wracamy do Garonda, a ten prosi nas o uwolnienie paladynów. Udajemy się do miasta orków gdzie musimy uzyskać reputację by dostać się do Ur thralla (Patrz wątek orków).  
-Gadamy z wodzem, który wpuści nas do kopalni jeśli:  
+Najpierw musimy pogadać z Jerganem w obozie Fajetha i z Talbinem nad chatą Cavalorna. Dowiadujemy się, że Wenzela i jego ekipę pojmali orkowie. Wracamy do Garonda, a ten prosi nas o uwolnienie paladynów. Udajemy się do [miasta orków](sekcje/watki/orkowie.md) gdzie musimy uzyskać reputację by dostać się do Ur-Thralla. Gadamy z wodzem, który wpuści nas do kopalni jeśli:  
   - Mamy powyżej 40 retoryki  
-  - Zrobione zadanie "Mroczne Rytuały"
+  - Zrobione zadanie [Mroczne Rytuały](sekcje/watki/orkowie?id=mroczne-rytuały)
   
-Po spełnieniu powyższych warunków, robimy zadania opisane w wątku orków, co kończy się uwolnieniem Wenzela. Po wszystkim wracamy do Garonda
+Po spełnieniu powyższych warunków możemy wejść do [kopalni orków](sekcje/watki/orkowie?id=wątek-orków-orkowa-kopalnia). Robimy tamtejsze zadania, co kończy się uwolnieniem niewolników, a w tym Wenzela. Po wszystkim wracamy do Garonda.
 
 ## Nieproszony gość
 
-Netbek prosi nas, abyśmy pozbyli się wielkiego trolla w jego lesie. Chodzi o bossa trolli, który znajduje się między Wieżą Mgieł, a urwiskiem nad Starym Obozem Bractwa.
-
+Netbek prosi nas, abyśmy pozbyli się wielkiego trolla w jego lesie, który znajduje się między Wieżą Mgieł, a urwiskiem nad Starym Obozem Bractwa.
 
 ## Przewaga taktyczna
 
+#### Nagrodą za to zadanie będzie [ broń dla Gonzalesa](sekcje/zadania/rozdzial_i?id=broń-dla-gonzalesa)
+
 Parcival zleca nam zabicie orków kuszników, herszta, a także pobliskich wojowników, którzy znajdują się na tym klifie. Po zabiciu wszystkich wracamy do Parcivala po nagrodę.  
-UWAGA: Za to zadanie dostaniecie miecz potrzebny w zadaniu Broń dla Gonzalesa.  
+
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739935099257/63652F643D0BF7E2106C45D81DCC7D2DCC7E3F74/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739935099257/63652F643D0BF7E2106C45D81DCC7D2DCC7E3F74/)
 > Jeżeli nie możemy zakończyć zadania to znaczy, że pominęliśmy paru orków. Po walce najlepiej odejść od klifów poza zasięg rysowania NPC, wrócić i przejść całe od nowa uwzględniając jaskinię, w której siedzą Herszt i pająk.
 
@@ -555,10 +555,11 @@ Zanim będziemy mogli wyruszyć do Górniczej Doliny, Hagen każe nam się dowie
 
 ## Stary przyjaciel Lee
 
-Zadanie dostaniemy od Lee w drugim rozdziale. Lee prosi o odnalezienie jego starego przyjaciela Dariusa. Idziemy do Śnieżnych Gór Orków i szukamy drewnianego fortu (punkt 2 na mapie). Włamujemy się do małego magazynu w forcie, pojawia się najemnik Adelhard i dowiadujemy się o losie Dariusa. Wyjdząc z fortu na lewo na wzgórzach powinien być ork szaman (punkt 4 na mapie). Gor-Kar jest jedynym orkiem, który póki co nas nie atakuje, więc opowie nam o wojnie klanów, po czym wyśle nas do lidera. Obóz orków znajduje się tu (punkt 6 na mapie):
+Zadanie dostaniemy od Lee w drugim rozdziale, prosi on nas o odnalezienie jego starego przyjaciela Dariusa. Idziemy do [Śnieżnych Gór Orków](sekcje/watki/sniezne_gory_orkow) i szukamy drewnianego fortu (punkt 2 na mapie). Będąc tam szukamy pomieszczenia, w którym na stole leży mięsko i zabieramy je, przez co za naszymi plecami pojawia się najemnik Adelhard i każe oddawać jedzenie. Gadamy z nim i dowiadujemy się o losie Dariusa - zaginionego przyjaciela Lee. Wychodząc z fortu na lewo na wzgórzach powinien być ork szaman (punkt 4 na mapie). Szaman jest jedynym orkiem, który póki co nas nie atakuje, więc opowie nam o wojnie klanów, po czym wyśle nas do lidera (punkt 6 na mapie). Poniżej screen wejścia do obozu orków:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)](https://steamuserimages-a.akamaihd.net/ugc/963098188609258325/CA44B6CCB3FBA18F4F08AD774A807609B257B453/)  
-Podchodzimy do strażnika bramy i pokazujemy mu 50 bryłek rudy dla wodza. Idziemy do Grum-Loka, który zgodzi się uwolnić Dariusa w zamian za trofeum białego trolla. Po oddaniu trofeum gadamy z Dariusem i wracamy do Lee.
+ 
+Podchodzimy do strażnika bramy i pokazujemy mu 50 bryłek rudy dla wodza. Idziemy do Groom-Locka, który zgodzi się uwolnić Dariusa w zamian za skórę białego trolla. Po oddaniu trofeum gadamy z Dariusem i wracamy do Lee.
 
 ## Dowody
 __Zleca: Lord Hagen__
