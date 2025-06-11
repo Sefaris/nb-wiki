@@ -138,7 +138,7 @@ Po przyprowadzeniu przynajmniej jednego dostawcy dowiemy się, że potrzebny jes
 - Snipes (50 retoryki i oddana ruda z zadania [Torba pełna rudy](sekcje/zadania/rozdzial_i.md?id=torba-pełna-rudy))  
 - Grimes i jego kumpel w GD (Rozmawiamy z Grimesem, a ten planuje uciec, więc musimy przygotować 3 zwoje snu i przyjść nazajutrz. Na miejscu okazuje się, że były niepotrzebne, więc odprowadzamy ich przed kopalnie łączącą Khorinis z GD. Pojawiają się wtedy przy bramie przełęczy, skąd prowadzimy ich do obozu.  
 
-Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi, że potrzebny jest kowal. Kowalem w obozie zostanie Carl, jeśli oddaliśmy mu węgiel w 1r.
+Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi, że potrzebny jest kowal. Zostanie nim Carl z dzielnicy portowej Khorinis, jeśli oddaliśmy mu węgiel w 1r.
 
 **Ochroniarze**  
 - Gayvern (zgodzi się od razu)  
