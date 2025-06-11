@@ -6,7 +6,7 @@ Na początku gry Xardas zachęcił nas do powrotu do Świątyni Śniącego. Gdy 
 
 ## Granice Honoru
 
-Mamy odnaleźć zaginionego najemnika Arokha. Schodzimy tą samą drogą którą weszliśmy na górę i spotykamy go u podnóża. Arokh mówi nam, że mamy iść z nim do pobliskiej jaskini w celu pozbycia się uciekinierów. Idziemy tam i rozmawiamy ze skazańcem, wywiązuje się walka więc zabijamy ich. Wracamy do najemników, rozmawiamy z przywódcą i dostajemy Ulu-Mulu. Miasto orków znajduje się tam gdzie w G2 był bagienny smok.
+Mamy odnaleźć zaginionego najemnika Arokha. Schodzimy tą samą drogą, którą weszliśmy na górę i spotykamy go u podnóża. Arokh mówi nam, że mamy iść z nim do pobliskiej jaskini w celu pozbycia się uciekinierów. Idziemy tam i rozmawiamy ze skazańcem, wywiązuje się walka więc zabijamy ich. Wracamy do najemników, rozmawiamy z przywódcą i dostajemy Ulu-Mulu. Miasto orków znajduje się tam gdzie w G2 był bagienny smok.
 
 ### W poniższym filmiku pokazane jest jak krok po kroku zdobyć Ulu-Mulu:
 
@@ -84,7 +84,7 @@ Po modlitwach wracamy do szamana. (+20 reputacji)
 
 ## Mroczne rytuały
 
-Hush-Nar chce zbudować świątynie orków w Starym Obozie Bractwa na bagnach. Wysłał tam oddział orków i słuch po nich zaginął. Powietrze na terenie bagna jest zatrute więc by się po nim poruszać potrzebujemy jakoś radzić sobie z trucizną. Najlepszym sposobem jest nauczyć się odporności na truciznę za darmo w [Lesie Asasynów](sekcje/watki/asasyni.md?id=wątek-asasynów) lub od Constantina po zrobieniu zadania [Tajemnicze Morderstwo](sekcje/zadania/rozdzial_iii.md?id=tajemnicze-morderstwo). Oprócz tego, możemy również korzystać z mikstur tymczasowej odporności na truciznę za 700 złota lub przejść do świątyni bokiem przy ścianie na lewo od wejścia do obozu na bagnie (trucizna nas nie dotknie). Idziemy na bagna, przed wejściem do obozu spotykamy grupę orków i gadamy z ich liderem. Mamy 3 opcje:
+Hush-Nar chce zbudować świątynię orków w Starym Obozie Bractwa na bagnach. Wysłał tam oddział orków i słuch po nich zaginął. Powietrze na terenie bagna jest zatrute więc by się po nim poruszać potrzebujemy jakoś radzić sobie z trucizną. Najlepszym sposobem jest nauczyć się odporności na truciznę za darmo w [Lesie Asasynów](sekcje/watki/asasyni.md?id=wątek-asasynów) lub od Constantina po zrobieniu zadania [Tajemnicze Morderstwo](sekcje/zadania/rozdzial_iii.md?id=tajemnicze-morderstwo). Oprócz tego, możemy również korzystać z mikstur tymczasowej odporności na truciznę za 700 złota lub przejść do świątyni bokiem przy ścianie na lewo od wejścia do obozu na bagnie (trucizna nas nie dotknie). Idziemy na bagna, przed wejściem do obozu spotykamy grupę orków i gadamy z ich liderem. Mamy 3 opcje:
 
 <!-- tabs:start -->
 

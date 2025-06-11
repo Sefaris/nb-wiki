@@ -43,7 +43,7 @@ __Zleca: Lares/Cord__
 
 > Nie warto brać pomocy od Corda, gdyż wiąże się to jedynie z utratą expa za wykonanie tego zadania samemu.
 
-Vatras mówi nam, że możemy dołączyć do jednej z 3 gildii które mają największe wpływy. W tym celu rozmawiamy z Laresem. Jeżeli wybierzemy najemników to wyśle on nas do Corda. Zajmie się on naszym testem, który dostaniemy od Torlofa. Pomoże nam pod warunkiem, że dowiemy się od Dextera o Patricku. Idziemy do obozu bandytów, gadamy z hersztem, a następnie wracamy do Corda, dzięki czemu test Torlofa mamy z głowy.
+Vatras mówi nam, że możemy dołączyć do jednej z 3 gildii, które mają największe wpływy. W tym celu rozmawiamy z Laresem. Jeżeli wybierzemy najemników to wyśle on nas do Corda. Zajmie się on naszym testem, który dostaniemy od Torlofa. Pomoże nam pod warunkiem, że dowiemy się od Dextera o Patricku. Idziemy do obozu bandytów, gadamy z hersztem, a następnie wracamy do Corda, dzięki czemu test Torlofa mamy z głowy.
 
 > Można również wziąć zadanie ułatwionego przyjęcia do innej gildii, a później pogadać z Lee czy wie coś o Wodnym Kręgu, wziąć zadanie od Torlofa, a na koniec pogadać z Cordem i poprosić go o pomoc.
 

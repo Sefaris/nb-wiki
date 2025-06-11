@@ -167,7 +167,7 @@ Uwaga: Zadanie dostępne po wykonaniu zadania [Zapiski Saturasa](#zapiski-satura
 Saturas mówi nam, że interesował się kiedyś magią Guru, ale badania zostały porzucone po upadku Bariery. Mówi on nam także, że wysłał do obozu Bractwa jednego z magów wody. Norolas znajduje się przy ognisku za palisadą w GD obok Draxa i Ratforda. Prosi nas o udanie się po księgę Y'Beriona na bagna jednak roi się tam od nieumarłych. Mamy dwie opcje:
 
 - Wybić wszystkich nieumarłych z demonem na czele (którego będziemy mogli przyzwać dopiero w zadaniu "Mroczne Rytuały"), zabrać księgę Y'Beriona i wrócić do Norolasa.
-- Tworzymy specjalny eliksir który pozwoli nam się poruszać wśród nieumarłych, eliksir podniesie nam również statystyki więc warto go zdobyć.
+- Tworzymy specjalny eliksir, który pozwoli nam się poruszać wśród nieumarłych, eliksir podniesie nam również statystyki więc warto go zdobyć.
 
 Jeżeli chcemy stworzyć eliksir, musimy przynieść Norolasowi przepis i składniki do niego.  
 Przepis znajduje się w Kamiennej Fortecy gdzie szliśmy z Lesterem w G1 w zamkniętej skrzyni na piętrze. Klucz do tej skrzyni jest w innej skrzyni w sekretnej komnacie pilnowanej przez bossa Demona na parterze, przejście otwieramy pochodnią. Jak już zdobędziemy klucz otwieramy skrzynię z przepisem.
@@ -192,7 +192,8 @@ Po polowaniu na szczury pytamy Jacka o jego przydomek, a ten opowiada nam o star
 
 ## Wieża
 
-Henry mówi że nieopodal na wzgórzu jest wieża, w której siedzą, to też prosi nas o ich zabicie. Idziemy do wieży zabijamy bandytów i wracamy do Henry'ego.
+Henry opowiada nam o zajętej przez bandytów wieży nieopodal obozu. Idziemy do wieży, gdzie zabijamy bandytów i wracamy do Henry'ego.
+
 > Zadanie nie pojawia się jeżeli zabiliśmy bandytów wcześniej.
 
 ## Drewno na palisadę
@@ -347,7 +348,7 @@ W obozie bandytów spotykamy Fortuno, który mówi cały czas o jakimś zielonym
 
 ## Uwaga: Do zrobienia mikstury potrzebujemy wiedzy na temat usuwania trucizn z żądeł, której uczy Edgor na lewo od wyjścia z obozu bandytów.
 
-Fortuno mówi nam że wciąż nie odzyskał całej pamięci. Udajemy się do Miguela i dostajemy recepturę na miksturę przemiany umysłu. Czytamy, zbieramy składniki. (czerwony pıeprz można kupić u Zurisa, Sagitty), robimy miksturę i oddajemy Fortuno. Ten mówi na o rytuale który przeprowadził Kruk. Na końcu idziemy do Saturasa i mówimy mu o wszystkim, co powiedział Fortuno.
+Fortuno mówi nam, że wciąż nie odzyskał całej pamięci. Udajemy się do Miguela i dostajemy recepturę na miksturę przemiany umysłu. Czytamy recepturę, następnie zbieramy składniki (czerwony pieprz można kupić u Zurisa, Sagitty). Przygotowujemy miksturę i oddajemy Fortuno. Ten mówi na o rytuale, który przeprowadził Kruk. Na końcu idziemy do Saturasa i mówimy mu o wszystkim, co powiedział Fortuno.
 > Fortuno wróci do obozu w Khorinis, porozmawiaj z nim tam by otrzymać bonus +1 many
 
 ## Mocna gorzałka
