@@ -152,6 +152,6 @@ Ostatnim zadaniem będzie zdobycie schematu zbroi. Znajdziemy go w Opuszczonej K
 
 ## Co z kopalnią?
 
-Musimy się dowiedzieć czy w kopalni w naszym obozie jest magiczna ruda. Idziemy do Węża i prowadzimy go do kopalni. Wąż mówi, że w kopalni nadal jest ruda i poleci nam załatwić ludzi, aby można było wznowić wydobycie. Idziemy teraz do Hagena, mówimy o rudzie i przystajemy na jego ofertę.
+Musimy się dowiedzieć czy w kopalni w naszym obozie jest magiczna ruda. Idziemy do Węża i prowadzimy go do kopalni. Wąż mówi, że w kopalni nadal jest ruda i poleci nam załatwić więcej ludzi, by można było rozpocząć wydobycie. Idziemy teraz do Hagena, mówimy o rudzie i przystajemy na jego ofertę.
 
 > Na tym kończy się wątek naszego obozu. Jeśli mamy wystarczającą ilość kopaczy, to będzie on przynosił zyski, więc co jakiś czas możemy odbierać rudę/złoto
