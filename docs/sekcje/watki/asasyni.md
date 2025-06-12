@@ -80,7 +80,7 @@ Gdy udamy się do Osaira z listem Nrozasa ten zleci nam pierwsze zadanie. Mamy p
 
 ## Spisek niewolników
 
-Osair mówi nam, że wśród niewolników jest buntownik i zleca nam zbadanie sprawy. Zabieramy klucz od strażnika i rozmawiamy z niewolnikami. Jeden z nich zaczyna mówić podejrzane rzeczy o tym, że wkrótce ucieknie. Gdy zagadujemy go ponownie, dowiadujemy się, że bunt organizuje Marius w świątyni. Rozmawiamy z Mariusem, ale teraz musimy podstawić kogoś innego, ponieważ Osair chce śmierci buntownika. Wracamy do niewolnika, który wskazał na Mariusa, i prowadzimy go do Osaira - po chwili Osair go zabija. Następnie wracamy do Mariusa.
+Osair mówi nam, że wśród niewolników jest buntownik i zleca zbadanie sprawy. Zabieramy klucz od strażnika i rozmawiamy z niewolnikami, jeden z nich zaczyna mówić podejrzane rzeczy o wydostaniu się z niewoli. Gdy zagadujemy go ponownie, ten wskazuje na niewolnika Mariusa jako lidera buntu. Rozmawiamy z Mariusem na prawo od wejścia do pomieszczenia, w którym siedzi Haniar. Razem dochodzimy do wniosku, że donosiciel musi umrzeć, więc podstawiamy go Osairowi jako tego, który jest sprawcą buntu. Wracamy do konfidenta i prowadzimy go do Osaira, który go zabija. Wracamy z wieściami do Mariusa.
 
 ## Paczki z bronią dla Mariusza
 
