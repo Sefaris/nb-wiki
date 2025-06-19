@@ -80,7 +80,7 @@ Gdy udamy się do Osaira z listem Nrozasa ten zleci nam pierwsze zadanie. Mamy p
 
 ## Spisek niewolników
 
-Osair mówi nam, że wśród niewolników jest buntownik i zleca zbadanie sprawy. Zabieramy klucz od strażnika i rozmawiamy z niewolnikami, jeden z nich zaczyna mówić podejrzane rzeczy o wydostawaniu się. Gdy zagadujemy go ponownie, ten oskarża o wszystko niewolnika Mariusa. Rozmawiamy z Mariusem na prawo od wejścia do pomieszczenia, w którym siedzi Haniar i razem dochodzimy do wniosku, że donosiciel musi umrzeć, więc podstawiamy go Osairowi jako tego, który jest sprawcą buntu. Wracamy do konfidenta i prowadzimy go do Osaira, który go zabija. Wracamy z wieściami do Mariusa.
+Osair mówi nam, że wśród niewolników jest buntownik i zleca zbadanie sprawy. Zabieramy klucz od strażnika i rozmawiamy z niewolnikami, jeden z nich zaczyna mówić podejrzane rzeczy o wydostaniu się z niewoli. Gdy zagadujemy go ponownie, ten wskazuje na niewolnika Mariusa jako lidera buntu. Rozmawiamy z Mariusem na prawo od wejścia do pomieszczenia, w którym siedzi Haniar. Razem dochodzimy do wniosku, że donosiciel musi umrzeć, więc podstawiamy go Osairowi jako tego, który jest sprawcą buntu. Wracamy do konfidenta i prowadzimy go do Osaira, który go zabija. Wracamy z wieściami do Mariusa.
 
 ## Paczki z bronią dla Mariusza
 
@@ -150,7 +150,8 @@ Zadanie zleca Osair, jeśli wybierzemy tą opcję podczas targowania o receptur�
 
 1. Rafat - Modli się przy kapliczce Beliara, dołączy do Osaira jak ten pozwoli mu się modlić w świątyni.
 2. Famid - Znajduje się w świątyni, a dołączy do Osaira jak zapłacimy mu 3 000 złota.
-3. Nazim - Znajduje się on w kopalni, którą wchodziliśmy do lasu. Dołączy do Osaira, jeśli pozwoli mu na to Haniar.
+3. Nazim znajduje się w kopalni, do której wchodziliśmy od strony lasu. Dołączy do Osaira, jeśli Haniar mu na to pozwoli. 
+   Haniar odrzuca jednak prośbę niezależnie od tego, co powiemy. Wracamy do Nazima, który i tak postanowił zmienić mistrza i dołączy do Osaira.
 4. Kudir - Pojawia się obok Nrozasa o 1-2 w nocy. Zgodzi się on dołączyć, jeśli przyniesiemy mu trollest (który zrespi się w dolince obok Gonzalesa)  
    Kiedy mamy już czterech ludzi wracamy do Osaira i mówimy mu o tym.
 
@@ -168,8 +169,7 @@ Osair zleca nam abyśmy udali się po truciznę do Nrozasa, ten natomiast każe 
 
 1. Dajemy połowę trucizny, troll pada. Gadamy z Gonzalesem, potem z Nrozasem, czekamy kilka godzin, dostajemy fiolkę z trucizną od Nrozasa i zanosimy do Osaira.
 
-2. Dajemy kilka kropel trucizny, troll przeżyje. Gadamy z Gonzalesem, Nrozasem, a na końcu z Osairem.  
-   Od powyższego wyboru zależy dalszy ciąg wątku.
+2. Dajemy kilka kropel trucizny, troll przeżyje. Następnie rozmawiamy z Gonzalesem, Nrozasem, Osairem a na końcu ponownie z Nrozasem. Od powyższego wyboru zależy dalszy ciąg wątku.
 
 ## Dar losu
 
@@ -185,7 +185,10 @@ Po wykonaniu zadania Haniar daje nam list, który zanosimy Osairowi, po czym wra
 
 **UWAGA: Zadanie dostępne jeśli w zadaniu Triumf Nozrasa troll przeżył (opcja 2).**
 
-Nrozas nie wierzy nam. Według prawa Masjafu spór można rozwiązać pojedynkiem. Idziemy na arenę gdzie wcześniej walczył Tiamant z Haniarem i walczymy z Nrozasem. Zabijamy go po czym gadamy z Haniarem, a potem z Gonzalesem.
+Wracamy do Nrozasa i informujemy go o nieudanej próbie otrucia trolla. Następnie udajemy się do Osaira, gdzie zdradzamy Nrozasa, rozpowiadając o jego nieudanej truciźnie.
+Później ponownie spotykamy się z Nrozasem, który jest wściekły. Zaprzeczamy, jakobyśmy to my rozsiewali plotki na jego temat, ale Nrozas nam nie wierzy.
+Zgodnie z prawem Masjafu, taki spór można rozstrzygnąć w pojedynku. Udajemy się więc na arenę, gdzie wcześniej walczyli Tiamant i Haniar, i stajemy do walki z Nrozasem.
+Po wygranej walce rozmawiamy z Haniarem, a następnie z Gonzalesem.
 
 ## Ofiara Haniara
 
