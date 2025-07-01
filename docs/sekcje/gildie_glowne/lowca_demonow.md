@@ -34,3 +34,13 @@ Jakiś czas po zabiciu mrocznego rycerza wracamy do Angela, który opowiada nam 
 ## Poszukiwania rekrutów
 
 Po odnalezieniu martwego rekruta z poprzedniego zadania okazuje się, że Angel przeprowadził rekrutację ochotników na farmie Onara - znajdziemy ich nieopodal Dara. Eskortujemy ich pod posiadłość, po czym zdajemy relację Angelowi.
+
+## Demon z nicości
+
+Zadanie zleca Angel. Idziemy do świątyni śniącego, przed salą śniącego zabijamy nieumarłego nowicjusza, podnosimy notatkę, wracamy do Angela, koniec questa. 
+
+## Pan Otchłani
+
+Po zakończeniu zadania "Demon z nicości" na następny dzień Angel zleca nam przyniesienie dwóch kawałków czarnej rudy. Oddajemy mu i udajemy się z nim do kręgu przed posiadłością. Angel przyzywa demona i jego sługi, których zabijamy z innymi łowcami. Po jego zabiciu Angel wysyła nas do Hagena, zdajemy mu raport, wracamy do Angela, koniec questa.
+
+
