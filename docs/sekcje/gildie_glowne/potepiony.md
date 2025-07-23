@@ -7,7 +7,7 @@
 ## Nieznajomy z tawerny
 __Zleca: Remus__
 
-Spotykamy w tawernie Orlana nieznajomego o imieniu Remus, rozmawiamy z nim i godzimy się napić z nim wina. Światła gasną i budzimy się w jaskini za karczmą, czytamy leżącą obok nas notatkę i kierujemy się do zamku Remusa. Wejscie do wampirzej lokacji ukryte jest za wodospadem obok przejścia na przełęcz. Zadanie kończy się gdy porozmawiamy z Remusem.
+W tawernie Orlana spotykamy nieznajomego o imieniu Remus, rozmawiamy z nim i godzimy się napić z nim wina. Światła gasną i budzimy się w jaskini za karczmą, czytamy leżącą obok nas notatkę i kierujemy się do zamku Remusa. Wejscie do wampirzej lokacji ukryte jest za wodospadem obok przejścia na przełęcz. Zadanie kończy się gdy porozmawiamy z Fryderykiem przed zamkiem.
 
 ## Bandyci w dolinie (2R)
 __Zleca: Fryderyk__
