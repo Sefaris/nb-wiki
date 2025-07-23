@@ -66,3 +66,14 @@ Fergus prosi nas, abyśmy poprosili w jego imieniu Remusa o spotkanie. Po rozmow
 __Zleca: Fryderyk__
 
 Zadanie zleca nam Fryderyk po uprzedniej rozmowie z Remusem. Wręcza on nam listę rzeczy potrzebnych Remusowi do jego eksperymentów, zbieramy potrzebne mu przedmioty, zanosimy i kończymy zadanie.
+
+## Zapiski o magu
+__Zleca: -__
+
+Na najwyższej wieży w posiadłości Remusa znajdujemy "Zapiski o magu". Z notatki dowiadujemy się, że jest ich więcej.
+
+- Notatki maga I - Znajdujemy na drzewie w lesie, niedaleko Ur-Azoga
+- Notatki maga II - Z tyłu na szczycie dużej piramidy na wykopaliskach Magów Wody
+- Notatki maga III - Na półce skalnej przy jeziorze przy chacie Erola, od strony wodospadów. Trzeba zeskoczyć z góry
+
+W każdej notatce znajdujemy fragment kodu, który po połączeniu daje nam dostęp do filmiku na YouTube z lokalizacją nagrody. Poprawny format linku: youtube.com/(kod z notatek)
