@@ -114,7 +114,7 @@ Oddajemy miecz wodzowi orków i wracamy do Hash-Tora przekazać mu pochwałę od
 ## Stary miecz Harta
 
 Hart prosi o odzyskanie swojego miecza. Znajduje się on za skrzyniami w magazynie paladynów w zamku, zabieramy go i oddajemy właścicielowi.
-> nagrodą jest bonus do posługiwania się bronią jednoręczną
+> Nagrodą jest bonus do posługiwania się bronią jednoręczną.
 
 ## Orkowa broń
 
