@@ -131,7 +131,7 @@ Zadanie pojawia się podczas rozmowy z Hush-Narem, a kończy po rozmowie z Xarda
 - Skóra czarnego trolla (+5 reputacji orków)  
 - kieł Muritana (+10 reputacji orków)  
 - Twardy kolec grzbietowy - trofeum z bossa Drake'ów na pustyni Adanosa. (+15 reputacji orków)
-> najkorzystniej jest od oddać kieł muritana. Kolec dajemy Falkowi
+> Najkorzystniej jest oddać kieł muritana. Kolec dajemy Falkowi.
 
 ## Kusza wielkiego łowcy
 
