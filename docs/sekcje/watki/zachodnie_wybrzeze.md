@@ -10,7 +10,7 @@ Jest to zadanie stricte informacyjne, które ciągnie się za nami aż do ukońc
 ## Wyprawa na wybrzeże
 
 Fregyal prosi nas o zorganizowanie zapasów oraz znalezienie łodzi.  
-Jeśli chodzi o zapasy, to 10 butelek wody, 5 bochenków chleba, 10 kawałków mięsa nie powinno sprawić problemów (Baltram i Coragon dostają chleb na sprzedaż). Co do samej łodzi, to udajemy się do Garvella, który zgodzi się odstąpić nam swoją za 5000 złota (można wytargować 3000). Oprócz tego idziemy do Andre by otrzymać zgodę na wypłynięcie z portu.
+Jeśli chodzi o zapasy, to 10 butelek wody i 10 kawałków mięsa nie powinno sprawić problemów. Co do samej łodzi, to udajemy się do Garvella, który zgodzi się odstąpić nam swoją za 5000 złota (można wytargować 3000). Oprócz tego idziemy do Andre by otrzymać zgodę na wypłynięcie z portu.
 
 Po zapłaceniu Garvellowi złota wracamy na następny dzień, a Fregyal będzie obok niego czekał (jeśli oddaliśmy mu zapasy w jaskini). Teraz rozmawiamy z Garvellem, a następnie z Fregyalem, po czym wchodzimy na wielką łódź, gdzie jeszcze raz zagadujemy Druida.
 > Nie martw się o towary sprzedawane dotychczas przez Freygala - zostaną przekazane Galahadowi

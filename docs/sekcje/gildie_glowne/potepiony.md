@@ -7,7 +7,12 @@
 ## Nieznajomy z tawerny
 __Zleca: Remus__
 
-Spotykamy w tawernie Orlana nieznajomego o imieniu Remus, rozmawiamy z nim i godzimy się napić z nim wina. Światła gasną i budzimy się w jaskini za karczmą, czytamy leżącą obok nas notatkę i kierujemy się do zamku Remusa. Wejscie do wampirzej lokacji ukryte jest za wodospadem obok przejścia na przełęcz. Zadanie kończy się gdy porozmawiamy z Remusem.
+W tawernie Orlana spotykamy nieznajomego o imieniu Remus, rozmawiamy z nim i godzimy się napić z nim wina. Światła gasną i budzimy się w jaskini za karczmą, czytamy leżącą obok nas notatkę i kierujemy się do zamku Remusa. Wejscie do wampirzej lokacji ukryte jest za wodospadem obok przejścia na przełęcz. Zadanie kończy się gdy porozmawiamy z Fryderykiem przed zamkiem.
+
+## Pierwsza krew
+__Zleca: Remus__
+
+Remus zleca nam zdobycie 10 fiolek z ludzką krwią, za pomocą runy, którą od niego dostajemy. Udajemy się do Khorinis i używamy runy na śpiących, pijanych lub nieprzytomnych npctach. Po zebraniu krwi wracamy do Remusa i kończymy zadanie.
 
 ## Bandyci w dolinie (2R)
 __Zleca: Fryderyk__
@@ -42,11 +47,6 @@ __Zleca: Lares__
 
 Lares wspomina nam o ciele, które zostało znalezione niedaleko wschodniej bramy miasta. Ciało było kompletnie pozbawione krwi, przez co podejrzewamy, że pojawił się nowy potępiony. Kierujemy się do wschodniej bramy, gdzie spotykamy handlarza Johna. Wspomina on, że kilka dni temu widział nieznajomego w kapturze niedaleko miasta. Idziemy do Remusa i konfrontujemy go z tym co wiemy, jednak Remus temu zaprzecza. Wracamy z powrotem do Johna, który mówi nam, że widział kogoś pasującego do opisu zmierzającego do Martwej Harpii. Po przybyciu do karczmy zagaduje nas Orlan i wręcza nam notatkę. Czytamy notatkę, po czym obok karczmy spotykamy potępionego imieniem Fergus. Tłumaczy nam on, że miał silne pragnienie i nie chciał, aby tak wyszło. Przy okazji chce on, żeby Remus pomógł mu osiedlić się w Khorinis. Informujemy Remusa, że znaleźliśmy mordercę, i kończymy zadanie.
 
-## Pierwsza krew
-__Zleca: Remus__
-
-Remus zleca nam zdobycie 10 fiolek z ludzką krwią, za pomocą runy, którą od niego dostajemy. Kupujemy od Fryderyka fiolki, a potem w nocy używamy runy na śpiących npctach. Po zebraniu krwi wracamy do Remusa i kończymy zadanie.
-
 ## Porządki w krypcie (2R)
 __Zleca: Remus__
 
@@ -66,3 +66,14 @@ Fergus prosi nas, abyśmy poprosili w jego imieniu Remusa o spotkanie. Po rozmow
 __Zleca: Fryderyk__
 
 Zadanie zleca nam Fryderyk po uprzedniej rozmowie z Remusem. Wręcza on nam listę rzeczy potrzebnych Remusowi do jego eksperymentów, zbieramy potrzebne mu przedmioty, zanosimy i kończymy zadanie.
+
+## Zapiski o magu
+__Zleca: -__
+
+Na najwyższej wieży w posiadłości Remusa znajdujemy "Zapiski o magu". Z notatki dowiadujemy się, że jest ich więcej.
+
+- Notatki maga I - Znajdujemy na drzewie w lesie, niedaleko Ur-Azoga
+- Notatki maga II - Z tyłu na szczycie dużej piramidy na wykopaliskach Magów Wody
+- Notatki maga III - Na półce skalnej przy jeziorze przy chacie Erola, od strony wodospadów. Trzeba zeskoczyć z góry
+
+W każdej notatce znajdujemy fragment kodu, który po połączeniu daje nam dostęp do filmiku na YouTube z lokalizacją nagrody. Poprawny format linku: youtube.com/(kod z notatek)
