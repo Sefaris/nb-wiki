@@ -10,7 +10,7 @@ Dostajemy się do oazy złotego smoka Ashtara, rozmawiamy z nim, a ten twierdzi,
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270888650/F5C5876E037FB335528C9AE4A801F04186252A41/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270888650/F5C5876E037FB335528C9AE4A801F04186252A41/)  
 
 Korzystając z pierścienia, który znaleźliśmy po walce z Krukiem przenosimy się do miejsca, w którym go pokonaliśmy i czytamy naładowaną tabliczkę. Obudzi się Wielki Starożytny Strażnik, który po krótkiej rozmowie nas zaatakuje. Możemy go uderzyć by dowiedzieć się, że jest nieśmiertelny. Wracamy do Ashtara i dowiadujemy się, że potrzebny będzie Młot Adanosa, znajdziemy go na ołtarzu z zombie w świątyni w obozie bandytów. Uzbrojeni w młot zabijamy strażnika i zabieramy z niego kamień, który pokazujemy Astarowi. Smok informuje nas o treści tabliczki i możemy teraz uaktywnić kulę budowniczych w bibliotece w kanionie, co otworzy przejście do Pustyni Adanosa - rozległej lokacji, docelowo przewidzianej na 3 rozdział.
-> Po rozmowie ze smokiem w bibliotece pojawią się duchy ceniostwórów wraz z bossem. Jeżeli chcemy uniknąć spotkania z nimi, to zamiast rozmawiać ze smokiem aktywujemy kulę od razu po pokonaniu strażnika. 
+> Po rozmowie ze smokiem w bibliotece pojawią się duchy cieniostworów wraz z bossem. Jeżeli chcemy uniknąć spotkania z nimi, to zamiast rozmawiać ze smokiem aktywujemy kulę od razu po pokonaniu strażnika. 
 
 ### Uwaga: Na pustyni w trakcie dnia będziemy tracić wytrzymałość, chyba że nauczymy się odporności na gorąco od Gonzalesa lub wypijemy Płomień Eligora. Utrata wytrzymałości ustaje o godzinie 18
 

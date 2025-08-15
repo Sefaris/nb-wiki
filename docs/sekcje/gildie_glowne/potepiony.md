@@ -14,11 +14,10 @@ __Zleca: Remus__
 
 Remus zleca nam zdobycie 10 fiolek z ludzką krwią, za pomocą runy, którą od niego dostajemy. Udajemy się do Khorinis i używamy runy na śpiących, pijanych lub nieprzytomnych npctach. Po zebraniu krwi wracamy do Remusa i kończymy zadanie.
 
-## Bandyci w dolinie (2R)
+## Zaopatrzenie zamku
 __Zleca: Fryderyk__
 
-Zadanie zleca nam Fryderyk po uprzedniej rozmowie z Remusem, mówi nam on o bandytach, którzy odkryli dolinę, ponieważ go śledzili.
-Zabijamy bandytów znajdujących się przed wyjściem z doliny i wracamy do Fryderyka, który daje nam w nagrodę klucz do wieży z zagadką.
+Zadanie zleca nam Fryderyk po uprzedniej rozmowie z Remusem. Wręcza on nam listę rzeczy potrzebnych Remusowi do jego eksperymentów, zbieramy potrzebne mu przedmioty, zanosimy i kończymy zadanie.
 
 ## Krwawy diament
 __Zleca: Notatka znaleziona w zamku__
@@ -42,30 +41,34 @@ Aby ukończyć to zadanie trzeba ukończyć zadania zlecone nam przez Remusa lub
 1. Zdradzić Remusa i mieć możliwość zdjęcia klątwy z siebie
 2. Nie zdradzić Remusa za co dostajemy w nagrodę bardzo fajną miksturę do statystyk
 
-## Morderstwo w mieście (3R)
-__Zleca: Lares__
+## Bandyci w dolinie (2R)
+__Zleca: Fryderyk__
 
-Lares wspomina nam o ciele, które zostało znalezione niedaleko wschodniej bramy miasta. Ciało było kompletnie pozbawione krwi, przez co podejrzewamy, że pojawił się nowy potępiony. Kierujemy się do wschodniej bramy, gdzie spotykamy handlarza Johna. Wspomina on, że kilka dni temu widział nieznajomego w kapturze niedaleko miasta. Idziemy do Remusa i konfrontujemy go z tym co wiemy, jednak Remus temu zaprzecza. Wracamy z powrotem do Johna, który mówi nam, że widział kogoś pasującego do opisu zmierzającego do Martwej Harpii. Po przybyciu do karczmy zagaduje nas Orlan i wręcza nam notatkę. Czytamy notatkę, po czym obok karczmy spotykamy potępionego imieniem Fergus. Tłumaczy nam on, że miał silne pragnienie i nie chciał, aby tak wyszło. Przy okazji chce on, żeby Remus pomógł mu osiedlić się w Khorinis. Informujemy Remusa, że znaleźliśmy mordercę, i kończymy zadanie.
+Zadanie zleca nam Fryderyk po uprzedniej rozmowie z Remusem, mówi nam on o bandytach, którzy odkryli dolinę, ponieważ go śledzili.
+Zabijamy bandytów znajdujących się przed wyjściem z doliny i wracamy do Fryderyka, który daje nam w nagrodę klucz do wieży z zagadką.
 
 ## Porządki w krypcie (2R)
 __Zleca: Remus__
 
 Remus mówi nam, że kryptę niedaleko jego zamku zamieszkują nieumarli, którzy strzegą magii szkodliwej dla potępionych. Idziemy do niej, otwieramy ją i zabijamy szkielety i zombie, które się tam znajdują. Na koniec wracamy do Remusa.
 
-## Szturm na zamek (3R)
-__Zleca: Angel__
+## Morderstwo w mieście (3R)
+__Zleca: Lares__
 
-Po ocknięciu się po zasadzcce zastawionej przez zakon Łowców Demonów, Angel każe nam iść do Remusa z propozycją poddania się i wyjścia bez walki. Docieramy do Remusa i przekazujemy wiadomość, przy okazji wspominamy mu o krwii umarlaka, którą podał nam zakon. Pijemy miksturę, która niweluje jej efekt, i rozmawiamy z Remusem. Wspomina nam on o zasadzce, którą chce zgotować Łowcom Demonów. Wychodzimy z zamku przed most, gdzie stoi Angel, rozmawiamy z nim. Pojawiają się Remus z Fergusem i zabijamy członków zakonu, rozmawiamy z Remusem i kończymy zadanie.
+Lares wspomina nam o ciele, które zostało znalezione niedaleko wschodniej bramy miasta. Ciało było kompletnie pozbawione krwi, przez co podejrzewamy, że pojawił się nowy potępiony. Kierujemy się do wschodniej bramy, gdzie spotykamy handlarza Johna. Wspomina on, że kilka dni temu widział nieznajomego w kapturze niedaleko miasta. Idziemy do Remusa i konfrontujemy go z tym co wiemy, jednak Remus temu zaprzecza. Wracamy z powrotem do Johna, który mówi nam, że widział kogoś pasującego do opisu zmierzającego do Martwej Harpii. Po przybyciu do karczmy zagaduje nas Orlan i wręcza nam notatkę. Czytamy notatkę, po czym obok karczmy spotykamy potępionego imieniem Fergus. Tłumaczy nam on, że miał silne pragnienie i nie chciał, aby tak wyszło. Przy okazji chce on, żeby Remus pomógł mu osiedlić się w Khorinis. Informujemy Remusa, że znaleźliśmy mordercę, i kończymy zadanie.
 
 ## Śmiertelne spotkanie (3R)
 __Zleca: Fergus__
 
 Fergus prosi nas, abyśmy poprosili w jego imieniu Remusa o spotkanie. Po rozmowie Remus przystaję na propozycję spotkania i określa miejsce, wracamy do Fergusa i o północy idziemy na umówione miejsce. Wszystko jednak okazuje się być tylko pułapką Łowców Demonów. Po rozmowie zadanie się kończy.
 
-## Zaopatrzenie zamku
-__Zleca: Fryderyk__
+## Szturm na zamek (3R)
+__Zleca: Angel__
 
-Zadanie zleca nam Fryderyk po uprzedniej rozmowie z Remusem. Wręcza on nam listę rzeczy potrzebnych Remusowi do jego eksperymentów, zbieramy potrzebne mu przedmioty, zanosimy i kończymy zadanie.
+Po ocknięciu się po zasadzcce zastawionej przez zakon Łowców Demonów, Angel każe nam iść do Remusa z propozycją poddania się i wyjścia bez walki. Docieramy do Remusa i przekazujemy wiadomość, przy okazji wspominamy mu o krwii umarlaka, którą podał nam zakon. Pijemy miksturę, która niweluje jej efekt, i rozmawiamy z Remusem. Wspomina nam on o zasadzce, którą chce zgotować Łowcom Demonów. Wychodzimy z zamku przed most, gdzie stoi Angel, rozmawiamy z nim. Pojawiają się Remus z Fergusem i zabijamy członków zakonu, rozmawiamy z Remusem i kończymy zadanie.
+
+## Stary znajomy (3r)
+Remus opowiada nam o swoim starym znajomym, który opiera się mocy Potępionych. Uwięził go w Górniczej Dolinie. Daje nam notatkę, w której wskazane jest miejsce pochówku. Musimy znaleźć Potępionego o imieniu Edward, przywołać go i porozmawiać z nim. Na miejscu okazuje się, że Edward się nie zmienił, więc musimy go zabić. Po wszystkim wracamy do Remusa, od którego dostajemy trochę złota i Amulet wojownika ciemności.
 
 ## Zapiski o magu
 __Zleca: -__

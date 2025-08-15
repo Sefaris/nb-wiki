@@ -519,7 +519,7 @@ Garvell chce się dowiedzieć, dlaczego Paladyni przybyli do miasta. Rozmawiamy 
 ## Problemy ze strażą
 __Zleca: Farim__
 
-Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc, dodatkowo dostajemy bonus `Retoryka +1`. Wracamy do Farima.
+Farim skarży się nam, że straż zabiera mu wszystkie ryby. Idziemy do Martina, który zgadza się pomóc. Wracamy do Farima.
 
 ## Jedzenie dla Farima
 __Zleca: Farim__
