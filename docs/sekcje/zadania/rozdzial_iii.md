@@ -123,7 +123,7 @@ Zanim zaczniemy rekrutację musimy najpierw udać się do naszego obozu i pogada
 
 Kolejny krok to znaleźć zarządcę. Mogą to być Valeran lub Erol. Polecam Erola, gdyż Valeran przyda się do zadania [Asystent](sekcje/gildie_poboczne/gildia_kupcow.md?id=asystent-rozdział-3). Pytamy się kandydata czy zostanie zarządcą obozu, a ten zgadza się, jeśli zgodzimy się na jego stawkę. Od teraz w każdej sprawie dotyczącej rozwoju naszego obozu rozmawiać będziemy z naszym zarządcą. 
 
-Pierwszym zadaniem będzie przynieść zasoby potrzebne do rozkręcenia obozu: 5 000 złota, 50 sztuk pieczonego mięsa, 25 ryb i 5 bochenków chleba (chleb pojawi się u Baltrama).
+Pierwszym zadaniem będzie przynieść zasoby potrzebne do rozkręcenia obozu: 5 000 złota, 50 sztuk pieczonego mięsa, 25 ryb i 5 bochenków chleba (chleb pojawi się u Ruperta/Baltrama/Eleny – w zależności od tego, kto żyje).
 
 Następnie zarządca mówi nam, że mamy zorganizować więcej ludzi: 
 
