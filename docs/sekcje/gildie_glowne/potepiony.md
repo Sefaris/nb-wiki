@@ -67,8 +67,10 @@ __Zleca: Angel__
 
 Po ocknięciu się po zasadzcce zastawionej przez zakon Łowców Demonów, Angel każe nam iść do Remusa z propozycją poddania się i wyjścia bez walki. Docieramy do Remusa i przekazujemy wiadomość, przy okazji wspominamy mu o krwii umarlaka, którą podał nam zakon. Pijemy miksturę, która niweluje jej efekt, i rozmawiamy z Remusem. Wspomina nam on o zasadzce, którą chce zgotować Łowcom Demonów. Wychodzimy z zamku przed most, gdzie stoi Angel, rozmawiamy z nim. Pojawiają się Remus z Fergusem i zabijamy członków zakonu, rozmawiamy z Remusem i kończymy zadanie.
 
-## Stary znajomy (3r)
-Remus opowiada nam o swoim starym znajomym, który opiera się mocy Potępionych. Uwięził go w Górniczej Dolinie. Daje nam notatkę, w której wskazane jest miejsce pochówku. Musimy znaleźć Potępionego o imieniu Edward, przywołać go i porozmawiać z nim. Na miejscu okazuje się, że Edward się nie zmienił, więc musimy go zabić. Po wszystkim wracamy do Remusa, od którego dostajemy trochę złota i Amulet wojownika ciemności.
+## Stary znajomy (3R)
+__Zleca: Remus__
+
+Remus opowiada nam o swoim starym znajomym, który opiera się mocy Potępionych i został uwięziony przez Remusa w Górniczej Dolinie. Od naszego zleceniodawcy dostajemy notatkę, w której wskazane jest miejsce pochówku. Musimy znaleźć Potępionego o imieniu Edward, przywołać go i porozmawiać z nim. Na miejscu okazuje się, że Edward się nie zmienił, więc musimy go zabić. Po wszystkim wracamy do Remusa, od którego dostajemy trochę złota i Amulet wojownika ciemności.
 
 ## Zapiski o magu
 __Zleca: -__
