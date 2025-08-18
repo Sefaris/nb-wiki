@@ -633,7 +633,7 @@ Kiedy zbierzemy już wszystkie fanty wracamy do Loi i oddajemy jej wszystko. Po 
 Dostajemy za to bonus `Retoryka +1`
 
 Teraz powinna się odpalić cutscenka jak Loa schodzi na dół latarni, po jej zakończeniu schodzimy na dół i zaraz po wyjściu z latarni skręcamy w prawo za latarnię. Po cutscence otrzymujemy 5PN, a zadanie się kończy.
-> Na utrudnionym nightmare dostajemy 3PN zamiast 5
+> Na utrudnionym nightmare dostajemy 3PN zamiast 5. Natomiast na trybach SNC bez PN dostajemy 50HP.
 
 ## Nowa broń dla Skipa
 __Zleca: Skip__
