@@ -24,9 +24,13 @@ Mapa pustyni i krzyształ ogniskujący znajdują się w pierwszym budynku, na je
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)  
 
-####__starożytne tabliczki i mroczni strażnicy__
+####__mroczni strażnicy__
 
-![image info](https://imgur.com/L58vtNS.png)
+![](https://cdn.discordapp.com/attachments/1373268081689890928/1408074281669230673/image.png?ex=68a86add&is=68a7195d&hm=9f4a4e9d19f36e0e966c2d7281b4e3337b58615c2eb322d8ec769c7b40105a1c&)
+
+####__starożytne tabliczki__
+
+![](https://cdn.discordapp.com/attachments/1373268081689890928/1408074479619543050/image.png?ex=68a86b0c&is=68a7198c&hm=a209830febb50ec185ff5daa1efdbcff6d49358e0f895e75edfafd9874e0262f&)
 
 <!-- tabs:end -->
 
