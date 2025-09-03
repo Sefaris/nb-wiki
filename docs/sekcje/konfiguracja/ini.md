@@ -195,6 +195,10 @@ visname_s=BADWEATH.TGA
 
 ## Włączenie questów
 
+Włączenie 7 rozdziału i opiekunów (działa od nowej gry):
+- Nazwa - **bOldGuardiansWay**
+- Wartość - 831407
+
 Włączenie zadania z zębaczem u Xardasa (działa od nowej gry):
 
 - Nazwa - **bSnapperQuestStart**
