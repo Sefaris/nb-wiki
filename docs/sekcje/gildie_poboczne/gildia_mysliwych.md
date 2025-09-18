@@ -65,7 +65,7 @@ Raff potrzebuje nowego łuku. Chodzi o łuk kompozytowy, który znajduje się m.
 
 ## Specjalna broń dla Raffa
 
-Najpierw musimy wejść w towary, które oferuje na sprzedaż Raff, a potem zagadać do niego, że ma ciekawy wybór łuków. Wtedy Raff zleci nam przyniesienie mu specjalnej broni. Będzie nią kusza Egzekucjoner, którą otrzymamy dopiero pod koniec wątku orków w Dolinie Cieni. Szkoda sobie zaprzątać głowy tą misją w początkowym stadium gry.
+Najpierw musimy wejść w towary, które oferuje na sprzedaż Raff, a potem zagadać do niego, że ma ciekawy wybór łuków. Wtedy Raff zleci nam przyniesienie mu specjalnej broni. Będzie nią kusza Egzekutor, którą otrzymamy dopiero pod koniec wątku orków w Dolinie Cieni. Szkoda sobie zaprzątać głowy tą misją w początkowym stadium gry.
 > nagrodą będzie nauka kusznictwa +3%
 
 ## Jajo Topielca
