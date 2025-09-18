@@ -60,8 +60,8 @@ Barem prosi nas, abyśmy przynieśli mu zbroję z płytek pełzaczy. W tym celu 
 
 ## Nowy łuk
 
-Raff potrzebuje nowego łuku. Chodzi o łuk kompozytowy, który znajduje się w skrzyni przy spalonych chatach z jaszczurami niedaleko Martwej Harpii.
-> Łuków kompozytowych znajdziemy w grze więcej, może to być każdy z nich
+Raff potrzebuje nowego łuku. Chodzi o łuk kompozytowy, który znajduje się m.in. w skrzyni przy spalonych chatach z jaszczurami, niedaleko Martwej Harpii.
+> nagrodą będzie nauka łucznictwa +3%
 
 ## Specjalna broń dla Raffa
 
