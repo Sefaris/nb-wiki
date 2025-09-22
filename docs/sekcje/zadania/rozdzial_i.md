@@ -661,7 +661,7 @@ Możemy mu oddać jeden z poniższych pancerzy:
 - Ciężki skórzany pancerz +1500 doświadczenia
 
 Oddajemy pancerz Jessemu, a on w podzięce oferuje nam pierścień ochrony (dobry w 1r) i udaje się na farmę Onara.
-> pierścień daje +12 ochronę przed wszystkim
+> pierścień daje +25 ochrony przed wszystkim
 
 ## Pierwsza mikstura
 __Zleca: Constantino__
