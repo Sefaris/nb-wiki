@@ -201,7 +201,7 @@ Jeżeli wolimy drogę bojową to po prostu wchodzimy do obozu paladynów i zabij
 
 Mając klucz udajemy się na drugi koniec wyspy, będzie tam kaplica z pilnującymi jej dwoma Paladynami. Pozbywamy się paladynów, otwieramy wejście do kaplicy za pomocą klucza, który zdobyliśmy wcześniej w obozie paladynów i zabieramy amulet z ołtarza. W kaplicy wciskamy przycisk na ścianie i za kaplicą otworzy się teleport powrotny.
 
-Wracamy do Xardasa i mówimy ze mamy amulet. Teraz udajemy się do posągu Beliara i próbujemy wymienić amulet na Mora Ultaru. Szansa na otrzymanie runy zależna jest od naszej karmy i gildii. Im więcej karmy Beliara, tym lepiej. Runę użyj od razu, powinna pojawić się informacja o nowej umiejętności: "łowca dusz". Znowu idziemy do Xardasa pochwalić mu się faktem zdobycia runy.
+Wracamy do Xardasa i mówimmy, że mamy amulet. Teraz udajemy się do posągu Beliara i próbujemy wymienić amulet na Mora Ulartu. Szansa na otrzymanie umiejętności zależna jest od naszej karmy i gildii. Im więcej karmy Beliara, tym lepiej. Po zdobyciu nowej umiejętności wracamy do Xardasa/Kreola/Ash'Tara (powrót do danego NPC zależny jest od postępu w fabule, sprawdź swój dziennik).
 
 # Wątek główny podstawki G2 1-6 rozdział (Streszczenie)
 
