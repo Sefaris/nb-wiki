@@ -158,7 +158,7 @@ Po wykonaniu zadania "Interesy z piratami" Cronos poprosi nas o zaprowadzenie No
 
 ## Pozostałości dawnej świetności
 
-Po dotarciu na pustynię Adanosa wracamy do Jarkendaru i gadamy z Saturasem, a potem idziemy do Riordiana, który zleca nam przyniesienie starych tabliczek. Jest ich na Pustyni łącznie 23, ale Riordian będzie zadowolony już po 15.
+Po dotarciu na pustynię Adanosa wracamy do Jarkendaru i gadamy z Saturasem, a potem idziemy do Riordiana, który zleca nam przyniesienie starych tabliczek. Na pustyni znajdujemy ich 15 i oddajemy dla maga.
 
 ## Magia Guru
 
