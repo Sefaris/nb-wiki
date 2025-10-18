@@ -129,11 +129,9 @@ Haniar zagaduje do nas i prosi, byśmy udali się z dala od wścibskich oczu. Gd
 UWAGA: Po zaakceptowaniu oferty Haniara stajemy się jego muridem.  
 Idziemy teraz do jaskini Osaira i gadamy z nowicjuszem Joaquinem, po czym mówimy mu jak zostać muridem Osaira. Następny jest Kaduyin, którego znajdziemy przed świątynią. Dajemy mu kieł Muritana a ten nam powie trochę informacji odnośnie Tiamanta.
 
-UWAGA: Teraz czekamy jeden dzień i udajemy się około godziny 12:00 do świątyni, przechodzimy inicjację i stajemy się cieniem.  
-Idziemy do Joaquina, który znajduje się teraz obok posągu Beliara. Wymuszamy żeby pokazał nam list, a następnie idziemy do Tiamanta. Wyśle on nas do Osaira. Osair da nam Zadanie - [Kopalnia złota](#kopalnia-złota), a w trakcie robienia tego zadania spotkamy Lukę. Po krótkiej rozmowie zaatakuje nas, zabijamy go i czytamy notatkę z jego ciała.  
-Idziemy do Haniara i mówimy co wiemy (Haniarowi możemy przekazać wieść tylko wtedy kiedy pali ziele przed świątynią).
+UWAGA: Po odczekaniu jednego dnia udajemy się około godziny 12:00 do świątyni, przechodzimy inicjację i stajemy się cieniem.
 
-Teraz robimy zadanie [Kopalnia złota](#kopalnia-złota) i [Odprowadź niewolników do kopalni](#odprowadź-niewolników-do-kopalni). Następnie czekamy do 22:00-23:00 i idziemy na plac przed świątynią, gdzie dojdzie do walki Tiamanta z Haniarem. Mówimy o śmierci Tiamanta Gonzalesowi
+Idziemy do Tiamanta, który odsyła nas do Osaira. Wykonujemy quest [Kopalnia złota](#kopalnia-złota). Po wykonaniu zadania spotykamy Joaquina przy posągu Beliara i wymuszamy od niego pokazanie listu. Po poznaniu treści listu idziemy do Haniara i mówimy mu, co wiemy (Haniarowi możemy przekazać wieść tylko wtedy, gdy pali ziele przed świątynią). Po rozmowie z Haniarem wrcamy do Osaira i robimy [Odprowadź niewolników do kopalni](#odprowadź-niewolników-do-kopalni). Następnie czekamy do 22:00–23:00 i idziemy na plac przed świątynią, gdzie dojdzie do walki Tiamanta z Haniarem. Po zakończonym pojedynku informujemy Gonzalesa o śmierci Tiamanta.
 
 # Wątek asasynów Masjaf Cz. 2
 
