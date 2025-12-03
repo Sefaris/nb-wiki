@@ -79,6 +79,8 @@ Buster będzie od nas skupował rogi cieniostwora za złoto i expa. Zadanie koń
 
 Torlof prosi nas o pozbycie się zakapturzonych postaci w obozie Dextera. Wybijamy i wracamy do zleceniodawcy.
 
+>Przed rozpoczęciem mordu zaleca się porozmawiać z Lordem Hagenem. Jeden z poszukiwaczy pojawia się dopiero po dialogu z nim.
+
 ## Koszmar Roscoe
 
 Roscoe obok tawerny Orlana zleca nam oczyszczenie cmentarza obok Martwej Harpii. Zabijamy szkielety i poszukiwacza po czym wracamy do zleceniodawcy.
