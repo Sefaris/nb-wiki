@@ -127,7 +127,7 @@ Tiamant zleca nam to zadanie podczas zadania z zabójstwem Hasima, mamy udać si
 Haniar zagaduje do nas i prosi, byśmy udali się z dala od wścibskich oczu. Gdy pyta, czy boimy się śmierci, odpowiadamy, że nie. Haniar mówi nam, że Hasim zbierał dla niego informacje i prosi byśmy go zastąpili. Zgadzamy się i czytamy list, który dał nam Haniar.
 
 UWAGA: Po zaakceptowaniu oferty Haniara stajemy się jego muridem.  
-Idziemy teraz do jaskini Osaira i gadamy z nowicjuszem Joaquinem, po czym mówimy mu jak zostać muridem Osaira. Następny jest Kaduyin, którego znajdziemy przed świątynią. Dajemy mu kieł Muritana a ten nam powie trochę informacji odnośnie Tiamanta.
+Idziemy teraz do jaskini Osaira i gadamy z nowicjuszem Joaquinem, po czym mówimy mu jak zostać muridem Osaira. Następny jest Cadouin, którego znajdziemy przed świątynią. Dajemy mu kieł Muritana a ten nam powie trochę informacji odnośnie Tiamanta.
 
 UWAGA: Po odczekaniu jednego dnia udajemy się około godziny 12:00 do świątyni, przechodzimy inicjację i stajemy się cieniem.
 
