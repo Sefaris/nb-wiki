@@ -17,7 +17,7 @@ Następnie lecimy do miejsca, w którym walczyliśmy z bossem z tarczą. Wcześn
 Teraz wracamy do pomieszczenia gdzie walczyliśmy z Nekromantą i idziemy przed siebie. Skręcamy w prawo do góry po zawalonym filarze i używamy przełacznika, gdzie czeka nas walka z druidem. Kilkukrotnie zbijamy go do pewnej ilości HP, po czym zmienia się on w inną formę.  
 Po pokonaniu go otworzy nam się przejście do teleportu, za którym czeka nas walka ze stadem poszukiwaczy i dalej z bossem poszukiwaczem.
 
-Pojawiają się 3 postaci, na których zagadki musimy odpowiedzieć: Duch maga - Innos, Duch wojownika - Dusza, Duch nordmarczyka - Ja.
+Pojawiają się cztery duchy: Maga, Nordmarczyka, Wojownika i ponownie Nordmarczyka, a odpowiedzi na ich zagadki to kolejno: Innos, Dusza, Koszmar oraz Ja.
 
 Po przejściu przez most i wejściu po schodach czeka nas walka z naszym sobowtórem. Będzie on przyzywał duchy, z którymi musimy się rozprawić, a gdy zostanie mu ok. 5% życia, to zniknie. Teraz czeka nas walka z finałowym bossem tej lokacji, czyli Krukiem. Bijemy się z nim, a kiedy zawiśnie w powietrzu i będzie strzelał czarem, to należy zabić jego sługusów. Tutaj podobnie jak w walce z nekromantą najtrudniejsza może okazać się faza walki z 6 demonami.
 
