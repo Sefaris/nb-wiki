@@ -197,7 +197,7 @@ Po trzecim wykryciu Fellangora mamy 2 opcje:
 
 Jeśli zabiliśmy Fellangora to dostajemy od Zigosa amulet pozwalający zmieniać formę. Idziemy na Etlu, nie zbliżamy się do obozu paladynów i kradniemy rybakowi jego wygląd. Następnie idziemy do obozu paladynów i próbujemy ukraść szkatułkę. Paladyni raczej i tak nas zaatakują i bardzo ciężko będzie ujść z życiem. Zdecydowanie lepszą opcją jest skorzystanie z mikstury niewidzialności.
 
-Jeżeli wolimy drogę bojową to po prostu wchodzimy do obozu paladynów i zabijamy wszystko co się rusza, a następnie zabieramy szkatułkę z kluczem.
+Jeżeli wolimy drogę bojową to po prostu wchodzimy do obozu paladynów i zabijamy wszystko co się rusza, a następnie zabieramy klucz z ołtarza.
 
 Mając klucz udajemy się na drugi koniec wyspy, będzie tam kaplica z pilnującymi jej dwoma Paladynami. Pozbywamy się paladynów, otwieramy wejście do kaplicy za pomocą klucza, który zdobyliśmy wcześniej w obozie paladynów i zabieramy amulet z ołtarza. W kaplicy wciskamy przycisk na ścianie i za kaplicą otworzy się teleport powrotny.
 
