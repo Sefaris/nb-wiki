@@ -81,11 +81,22 @@ W zamian dowiadujemy się, że kiedy był w Starym Obozie podsłuchał przypadki
 Po przyzwaniu kapłanki Beliara Avabyul dowiadujemy się, że Beliar pożąda tego artefaktu i jest w stanie nam pomóc, jeśli go oddamy. Avabyul opowiada nam teraz o Januszu Dwulicowym.  
 Znajdujemy go w najbardziej oddalonym miejscu w lokacji Śnieżne Góry Orków (Patrz mapa śnieżnych gór orków w dziale z zadaniami w tej lokacji - Punkt 13). Stoi przed wielkimi wrotami i pozwoli nam przez nie przejść gdy przyniesiemy mu duszę awatara Beliara. Możemy ją zdobyć z Azgalora - smoka z Doliny Cieni lub z Kruka w koszmarze.
 
-Klikamy w przycisk z przodu ołtarza przed Januszem i przechodzimy przez bramę. Dalej warto iść dopiero po naładowaniu runy z zadania [Ekspedycja Magów Ognia](#ekspedycja-magów-ognia). Z runą idziemy eksplorować jaskinie, gdzie natkniemy się na golema, z którym rozmawiamy, a następnie traktujemy runą. Idziemy dalej po schodach na górę i spotykamy strażnika artefaktu. Niestety artefaktu nie dostaniemy ale możemy wybrać jeden z poniżej wymienionych bonusów:  
-- **Siła:** +25, lub +50, jeśli **rozdział 6 lub wyższy**
-- **Zręczność:** +25, lub +50, **jeśli rozdział 6 lub wyższy**
-- **Mana i inteligencja:** +50 many i +20 inteligencji, lub +120 many i +30 inteligencji, **jeśli rozdział 6 lub wyższy**
-- **Zdrowie i wytrzymałość:** +175 zdrowia i +50 wytrzymałości, lub +300 zdrowia, **jeśli rozdział 6 lub wyższy**
+Klikamy w przycisk z przodu ołtarza przed Januszem i przechodzimy przez bramę. Dalej warto iść dopiero po naładowaniu runy z zadania [Ekspedycja Magów Ognia](#ekspedycja-magów-ognia). Z runą idziemy eksplorować jaskinie, gdzie natkniemy się na golema, z którym rozmawiamy, a następnie traktujemy runą. Idziemy dalej po schodach na górę i spotykamy strażnika artefaktu. Niestety artefaktu nie dostaniemy, ale możemy wybrać jeden z poniżej wymienionych bonusów:
+- **Siła:**  
+  - Standardowo: **+25**  
+  - Rozdział 6 lub wyższy: **+50**
+
+- **Zręczność:**  
+  - Standardowo: **+25**  
+  - Rozdział 6 lub wyższy: **+50**
+
+- **Mana i inteligencja:**  
+  - Standardowo: **+50 many** i **+20 inteligencji**  
+  - Rozdział 6 lub wyższy: **+120 many** i **+30 inteligencji**
+
+- **Zdrowie i wytrzymałość:**  
+  - Standardowo: **+175 zdrowia** i **+50 wytrzymałości**  
+  - Rozdział 6 lub wyższy: **+300 zdrowia**
 
 Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janusz, pokonany przez kapłankę Beliara. Po krótkiej rozmowie dochodzi do walki, zabijamy ją, a zadanie się kończy.
 > Kapłanka dropi najlepszą szablę w grze. 
