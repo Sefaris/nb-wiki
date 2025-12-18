@@ -82,9 +82,10 @@ Po przyzwaniu kapłanki Beliara Avabyul dowiadujemy się, że Beliar pożąda te
 Znajdujemy go w najbardziej oddalonym miejscu w lokacji Śnieżne Góry Orków (Patrz mapa śnieżnych gór orków w dziale z zadaniami w tej lokacji - Punkt 13). Stoi przed wielkimi wrotami i pozwoli nam przez nie przejść gdy przyniesiemy mu duszę awatara Beliara. Możemy ją zdobyć z Azgalora - smoka z Doliny Cieni lub z Kruka w koszmarze.
 
 Klikamy w przycisk z przodu ołtarza przed Januszem i przechodzimy przez bramę. Dalej warto iść dopiero po naładowaniu runy z zadania [Ekspedycja Magów Ognia](#ekspedycja-magów-ognia). Z runą idziemy eksplorować jaskinie, gdzie natkniemy się na golema, z którym rozmawiamy, a następnie traktujemy runą. Idziemy dalej po schodach na górę i spotykamy strażnika artefaktu. Niestety artefaktu nie dostaniemy ale możemy wybrać jeden z poniżej wymienionych bonusów:  
-- 25 siły i 25 zręczności
-- 50 many i 20 inteligencji
-- 175 zdrowia i 50 wytrzymałości  
+- **Siła:** +25, lub +50, jeśli **rozdział 6 lub wyższy**
+- **Zręczność:** +25, lub +50, **jeśli rozdział 6 lub wyższy**
+- **Mana i inteligencja:** +50 many i +20 inteligencji, lub +120 many i +30 inteligencji, **jeśli rozdział 6 lub wyższy**
+- **Zdrowie i wytrzymałość:** +175 zdrowia i +50 wytrzymałości, lub +300 zdrowia, **jeśli rozdział 6 lub wyższy**
 
 Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janusz, pokonany przez kapłankę Beliara. Po krótkiej rozmowie dochodzi do walki, zabijamy ją, a zadanie się kończy.
 > Kapłanka dropi najlepszą szablę w grze. 
