@@ -6,8 +6,8 @@
 
 Aby zostać mrocznym magiem, trzeba podczas rozmowy z Vatrasem spytać o inne gildie poza głównymi. Potem udajemy się do Xardasa i pytamy, czy przyjmie nas na nowicjusza. Xardas potrzebuje dnia do namysłu, po czym ostatecznie przyjmuje nas i daje nam szatę nowicjusza mroku.
 
-Teraz pytamy Xardasa jak stać się pełnoprawnym magiem. W tym celu musimy spełnić pewne warunki: Posiadać 40 inteligencji i 80 many, a także wykonać zadanie Ścieżka Ciemności.  
-Po wykonaniu tego zadania oficjalnie zostajemy Nekromantą lub Czarnoksiężnikiem w zależności od wyboru po zakończeniu zadania.
+Teraz pytamy Xardasa jak stać się pełnoprawnym magiem. W tym celu musimy spełnić pewne warunki: Posiadać 40 inteligencji i 80 many, a także wykonać zadania [Runa szkieletu goblina](#Runa-szkieletu-goblina) i [Droga Ciemności](#Droga-Ciemności).  
+Po wykonaniu tego zadania oficjalnie zostajemy Nekromantą, Czarnoksiężnikiem lub Mrocznym Przywoływaczem w zależności od wyboru po zakończeniu zadania.
 
 ## Posążek Beliara
 __Zleca: Xardas__
@@ -22,6 +22,10 @@ Xardas prosi o przyniesienie posążka Beliara, możemy takowy znaleźć:
 
 #### Zadanie nie blokuje dostępu do innych gildii.
 
+## Runa szkieletu goblina
+
+Xardas stworzy dla nas runę po dostarczeniu wszystkich składników z listy: żelaznego sztyletu, kości goblina, akwamarynu, kamienia runicznego oraz zwoju przyzwania szkieletu goblina. Po zebraniu wszystkiego zanosimy przedmioty do Xardasa i otrzymujemy magiczną runę.
+ 
 ## Droga Ciemności
 
 Xardas każe nam zabić sługę Innosa, może to być dowolny nowicjusz z klasztoru, lecz najlepszym celem będzie pasterz owiec Opolos. O godzinie 17 wychodzi on z klasztoru zapalić ziele, więc mamy idealną okazję, aby go zabić. Po wszystkim wracamy do Xardasa.
