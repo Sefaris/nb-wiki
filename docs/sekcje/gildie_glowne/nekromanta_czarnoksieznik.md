@@ -66,7 +66,7 @@ Udajemy się w stronę plaży Skipa i płyniemy dalej, aż odnajdziemy wieżę n
 
 ## Dumni i bezbronni (2 rozdział)
 
-Kreol prosi nas byśmy wybili Paladynów w obozie Alberta pod obozem Netbeka. Zróbcie najpierw zadania dla Alberta (Drakkar orków, Wojskowe plany orków), bo po zabiciu Alberta po prostu przepadną. Za wykonanie tego zadania otrzymamy od Kreola bardzo silną runę 4 kręgu.
+Kreol zleca nam wybicie paladynów w obozie Alberta pod obozem Netbeka. Przed atakiem warto wykonać zadania dla Alberta (**Posiłki dla Alberta**, **Statek wojenny orków**, **Wojenne plany orków**), ponieważ po jego śmierci przepadają. W nagrodę otrzymujemy od Kreola miksturę **„Ciemna Mądrość”** (+5 do many), a dodatkowo: **przywoływacz** dostaje runę **Przyzwanie szkieletu włócznika**, natomiast **nekromanta** lub **czarnoksiężnik** runę **Kula nekromanty**.
 
 ## Oddech śmierci (3 rozdział)
 
