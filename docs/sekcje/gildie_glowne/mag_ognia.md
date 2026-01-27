@@ -100,7 +100,7 @@ Ulthar prosi nas o stworzenie runy ognistej strzały. Idziemy w tym celu do Hygl
 
 ## Szansa dla Igaraza
 
-UWAGA: Zadanie jest dostępne tylko jeśli nie zabiliśmy Igaraza w trakcie ([Ścieżka wiernych](#Ścieżka-wiernych)).
+UWAGA: Zadanie jest dostępne tylko jeśli nie zabiliśmy Igaraza w trakcie [Ścieżka wiernych](#Ścieżka-wiernych).
 
 Igaraz prosi, byśmy wstawili się za nim u Pyrokara. Pyrokar zgadza się dać mu drugą szansę, jeśli wykonamy zadanie dla Talamona i zdobędziemy serce demona. Igaraz nie jest z tego zadowolony, więc robimy to za niego. Musimy mieć wyuczone pozyskiwanie serc, którego uczy Grom. Najprościej zabijać króliki, aż pojawi się demon boss. Serce zanosimy do Talamona, wracamy do Igaraza, a ten zostaje magiem i handlarzem. W nagrodę możemy wybrać runę snu lub eliksir ducha (+4 mana).
 
