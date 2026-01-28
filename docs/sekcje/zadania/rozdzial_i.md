@@ -459,7 +459,7 @@ Jack mówi nam, że bandyci zajęli jego latarnię. Idziemy do latarni, zabijamy
 ## Fajka Jacka
 __Zleca: Jack__
 
-Zadanie to otrzymamy od Jacka po oswobodzeniu jego latarni. Musimy zagadać z nim gdy stoi na szczycie latarni. Idziemy do Grega i zagadujemy go, gdy pali fajkę, którą z chęcią nam da. Wracamy do Jacka po nagrodę.
+Zadanie otrzymujemy od Jacka po oswobodzeniu jego latarni. Rozmawiamy z nim, gdy stoi na jej szczycie, a następnie idziemy do Grega w Jarkendarze i zagadujemy go przed chatą, gdy pali fajkę. Greg oddaje nam fajkę, którą zanosimy Jackowi i odbieramy nagrodę.
 > To zadanie wymagane jest do popchnięcia zadania [Przeklęta Latarnia](#przeklęta-latarnia)
 
 ## Farmer w potrzebie
