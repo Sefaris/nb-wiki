@@ -39,6 +39,8 @@ Do stworzenia osobistego szkieleta potrzebujemy kilku składników z listy Xarda
 - Czarna perła (z muszelek, sprzedaje Ramirez i Gallahad)
 - Akwamaryn (z muszelek, sprzedaje Ramirez i Gallahad)
 
+Po przyniesieniu wszystkich składników Xardas tworzy nam runę, a zadanie kończy się sukcesem.
+
 ## Runa Xardasa (2 rozdział)
 
 > Zadanie dostępne tylko po wyborze klasy: "Nekromanta"
