@@ -30,6 +30,15 @@ Xardas stworzy dla nas runę po dostarczeniu wszystkich składników z listy: ż
 
 Xardas każe nam zabić sługę Innosa, może to być dowolny nowicjusz z klasztoru, lecz najlepszym celem będzie pasterz owiec Opolos. O godzinie 17 wychodzi on z klasztoru zapalić ziele, więc mamy idealną okazję, aby go zabić. Po wszystkim wracamy do Xardasa.
 
+## Tworzenie nieumarłego sługi (tylko Mroczny Przywoływacz)
+
+Do stworzenia osobistego szkieleta potrzebujemy kilku składników z listy Xardasa:
+- 6 kości szkieletu (wypadają z szkieletów, jedna jest za szafką u Thorbena)
+- Czaszka wisielca (grób przy drzewie obok wschodniej bramy)
+- Przyzwanie szkieletu (sprzedaje Xardas)
+- Czarna perła (z muszelek, sprzedaje Ramirez i Gallahad)
+- Akwamaryn (z muszelek, sprzedaje Ramirez i Gallahad)
+
 ## Runa Xardasa (2 rozdział)
 
 > Zadanie dostępne tylko po wyborze klasy: "Nekromanta"
