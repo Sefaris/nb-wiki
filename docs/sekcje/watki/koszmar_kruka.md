@@ -1,7 +1,10 @@
 # Koszmar Kruka
 
-Wymagania:  
-2000 zdrowia i 400 siły lub 400 zręczności lub 600 many  
+**Zalecane statystyki:**<br>
+**Mag:** Mana min. 900, Zdrowie min. 3500, Krąg magii min. 4 (potępiony min. 3).<br>
+**Wojownik:** Siła lub Zręczność min. 400, Zdrowie min. 4000, Wytrzymałość min. 800, Posługiwanie się bronią min. 85%.
+
+Jeśli nie spełniamy zalecanych statystyk, nadal możemy wejść do Koszmaru. 
 ### UWAGA: Lokacja jest bardzo trudna, a na dodatek nie da się z niej wyjść, dopóki nie skończymy jej całej. Warto się do niej dobrze przygotować, a także mieć osobny zapis, aby w razie czego móc się wrócić.
 
 Po rozmowie z Krukiem lądujemy w jego koszmarze. Wychodzimy z miejsca gdzie się zrespiliśmy, skręcamy w lewo i idziemy skrajem urwiska. Dotrzemy do niewielkiej przestrzeni z bossem jaszczuroczłekiem. Po pokonaniu bossa otwieramy kratę przyciskiem na ścianie i wchodzimy w interakcję z przełącznikiem. Rozmawiamy z duchem przy moście, a następnie przechodzimy na drugą stronę. Wybijamy przeciwników i przechodzimy tunelem do niewielkiego cmentarza.
