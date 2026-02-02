@@ -90,7 +90,7 @@ Po odejściu Benchela Lutero szuka nowego pomocnika. Mamy do wyboru 3 osoby:
 
 Najlepszym wyborem jest Valeran, gdyż w nagrodę da nam książkę +1% 1H/2H, jeżeli jednak go zabiliśmy to lepszy jest Maxi, gdyż Gayverna możemy rekrutować na strażnika do swojego obozu.
 
-### Poniższe zadania związane z Sarą są dostępne tylko jeżeli trafiła ona do więzienia po tym jak wrobiliśmy ją razem z Cantharem w 1 rozdziale. Jeżeli do więzienia trafił Canthar to zadania gildii kupców kończą się wraz z zadaniem Asystent
+>Poniższe zadania związane z Sarą są dostępne tylko wtedy, gdy trafiła ona do więzienia po wspólnym wrobieniu jej z Cantharem w 1. rozdziale. Jeśli do więzienia trafił Canthar, wątek gildii kupców kończy się na zadaniu **Asystent**. Niezależnie od tego, czy gildię kończymy zadaniem **Asystent**, czy **Dług Sary**, otrzymujemy **Pierścień Mistrza Gildii Kupieckiej**. Od tej pory członkowie gildii (Salandril, Sara, Lutero, Jora, Erol, Matteo i Nigel) sprzedają nam dodatkowe przedmioty, np. szczawie lub stałe mikstury. Pierścienia nie trzeba zakładać.
 
 ## Ochrona dla Sary (Rozdział 3)
 
@@ -107,8 +107,3 @@ Sara mówi, że strażnik więzienia Boltan ma jej pierścień. Możemy go odkup
 ## Dług Sary (Rozdział 3)
 
 Sara prosi nas o spłacenie długu u Harada. Idziemy do Harada i płacimy 2 000 złota, a następnie wracamy do Sary.
-
-Po wykonaniu wszystkich powyższych zadań stajemy się oficjalnie członkiem gildii kupców. Lutero daje nam pierścień gildii kupców i od teraz pozostali członkowie gildii (Salandril, Sara, Lutero, Jora, Erol, Matteo i Nigel) 
-będą sprzedawać nam dodatkowe przedmioty takie jak szczawie lub mikstury stałe.
-> nie trzeba zakładać pierścienia
-
