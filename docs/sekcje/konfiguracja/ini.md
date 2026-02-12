@@ -189,9 +189,9 @@ visname_s=BADWEATH.TGA
 | -------------------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------ |
 | dialogSelectedColorR <br/> dialogSelectedColorG <br/> dialogSelectedColorB | 255, 221, 0       | Określa kolor wybranej opcji dialogowej                                              |
 | dialogCommonColorR <br/> dialogCommonColorG <br/> dialogCommonColorB       | 255, 255, 255     | Określa kolor regularnych dialogów                                                   |
-| iColorPoisonR <br/> iColorPoisonG <br/> iColorPoisonB                      | 3, 132, 26        | Zmienia kolor wyświetlaniego tekstu informującego o obrażeniach zadanych od trucizny |
-| expColorR <br/> expColorG <br/> expColorB                                  | 14, 122, 18       | Zmienia kolor wyświetlaniego tekstu informującego o zdobytym doświadczeniu           |
-| iColorDayR <br/> iColorDayG <br/> iColorDayB                               | 245, 247, 225     | Zmienia kolor wyświetlaniego tekstu informującego o godzinie w grze                  |
+| iColorPoisonR <br/> iColorPoisonG <br/> iColorPoisonB                      | 3, 132, 26        | Zmienia kolor wyświetlanego tekstu informującego o obrażeniach zadanych od trucizny |
+| expColorR <br/> expColorG <br/> expColorB                                  | 14, 122, 18       | Zmienia kolor wyświetlanego tekstu informującego o zdobytym doświadczeniu           |
+| iColorDayR <br/> iColorDayG <br/> iColorDayB                               | 245, 247, 225     | Zmienia kolor wyświetlanego tekstu informującego o godzinie w grze                  |
 
 ## Włączenie questów
 
