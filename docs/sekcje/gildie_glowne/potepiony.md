@@ -35,7 +35,7 @@ Remus mówi nam o klątwię słońca ciążącej na potępionych. Wspomina nam t
 - Krew opętanego maga - item pojawia się w 2 magach: 
   - Itu'Seld z zadania Mroczna sieć
   - Mag z obozu bractwa na bagnie
-- 8 fiolek smoczej krwii
+- 8 fiolek smoczej krwi (o tym składniku dowiadujemy się po przyniesieniu pozostałych składników, zostaniu Arcymistrzem Potępionych oraz w 4. rozdziale lub wyższym)
 
 Aby ukończyć to zadanie trzeba ukończyć zadania zlecone nam przez Remusa lub Fryderyka, po wykonaniu zadań rozmawiamy z Remusem i udajemy się na szczyt wieży w celu przeprowadzenia rytuału, podczas niego mamy dwie opcje:
 1. Zdradzić Remusa i mieć możliwość zdjęcia klątwy z siebie
