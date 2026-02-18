@@ -432,6 +432,10 @@ Ork znajduje się przy samym taranie. Zabijamy go i wracamy do Parcivala.
 
 W trakcie wykonywania zadania „Ślady Ciemności” trafiamy na cienia o imieniu Świstak, który chce się wydostać z podziemi zamku. Przechodzimy kilka razy między Świstakiem a Garondem, aż misja się zakończy.
 
+## Pan smoków
+
+Zadanie pojawia się podczas rozmowy z Hush-Narem, a kończy po rozmowie z Xardasem.
+
 ## Zemsta Pradawnych
 
 ### Zleca: Vatras
