@@ -121,10 +121,6 @@ Hart prosi o odzyskanie swojego miecza. Znajduje się on za skrzyniami w magazyn
 Kowal Hash-Tor nauczy nas tworzenia orkowej broni, jeśli nauczymy się nią posługiwać. Nauki walki orkową bronią uczy Ur-Karras lub Ur-Tac w Orkowej Kopalni.
 > Gdy Ur-Tac zginie w trakcie gdy to zadanie jest już w dzienniku to zakończy się ono, a kowal zacznie nas uczyć, pomimo braku umiejętności posługiwania się.
 
-## Pan smoków
-
-Zadanie pojawia się podczas rozmowy z Hush-Narem, a kończy po rozmowie z Xardasem.
-
 ## Szacunek Tag-Nora
 
 Żeby móc porozmawiać z Tag-Norem, musimy najpierw porozmawiać z Ur-Karrasem. Musimy przynieść myśliwemu jedno z trzech trofeów.  
