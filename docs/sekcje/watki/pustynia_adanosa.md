@@ -22,7 +22,7 @@ Mapa pustyni i krzyształ ogniskujący znajdują się w pierwszym budynku, na je
 
 ####__miejsca szczególne__
 
-[![](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739931038201/618699BC69992A839CC0FDC1BBD81224B0CD33DF/)  
+![Tablice pustyni](../konfiguracja/fotki/pustyniaadanosa.png)  
 
 ####__starożytne tabliczki__
 
