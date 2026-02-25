@@ -690,6 +690,11 @@ Nefarius zleca nam zebranie wszystkich ornamentów:
   
 Zbieramy wszystkie części ornamentu i wracamy do Nefariusa, który wraz z pozostałymi magami naprawia go. Zadanie dobiega końca, gdy przejdziemy przez portal do Jarkendaru.
 
+## Broń dla Lance'a
+__Zleca: Lance__
+
+Lance potrzebuje swojego bojowego kostura, który zostawił u Orlana. Udajemy się do Martwej Harpii, odbieramy kostur od Orlana, a następnie zanosimy go z powrotem Lance’owi.
+
 ## Problem Bengara
 __Zleca: Bengar__
 
