@@ -61,8 +61,9 @@ Flint prosi nas o dostarczenie dwóch pirackich kordelasów, które znajdziemy p
 
 ## Jedzenie dla druida
 
-Kormak prosi nas o wino i chleb, które już powinniśmy mieć, a jeśli nie, to należy wrócić do Khorinis i tam je kupić. Po zrobieniu tego zadania zgodzi się on z nami handlować.
-> Na potrzeby zadania dodatkowe chleby pojawią się u Ruperta
+Kormak prosi nas o wino i chleb, które powinniśmy już mieć. Jeśli jednak ich nie posiadamy, należy wrócić do Khorinis i tam je kupić. Po wykonaniu tego zadania zgodzi się z nami handlować.
+
+> Na potrzeby zadania Rupert otrzymuje dodatkowe potrzebne produkty.
 
 ## Opuszczona wieża
 
