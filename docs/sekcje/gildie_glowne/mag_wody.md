@@ -5,7 +5,7 @@
 
 ## Przyjęcie do Magów Wody
 
-Aby zostać nowicjuszem wody, musimy wykonać: [Handlarz bronią dla bandytów](#/sekcje/zadania/rozdzial_i?id=handlarz-bronią-dla-bandytów) i [Portal](#/sekcje/zadania/rozdzial_i?id=portal). W celu zostania pełnoprawnym magiem musimy spełniać wymagania (40 inteligencji i 80 many), a także być w Jarkendarze.
+Aby zostać nowicjuszem wody, musimy wykonać: [Handlarz bronią dla bandytów](sekcje/zadania/rozdzial_i?id=handlarz-bronią-dla-bandytów) i [Portal](sekcje/zadania/rozdzial_i?id=portal). W celu zostania pełnoprawnym magiem musimy spełniać wymagania (40 inteligencji i 80 many), a także być w Jarkendarze.
 
 ## Zadanie Saturasa
 
