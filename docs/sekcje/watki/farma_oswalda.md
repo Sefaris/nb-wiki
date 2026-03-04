@@ -13,9 +13,9 @@ Karczmarz opowiada nam o kilku dziwnych wydarzeniach, które postanawiamy sprawd
 - dziura w pobliżu młyna. Wchodzimy tam i znajdujemy martwe zombie oraz notatkę, którą czytamy
 > upewnij się, że notatka została przeczytana
 
-Po uzyskaniu trzech adnotacji w dzienniku o zbadaniu danego obszaru wracamy do Blizny. Razem dochodzimy do wniosku, że cieniostwór nie jest jedynym zagrożeniem, gdyż w pobliżu czai się równiez adept sztuk magicznych. Gadamy teraz z oberżystą i mówi on, że z myśliwym Johanem kolegował się rybak Vasco, wspomina również, że rybak potrafi czytać i pisać. Znów zagadujemy do Blizy i mówimy mu o naszych podejrzeniach wobec Vasco, idziemy więc razem skonfrontować rybaka.
+Po uzyskaniu trzech adnotacji w dzienniku o zbadaniu danego obszaru wracamy do Blizny. Razem dochodzimy do wniosku, że cieniostwór nie jest jedynym zagrożeniem, gdyż w pobliżu czai się równiez adept sztuk magicznych. Gadamy teraz z oberżystą i mówi on, że z myśliwym Johanem kolegował się rybak Vasco, wspomina również, że rybak potrafi czytać i pisać. Znów zagadujemy do Blizny i mówimy mu o naszych podejrzeniach wobec Vasco, idziemy więc razem skonfrontować rybaka.
 
-Johan na początku wypiera się, więc go zastraszamy, a on wyjawia nam całą prawdę. Okazuje się, że wszystko zaczęło się od wieży, w której Vasco odnalazł księgę magiczną. Starał się samodzielnie praktykować magię, w wyniku czego doprowadził do śmierci trzech osób. Rozmawiamy o tym z Blizną, a ten decyzję co zrobić z rybakiem pozostawia nam:
+Vasco na początku wypiera się, więc go zastraszamy, a on wyjawia nam całą prawdę. Okazuje się, że wszystko zaczęło się od wieży, w której Vasco odnalazł księgę magiczną. Starał się samodzielnie praktykować magię, w wyniku czego doprowadził do śmierci trzech osób. Rozmawiamy o tym z Blizną, a ten decyzję co zrobić z rybakiem pozostawia nam:
 
 <!-- tabs:start -->
 
@@ -25,7 +25,7 @@ Puszczamy go wolno za co dostajemy 500 exp i zwój deszcz ognia
 
 #### __Zabrać do klasztoru__
 
-Informujemy, że zabieramy go do klasztoru magów ognia, gdzie zostanie osądzony co doprowadza do walki, w której razem z Blizną zabijamy domorosłego magika. Dostajemy: 1000 exp, 2 karmy u Beliara i 15 karmy u Innosa
+Informujemy, że zabieramy go do klasztoru magów ognia, gdzie zostanie osądzony co doprowadza do walki, w której razem z Blizną zabijamy domorosłego magika. Dostajemy: 1000 exp, 2 karmy u Beliara i 15 karmy u Innosa.
 
 <!-- tabs:end -->
 
