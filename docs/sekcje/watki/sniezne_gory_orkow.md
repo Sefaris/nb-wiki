@@ -5,7 +5,7 @@
 ## Mapa śnieżnych gór:
 
 ![Lodowe](../konfiguracja/fotki/lodowe.png)
-#### Warto na początku udać się do punktu 2 i pogadać z najemnikiem Adelhardem, a następnie do punktu 5 i aktywować jedyny kamień teleportacyjny oraz pogadać z szamanem na wzniesieniu niedaleko. Polecam unikać orków dopóki nie dogadamy się z szamanem, jako że nie respektują oni symboli przyjaźni od orków z Górniczej Doliny.
+#### Warto na początku udać się do punktu 2 i pogadać z najemnikiem Adelhardem (tam też znajdziemy mapę), a następnie do punktu 5 i aktywować jedyny kamień teleportacyjny oraz pogadać z szamanem na wzniesieniu niedaleko. Polecam unikać orków dopóki nie dogadamy się z szamanem, jako że nie respektują oni symboli przyjaźni od orków z Górniczej Doliny.
 
 ## Chata Oddlera
 
