@@ -62,10 +62,10 @@ Ur-Karras zleca nam, abyśmy podpalili zapasy Paladynów w ich magazynie. Klucz 
 Ur-Karras zleca nam zabicie grupy paladynów Alberta za palisadą. Warto najpierw zrobić dla nich zadania, a także załatwić ich część zadania "Zaginieni bez wieści" +25 reputacji u orków
 > Paladyn w 3 rozdziale dostaje od Alberta unikalny hełm za wykonanie misji ze statkiem, warto go zdobyć przez zdradzeniem swoich braci
 
-## Morr Gift (orkowa arena)
+## Morr Dar (orkowa arena)
 
-Zadanie zleca nam Ur-Kan zarządca areny. Pierwszego przeciwnika na arenie musimy pokonać za pomocą Ulu-Mulu, a pozostałych możemy już własną bronią. Musimy także zakładać Ulu-Mulu po walce, aby zagadać z Ur-Kanem. Po pokonaniu wszystkich zadanie się kończy, a wy zgarniacie nagrody i szacunek orków. W sumie +70 reputacji reputacji u orków
-> Jeśli przeciwnik nie rozpoczyna walki, należy pochodzić trochę dookoła niego. Po każdej walce zapisuj grę
+Zadanie zleca nam Ur-Kan zarządca areny. Pierwszego przeciwnika na arenie musimy pokonać za pomocą Ulu-Mulu, a pozostałych możemy już własną bronią. Musimy także zakładać Ulu-Mulu po walce, aby zagadać z Ur-Kanem. Po pokonaniu wszystkich zadanie się kończy, a my zdobywamy nagrody i szacunek orków. Łącznie +70 reputacji u orków.
+> Jeśli przeciwnik nie rozpoczyna walki, należy pochodzić trochę dookoła niego. Po każdej walce zapisuj grę.
 
 ## Księga dla Hush-Nara
 
