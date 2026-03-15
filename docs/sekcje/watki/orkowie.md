@@ -24,7 +24,7 @@ Farrok zleca nam przyniesienie głowy jednego z żołnierzy króla. Na przełęc
 
 ## Flaszka grogu
 
-Pierwszy imienny ork, którego napotykamy po wejściu do miasta orków, Wah-Grosh, prosi nas o przyniesienie flaszki grogu, która spadła mu w przepaść. Schodzimy na dół, zabijamy pełzacze, bierzemy flaszkę i odnosimy ją orkowi. +5 reputacji u orków.
+Wah-Grosh, strażnik mostu, prosi nas o przyniesienie flaszki grogu, która spadła mu w przepaść. Schodzimy na dół, zabijamy pełzacze, bierzemy flaszkę i odnosimy ją orkowi. +5 reputacji u orków.
 
 ## UWAGA: Poniższe trzy zadania są dostępne jeśli uratowaliśmy rannego orka w 1-2 rozdziale w Khorinis
 
