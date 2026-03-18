@@ -195,7 +195,7 @@ Musimy przynieść Grokowi eliksir siły. Możemy go zdobyć od Vakur-Shaka w za
 
 ## Ręka Ferda
 
-Ferd prosi nas o trzy eliksiry lecznicze, więc mu je oddajemy.
+Ferd prosi nas o pięć eliksirów leczniczych, więc mu je oddajemy.
 
 ## Chciwy ork
 
@@ -227,15 +227,15 @@ Morrigan prosi nas o odnalezienie ojca Carla w Khorinis. Idziemy do kowala Carla
 
 ## Dzienna norma rudy
 
-Clovis prosi nas o przyniesienie 30 kawałków rudy żelaza, które możemy wykopać w okolicy. W zamian daje 30 bryłek złota, czyli akurat tyle ile potrzebujemy dla Chciwego orka.
+Clovis prosi nas o przyniesienie 20 kawałków rudy żelaza, które możemy wykopać w okolicy. W zamian daje 30 bryłek złota, czyli akurat tyle ile potrzebujemy dla [Chciwego orka](#Chciwy-rok).
 
 ## Zapomniane wspomnienia
 
 Nuts da nam tabliczkę jak przyniesiemy mu książkę o gwiazdach. Chodzi o starożytną astronomię, możemy ją kupić od Salandrila za 3000 złota lub znaleźć w wolnej kopalni (tam gdzie ranny ork w G1).
 
-## Dowód dla Urtaca-Shaka
+## Dowód dla Urtaka-Shaka
 
-Ur-Tac nauczy nas walki orkową bronią, jeśli pokonamy jego brata Umbraka na arenie orków.
+Urtak nauczy nas walki orkową bronią, jeśli pokonamy jego brata Umbraka na arenie orków.
 
 ## Zapał do walki
 
