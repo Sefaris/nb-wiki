@@ -47,7 +47,7 @@ Idziemy prosto przed siebie, aż natrafimy na rozwidlenie, w prawo ścieżka mag
 
 Mając obydwie połówki musimy połączyć je w budynku obok mniejszej piramidy, gdzie znaleźliśmy berło Adanosa, po połączeniu czytamy tabliczkę. Idziemy teraz przed wielką piramidę, zabijamy dwóch mrocznych strażników i otwieramy wejście przy pomocy tabliczki. Czytamy dwa pulpity w środku po lewej, trzeciego nie możemy, gdyż tymczasowo jest zablokowany. Dostaniemy 2 zadania:
 
-1. Zabić stworzenie Innosa - golema Magolemusa, który pojawia się w miejscu ze zdjęcia niżej. Pokonujemy go świętym Młotem Innosa z klasztoru.
+1. Zabić stworzenie Innosa - golema Magolemusa, który pojawia się w miejscu ze zdjęcia niżej. Najłatwiej pokonać go Świętym Młotem Innosa z klasztoru. Alternatywnie jest wrażliwy na inne bronie między 21:00 a 4:00 oraz podczas deszczu.
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/969852954270940452/BEEE34AE829A6DF810878C57795999FF00B3DA1E/)](https://steamuserimages-a.akamaihd.net/ugc/969852954270940452/BEEE34AE829A6DF810878C57795999FF00B3DA1E/)  
 
