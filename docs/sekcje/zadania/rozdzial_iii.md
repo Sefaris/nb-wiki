@@ -130,7 +130,7 @@ Pierwszym zadaniem będzie przynieść zasoby potrzebne do rozkręcenia obozu: 5
 Następnie zarządca mówi nam, że mamy zorganizować więcej ludzi: 
 
 **Dostawcy żywności**  
-- Farim i Niclas (od razu, wystarczy zagadać)  
+- Farim i Niclas (Niclas od razu, Farim po wykonaniu "Problemy ze strażą")  
 - Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)  
 
 Po przyprowadzeniu przynajmniej jednego dostawcy dowiemy się, że potrzebny jest kucharz, chodzi o Eddę, która dołączy, jeśli pomogliśmy jej w 1r z posążkiem.
