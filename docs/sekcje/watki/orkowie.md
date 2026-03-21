@@ -262,17 +262,17 @@ Wenzel prosi nas o przyniesienie swojej zbroi i miecza. Znajdują się one w jas
 
 ## Duchy przeszłości
 
-Uwaga: Zadanie dostępne tylko jeśli wcześniej zrobiliśmy zadania dla Ur karrasa polowanie na Muritana, a także uzyskaliśmy dostęp do świątyni śniącego. Trzeba zagadać do wodza ponownie, po uzyskaniu dostępu do świątyni.
+Uwaga: Zadanie dostępne tylko wtedy, gdy wcześniej wykonaliśmy zadania dla Ur-Karrasa: „Polowanie na Muritana”, a także uzyskaliśmy dostęp do Świątyni Śniącego. Należy ponownie porozmawiać z wodzem po uzyskaniu dostępu do świątyni.
 
 Ur-Thrall opowie nam o poprzednim wodzu Nag-Dumgarze, który zlecił budowę Świątyni Śniącego.  
 Mamy znaleźć jego ślady w świątyni, a konkretnie dwie notatki:
 
 [![](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830544/28DF63DE7BB093669CCFBAB4131BCBBD61BC597A/)](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830544/28DF63DE7BB093669CCFBAB4131BCBBD61BC597A/)[![](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830573/1F070321108D3ABF565F96EB8E8BBED83570CF0A/)](https://steamuserimages-a.akamaihd.net/ugc/1619562518618830573/1F070321108D3ABF565F96EB8E8BBED83570CF0A/)  
 
-Czytamy obydwie notatki i dowiadujemy się o niejakim Hush-Gorze. Idziemy teraz do Starej Wieży Xardasa, gdzie na górze na stole powinna leżeć stara książka, czytamy ją. Idziemy do Ur-Thralla i mówimy co wiemy, a ten daje nam wskazówkę gdzie znaleźć byłego szamana. Idziemy na cmentarzysko orków, na górnym piętrze znajdują się orkowe artefakty, należy wsadzić je na 3 piedestały co poskutkuje przyzwaniem Hush-Gora (boss nieumarły szaman).
+Czytamy obydwie notatki i dowiadujemy się o niejakim Hush-Gorze. Idziemy teraz do Starej Wieży Xardasa, gdzie na górze na stole powinna leżeć stara książka, czytamy ją. Idziemy do Ur-Thralla i mówimy, co wiemy. Ork mówi nam, że jedynie orkowie żyjący za czasów Hush-Gora mogą coś wiedzieć. Musimy iść do Świątyni Śniącego. Tam spotykamy Nog-Draga, który mówi nam, że Hush-Gor znajduje się na cmentarzysku orków. Jeśli oszczędzimy Nog-Draga, da nam w prezencie starożytny orkowy talizman. Idziemy na cmentarzysko orków, na górnym piętrze znajdują się orkowe artefakty. Należy umieścić je na trzech piedestałach, co poskutkuje przyzwaniem Hush-Gora.
 
-Zabijamy szamana i zabieramy z jego ciała wszystkie itemy w tym specjalny sztylet. Wracamy do Ur-Thralla i kończymy zadanie lub decydujemy się sami zabić Nag-Dumgara. Jeśli wybierzemy drugą opcję, idziemy do górskiej fortecy, a tam na parterze w jednym z pomieszczeń spotkamy ducha Nag-Dumgara. Zakładamy sztylet z cmentarzyska orków i zabijamy go, po czym wracamy do Ur-Thralla odebrać nagrodę. Sztylet oddajemy Xardasowi lub Kreolowi w 5 rozdziale.
-> Szamana w cmentarzysku mogliśmy pokonać wcześniej przez co będziemy mieli jego sztylet już przy sobie. Wtedy po przeczytaniu notatek od razu idziemy do Ur-Tralla
+Zabijamy szamana i zabieramy z jego ciała wszystkie przedmioty, w tym specjalny sztylet. Wracamy do Ur-Thralla i kończymy zadanie lub decydujemy się samodzielnie zabić Nag-Dumgara. Jeśli wybierzemy drugą opcję, idziemy do górskiej fortecy. Na parterze w jednym z pomieszczeń spotkamy ducha Nag-Dumgara. Zakładamy sztylet z cmentarzyska orków i zabijamy go, po czym wracamy do Ur-Thralla odebrać nagrodę. Sztylet oddajemy Xardasowi lub Kreolowi w 5 rozdziale.
+> Szamana w cmentarzysku mogliśmy pokonać wcześniej przez co będziemy mieli jego sztylet już przy sobie. Wtedy po przeczytaniu notatek od razu idziemy do Ur-Thralla.
 
 # Wątek orków - Dolina Cieni
 
