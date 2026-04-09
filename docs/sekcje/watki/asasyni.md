@@ -40,8 +40,8 @@ Składniki mikstury:
 Akwamaryn, korzeń leczniczy, żuwaczki pełzacza, szczaw królewski, eliksir ducha (pojawia się u Zurisa na potrzeby zadania) i kaktus, który możemy znaleźć na Pustyni Adanosa lub zdobyć w Khorinis, a w tym celu
 idziemy do Constantino, Sagitty i Zurisa. Okazuje się, że kaktusa nabył ostatnio Neoras alchemik w klasztorze. Idziemy do niego i dostajemy kaktusa w zamian za czarną rudę lub za darmo jeżeli jesteśmy paladynem.
 
-Wracamy ze składnikami do Tyona i dostajemy miksturę, którą oddajemy Lokiemu.  
-Teraz nowicjusz zaprowadzi nas do wejścia do Lasu Asasynów za obozem Bractwa.  
+Wracamy ze składnikami do Tyona i dostajemy miksturę, którą oddajemy Lokiemu. Teraz nowicjusz zaprowadzi nas do wejścia do Lasu Asasynów za obozem Bractwa. Musimy podejść do piedestału.
+
 > Można tepnąć się do obozu bractwa, a Loki będzie czekał już na nas za obozem.
 
 Wracamy do Namiba i dostajemy amulet, który kładziemy na piedestale obok wejścia, co otwiera przed nami wejście do Lasu.
