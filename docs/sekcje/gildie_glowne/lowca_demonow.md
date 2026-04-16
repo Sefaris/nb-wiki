@@ -41,6 +41,10 @@ Zadanie zleca Angel. Idziemy do świątyni śniącego, przed salą śniącego za
 
 ## Pan Otchłani
 
-Po zakończeniu zadania "Demon z nicości" na następny dzień Angel zleca nam przyniesienie dwóch kawałków czarnej rudy. Oddajemy mu i udajemy się z nim do kręgu przed posiadłością. Angel przyzywa demona i jego sługi, których zabijamy z innymi łowcami. Po jego zabiciu Angel wysyła nas do Hagena, zdajemy mu raport, wracamy do Angela, koniec questa.
+<ins>Zadanie dostępne od 4 rozdziału<ins>
 
+Po zakończeniu zadania [Demon z nicości](#Demon-z-nicości), następnego dnia Angel zleca nam przyniesienie dwóch kawałków czarnej rudy.
 
+Po oddaniu surowców udajemy się z nim do kręgu przed posiadłością. Angel przyzywa demona oraz jego sługi. Wspólnie z łowcami musimy ich pokonać.
+
+Po zwycięstwie Angel wysyła nas do Hagena. Składamy raport, wracamy do Angela i kończymy zadanie.
