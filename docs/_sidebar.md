@@ -21,6 +21,7 @@
 - [Strażnik Miejski/Paladyn](sekcje/gildie_glowne/paladyn.md)
 - [Strażnik Świątynny/Guru](sekcje/gildie_glowne/straznikswiatynny_guru.md)
 - [Zwiadowca](sekcje/gildie_glowne/zwiadowca.md)
+- [Wojownik Adanosa](sekcje/gildie_glowne/wojownik_adanosa.md)
 
 - **Gildie poboczne**
 - [Informacje dodatkowe](sekcje/gildie_poboczne/info.md)
