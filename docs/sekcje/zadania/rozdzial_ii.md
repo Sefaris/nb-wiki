@@ -431,10 +431,6 @@ Dobar potrzebuje paczek z węglem. Znajdziemy je przy piecach w kopalni Starej (
  
 [![](https://steamuserimages-a.akamaihd.net/ugc/1824514739934477441/39A6C6553E2653D6EA1FA4349733BD7DEA0D0E79/)](https://steamuserimages-a.akamaihd.net/ugc/1824514739934477441/39A6C6553E2653D6EA1FA4349733BD7DEA0D0E79/)
 
-## Przeszpiegi w Wolnej Kopalni
-
-Garond prosi nas byśmy udali się do Wolnej kopalni i sprawdzili co się tam dzieje. Udajemy się do Kotła Wolnej Kopalni i wybijamy orków przed kopalnią. Imienny ork ma klucz, którym otworzymy drzwi do pomieszczenia z kołowrotem. Wchodzimy do kopalni i tam też wybijamy wszystko, łącznie z orkowym przywódcą. Po skończonej rzezi wracamy do Garonda.
-
 ## Jedzenie dla paladynów
 
 Garond prosi nas o przyniesienie 50 kawałków surowego mięsa i 50 ryb.
