@@ -14,14 +14,13 @@
 - [Łowca Demonów](sekcje/gildie_glowne/lowca_demonow.md)
 - [Łowca Smoków](sekcje/gildie_glowne/lowca_smokow.md)
 - [Mag Ognia](sekcje/gildie_glowne/mag_ognia.md)
-- [Mag Wody](sekcje/gildie_glowne/mag_wody.md)
+- [Mag Wody/Wojownik Adanosa](sekcje/gildie_glowne/wojownik_adanosa.md)
 - [Mroczny Rycerz](sekcje/gildie_glowne/mroczny_rycerz.md)
 - [Nekromanta/Czarnoksiężnik/Przywolywacz](sekcje/gildie_glowne/nekromanta_czarnoksieznik.md)
 - [Potępiony](sekcje/gildie_glowne/potepiony.md)
 - [Strażnik Miejski/Paladyn](sekcje/gildie_glowne/paladyn.md)
 - [Strażnik Świątynny/Guru](sekcje/gildie_glowne/straznikswiatynny_guru.md)
 - [Zwiadowca](sekcje/gildie_glowne/zwiadowca.md)
-- [Wojownik Adanosa](sekcje/gildie_glowne/wojownik_adanosa.md)
 
 - **Gildie poboczne**
 - [Informacje dodatkowe](sekcje/gildie_poboczne/info.md)
