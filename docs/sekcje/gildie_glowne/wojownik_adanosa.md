@@ -16,6 +16,7 @@ Rozmawiamy z Saturasem, który daje nam list do Lorda Hagena. Oddajemy go dowód
 Nefarius przyjmie nas na swojego ucznia, jeśli uzyskamy zgodę od Saturasa. Otrzymamy ją po wykonaniu zadań "Portal", "Handlarz bronią dla bandytów" oraz "Gdzie są zaginieni ludzie?". Po zdobyciu zgody wracamy do Nefariusa i dołączamy do niego, co kończy zadanie.
 
 ## Zbroja Kręgu Wody
+<ins>Dostępne tylko dla Wojownika Adanosa.</ins>
 
 Nefarius może ulepszyć nasz pancerz Wodnego Kręgu. Po dostarczeniu mu egzemplarza i odebraniu nowego pancerza zadanie dobiega końca.
 
