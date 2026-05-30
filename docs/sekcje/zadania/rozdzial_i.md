@@ -749,9 +749,9 @@ Od Bartoka dowiadujemy się, że zaginął jego przyjaciel, Trokar. Ciało Troka
 ## Ranny ork
 __Zleca: Ur-Karras__
 
-> UWAGA: To zadanie musi być wykonane przed wejściem do 3 rozdziału, bo w innym wypadku ork umrze
+> UWAGA: To zadanie należy wykonać przed wejściem do 3. rozdziału, ponieważ w przeciwnym razie ork umrze.
 
-Obok zrujnowanej wieży niedaleko Niclasa będzie ranny ork, Ur-Karras. Mówi nam on, że odniósł poważną ranę, teraz musimy go uleczyć. Idziemy do Salandrila, kupujemy zwój leczniczy za 300 złota i wracamy do rannego orka. Gadamy z orkiem i leczymy go podczas rozmowy. Koniec zadania, Ur-Karrasa spotkamy później w mieście orków.
+Obok zrujnowanej wieży, niedaleko Niclasa, znajduje się ranny ork Ur-Karras. Informuje nas on, że odniósł poważną ranę i potrzebuje pomocy. Musimy go uleczyć. W tym celu udajemy się do Salandrila, kupujemy zwój leczniczy, a następnie wracamy do rannego orka. Rozmawiamy z nim i leczymy go podczas dialogu. Zadanie zostaje zakończone, a Ur-Karrasa spotkamy ponownie później w mieście orków.
 
 ## Riordian
 __Zleca: Saturas__
