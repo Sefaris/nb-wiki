@@ -139,7 +139,7 @@ Po wykonaniu zadania z polowania na rzadkie potwory Falk daje nam nowe zadanie, 
 
 - Kolcogrzbiet na kamiennej plaży, którą znajdziemy płynąc wpław przy wybrzeżu w stronę Skipa  
 - Pełzacz w jaskini przy schodach pod Słonecznym Kręgiem  
-- Ogr w jaskini obok farmy Onara, tam gdzie goblin w zadaniu dla Pepe
+- Ogr w jaskini obok farmy Onara
 
 Po zabiciu wszystkich potworów wracamy do Falka.
 
