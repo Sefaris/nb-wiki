@@ -71,7 +71,7 @@ Druid proponuje rozejrzeć się w opuszczonej wieży niedaleko jego jaskini. Spo
 
 ## Pomoc z rzepą
 
-Kormak prosi nas o zebranie specjalnej rzepy z jego poletka. Nie możemy tego zrobić ognikiem, więc nadwyrężamy swoje palce i wracamy z rzepą do Kormaka.
+Kormak prosi nas o zebranie specjalnej rzepy z jego poletka. Po zebraniu wszystkich roślin zanosimy je do zleceniodawcy, co kończy zadanie.
 
 ## Za spotkanie!
 
