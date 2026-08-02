@@ -889,7 +889,7 @@ Gdy Bengar się zgodzi dostajemy bonus `Retoryka +1`, a my możemy wrócić do B
 
 ## Zarzuty Parlana
 
-> Zadanie dostępne tylko jeśli dostaliśmy się do klasztoru przez dach.  
+> Zadanie dostępne tylko jeśli dostaliśmy się do klasztoru nielegalnie (dachem lub kradnąc klucz Pedro)
 > Aby je otrzymać musimy posiadać co najmniej 10 retoryki lub posiadać umiejętność czarnej magii.
 
 Musimy się włamać do klasztoru dachem i zagadać do Parlana, ale musi to być pierwsze wejście do klasztoru, bo jeśli już tam byliśmy wcześniej, w zadaniu dla kupców albo po dołączeniu jako nowicjusz, to zadanie przepadnie.  
