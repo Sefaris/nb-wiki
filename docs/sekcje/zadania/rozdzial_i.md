@@ -248,7 +248,6 @@ Garvell prosi nas, abyśmy mu przynieśli piłę, smołę i 2 młotki. Wszystkie
 ## Szacunek mistrzów
 
 Zadanie kończy się po dostaniu się do Górnego Miasta, aby się do niego dostać musimy należeć do jakiejś gildii, zostać czeladnikiem lub po prostu wykonać zadania mistrzów.  
-Jeśli należymy do gildii lub jesteśmy czeladnikiem, to przy rozmowie ze strażnikiem dostaniemy bonus [`Retoryka +1`].
 
 ## Czeladnik Khorinis
 
