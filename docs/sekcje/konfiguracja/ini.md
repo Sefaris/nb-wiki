@@ -193,7 +193,7 @@ visname_s=BADWEATH.TGA
 | expColorR <br/> expColorG <br/> expColorB                                  | 14, 122, 18       | Zmienia kolor wyświetlanego tekstu informującego o zdobytym doświadczeniu           |
 | iColorDayR <br/> iColorDayG <br/> iColorDayB                               | 245, 247, 225     | Zmienia kolor wyświetlanego tekstu informującego o godzinie w grze                  |
 
-## Włączenie questów
+## Włączenie zawartości
 
 Włączenie 7 rozdziału i opiekunów (działa od nowej gry):
 - Nazwa - **bOldGuardiansWay**
@@ -238,6 +238,11 @@ Lista zadań:
 - Statek dla Sylvio
 - Dług Sylvio
 - Zemsta Pradawnych
+
+Nowe zdolności potworów na dowolnym poziomie trudności (działa od nowej gry):
+
+- Nazwa - **MosterAbilitiesAvailableAtAnyDifficulty**
+- Wartość - 959195
 
 ## Inne
 
