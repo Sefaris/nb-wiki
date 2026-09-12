@@ -1,22 +1,44 @@
 {
   "name": "nb-wiki",
   "version": "1.0.0",
-  "description": "Ten projekt zawiera solucję do Gothic II: New Balance od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://nb.mody.sefaris.eu](https://nb.mody.sefaris.eu)",
+  "private": true,
+  "packageManager": "pnpm@11.19.0",
   "scripts": {
-    "docs": "docsify serve docs",
-    "parse": "ts-node ./parser/index.ts"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/turndown": "^5.0.5",
-    "cheerio": "^1.0.0",
-    "docsify-cli": "^4.4.4",
-    "ts-node": "^10.9.2"
+    "start": "docusaurus start --host 127.0.0.1 --port 3000 --no-open",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve --host 127.0.0.1 --port 3000 --no-open",
+    "clear": "docusaurus clear",
+    "verify": "node scripts/verify-build.mjs",
+    "check": "pnpm build && pnpm verify"
   },
   "dependencies": {
-    "axios": "^1.7.7",
-    "slugify": "^1.6.6",
-    "turndown": "^7.2.0"
-  }
+    "@docusaurus/core": "3.10.2",
+    "@docusaurus/plugin-content-docs": "3.10.2",
+    "@docusaurus/preset-classic": "3.10.2",
+    "@fontsource/lato": "5.3.0",
+    "@mdx-js/react": "3.1.1",
+    "clsx": "2.1.1",
+    "gray-matter": "4.0.3",
+    "lucide-react": "0.468.0",
+    "prism-react-renderer": "2.4.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 3 chrome versions",
+      "last 3 firefox versions",
+      "last 5 safari versions"
+    ]
+  },
+  "license": "ISC",
+  "description": "Solucja do Gothic II: New Balance. Rozbudowane wątki Returningu, nowe gildie, lokacje i umiejętności. Zadania, wybory, mapy i konfiguracja gry."
 }

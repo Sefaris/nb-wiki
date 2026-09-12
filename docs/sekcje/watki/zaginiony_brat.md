@@ -1,12 +1,20 @@
-# Zaginiony brat
+---
+title: "Zaginiony brat"
+description: "Solucja do Gothic II: New Balance — Zaginiony brat. Przebieg zadań, wybory i wskazówki."
+slug: /watki/zaginiony-brat/
+---
 
 **Wymagania:** <br>
 Ukończony _Koszmar Kruka_, Zdrowie min. 2000, Siła lub Zręczność min. 250 bądź Mana min. 300.
 
-### Wykonaj osobny zapis przed wejściem do lokacji, nie można jej opuścić przed ukończeniem w całości.
+:::warning Uwaga
 
-Po wejściu do lokacji spotykamy szkieleta Ile'Sila, z którym rozmawiamy.  
-Na początek zabijamy bossa pełzacza w tunelu, po czym mówimy o tym lle'Silowi. Teraz przechodzimy przez tunel i idziemy dalej prosto przed siebie, aż natrafimy na cmentarz. Czeka tam na nas najsilniejszy zombie w grze. 
+Wykonaj osobny zapis przed wejściem do lokacji, nie można jej opuścić przed ukończeniem w całości.
+
+:::
+
+Po wejściu do lokacji spotykamy szkieleta Ile'Sila, z którym rozmawiamy.\
+Na początek zabijamy bossa pełzacza w tunelu, po czym mówimy o tym lle'Silowi. Teraz przechodzimy przez tunel i idziemy dalej prosto przed siebie, aż natrafimy na cmentarz. Czeka tam na nas najsilniejszy zombie w grze.
 
 Zabieramy klucz z ciała bossa i otwieramy skrzynię, zabieramy z niej kawałek ciała i wracamy do lle'Sila.
 

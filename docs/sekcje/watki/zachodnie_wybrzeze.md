@@ -1,28 +1,32 @@
-# Zachodnie Wybrzeże
+---
+title: "Zachodnie Wybrzeże"
+description: "Solucja do Gothic II: New Balance — Zachodnie Wybrzeże. Przebieg zadań, wybory i wskazówki."
+slug: /watki/zachodnie-wybrzeze/
+---
 
 > Zachodnie Wybrzeże jest lokacją, do której udajemy się wraz z druidem Fregyalem w ramach zadania "Historia druidów i ludzi". Nie trzeba do tego zostawać druidem
 
-## Historia druidów i ludzi
+## Historia druidów i ludzi {#historia-druidow-i-ludzi}
 
 Aby dostać to zadanie, musimy wykonać zadanie "Problem Fregyala".
 Jest to zadanie stricte informacyjne, które ciągnie się za nami aż do ukończenia wątku lokacji.
 
-## Wyprawa na wybrzeże
+## Wyprawa na wybrzeże {#wyprawa-na-wybrzeze}
 
-Fregyal prosi nas o zorganizowanie zapasów oraz znalezienie łodzi.  
+Fregyal prosi nas o zorganizowanie zapasów oraz znalezienie łodzi.\
 Jeśli chodzi o zapasy, to 10 butelek wody i 10 kawałków mięsa nie powinno sprawić problemów. Co do samej łodzi, to udajemy się do Garvella, który zgodzi się odstąpić nam swoją za 5000 złota (można wytargować 3000). Oprócz tego idziemy do Andre by otrzymać zgodę na wypłynięcie z portu.
 
 Po zapłaceniu Garvellowi złota wracamy na następny dzień, a Fregyal będzie obok niego czekał (jeśli oddaliśmy mu zapasy w jaskini). Teraz rozmawiamy z Garvellem, a następnie z Fregyalem, po czym wchodzimy na wielką łódź, gdzie jeszcze raz zagadujemy Druida.
 > Nie martw się o towary sprzedawane dotychczas przez Freygala - zostaną przekazane Galahadowi
 
-## Teraz płyniemy na Zachodnie Wybrzeże, gdzie zaczyna się wątek tej lokacji.
+## Teraz płyniemy na Zachodnie Wybrzeże, gdzie zaczyna się wątek tej lokacji. {#teraz-plyniemy-na-zachodnie-wybrzeze-gdzie-zaczyna-sie-watek-tej-lokacji}
 
-## Zachodnie Wybrzeże
+## Zachodnie Wybrzeże {#zachodnie-wybrzeze}
 
 Zadanie to zaczyna się wraz z przypłynięciem na Wybrzeże. Na plaży spotykamy dwóch piratów, gadamy z nimi oraz z Fregyalem, który chce odpocząć, a my w międzyczasie pomagamy piratom w kilku rzeczach. Będziemy mogli kontynuować poszukiwania druida po zdobyciu dla nich mięsa i zabiciu topielców, a kordelasy możemy dać im później. Znowu rozmawiamy z Fregyalem i idziemy z nim do lasu, gdzie natrafiamy na druida Kormaka. Robimy dla niego zadania, a po misji "Za spotkanie!" otrzymamy od niego tabliczki, które czytamy.
 > Nie wchodź do lasu bez Freygala, bez niego Kormak się nie pojawi
 
-Po przeczytaniu rozmawiamy z Kormakiem, a następnie idziemy do tunelu, który jest na prawo od bagien, przy niewielkim jeziorku. Tam pokonujemy bossa kamiennych strażników i czytamy jego tabliczkę. 
+Po przeczytaniu rozmawiamy z Kormakiem, a następnie idziemy do tunelu, który jest na prawo od bagien, przy niewielkim jeziorku. Tam pokonujemy bossa kamiennych strażników i czytamy jego tabliczkę.
 > Bossa można łatwo pokonać młotem Adanosa, który zdobędziemy robiąc Jarkendar
 
 Idąc dalej prosto przez tunel, dotrzemy na równiny, gdzie w pobliskiej jaskini rezyduje boss goblinów, Maji. Posiada on kamień, który aktywuje przejście w tunelu, którym wcześniej przechodziliśmy. Znajdziemy tam tabliczkę i klucz do większej świątyni, którą już mijaliśmy w lesie. Wracamy tam, czytamy kolejną tabliczkę i wracamy do Kormaka. Po rozmowie czekamy ~10 sekund, po czym dostajemy wpis o trzęsieniach ziemi. Druid zleci nam udanie się na bagna, udajemy się tam i trzymając się prawej ściany natrafimy na kryptę, a w niej szamana jaszczuroludzi. Mimo że nie zadajemy mu obrażeń, walczymy z nim, aż w końcu ucieknie.
@@ -41,71 +45,71 @@ Krzyształy odnosimy Kormakowi, a ten po załadowaniu ich każe je nam rozprowad
 
 Wracamy do druida i okazuje się, że obiekt zapewniający jaszczurowi nieśmiertelność jest żywy. Potrzebna będzie runa do zerwania więzi, którą Kormak wykona dla nas jeżeli przyniesiemu mu bryłkę czarnej rudy, 20 bryłek magicznej rudy, 5 eliksirów many i czysty kamień runiczny. Naszym celem jest boss pełzaczy, dostrzeć do niego możemy przez jaskinię na wyspie ze Starym Łowcą lub skręcić w prawo przed wejściem do tunelu, w którym walczyliśmy z kamiennym strażnikiem. Używamy runy, pokonujemy pełzacza i wracamy do Kormaka.
 
-Gdy będziemy już gotowi do walki z jaszczurem to gadamy z obydwoma druidami i idziemy za nimi na równiny, gdzie ostatecznie pokonujemy źródło zła, kończąc tym samym wątek główny Zachodniego Wybrzeża. 
+Gdy będziemy już gotowi do walki z jaszczurem to gadamy z obydwoma druidami i idziemy za nimi na równiny, gdzie ostatecznie pokonujemy źródło zła, kończąc tym samym wątek główny Zachodniego Wybrzeża.
 
-## Druid Kormak
+## Druid Kormak {#druid-kormak}
 
 Przy rozmowie z Fregyalem w ramach poprzedniej misji, dowiadujemy się o zaginionym druidzie, którego prawdopodobnie znajdziemy na Zachodnim Wybrzeżu. Po zrobieniu zadania z mięsem dla piratów Edward opowie nam, że widział dzika na skraju lasu, który zachowywał się podejrzanie. Będziemy mogli kontynuować poszukiwania druida po zdobyciu dla nich mięsa i zabiciu topielców. Idziemy z Fregyalem przez las i trafiamy do druida, a nasze zadanie się kończy.
 
-## Agresywne bestie
+## Agresywne bestie {#agresywne-bestie}
 
 Flint prosi nas o pozbycie się okolicznych bestii. Chodzi konkretnie o Agresywne topielce, które są między plażą a wejściem do lasu. Po zabiciu topielców wracamy do pirata.
 
-## Problem z zapasami
+## Problem z zapasami {#problem-z-zapasami}
 
 Flint prosi nas o uzupełnienie jego zapasów. Przynosimy mu 20 surowego mięsa, które powinniśmy mieć, a jeśli nie, to na wyspie jest sporo kretoszczurów i ścierwojadów.
 
-## Broń dla piratów
+## Broń dla piratów {#bron-dla-piratow}
 
 Flint prosi nas o dostarczenie dwóch pirackich kordelasów, które znajdziemy podczas eksploracji Zachodniego Wybrzeża lub z pozostałych lokacji. Przynosimy, a zleceniodawca jest zadowolony.
 
-## Jedzenie dla druida
+## Jedzenie dla druida {#jedzenie-dla-druida}
 
 Kormak prosi nas o wino i chleb, które powinniśmy już mieć. Jeśli jednak ich nie posiadamy, należy wrócić do Khorinis i tam je kupić. Po wykonaniu tego zadania zgodzi się z nami handlować.
 
 > Na potrzeby zadania Rupert otrzymuje dodatkowe potrzebne produkty.
 
-## Opuszczona wieża
+## Opuszczona wieża {#opuszczona-wieza}
 
 Druid proponuje rozejrzeć się w opuszczonej wieży niedaleko jego jaskini. Spotykamy tam przeklętego strażnika, w którego ciele znajdziemy dziennik oraz trofeum dla kusznika. Z informacjami wracamy do Kormaka, a zadanie się kończy.
 
-## Pomoc z rzepą
+## Pomoc z rzepą {#pomoc-z-rzepa}
 
 Kormak prosi nas o zebranie specjalnej rzepy z jego poletka. Po zebraniu wszystkich roślin zanosimy je do zleceniodawcy, co kończy zadanie.
 
-## Za spotkanie!
+## Za spotkanie! {#za-spotkanie}
 
 Po zebraniu rzepy Kormak oferuje nam wspólne opicie naszego przybycia na wyspę. Dajemy mu 6 ginów i o godzinie 18 idziemy z druidami na plażę. Musimy tutaj z nim pobyć, aż zagada nas dwa razy, po czym wracamy z nim do jaskini.
 
-## Poszukiwania druidów
+## Poszukiwania druidów {#poszukiwania-druidow}
 
-Otrzymamy to zadanie po oficjalnym zostaniu druidem. Kormak zleca nam znalezienie innych druidów, którzy żyją w różnych częściach wyspy, a są to:  
+Otrzymamy to zadanie po oficjalnym zostaniu druidem. Kormak zleca nam znalezienie innych druidów, którzy żyją w różnych częściach wyspy, a są to:\
 - Netbek z Klasztoru Zmiennokształtnych w GD
 - Elvais z Doliny Cienia
 - Oddler z Lodowych Gór Orków
 
 Po znalezieniu całej trójki wracamy do Kormaka po nagrodę.
 
-## Skarb piratów
+## Skarb piratów {#skarb-piratow}
 
 Na bagnach obok piedestału znajdujemy notatkę, mówiącą o skarbie w jaskini z Muritanem, na prawo od bagien. Po wykopaniu zadanie się kończy.
 > Miejsce do kopania skarbu pojawi się dopiero po przeczytaniu notatki
 
-## Exodus
+## Exodus {#exodus}
 
 Zadanie dostępne dopiero po odwiedzeniu obozu piratów w Jarkendarze i przeczytaniu notatki z bossa jaszczuroczłeka.
 Z tabliczki dowiadujemy się, że na bagnach znajduje się przejście łączące Wybrzeże z Jarkendarem. Mówimy o tym piratom na plaży, który zgodzą się nam towarzyszyć, jeśli przynieśliśmy im ich kordelasy. Prowadzimy ich na drugi koniec bagna, gdzie otworzyło się przejście. Pokonujemy tamtejsze pająki, a także królową pełzaczy, po której śmierci, odblokuje się odnoga jaskini za jej plecami. Idąc dalej przeniesiemy się do Jarkendaru, piraci nas zagadują, a zadanie się kończy.
 
-## Wredne gobliny
+## Wredne gobliny {#wredne-gobliny}
 
 Stary łowca, którego spotkamy na Wyspie obok plaży piratów, narzeka na gobliny z pobliskiej jaskini. Zabijamy je i wracamy do łowcy.
 
-## Tajemnicza skrzyneczka
+## Tajemnicza skrzyneczka {#tajemnicza-skrzyneczka}
 
 Obok Wyspy ze Starym Łowcą znajdziemy wrak statku, a w nim skrzyneczkę, do której klucz da nam łowca po pozbyciu się goblinów. Samo zadanie kończy się po przeczytaniu wszystkich notatek, w tym tej we wnęce za skałą w jaskini na Wyspie.
 > Potrzebna będzie przemiana w chrząszcza
 
-## Długo wyczekiwane spotkanie
+## Długo wyczekiwane spotkanie {#dlugo-wyczekiwane-spotkanie}
 
 Dostępne dopiero po ukończeniu zadania "Poszukiwania" z obozu myśliwych.
 Gadamy ze starym łowcą, który okazuje się tym samym Benem, którego rzekomo pożarła samica polnego pełzacza. Proponujemy mu powrót do Khorinis, więc gadamy z Falkiem, a następnie z Vatrasem, który powie nam jak na stole runicznym przygotować runę teleportacyjną dla Bena, potrzebne będą eliksir many, czarna perła i kamień runiczny. Runę wręczamy Benowi, a następnie spotykamy się z nim w obozie myśliwych w Khorinis. Odbieramy nagrodę od Falka i zadanie się kończy.

@@ -1,34 +1,21 @@
-# Gothic II: New Balance - Wiki
+# Gothic II: New Balance — Wiki
 
-Ten projekt zawiera solucję do Gothic II: New Balance od [Team Sefaris](https://sefaris.eu). Solucję można znaleźć także pod adresem [https://nb.mody.sefaris.eu](https://nb.mody.sefaris.eu)
+Solucja od [Team Sefaris](https://sefaris.eu), dostępna na [nb.mody.sefaris.eu](https://nb.mody.sefaris.eu). Strona korzysta z Docusaurusa.
 
-## Instalacja oraz wymagania
+## Uruchamianie
 
-Aby dokonywać zmian lokalnie należy zainstalować:
+Wymagane Node.js 24 i pnpm 11.19.0.
 
-- Node.js
-
-Po zainstalowaniu należy wykonać komendę:
-
-```
-$ npm install
+```sh
+pnpm install --frozen-lockfile
+pnpm start
 ```
 
-W odpowiednim katalogu należy wpisać następującą komendę:
+Podgląd: `http://localhost:3000`. Kontrola przed wysłaniem zmian: `pnpm check`.
 
-```
-$ npm run docs
-```
+## Edycja
 
-Domyślnie projekt uruchamia się pod adresem: `http://localhost:3000`.
-
-## Użyte biblioteki
-
-- https://docsify.js.org
-
-## Dokonywanie zmian
-
-Jeżeli chcesz wspomóc/poprawić treść w solucji lub innych elementach występujących w tym repozytorium, utwórz forka, dokonaj zmian, a następnie w utwórz Pull Requesta. Nie zapomnij dopisać się w sekcji [Autorzy](#Autorzy)!
+Treść znajduje się w `docs/sekcje/`, strona główna w `docs/README.mdx`, a menu w `sidebars.js`. Zwykłe dokumenty używają `.md`; strony z zakładkami lub filmami — `.mdx`. Ilustracje są w `docs/ilustracje/` i `docs/sekcje/konfiguracja/fotki/`. Zachowuj identyfikatory nagłówków `{#nazwa-zadania}`. Poprawki zgłaszaj przez Pull Request i dopisz się do autorów.
 
 ## Autorzy
 

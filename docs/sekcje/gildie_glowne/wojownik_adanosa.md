@@ -1,46 +1,54 @@
-# Mag Wody / Wojownik Adanosa
+---
+title: "Mag Wody / Wojownik Adanosa"
+description: "Solucja do Gothic II: New Balance — Mag Wody / Wojownik Adanosa. Dołączenie do gildii, zadania i wymagania."
+slug: /gildie-glowne/wojownik-adanosa/
+---
 
-> Przed dołączeniem do Magów Wody warto dołączyć do [Gildii Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md).  
+> Przed dołączeniem do Magów Wody warto dołączyć do [Gildii Złodziei](/gildie-poboczne/gildia-zlodziei/).\
 > Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
 
-## Przyjęcie do Magów Wody
+## Przyjęcie do Magów Wody {#przyjecie-do-magow-wody}
 
-Aby zostać nowicjuszem wody, musimy wykonać: [Handlarz bronią dla bandytów](sekcje/zadania/rozdzial_i?id=handlarz-bronią-dla-bandytów) i [Portal](sekcje/zadania/rozdzial_i?id=portal). W celu zostania pełnoprawnym magiem musimy spełniać wymagania (40 inteligencji i 80 many), a także być w Jarkendarze.
+Aby zostać nowicjuszem wody, musimy wykonać: [Handlarz bronią dla bandytów](/solucja/rozdzial-i/#handlarz-bronia-dla-bandytow) i [Portal](/solucja/rozdzial-i/#portal). W celu zostania pełnoprawnym magiem musimy spełniać wymagania (40 inteligencji i 80 many), a także być w Jarkendarze.
 
-## Zadanie Saturasa
+## Zadanie Saturasa {#zadanie-saturasa}
 
 Rozmawiamy z Saturasem, który daje nam list do Lorda Hagena. Oddajemy go dowódcy paladynów, a następnie rozmawiamy z Saturasem.
 
-## Uczeń Nefariusa
+## Uczeń Nefariusa {#uczen-nefariusa}
 
 Nefarius przyjmie nas na swojego ucznia, jeśli uzyskamy zgodę od Saturasa. Otrzymamy ją po wykonaniu zadań "Portal", "Handlarz bronią dla bandytów" oraz "Gdzie są zaginieni ludzie?". Po zdobyciu zgody wracamy do Nefariusa i dołączamy do niego, co kończy zadanie.
 
-## Zbroja Kręgu Wody
-<ins>Dostępne tylko dla Wojownika Adanosa.</ins>
+## Zbroja Kręgu Wody {#zbroja-kregu-wody}
+:::info Informacja
+
+Dostępne tylko dla Wojownika Adanosa.
+
+:::
 
 Nefarius może ulepszyć nasz pancerz Wodnego Kręgu. Po dostarczeniu mu egzemplarza i odebraniu nowego pancerza zadanie dobiega końca.
 
-## Badania Cronosa
+## Badania Cronosa {#badania-cronosa}
 
 Cronos prosi o 10 fragmentów z Kamiennych Strażników. Po ich zebraniu zanosimy je do niego i przystępujemy do rytuału. Po jego wykonaniu pokonujemy Wielkiego Kamiennego Strażnika i ponownie rozmawiamy z Cronosem. Ten wygłasza swoją przemowę, po czym od tej chwili możemy pozyskiwać dodatkowe przedmioty ze Strażników i sprzedawać je magowi.
 
-## Kamienny krąg
+## Kamienny krąg {#kamienny-krag}
 
 Riordian zleca nam zbadanie kamiennego kręgu na południe od obozu magów, niedaleko czarnego trolla. Wciskamy przycisk znajdujący się na kręgu, pokonujemy Kamiennego Strażnika i z zabranym fragmentem wracamy do Riordiana. Następnie mag wysyła nas do kolejnych kręgów, które znajdują się w kanionie obok biblioteki oraz przy teleporcie do Złotego Smoka, niedaleko Kamiennej Pumy. Przy każdym kręgu wciskamy przycisk, pokonujemy Kamiennego Strażnika i zabieramy kolejny fragment tablicy. Po zebraniu wszystkich części wracamy do Riordiana, który połączy je w całość. Czytamy tablicę, rozmawiamy z Riordianem i udajemy się do wielkiej sali w świątyni Adanosa, tej z kilkoma przejściami. Na miejscu odczytujemy tablicę, pokonujemy strażnika, zabieramy Kamienną Tablicę Starożytnych, czytamy ją i wracamy do Riordiana, kończąc zadanie.
 
-## Języki Budowniczych
+## Języki Budowniczych {#jezyki-budowniczych}
 
 Nefarius zleca nam nauczenie się języka kapłanów. Po jego opanowaniu wracamy do maga co kończy zadanie.
 
-## Ukryta komnata
+## Ukryta komnata {#ukryta-komnata}
 
 Po nauczeniu się języka kapłanów Nefarius opowiada nam o ukrytej komnacie i razem z nim udajemy się ją zbadać. Na miejscu musimy odczytać pulpit i porozmawiać z magiem. Po rozmowie wciskamy przycisk znajdujący się przy malowidle przedstawiającym ludzi w łódce i zabieramy klucz, z którym wracamy do Nefariusa. Następnie używamy klucza na piedestale i wchodzimy do nowego pomieszczenia. Nefarius odeśle nas do Saturasa, a po rozmowie z nim wracamy ponownie do maga. Teraz musimy zdobyć klucz ze świątyni Adanosa, co możliwe jest dopiero po pokonaniu Kruka. Gdy zdobędziemy klucz, wracamy do Nefariusa i otwieramy portal, kończąc zadanie.
 
-## Rozbitkowie
+## Rozbitkowie {#rozbitkowie}
 
 Portal wciągnął nas i trafiliśmy na nieznaną wyspę. Naszym zadaniem jest zdobycie klucza potrzebnego do aktywacji portalu. Podczas eksploracji spotkamy maga Olivera, który zaprowadzi nas do obozu ocalałych. Po dotarciu do obozu zadanie dobiega końca.
 
-## Tajemnica wyspy
+## Tajemnica wyspy {#tajemnica-wyspy}
 
 Paladyn Helmar opowiada nam swoją historię. Po rozmowie musimy podążać za nim. Gdy zobaczymy potwory przy bramie, paladyn odeśle nas do myśliwych. Po rozmowie z nimi wracamy do Nefariusa. W trakcie rozmowy otrzymamy zadanie "Starożytny teleport", które musimy wykonać. Po aktywacji teleportu informujemy o tym Nefariusa, przenosimy się do Jarkendaru i rozmawiamy z Saturasem oraz Cronosem. Następnie wracamy do Nefariusa.
 
@@ -56,30 +64,30 @@ Do rozmowy dołączają Christian oraz Elena, którzy przemieniają się w potwo
 
 Po zdobyciu krwi wracamy do Nefariusa. Rozmawiamy z nim, używamy krwi na naszej broni lub runie i rozmawiamy z Angelem. Teraz czeka nas finałowa bitwa. Po jej wygraniu rozmawiamy z Angelem, Nefariusem i Saturasem, co kończy zadanie.
 
-## Starożytny teleport
+## Starożytny teleport {#starozytny-teleport}
 
 Po rozmowie z Nefariusem w zadaniu "Tajemnica wyspy" udajemy się do Olivera, który wskaże nam drogę do jaskini z wodą. Musimy się tam udać i zdobyć kamień ogniskujący. Po jego odnalezieniu wracamy do obozu i aktywujemy portal, co kończy zadanie.
 
-## Magiczny pergamin
+## Magiczny pergamin {#magiczny-pergamin}
 
 Nefarius odsyła nas do Cronosa po magiczny pergamin. Po jego zdobyciu wracamy do Nefariusa i oddajemy przedmiot, za co otrzymujemy mapę wyspy.
 
-## Pragnienie pirata
+## Pragnienie pirata {#pragnienie-pirata}
 
 Sinker mieszkający w dżungli potrzebuje dwóch piw lub ginu. Po dostarczeniu mu wymaganych trunków zadanie dobiega końca.
 
-## Cisza dżungli
+## Cisza dżungli {#cisza-dzungli}
 
 Scout wyruszył na zwiad wyspy i musimy go odnaleźć. Wychodząc przez bramę z obozu i kierując się cały czas przed siebie, mijając jeziorko z dinozaurami, a następnie pole z mrówkami, docieramy do ogniska, przy którym siedzi Scout. Informuje nas, że nie zamierza wracać do obozu, co przekazujemy jego ojcu Garmundowi, kończąc misję.
 
-## Polowanie na wyspie
+## Polowanie na wyspie {#polowanie-na-wyspie}
 
 Eric chce iść na polowanie, na co się zgadzamy. Wyruszamy z nim i zabijamy ścierwojady, po czym wracamy do obozu, co kończy zadanie.
 
-## Mięso dla marynarza
+## Mięso dla marynarza {#mieso-dla-marynarza}
 
 Na wyspie w północno-wschodniej części mapy możemy spotkać rozbitka, któremu musimy dostarczyć 5 sztuk surowego lub smażonego mięsa. Po przekazaniu jedzenia zadanie dobiega końca.
 
-## Sekret grzyba
+## Sekret grzyba {#sekret-grzyba}
 
 W dżungli możemy natrafić na wielkiego grzyba, z którym da się porozmawiać. Najpierw musimy przeczytać pulpit znajdujący się obok niego, a następnie nakarmić go w odpowiedniej kolejności: skałą krystaliczną, akwamarynem i eliksirem many. Po wykonaniu tego otrzymujemy specjalnego grzyba, który na stałe zwiększa naszą manę o 3 punkty. Po zakończeniu zadania możemy również zabić grzyba giganta.

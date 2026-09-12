@@ -1,27 +1,31 @@
-# Mag ognia
+---
+title: "Mag ognia"
+description: "Solucja do Gothic II: New Balance — Mag ognia. Dołączenie do gildii, zadania i wymagania."
+slug: /gildie-glowne/mag-ognia/
+---
 
-> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](sekcje/gildie_poboczne/gildia_zlodziei.md).  
+> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](/gildie-poboczne/gildia-zlodziei/).\
 > Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
 
-## Jak dostać się do klasztoru
+## Jak dostać się do klasztoru {#jak-dostac-sie-do-klasztoru}
 
 Aby zostać nowicjuszem. musimy mieć 1000 złota i owce (kupimy od Pepe za 100 sztuk złota). Ewentualnie pozostaje "Ułatwione przyjęcie do klasztoru".
 > Zdecydowanie lepiej jest wejść poprzez ułatwione przyjęcie do klasztoru.
 
-## Ułatwione przyjęcie do klasztoru
+## Ułatwione przyjęcie do klasztoru {#ulatwione-przyjecie-do-klasztoru}
 
 Podczas rozmowy z Vatrasem o dołączeniu do gildii, zostajemy wysłani do Laresa. U Laresa wybieramy, że chcemy przyłączyć się do magów ognia, więc idziemy do Vatrasa, który wysyła na do Darona. Mag opowiada nam o tym, że napadły go gobliny i skradły cenny posążek. Znajdziemy je w jaskini, do której prowadzi nas Greg. Z posążkiem idziemy do Pedro, który zgadza się nas wpuścić do klasztoru.
 > Drugi posążek dropi z bossa goblina obok wejścia do jaskini próby ognia.
 
-## Służba społeczności
+## Służba społeczności {#sluzba-spolecznosci}
 
 Zadanie zleca Parlan. Musimy zyskać uznanie magów poprzez wykonywanie zadań w klasztorze. Jak już zdobędziemy odpowiedni szacunek, to otrzymamy klucz do biblioteki.
 
-## Szata nowicjusza
+## Szata nowicjusza {#szata-nowicjusza}
 
 Gdy pytamy Parlana o szatę nowicjusza, ten mówi nam, że jej nie da, bo brakuje tkaniny. Erol musi znajdować się w swojej chacie, gdzie udaje się po oddaniu mu starych tabliczek. Teraz idziemy do niego i kupujemy materiał, który zanosimy Parlanowi. Dostajemy szatę nowicjusza, a zadanie się kończy.
 
-## Komnaty nowicjuszy
+## Komnaty nowicjuszy {#komnaty-nowicjuszy}
 
 Parlan każe nam posprzątać komnaty nowicjuszy. W tym celu szukamy 4 pomocników:
 
@@ -30,81 +34,81 @@ Parlan każe nam posprzątać komnaty nowicjuszy. W tym celu szukamy 4 pomocnik�
 
 Teraz sami idziemy pozamiatać komnatę po lewo przed pokojem magów po lewej stronie. Po otrzymaniu wpisu w dzienniku wracamy do Parlana.
 
-## Baranie kiełbasy
+## Baranie kiełbasy {#baranie-kielbasy}
 
-Gorax daje nam klucz do klasztornej spiżarni, mamy zabrać stamtąd baranie kiełbasy i rozdać nowicjuszom. Idziemy do spiżarni i wyjmujemy kiełbasy z kufra, a następnie rozdajemy je nowicjuszom. Pedro i Babo chcą dwie kiełbasy, niestety tylko jednemu z nich możemy ofiarować dodatkową kiełbasę. Pedro opowie nam o miejscu, gdzie znajdziemy ogniste pokrzywy dla Neorasa (których nie da się nie zauważyć, idąc do klasztoru), a Babo da nam magiczne zwoje.  
+Gorax daje nam klucz do klasztornej spiżarni, mamy zabrać stamtąd baranie kiełbasy i rozdać nowicjuszom. Idziemy do spiżarni i wyjmujemy kiełbasy z kufra, a następnie rozdajemy je nowicjuszom. Pedro i Babo chcą dwie kiełbasy, niestety tylko jednemu z nich możemy ofiarować dodatkową kiełbasę. Pedro opowie nam o miejscu, gdzie znajdziemy ogniste pokrzywy dla Neorasa (których nie da się nie zauważyć, idąc do klasztoru), a Babo da nam magiczne zwoje.\
 Po rozdaniu kiełbas wracamy do Goraxa.
 
-## Winogrona
+## Winogrona {#winogrona}
 
 Gorax prosi nas o zebranie winogron z roślin przy drzwiach klasztoru.
 > winogrona są potrzebne do produkcji wina do many, więc żebyśmy nie byli stratni to w asortymencie Goraxa pojawią się do kupna mikstury Amun-Su.
 
-## Siedem ziół
+## Siedem ziół {#siedem-ziol}
 
 Neoras prosi nas o przyniesienie mu 7 ognistych pokrzyw, które zapewne już mamy, a jeśli nie, to znajdziemy je przed mostem prowadzącym do klasztoru.
 
-## Zaginiony przepis
+## Zaginiony przepis {#zaginiony-przepis}
 
 Neoras prosi nas o przyniesienie przepisu, który znajduje się na skrzyni w spiżarni. Najlepiej jest pokazać go najpierw Opolosowi, a dopiero potem odnieść Neorasowi.
 
-## Opolos i przepis
+## Opolos i przepis {#opolos-i-przepis}
 
 Opolos chce, żebyśmy przynieśli mu recepturę. Chodzi o tą samą co chce Neoras, więc pokazujemy recepturę Opolosowi, zanim oddamy ją Neorasowi.
 
-## Modlitwa za Paladynów
+## Modlitwa za Paladynów {#modlitwa-za-paladynow}
 
 Pytamy Marduka, czy ma dla nas jakieś zadania, a on prosi nas, abyśmy pomodlili się za paladynów z Górniczej Doliny. Wystarczy podejść do posągu Innosa i wybrać odpowiednią opcję dialogową.
 
-## Kłopot Isgarotha
+## Kłopot Isgarotha {#klopot-isgarotha}
 
 Po pomodleniu się za paladynów Sergio wspomina nam o problemie Isgarotha. Idziemy do maga, który prosi nas o zabicie czarnego wilka czającego się przy ścieżce. Jeśli nie dajemy sobie z nim rady, możemy podbiec do Isgarotha, który go załatwi.
 
-## Dostawa wina
+## Dostawa wina {#dostawa-wina}
 
 Gorax prosi nas, abyśmy udali się do Orlana w Martwej Harpii i sprzedali wino za 240 złota. Nie zgadzamy się na oferty Orlana, tylko bierzemy wyznaczoną sumę i wracamy z nią do Goraxa.
 
-## Trening bojowy dla Babo
+## Trening bojowy dla Babo {#trening-bojowy-dla-babo}
 
 Babo prosi nas, abyśmy udali się do Paladyna Sergio i poprosili go, aby nauczał Babo walki. Gadamy z Sergio, który zgadza się trenować nowicjusza, po czym wracamy do Babo.
 
-## Darowizna dla klasztoru
+## Darowizna dla klasztoru {#darowizna-dla-klasztoru}
 
 Po ofiarowaniu Daronowi co najmniej 500 sztuk złota zleca on nam zaniesienie złota do klasztoru. Lepiej iść pieszo, jako że pojawiają się bandyci, za których otrzymamy dodatkową nagrodę. Złoto oddajemy Goraxowi, a zadanie się kończy.
 
-## Po zrobieniu większości z tych zadań dostajemy klucz do biblioteki od Parlana.
+## Po zrobieniu większości z tych zadań dostajemy klucz do biblioteki od Parlana. {#po-zrobieniu-wiekszosci-z-tych-zadan-dostajemy-klucz-do-biblioteki-od-parlana}
 
-## Próba ognia
+## Próba ognia {#proba-ognia}
 
 Pierwsze zadanie do awansu na Maga Ognia. W tym celu czytamy jeden z pulpitów w bibliotece i idziemy do Pyrokara, aby poddał nas próbie.
 
-## Żywa skała
+## Żywa skała {#zywa-skala}
 
 Serpentes zleca nam zabicie Żywej Skały, czyli Magicznego Golema. Potrzebujemy do tego młota Innosa, który wykradniemy z podziemi. Golema znajdziemy na górce, na zakręcie po drodze na wykopaliska Magów Wody. Po zabiciu go wracamy do Serpentesa i oddajemy młot.
 
-## Ścieżka wiernych
+## Ścieżka wiernych {#sciezka-wiernych}
 
 Pyrokar prosi nas o przyniesienie mu zawartości skrzyni z jaskini Próby Ognia, niedaleko czarnego trolla, za mostem. Po drodze spotkamy Igaraza i Ulfa, z którymi warto porozmawiać, ale ich oszczędzić, bo są potrzebni do kilku zadań. Na miejscu spotkamy Agona, który nas zaatakuje. Lepiej go nie zabijać, tylko uśpić lub uciec, jako że później będą z nim dialogi w klasztorze. Z runą ze skrzyni wracamy do Pyrokara, co kończy nasze zadanie.
 
-## Runa ognia
+## Runa ognia {#runa-ognia}
 
 Ulthar prosi nas o stworzenie runy ognistej strzały. Idziemy w tym celu do Hyglasa, który nauczy nas tworzenia runy. Robimy runę na stole runicznym i zanosimy ją Ultharowi.
 
-## Zadania jako Mag ognia
+## Zadania jako Mag ognia {#zadania-jako-mag-ognia}
 
-## Po zostaniu magiem ognia będziemy mogli spełnić jedną z 3 próśb:
+## Po zostaniu magiem ognia będziemy mogli spełnić jedną z 3 próśb: {#po-zostaniu-magiem-ognia-bedziemy-mogli-spelnic-jedna-z-3-prosb}
 
 - Babo i ogród - Babo chce być ogrodnikiem, a nie zamiatać komnaty.
 - Zbrodnia Dyriana - Nowicjusz prosi o drugą szansę, chce zostać w klasztorze.
 - Opolos i biblioteka - Opolos chce uzyskać dostęp do klasztornej biblioteki.
 
-## Szansa dla Igaraza
+## Szansa dla Igaraza {#szansa-dla-igaraza}
 
-UWAGA: Zadanie jest dostępne tylko jeśli nie zabiliśmy Igaraza w trakcie [Ścieżka wiernych](#Ścieżka-wiernych).
+UWAGA: Zadanie jest dostępne tylko jeśli nie zabiliśmy Igaraza w trakcie [Ścieżka wiernych](/gildie-glowne/mag-ognia/#sciezka-wiernych).
 
 Igaraz prosi, byśmy wstawili się za nim u Pyrokara. Pyrokar zgadza się dać mu drugą szansę, jeśli wykonamy zadanie dla Talamona i zdobędziemy serce demona. Igaraz nie jest z tego zadowolony, więc robimy to za niego. Musimy mieć wyuczone pozyskiwanie serc, którego uczy Grom. Najprościej zabijać króliki, aż pojawi się demon boss. Serce zanosimy do Talamona, wracamy do Igaraza, a ten zostaje magiem i handlarzem. W nagrodę możemy wybrać runę snu lub eliksir ducha (+4 mana).
 
-## Opowieści dla Karrasa
+## Opowieści dla Karrasa {#opowiesci-dla-karrasa}
 
 > Jeśli nie należymy do magów ognia, to księgi oddajemy Gallahadowi, a zwój sprzedajemy.
 
@@ -112,21 +116,21 @@ Karras prosi nas o znalezienie 5 tomów starożytnych opowieści i zwoju:
 - Tom 1 na szczycie latarni Jacka
 - Tom 2 w skrzyni na szczycie zniszczonej wieży obok Niclasa (przy rannym orku)
 - Tom 3 w jaskini z ogrem, w kotlinie na prawo od wschodniej bramy miasta
-- Tom 4 w skrzyni w małej piramidzie na wykopaliskach magów wody.  
+- Tom 4 w skrzyni w małej piramidzie na wykopaliskach magów wody.\
 - Tom 5 w lewej odnodze jaskini z Próby Ognia
-- Zwój do otwarcia ksiąg znajduje się na schodkach krypty przy Farmie Onara  
+- Zwój do otwarcia ksiąg znajduje się na schodkach krypty przy Farmie Onara\
 Zanosimy księgi Karrasowi i zadanie się kończy.
 
 > Warto najpierw oddać je Gallahadowi dla 5 many, a następnie odkupić w handlu i dopiero wtedy oddać Karrasowi.
 
-## Zbezczeszczone kapliczki (Rozdział 3)
+## Zbezczeszczone kapliczki (Rozdział 3) {#zbezczeszczone-kapliczki-rozdzial-3}
 
 Ulthar zleca nam oczyszczenie kapliczek Innosa. Nie wszystkie kapliczki są zbezczeszczone, więc warto kupić ich mapę od Brahima i się nią posłużyć. Kiedy dostaniemy odpowiedni wpis w dzienniku, wracamy do Ulthara po nagrodę.
 
-## Poszukiwacze (3 Rozdział)
+## Poszukiwacze (3 Rozdział) {#poszukiwacze-3-rozdzial}
 
-W trzecim rozdziale gdy damy Pyrokarowi Almanach Opętanych (leży on obok kamiennego kręgu przy farmie Lobarta) otrzymamy od niego zadanie. Musimy odnaleźć wszystkie almanachy. Arcymag da nam listę osób opętanych i każe nam sprowadzić ich do klasztoru. Teraz idziemy do Karrasa i pytamy się, czy ma coś, co pomogłoby nam w walce z poszukiwaczami. Pokazujemy mu almanach i otrzymamy od niego amulet chroniący przed opętaniem.  
-Lista opętanych:  
+W trzecim rozdziale gdy damy Pyrokarowi Almanach Opętanych (leży on obok kamiennego kręgu przy farmie Lobarta) otrzymamy od niego zadanie. Musimy odnaleźć wszystkie almanachy. Arcymag da nam listę osób opętanych i każe nam sprowadzić ich do klasztoru. Teraz idziemy do Karrasa i pytamy się, czy ma coś, co pomogłoby nam w walce z poszukiwaczami. Pokazujemy mu almanach i otrzymamy od niego amulet chroniący przed opętaniem.\
+Lista opętanych:\
 1. Fernando jest zamknięty w lochach Khorinis w koszarach
 2. Vino niedaleko kamiennego kręgu na Farmie Lobarta
 3. Malak po ucieczce z farmy Bengara siedzi w wąwozie w górach niedaleko Dextera

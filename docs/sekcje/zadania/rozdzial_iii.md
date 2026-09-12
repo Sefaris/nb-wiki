@@ -1,32 +1,36 @@
-# Zadania - Rozdział 3
+---
+title: "Zadania - Rozdział 3"
+description: "Solucja do Gothic II: New Balance — Zadania - Rozdział 3. Przebieg zadań, wybory i wskazówki."
+slug: /solucja/rozdzial-iii/
+---
 
-> Przed wejściem do tego rozdziału należy ukończyć zadania [Horror na cmentarzu](sekcje/zadania/rozdzial_i.md?id=horror-na-cmentarzu), [Ranny ork](sekcje/zadania/rozdzial_i.md?id=ranny-ork) i [Głodny skazaniec](sekcje/zadania/rozdzial_i.md?id=głodny-skazaniec). Warto też szybko przejść do rozdziału 4 ze względu na mocny ekwipunek.
+> Przed wejściem do tego rozdziału należy ukończyć zadania [Horror na cmentarzu](/solucja/rozdzial-i/#horror-na-cmentarzu), [Ranny ork](/solucja/rozdzial-i/#ranny-ork) i [Głodny skazaniec](/solucja/rozdzial-i/#glodny-skazaniec). Warto też szybko przejść do rozdziału 4 ze względu na mocny ekwipunek.
 
-## Złoto Diega
+## Złoto Diega {#zloto-diega}
 
 Diego prosi nas o przyniesienie jego sakiewki ze złotem. Znajdziemy ją w ciele orka berserkera na Placu Wymian w Górniczej Dolinie.
 
-## Sprawa Diega
+## Sprawa Diega {#sprawa-diega}
 
 Diego prosi o przekazanie listu Gerbrandtowi w górnym mieście. Robimy to i wracamy do Diego.
 
-## Pedro zdrajca
+## Pedro zdrajca {#pedro-zdrajca}
 
 Zadanie pojawia się w dzienniku gdy dowiadujemy się o kradzieży Oka Innosa. Rozwiązujemy je w 6 rozdziale gdy spotykamy Pedro, niezależnie od tego co z nim zrobimy.
 
-## Bennet siedzi w więzieniu
+## Bennet siedzi w więzieniu {#bennet-siedzi-w-wiezieniu}
 
 Okazuje się, że Bennet jest podejrzany o zabójstwo paladyna Lothara. Teraz gadamy z Hodgesem i Lee po czym idziemy do Hagena. Hagen mówi nam, że Cornelius jest świadkiem, więc idziemy do niego i mamy kilka opcji by zdobyć dziennik. Możemy go pobić, okraść lub wymusić by sam oddał dziennik. W każdym razie czytamy go i mówimy o wszystkim Hagenowi, na koniec udajemy się do Benneta.
 
-## Góra stali dla Benneta
+## Góra stali dla Benneta {#gora-stali-dla-benneta}
 
 Po uwolnieniu Benneta z więzienia, podczas rozmowy z nim na farmie Onara poprosi on nas, abyśmy przynieśli mu 100 stalowych prętów.
 
-## Lekarstwo dla Hildy
+## Lekarstwo dla Hildy {#lekarstwo-dla-hildy}
 
 Lobart mówi nam, że jego żona zachorowała i mamy udać się po lekarstwo do Vatrasa. Idziemy do Vatrasa, bierzemy lekarstwo i dajemy Hildzie.
 
-## Ktoś coś zgubił?
+## Ktoś coś zgubił? {#ktos-cos-zgubil}
 
 > Zwiadowca może to zadanie zrobić dopiero w 4 rozdziale, pozostali w 3
 
@@ -34,27 +38,31 @@ Hanna mówi, że przypadkiem sprzedała ważne dokumenty kartografowi w porcie. 
 
 > Będąc zwiadowcą należy pamiętać, żeby przeczytać mapę oraz wykopać skarb z kluczem.
 
-## Obawy Sagitty
+## Obawy Sagitty {#obawy-sagitty}
 
 > UWAGA: Zadanie należy zrobić w 3 rozdziale, w 4 akcie będzie martwa.
 
 W wyniku pojawienia się zakapturzonych postaci w okolicy, Sagitta martwi się o swoje bezpieczeństwo. Idziemy do Lee i prosimy o ochronę dla guślarki, następnie wracamy do Sagitty.
 
-## Dokumenty
+## Dokumenty {#dokumenty}
 
 Babo skarży się, że Igaraz wszedł w posiadanie jego prywatnych dokumentów, którymi teraz go szantażuje. Idziemy do Igaraza i odkupujemy papiery, a ten daje nam klucz do skrzyni, z której je zabieramy. Dokumenty możemy oddać Babo lub samemu go szantażować.
 
-## Złodzieje owiec
+## Złodzieje owiec {#zlodzieje-owiec}
 
 Akil mówi, że bandyci kradną owce z jego farmy. Znajdują się oni w jaskini tam gdzie wcześniej byli bandyci z notatką Halvora. Idź ścieżką w głąb lasu, na lewo będzie jaskinia.
 
-## Tajemnicze morderstwo
+## Tajemnicze morderstwo {#tajemnicze-morderstwo}
 
-#### Zadanie dostępne jest już w 2 rozdziale jeżeli możemy już dostać się do biblioteki magów.
+:::info Informacja
 
-Aby otrzymać to zadanie musimy [dostarczyć truciznę Constantino](sekcje/zadania/rozdzial_ii.md?id=dziwna-prośba-constantino) oraz wykonać [zadanie dla Karrasa](sekcje/zadania/rozdzial_i.md?id=wycieczka-do-miasta).
+Zadanie dostępne jest już w 2 rozdziale jeżeli możemy już dostać się do biblioteki magów.
 
-> Przed wykonaniem powyższych zadań powinieneś najpierw ukończyć zadanie [Polny drapieżnik](sekcje/zadania/rozdzial_ii.md?id=polny-drapieżnik), które zleca Akil w trakcie [polowania na rzadkie potwory](sekcje/gildie_poboczne/gildia_mysliwych.md?id=polowanie-na-rzadkie-stwory-rozdział-2).
+:::
+
+Aby otrzymać to zadanie musimy [dostarczyć truciznę Constantino](/solucja/rozdzial-ii/#dziwna-prosba-constantino) oraz wykonać [zadanie dla Karrasa](/solucja/rozdzial-i/#wycieczka-do-miasta).
+
+> Przed wykonaniem powyższych zadań powinieneś najpierw ukończyć zadanie [Polny drapieżnik](/solucja/rozdzial-ii/#polny-drapieznik), które zleca Akil w trakcie [polowania na rzadkie potwory](/gildie-poboczne/gildia-mysliwych/#polowanie-na-rzadkie-stwory-rozdzial-2).
 
 Kilka dni po wykonaniu zadań z trucizną i zwojami zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek rozmawiamy z Zurisem i udajemy się do domu Ignaza. Za płotem znajdujemy pustą butelkę po truciźnie, pokazujemy ją Constantino i zgadzamy się mu pomóc.
 
@@ -62,100 +70,104 @@ Rozmawiamy z Miką przy wschodniej bramie i idziemy do jaskini na lewo od wschod
 
 Wybór nie ma znaczenia, gdyż nagrody są podobne. Dla dodatkowego doświadczenia możemy również porozmawiać z Kardifem, Coragonem i Constantino zaraz po rozpoczęciu zadania u Lorda Andre.
 
-## Wygnany farmer
+## Wygnany farmer {#wygnany-farmer}
 
 Sekob mówi nam, że jego dom zajęli zakapturzone typy. Zabijamy i wracamy do Sekoba po nagrodę.
 
-## Samotność Bengara
+## Samotność Bengara {#samotnosc-bengara}
 
-Bengar mówi nam, że rolnicy uciekli i prosi o załatwienie ochrony na farmie.  
+Bengar mówi nam, że rolnicy uciekli i prosi o załatwienie ochrony na farmie.\
 Najpierw udajemy się do Wilka i oferujemy mu pracę na farmie Bengara, ten się zgadza jak mu zapłacimy. Teraz idziemy do Malaka i mówimy, że najemnicy chronią farmę, po czym rolnicy wracają. Na koniec idziemy do Bengara.
 
-## Rogi cieniostwora dla Bustera
+## Rogi cieniostwora dla Bustera {#rogi-cieniostwora-dla-bustera}
 
 Buster będzie od nas skupował rogi cieniostwora za złoto i expa. Zadanie kończy się wraz z wejściem do 5 rozdziału, Buster przestaje wtedy skupować.
 
-## Torlofa strach przed złym
+## Torlofa strach przed złym {#torlofa-strach-przed-zlym}
 
 Torlof prosi nas o pozbycie się zakapturzonych postaci w obozie Dextera. Wybijamy i wracamy do zleceniodawcy.
 
 >Przed rozpoczęciem mordu zaleca się porozmawiać z Lordem Hagenem. Jeden z poszukiwaczy pojawia się dopiero po dialogu z nim.
 
-## Koszmar Roscoe
+## Koszmar Roscoe {#koszmar-roscoe}
 
 Roscoe obok tawerny Orlana zleca nam oczyszczenie cmentarza obok Martwej Harpii. Zabijamy szkielety i poszukiwacza po czym wracamy do zleceniodawcy.
 
-## Boska moc gwiazd
+## Boska moc gwiazd {#boska-moc-gwiazd}
 
 Hyglas zleca nam przyniesienie książki Boska moc gwiazd. Kupić ją możemy od Constantina i Zurisa.
 
-## Fałszywe udziały w kopalni
+## Fałszywe udziały w kopalni {#falszywe-udzialy-w-kopalni}
 
-#### Zadanie dostępne tylko dla Magów Ognia i Najemników.
+:::info Informacja
+
+Zadanie dostępne tylko dla Magów Ognia i Najemników.
+
+:::
 
 > Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstury z orkowych pomyj. Przed rozmową z Salandrilem należy zdobyć pierścień gildii kupców, następnie wykupić od niego wszystkie istotne przedmioty oraz ukończyć zadanie związane z orkowymi pomyjami.
 
-Serpentes każe nam dowiedzieć się kto rozprowadza fałszywe udziały w kopalni, musimy również usunąć je z obiegu. Sprzedają je:  
+Serpentes każe nam dowiedzieć się kto rozprowadza fałszywe udziały w kopalni, musimy również usunąć je z obiegu. Sprzedają je:\
 - Salandril w swoim sklepie w górnym mieście
 - Rosi na farmie Sekoba
 - Matteo w swoim domu w dzielnicy rzemieślników
 - Hakon na rynku Khorinis
 - Elena na Farmie Onara
 - Orlan w gospodzie Martwa Harpia
-- Bosper w swoim domu w dzielnicy rzemieślników 
+- Bosper w swoim domu w dzielnicy rzemieślników
 - Zuris na rynku w Khorinis
 - Canthar na rynku w Khorinis
 
 Wykupione udziały oddajemy Serpentesowi, a Salandrila przekonujemy by udał się do klasztoru gdzie stanie przed sądem.
 
-## Mroczna sieć
+## Mroczna sieć {#mroczna-siec}
 
 Zadanie zleca Hagen, po wyciągnięciu Benneta z więzienia. Musimy się dowiedzieć, kto stoi za morderstwem Lothara. Podnosimy pierścień spod mostu przy południowej bramie i udajemy się z nim do Vatrasa. Idziemy również do Hodgesa, który da nam zwój, jeśli mamy co najmniej 50 retoryki. Teraz ponownie udajemy się do Vatrasa, który nazajutrz tworzy dla nas runę teleportacyjną do wieży maga. W środku eliminujemy silnego bossa i używamy runy, którą się tutaj przenieśliśmy. Wracamy zdać relacje Hagenowi.
 
-## Ogniem i mieczem
+## Ogniem i mieczem {#ogniem-i-mieczem}
 
 Hagen zleca nam oczyszczenie ze zła obozu Dextera. Idziemy tam zabijamy poszukiwaczy oraz mistrza mroku na szczycie wieży. Po wszystkim wracamy do Hagena.
 
-# Khorinis - Własny obóz
+## Khorinis - Własny obóz {#khorinis-wlasny-oboz}
 
-## Moja posiadłość
+### Moja posiadłość {#moja-posiadlosc}
 
 Po oczyszczeniu obozu Dextera Hagen chce nam dać na własność obóz i okoliczne kopalnie. Najpierw musimy dogadać się z Onarem, odda nam on obóz jak zapłacimy albo za darmo jak mamy 50 retoryki. Jak już uzyskamy zgodę Onara idziemy do Hagena i dostajemy dokument poświadczający, że obóz należy do nas, a także kilku ludzi do pomocy.
 
-## Ludzie do obozu
+### Ludzie do obozu {#ludzie-do-obozu}
 
 Zanim zaczniemy rekrutację musimy najpierw udać się do naszego obozu i pogadać ze strażnikiem na moście.
 
-Kolejny krok to znaleźć zarządcę. Mogą to być Valeran lub Erol. Polecam Erola, gdyż Valeran przyda się do zadania [Asystent](sekcje/gildie_poboczne/gildia_kupcow.md?id=asystent-rozdział-3). Pytamy się kandydata czy zostanie zarządcą obozu, a ten zgadza się, jeśli zgodzimy się na jego stawkę. Od teraz w każdej sprawie dotyczącej rozwoju naszego obozu rozmawiać będziemy z naszym zarządcą. 
+Kolejny krok to znaleźć zarządcę. Mogą to być Valeran lub Erol. Polecam Erola, gdyż Valeran przyda się do zadania [Asystent](/gildie-poboczne/gildia-kupcow/#asystent-rozdzial-3). Pytamy się kandydata czy zostanie zarządcą obozu, a ten zgadza się, jeśli zgodzimy się na jego stawkę. Od teraz w każdej sprawie dotyczącej rozwoju naszego obozu rozmawiać będziemy z naszym zarządcą.
 
 Pierwszym zadaniem będzie przynieść zasoby potrzebne do rozkręcenia obozu: 5 000 złota, 50 sztuk pieczonego mięsa, 25 ryb i 5 bochenków chleba (chleb pojawi się u Ruperta/Baltrama/Eleny – w zależności od tego, kto żyje).
 
-Następnie zarządca mówi nam, że mamy zorganizować więcej ludzi: 
+Następnie zarządca mówi nam, że mamy zorganizować więcej ludzi:
 
-**Dostawcy żywności**  
-- Farim i Niclas (Niclas od razu, Farim po wykonaniu "Problemy ze strażą")  
-- Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)  
+**Dostawcy żywności**\
+- Farim i Niclas (Niclas od razu, Farim po wykonaniu "Problemy ze strażą")\
+- Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)\
 
 Po przyprowadzeniu przynajmniej jednego dostawcy dowiemy się, że potrzebny jest kucharz, chodzi o Eddę, która dołączy, jeśli pomogliśmy jej w 1r z posążkiem.
 
-**Kopacze**  
-- Wąż (40 retoryki i oddana ruda z zadania [Torba pełna rudy](sekcje/zadania/rozdzial_i.md?id=torba-pełna-rudy))  
-- Snipes (50 retoryki i oddana ruda z zadania [Torba pełna rudy](sekcje/zadania/rozdzial_i.md?id=torba-pełna-rudy))  
+**Kopacze**\
+- Wąż (40 retoryki i oddana ruda z zadania [Torba pełna rudy](/solucja/rozdzial-i/#torba-pelna-rudy))\
+- Snipes (50 retoryki i oddana ruda z zadania [Torba pełna rudy](/solucja/rozdzial-i/#torba-pelna-rudy))\
 - Grimes i jego kumpel w GD (Rozmawiamy z Grimesem, który planuje ucieczkę, więc musimy przygotować dwa zwoje snu lub runę snu. Po ich przygotowaniu ponownie rozmawiamy z Grimesem i okazuje się, że były one niepotrzebne, więc odprowadzamy ich przed kopalnię łączącą Khorinis z GD. Następnie pojawiają się przy bramie przełęczy, skąd prowadzimy ich do obozu.)
 
 Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi, że potrzebny jest kowal. Zostanie nim Carl z dzielnicy portowej Khorinis, jeśli oddaliśmy mu węgiel w 1r.
 
-**Ochroniarze**  
-- Gayvern (zgodzi się od razu)  
-- Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)  
+**Ochroniarze**\
+- Gayvern (zgodzi się od razu)\
+- Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)\
 - Bilgot (po przyprowadzeniu go z Górniczej Doliny)
 
 Po przyprowadzeniu co najmniej jednego strażnika zarządca prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
-Ostatnim zadaniem będzie zdobycie schematu zbroi. Znajdziemy go w Opuszczonej Kopalni w GD nad przejściem do Khorinis, tam gdzie Płomień Eligora dla [gildii kupców](sekcje/gildie_poboczne/gildia_kupcow.md). Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
+Ostatnim zadaniem będzie zdobycie schematu zbroi. Znajdziemy go w Opuszczonej Kopalni w GD nad przejściem do Khorinis, tam gdzie Płomień Eligora dla [gildii kupców](/gildie-poboczne/gildia-kupcow/). Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
 > Rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem.
 
-## Co z kopalnią?
+### Co z kopalnią? {#co-z-kopalnia}
 
 Musimy się dowiedzieć czy w kopalni w naszym obozie jest magiczna ruda. Idziemy do Węża i prowadzimy go do kopalni. Wąż mówi, że w kopalni nadal jest ruda i poleci nam załatwić więcej ludzi, by można było rozpocząć wydobycie. Idziemy teraz do Hagena, mówimy o rudzie i przystajemy na jego ofertę.
 

@@ -1,36 +1,42 @@
-# Nekromanta / Czarnoksiężnik / Mroczny Przywoływacz
+---
+title: "Nekromanta / Czarnoksiężnik / Mroczny Przywoływacz"
+description: "Solucja do Gothic II: New Balance — Nekromanta / Czarnoksiężnik / Mroczny Przywoływacz. Dołączenie do gildii, zadania i wymagania."
+slug: /gildie-glowne/nekromanta-czarnoksieznik/
+---
 
-
-
-## Ścieżka Beliara
+## Ścieżka Beliara {#sciezka-beliara}
 
 Aby zostać mrocznym magiem, trzeba podczas rozmowy z Vatrasem spytać o inne gildie poza głównymi. Potem udajemy się do Xardasa i pytamy, czy przyjmie nas na nowicjusza. Xardas potrzebuje dnia do namysłu, po czym ostatecznie przyjmuje nas i daje nam szatę nowicjusza mroku.
 
-Teraz pytamy Xardasa jak stać się pełnoprawnym magiem. W tym celu musimy spełnić pewne warunki: Posiadać 40 inteligencji i 80 many, a także wykonać zadania [Runa szkieletu goblina](#Runa-szkieletu-goblina) i [Droga Ciemności](#Droga-Ciemności).  
+Teraz pytamy Xardasa jak stać się pełnoprawnym magiem. W tym celu musimy spełnić pewne warunki: Posiadać 40 inteligencji i 80 many, a także wykonać zadania [Runa szkieletu goblina](/gildie-glowne/nekromanta-czarnoksieznik/#runa-szkieletu-goblina) i [Droga Ciemności](/gildie-glowne/nekromanta-czarnoksieznik/#droga-ciemnosci).\
 Po wykonaniu tego zadania oficjalnie zostajemy Nekromantą, Czarnoksiężnikiem lub Mrocznym Przywoływaczem w zależności od wyboru po zakończeniu zadania.
 
-## Posążek Beliara
+## Posążek Beliara {#posazek-beliara}
 __Zleca: Xardas__
 
 Xardas prosi o przyniesienie posążka Beliara, możemy takowy znaleźć:
-- W ciele Rigeliona z zadania [Horror na cmentarzu](sekcje/zadania/rozdzial_i?id=horror-na-cmentarzu)
+- W ciele Rigeliona z zadania [Horror na cmentarzu](/solucja/rozdzial-i/#horror-na-cmentarzu)
 - W paczce Rigeliona. By otworzyć ją już w 1 rozdziale musimy iść do Mrocznego Mentora i odmówić mu oddania paczki, a następnie przeżyć.
 - Na skałach między Martwą Harpią, a mostem bandytów. Dostajemy się tam idąc po górach od wieży Xardasa
 - W zamkniętej skrzyni na wieży obok Niclasa i rannego orka
 - Nad legowiskiem czarnego trolla, trzeba przejść bokiem po górach
 - Na plaży przy wraku pod starą latarnią, niedaleko wieży Amon-Shen i jaskini z bandytami
 
-#### Zadanie nie blokuje dostępu do innych gildii.
+:::info Informacja
 
-## Runa szkieletu goblina
+Zadanie nie blokuje dostępu do innych gildii.
+
+:::
+
+## Runa szkieletu goblina {#runa-szkieletu-goblina}
 
 Xardas stworzy dla nas runę po dostarczeniu wszystkich składników z listy: żelaznego sztyletu, kości goblina, akwamarynu, kamienia runicznego oraz zwoju przyzwania szkieletu goblina. Po zebraniu wszystkiego zanosimy przedmioty do Xardasa i otrzymujemy magiczną runę.
- 
-## Droga Ciemności
+
+## Droga Ciemności {#droga-ciemnosci}
 
 Xardas każe nam zabić sługę Innosa, może to być dowolny nowicjusz z klasztoru, lecz najlepszym celem będzie pasterz owiec Opolos. O godzinie 17 wychodzi on z klasztoru zapalić ziele, więc mamy idealną okazję, aby go zabić. Po wszystkim wracamy do Xardasa.
 
-## Tworzenie nieumarłego sługi (tylko Mroczny Przywoływacz)
+## Tworzenie nieumarłego sługi (tylko Mroczny Przywoływacz) {#tworzenie-nieumarlego-slugi-tylko-mroczny-przywolywacz}
 
 Do stworzenia osobistego szkieleta potrzebujemy kilku składników z listy Xardasa:
 - 6 kości szkieletu (wypadają z szkieletów, jedna jest za szafką u Thorbena)
@@ -41,45 +47,45 @@ Do stworzenia osobistego szkieleta potrzebujemy kilku składników z listy Xarda
 
 Po przyniesieniu wszystkich składników Xardas tworzy nam runę, a zadanie kończy się sukcesem.
 
-## Runa Xardasa (2 rozdział)
+## Runa Xardasa (2 rozdział) {#runa-xardasa-2-rozdzial}
 
 > Zadanie dostępne tylko po wyborze klasy: "Nekromanta"
 
 Xardas da nam runę zniszczenia ożywieńca (bez wydatku PN), jeśli przyniesiemy mu 5 ektoplazm.
 Ektoplazmę sprzedają Constantino i Salandril, a trzy pozostałe najłatwiej zdobyć z ognistych cieniostworów w bibliotece w Jarkendarze, które pojawią się dopiero w końcowym etapie wątku Jarkendaru. By zdobyć runę szybciej będziemy musieli pokonać widma, które są na tym etapie bardzo silne. Po zebraniu ektoplazm wracamy do Xardasa i otrzymujemy darmową runę.
 
-## Zapiski Xardasa
+## Zapiski Xardasa {#zapiski-xardasa}
 
-Xardas mówi nam, abyśmy odzyskali jego stare rękopisy. Znajdują się w Klasztorze Magów Ognia. Dostaniemy się tam podczas wątku gildii kupców lub po górach przez dach co pozwoli na rozpoczęcie zadania [Zarzuty Parlana](sekcje/zadania/rozdzial_i?id=zarzuty-parlana).  
+Xardas mówi nam, abyśmy odzyskali jego stare rękopisy. Znajdują się w Klasztorze Magów Ognia. Dostaniemy się tam podczas wątku gildii kupców lub po górach przez dach co pozwoli na rozpoczęcie zadania [Zarzuty Parlana](/solucja/rozdzial-i/#zarzuty-parlana).\
 Kiedy już będziemy w klasztorze szukamy 2 części rękopisów Xardasa:
 - pierwsze znajdują się w dawnym pokoju Xardasa (To ten zamknięty pokój przy którym sprząta Babo), klucz daje nam Xardas.
 - drugie rękopisy znajdują się w klasztornej bibliotece. Dostać się tam możemy poprzez kradzież klucza od Parlana albo czekać do 3 rozdziału, aż sami dostaniemy ten klucz.
 
 Wracamy do Xardasa, a ten mówi, że druga część rękopisów jest fałszywa, więc udajemy się do Parlana, a potem Marduka. Okazuje się, że w bibliotece pracował mag Trevius, który zaginął. Idziemy do jaskini obok cmentarza przy Martwej Harpii, gdzie znajdujemy martwego maga i demona, który lata nad jego zwłokami. Zabieramy notatki i wracamy do Xardasa. Możemy też powiedzieć Mardukowi, że znaleźliśmy Treviusa.
 
-## Droga do nikąd
+## Droga do nikąd {#droga-do-nikad}
 
-Xardas zleca byśmy przynieśli mu pewną księgę, która jest w posiadaniu Gallahada. Idziemy do Gallahada i pytamy o księgę, ale mag chce w zamian coś cennego. Możemy mu dać szczaw królewski lub dowolny eliksir stały, lecz najlepszym wyborem będzie zwój wygnania, który możemy dostać od Xardasa podczas wykonywania zadania [Dziwne stworzenie](sekcje/zadania/rozdzial_ii?id=dziwne-stworzenie). Książkę czytamy, oddajemy Galahadowi za manę/HP, odkupujemy i oddajemy Xardasowi.
+Xardas zleca byśmy przynieśli mu pewną księgę, która jest w posiadaniu Gallahada. Idziemy do Gallahada i pytamy o księgę, ale mag chce w zamian coś cennego. Możemy mu dać szczaw królewski lub dowolny eliksir stały, lecz najlepszym wyborem będzie zwój wygnania, który możemy dostać od Xardasa podczas wykonywania zadania [Dziwne stworzenie](/solucja/rozdzial-ii/#dziwne-stworzenie). Książkę czytamy, oddajemy Galahadowi za manę/HP, odkupujemy i oddajemy Xardasowi.
 
-## Necronomicon
+## Necronomicon {#necronomicon}
 
 > Misję również można zrobić po prostu zdobywając Święty Płomień i odnosząc księgę Xardasowi, lecz będzie się to wiązało ze stratą 1PN i doświadczenia
 
-Xardas prosi nas, abyśmy przynieśli mu starożytną księgę - Necronomicon. Według wskazówek nekromanty była ona niegdyś w posiadaniu potężnego nekromanty - Nergala. 
+Xardas prosi nas, abyśmy przynieśli mu starożytną księgę - Necronomicon. Według wskazówek nekromanty była ona niegdyś w posiadaniu potężnego nekromanty - Nergala.
 
 Musimy udać się aż do Górniczej Doliny i przedostać się za palisadę orków. Dostajemy się do Wieży Mgieł przez kopalnię od dołu i rozmawiamy z nekromantą Kreolem. Po krótkiej rozmowie Kreol daje nam klucz, z którym udajemy się do wieży Nergala za farmą Onara (Tam, gdzie 2 trolle i Grom), zabijamy nieumarłych i czytamy pulpit na środku. Pojawia się boss zombie, który dzięki naszej pomocy ląduje w krainie Beliara. Zabieramy z jego ciała prochy i wracamy do Xardasa, a ten opowiada nam o pewnym rytuale.
 > Klucz dostępny dla każdej gildii znajduje się również w skrzyni w ukrytym pomieszczeniu obok Kreola
 
-Czekamy kilka dni i gdy wszystko będzie gotowe, idziemy się przespać, a następnie stajemy na jednym z rogów pentagramu. Odpala się rytuał podczas którego Xardas rozmawia z Nergalem. Po wszystkim Xardas mówi nam gdzie jest Necronomicon. Lepszą opcją jednak jest wyjść z pentagramu wbrew poleceniom Xardasa co przerwie rytuał czego skutkiem będzie walka z bossem, którego pokonanie daje dodatkowe PN’y. 
+Czekamy kilka dni i gdy wszystko będzie gotowe, idziemy się przespać, a następnie stajemy na jednym z rogów pentagramu. Odpala się rytuał podczas którego Xardas rozmawia z Nergalem. Po wszystkim Xardas mówi nam gdzie jest Necronomicon. Lepszą opcją jednak jest wyjść z pentagramu wbrew poleceniom Xardasa co przerwie rytuał czego skutkiem będzie walka z bossem, którego pokonanie daje dodatkowe PN’y.
 
 Udajemy się w stronę plaży Skipa i płyniemy dalej, aż odnajdziemy wieżę na kamiennej plaży. Wchodzimy do środka, za pomocą zaklęcia Święty Płomień (które znajdziemy w jaskini w kotlinie obok wschodniej bramy) zabijamy Mrocznego Golema i przechodzimy przez otwarte kraty. Lądujemy na szczycie wieży, gdzie jest księga, którą może przeczytać jedynie każda mroczna gildia. Wracamy do Xardasa i oddajemy księgę.
 > Zwój Święty Płomień możemy kupić u Sengratha lub znaleźć w jaskini w kotlince idąc prosto ze wschodniej bramy Khorinis. Można go też ukraść Ingmarowi
 
-## Dumni i bezbronni (2 rozdział)
+## Dumni i bezbronni (2 rozdział) {#dumni-i-bezbronni-2-rozdzial}
 
-Kreol zleca nam wybicie paladynów w obozie Alberta pod obozem Netbeka. Przed atakiem warto wykonać zadania dla Alberta ([Posiłki dla Alberta](sekcje/zadania/rozdzial_ii?id=posiłki-dla-alberta), [Statek wojenny orków](sekcje/zadania/rozdzial_ii?id=statek-wojenny-orków), [Wojenne plany orków](sekcje/zadania/rozdzial_ii?id=wojenne-plany-orków)), ponieważ po jego śmierci przepadają. W nagrodę otrzymujemy od Kreola miksturę **„Ciemna Mądrość”** (+5 do many), a dodatkowo: **przywoływacz** dostaje runę **Przyzwanie szkieletu włócznika**, natomiast **nekromanta** lub **czarnoksiężnik** runę **Kula nekromanty**.
+Kreol zleca nam wybicie paladynów w obozie Alberta pod obozem Netbeka. Przed atakiem warto wykonać zadania dla Alberta ([Posiłki dla Alberta](/solucja/rozdzial-ii/#posilki-dla-alberta), [Statek wojenny orków](/solucja/rozdzial-ii/#statek-wojenny-orkow), [Wojenne plany orków](/solucja/rozdzial-ii/#wojenne-plany-orkow)), ponieważ po jego śmierci przepadają. W nagrodę otrzymujemy od Kreola miksturę **„Ciemna Mądrość”** (+5 do many), a dodatkowo: **przywoływacz** dostaje runę **Przyzwanie szkieletu włócznika**, natomiast **nekromanta** lub **czarnoksiężnik** runę **Kula nekromanty**.
 
-## Oddech śmierci (3 rozdział)
+## Oddech śmierci (3 rozdział) {#oddech-smierci-3-rozdzial}
 
 Po nauce 4 kręgu otrzymamy lepszą szatę. Pojawi się wtedy opcja dialogowa z Xardasem z pytaniem o ulepszenie szaty. Musimy znaleźć recepturę na eliksir, która podzielona została na 2 części:
 - Pierwsza wypada z bossa Miragula w Jaskini Bólu (Dostaniemy się tam w zadaniu gildii kupców).

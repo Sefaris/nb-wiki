@@ -1,10 +1,18 @@
-# Koszmar Kruka
+---
+title: "Koszmar Kruka"
+description: "Solucja do Gothic II: New Balance — Koszmar Kruka. Przebieg zadań, wybory i wskazówki."
+slug: /watki/koszmar-kruka/
+---
 
 **Zalecane statystyki:**<br>
 **Mag:** Mana min. 900, Zdrowie min. 3500, Krąg magii min. 4 (potępiony min. 3).<br>
 **Wojownik:** Siła lub Zręczność min. 400, Zdrowie min. 4000, Wytrzymałość min. 800, Posługiwanie się bronią min. 85%.<br>
 Jeśli nie spełniamy zalecanych statystyk, nadal możemy wejść do Koszmaru, jednak musimy mieć co najmniej 2000 Zdrowia oraz co najmniej 250 Siły lub 250 Zręczności lub 500 Many.
-### UWAGA: Lokacja jest bardzo trudna, a na dodatek nie da się z niej wyjść, dopóki nie skończymy jej całej. Warto się do niej dobrze przygotować, a także mieć osobny zapis, aby w razie czego móc się wrócić.
+:::warning Uwaga
+
+UWAGA: Lokacja jest bardzo trudna, a na dodatek nie da się z niej wyjść, dopóki nie skończymy jej całej. Warto się do niej dobrze przygotować, a także mieć osobny zapis, aby w razie czego móc się wrócić.
+
+:::
 
 Po rozmowie z Krukiem lądujemy w jego koszmarze. Wychodzimy z miejsca gdzie się zrespiliśmy, skręcamy w lewo i idziemy skrajem urwiska. Dotrzemy do niewielkiej przestrzeni z bossem jaszczuroczłekiem. Po pokonaniu bossa otwieramy kratę przyciskiem na ścianie i wchodzimy w interakcję z przełącznikiem. Rozmawiamy z duchem przy moście, a następnie przechodzimy na drugą stronę. Wybijamy przeciwników i przechodzimy tunelem do niewielkiego cmentarza.
 
@@ -16,7 +24,7 @@ Idziemy korytarzem, aż dojdziemy do małego pokoju. Musimy przejść przez dziu
 
 Następnie lecimy do miejsca, w którym walczyliśmy z bossem z tarczą. Wcześniej zamknięte przejście powinno być teraz otwarte. Dalej musimy skręcić do pokoju z dźwignią i zombie. Z balkonu kierujemy się na lewo i zauważymy tam przełącznik, którego należy użyć, mając na uwadze spadający filar.
 
-Teraz wracamy do pomieszczenia gdzie walczyliśmy z Nekromantą i idziemy przed siebie. Skręcamy w prawo do góry po zawalonym filarze i używamy przełacznika, gdzie czeka nas walka z druidem. Kilkukrotnie zbijamy go do pewnej ilości HP, po czym zmienia się on w inną formę.  
+Teraz wracamy do pomieszczenia gdzie walczyliśmy z Nekromantą i idziemy przed siebie. Skręcamy w prawo do góry po zawalonym filarze i używamy przełacznika, gdzie czeka nas walka z druidem. Kilkukrotnie zbijamy go do pewnej ilości HP, po czym zmienia się on w inną formę.\
 Po pokonaniu go otworzy nam się przejście do teleportu, za którym czeka nas walka ze stadem poszukiwaczy i dalej z bossem poszukiwaczem.
 
 Pojawiają się cztery duchy: Maga, Nordmarczyka, Wojownika i ponownie Nordmarczyka, a odpowiedzi na ich zagadki to kolejno: Innos, Dusza, Koszmar oraz Ja.

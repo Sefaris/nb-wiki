@@ -1,3 +1,5 @@
-node_modules
-parser
-output.json
+node_modules/
+build/
+.docusaurus/
+.pnpm-store/
+*.log
