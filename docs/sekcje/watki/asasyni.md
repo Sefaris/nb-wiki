@@ -66,13 +66,13 @@ Będąc już w lokacji Masjafu, nie zbliżamy się na razie do żadnych miejsc g
 ### Swój pośród obcych Część 1 {#swoj-posrod-obcych-czesc-1}
 
 To zadanie ciągnie się aż do końca wątku asasynów.\
-Gadamy z Gonzalesem i mamy 2 opcje:\
+Gadamy z Gonzalesem i mamy 2 opcje:
 1. Zaatakować asasynów. Wybierając tą opcję możesz od razu skierować się tutaj: [Walka](/watki/asasyni/#swoj-posrod-obcych-czesc-2).
 2. Udawać jednego z nich celem sabotażu (w każdej chwili będziemy mogli przerwać i zaatakować)
 
 Jeżeli wybraliśmy opcję 2, to wchodzimy w interakcję z ogniskiem i czekamy do 7:00. Teraz dopiero wybieramy opcję u Gonzalesa “Kiedy ruszamy”. Idziemy teraz do kotlinki i szukamy nowicjusza asasynów z niewolnikiem. Zabijamy gościa, automatycznie Bezi zakłada zbroję asasyna, po czym gadamy z niewolnikiem i teraz musimy odprowadzić go do Nrozasa do świątyni.
 
-### Ciąg dalszy w Swój pośród nas Część 2 {#ciag-dalszy-w-swoj-posrod-nas-czesc-2}
+Ciąg dalszy w [Swój pośród nas Część 2](/watki/asasyni/#swoj-posrod-obcych-czesc-2)
 
 ### Zbieracz ziół {#zbieracz-ziol}
 
@@ -92,9 +92,9 @@ Osair mówi nam, że wśród niewolników jest buntownik i zleca zbadanie sprawy
 
 ### Paczki z bronią dla Mariusza {#paczki-z-bronia-dla-mariusza}
 
-Musimy przynieść Mariusowi 3 paczki z bronią, znajdują się one:\
-- W jaskini Osaira\
-- W wazonie w pomieszczeniu, gdzie przebywa Tiamant\
+Musimy przynieść Mariusowi 3 paczki z bronią, znajdują się one:
+- W jaskini Osaira
+- W wazonie w pomieszczeniu, gdzie przebywa Tiamant
 - W magazynie. Klucz dostaniemy od Nrozasa w zadaniu [Składniki dla Nrozasa](/watki/asasyni/#skladniki-dla-nrozasa)
 
 ### Ciche przyzwolenie {#ciche-przyzwolenie}
@@ -120,8 +120,8 @@ Tiamant zleca nam zabicie orków w dolinie, zabijamy ich, zabieramy głowę jedn
 
 ### Zabić Hasima {#zabic-hasima}
 
-Tiamant zleca nam zabicie Hasima, więc musimy wyciągnąć go ze świątyni. Idziemy do niego i mówimy, że wzywa go Osair. Wyprowadzamy go ze świątyni po czym zabijamy. Wracamy do Tiamanta ale zadanie się nie kończy, natomiast Tiamant zleca nam nowe zadanie [Oczyścić kopalnie](/watki/asasyni/#oczyscic-kopalnie), po jego wykonaniu zagada do nas Haniar w sprawie Hasima. Mamy dwie możliwości:\
-- Mówimy prawdę Haniarowi, że to my zabiliśmy Hasima na polecenie Tiamanta, wtedy Haniar każe nam się pomodlić za duszę Hasima. (W kapliczce obok jaskini Osaira, nie tej w świątyni)\
+Tiamant zleca nam zabicie Hasima, więc musimy wyciągnąć go ze świątyni. Idziemy do niego i mówimy, że wzywa go Osair. Wyprowadzamy go ze świątyni po czym zabijamy. Wracamy do Tiamanta ale zadanie się nie kończy, natomiast Tiamant zleca nam nowe zadanie [Oczyścić kopalnie](/watki/asasyni/#oczyscic-kopalnie), po jego wykonaniu zagada do nas Haniar w sprawie Hasima. Mamy dwie możliwości:
+- Mówimy prawdę Haniarowi, że to my zabiliśmy Hasima na polecenie Tiamanta, wtedy Haniar każe nam się pomodlić za duszę Hasima. (W kapliczce obok jaskini Osaira, nie tej w świątyni)
 - Okłamujemy Haniara, idziemy do Gonzalesa, a ten wysyła na do Tiamanta. Mamy zdobyć papier z magazynu, a po jego zdobyciu Tiamant napisze list do Haniara. Zanosimy list Haniarowi i ten każe nam się pomodlić za duszę Hasima do Beliara. (W kapliczce obok jaskini Osaira, nie tej w świątyni). Po wszystkim wracamy do Gonzalesa.
 
 ### Oczyścić kopalnie {#oczyscic-kopalnie}
@@ -189,9 +189,9 @@ Osair zleca nam abyśmy udali się po truciznę do Nrozasa, ten natomiast każe 
 
 **UWAGA: Zadanie dostępne jeśli w zadaniu Tryumf Nrozasa troll zginął (opcja 1).**
 
-Mamy zanieść wino od Osaira Nrozasowi. Przed świątynią zatrzyma nas strażnik z wiadomością, że Haniar chce nas widzieć i tu też mamy dwie opcje:\
-- Oddajemy wino Nrozasowi, ten umiera i musimy walczyć ze wszystkimi asasynami.\
-- Gadamy z Haniarem, oddajemy mu wino, które okazuje się być zatrute. Teraz przychodzimy do niego jak pali ziele, dostajemy niezatrute wino i dajemy je Nrozasowi, który po chwili znika.\
+Mamy zanieść wino od Osaira Nrozasowi. Przed świątynią zatrzyma nas strażnik z wiadomością, że Haniar chce nas widzieć i tu też mamy dwie opcje:
+- Oddajemy wino Nrozasowi, ten umiera i musimy walczyć ze wszystkimi asasynami.
+- Gadamy z Haniarem, oddajemy mu wino, które okazuje się być zatrute. Teraz przychodzimy do niego jak pali ziele, dostajemy niezatrute wino i dajemy je Nrozasowi, który po chwili znika.
 
 Po wykonaniu zadania Haniar daje nam list, który zanosimy Osairowi, po czym wracamy do Haniara. Teraz gadamy z Gonzalesem i dążymy do finału wątku asasynów.
 

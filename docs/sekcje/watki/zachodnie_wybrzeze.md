@@ -19,7 +19,7 @@ Jeśli chodzi o zapasy, to 10 butelek wody i 10 kawałków mięsa nie powinno sp
 Po zapłaceniu Garvellowi złota wracamy na następny dzień, a Fregyal będzie obok niego czekał (jeśli oddaliśmy mu zapasy w jaskini). Teraz rozmawiamy z Garvellem, a następnie z Fregyalem, po czym wchodzimy na wielką łódź, gdzie jeszcze raz zagadujemy Druida.
 > Nie martw się o towary sprzedawane dotychczas przez Freygala - zostaną przekazane Galahadowi
 
-## Teraz płyniemy na Zachodnie Wybrzeże, gdzie zaczyna się wątek tej lokacji. {#teraz-plyniemy-na-zachodnie-wybrzeze-gdzie-zaczyna-sie-watek-tej-lokacji}
+Teraz płyniemy na Zachodnie Wybrzeże, gdzie zaczyna się wątek tej lokacji.
 
 ## Zachodnie Wybrzeże {#zachodnie-wybrzeze}
 
@@ -83,7 +83,7 @@ Po zebraniu rzepy Kormak oferuje nam wspólne opicie naszego przybycia na wyspę
 
 ## Poszukiwania druidów {#poszukiwania-druidow}
 
-Otrzymamy to zadanie po oficjalnym zostaniu druidem. Kormak zleca nam znalezienie innych druidów, którzy żyją w różnych częściach wyspy, a są to:\
+Otrzymamy to zadanie po oficjalnym zostaniu druidem. Kormak zleca nam znalezienie innych druidów, którzy żyją w różnych częściach wyspy, a są to:
 - Netbek z Klasztoru Zmiennokształtnych w GD
 - Elvais z Doliny Cienia
 - Oddler z Lodowych Gór Orków

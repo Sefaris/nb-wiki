@@ -40,9 +40,9 @@ Ukończenie tego zadania jest wymagane do zostania Guru, lecz warto robić je r�
 
 Baal Tyona znajdziemy w namiocie nad kuźnią, zleca nam zdobycie przepisu, który według niego jest w posiadania alchemika w Khorinis. Idziemy do Constantino, a ten mówi, że receptura znajduje się klasztorze i prosi byśmy mu ją pokazali jeżeli uda się nam ją zdobyć. Gadamy z Neorasem w podziemiach klasztoru, a nastepnie musimy dostać się do skarbca. Klucz znajduje się w prawej skrzyni w sypialni magów obok Babo. Recepturę znajdziemy w ostatniej skrzyni w skarbcu. Czytamy ją i odnosimy Constantino, a ten zamiast tylko popatrzeć to zabiera ją nam i daje w zamian szczaw królewski. Odkupujemy od niego recepturę za 1000 złota i odnosimy do Baala Tyona.
 
-Teraz musimy przynieść mu składniki:\
-- Język ognistego jaszczura (samemu zabić jaszczura lub kupić od Lutero)\
-- Serce kamiennego golema (w skrzyni w lewej odnodze jaskini na wykopaliskach Magów Wody lub kupić od Zurisa)\
+Teraz musimy przynieść mu składniki:
+- Język ognistego jaszczura (samemu zabić jaszczura lub kupić od Lutero)
+- Serce kamiennego golema (w skrzyni w lewej odnodze jaskini na wykopaliskach Magów Wody lub kupić od Zurisa)
 - Jajo pełzacza (w jaskini na wykopaliskach lub w lewej odnodze jaskini z Próby Ognia lub kupić od Lutero)
 - Szczaw królewski
 
@@ -58,7 +58,7 @@ Ukończenie tego zadania jest wymagane do zostania Strażnikiem, lecz warto robi
 
 Gor na Kosh zleca nam przyniesienie legendarnego artefaktu znanego jako Młot Tarakota. Znajdziemy go w dużej piramidzie na wykopaliskach, chronią go 2 szkielety, ale wystarczy pobiegać z nimi dookoła, wziąć młot i uciec.
 
-### Poniższe zadania są poboczne i nie są wymagane do zostania Guru lub Strażnikiem. {#ponizsze-zadania-sa-poboczne-i-nie-sa-wymagane-do-zostania-guru-lub-straznikiem}
+Poniższe zadania są poboczne i nie są wymagane do zostania Guru lub Strażnikiem.
 
 ## Alternatywny składnik {#alternatywny-skladnik}
 

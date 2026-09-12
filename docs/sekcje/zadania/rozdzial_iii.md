@@ -107,7 +107,7 @@ Zadanie dostępne tylko dla Magów Ognia i Najemników.
 
 > Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstury z orkowych pomyj. Przed rozmową z Salandrilem należy zdobyć pierścień gildii kupców, następnie wykupić od niego wszystkie istotne przedmioty oraz ukończyć zadanie związane z orkowymi pomyjami.
 
-Serpentes każe nam dowiedzieć się kto rozprowadza fałszywe udziały w kopalni, musimy również usunąć je z obiegu. Sprzedają je:\
+Serpentes każe nam dowiedzieć się kto rozprowadza fałszywe udziały w kopalni, musimy również usunąć je z obiegu. Sprzedają je:
 - Salandril w swoim sklepie w górnym mieście
 - Rosi na farmie Sekoba
 - Matteo w swoim domu w dzielnicy rzemieślników
@@ -144,22 +144,22 @@ Pierwszym zadaniem będzie przynieść zasoby potrzebne do rozkręcenia obozu: 5
 
 Następnie zarządca mówi nam, że mamy zorganizować więcej ludzi:
 
-**Dostawcy żywności**\
-- Farim i Niclas (Niclas od razu, Farim po wykonaniu "Problemy ze strażą")\
-- Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)\
+**Dostawcy żywności**
+- Farim i Niclas (Niclas od razu, Farim po wykonaniu "Problemy ze strażą")
+- Talbin (w 4 rozdziale po wyprowadzeniu go z Górniczej Doliny)
 
 Po przyprowadzeniu przynajmniej jednego dostawcy dowiemy się, że potrzebny jest kucharz, chodzi o Eddę, która dołączy, jeśli pomogliśmy jej w 1r z posążkiem.
 
-**Kopacze**\
-- Wąż (40 retoryki i oddana ruda z zadania [Torba pełna rudy](/solucja/rozdzial-i/#torba-pelna-rudy))\
-- Snipes (50 retoryki i oddana ruda z zadania [Torba pełna rudy](/solucja/rozdzial-i/#torba-pelna-rudy))\
+**Kopacze**
+- Wąż (40 retoryki i oddana ruda z zadania [Torba pełna rudy](/solucja/rozdzial-i/#torba-pelna-rudy))
+- Snipes (50 retoryki i oddana ruda z zadania [Torba pełna rudy](/solucja/rozdzial-i/#torba-pelna-rudy))
 - Grimes i jego kumpel w GD (Rozmawiamy z Grimesem, który planuje ucieczkę, więc musimy przygotować dwa zwoje snu lub runę snu. Po ich przygotowaniu ponownie rozmawiamy z Grimesem i okazuje się, że były one niepotrzebne, więc odprowadzamy ich przed kopalnię łączącą Khorinis z GD. Następnie pojawiają się przy bramie przełęczy, skąd prowadzimy ich do obozu.)
 
 Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi, że potrzebny jest kowal. Zostanie nim Carl z dzielnicy portowej Khorinis, jeśli oddaliśmy mu węgiel w 1r.
 
-**Ochroniarze**\
-- Gayvern (zgodzi się od razu)\
-- Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)\
+**Ochroniarze**
+- Gayvern (zgodzi się od razu)
+- Alrik (dołączy, jeśli pokonaliśmy go na arenie i oddaliśmy miecz)
 - Bilgot (po przyprowadzeniu go z Górniczej Doliny)
 
 Po przyprowadzeniu co najmniej jednego strażnika zarządca prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.

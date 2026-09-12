@@ -17,7 +17,7 @@ Zadanie kończy się po odblokowaniu pierwszego kamienia i ponownej rozmowie z X
 ## Rytuał magicznej wymiany {#rytual-magicznej-wymiany}
 > Zadanie nie pojawia się w dzienniku
 
-Na dachu wieży Xardasa (musimy wejść na sam szczyt wieży i wyjść przez okno) znajduje się miejsce rytuału, notatka opisująca jego przebieg oraz wszystkie potrzebne przedmioty.\
+Na dachu wieży Xardasa (musimy wejść na sam szczyt wieży i wyjść przez okno) znajduje się miejsce rytuału, notatka opisująca jego przebieg oraz wszystkie potrzebne przedmioty.
 1. Czytamy notatkę
 2. Zabieramy Eliksir many i używamy Starożytnego ołtarza
 3. Czekamy do godziny minimum 5:00 i używamy Rytualnej figurki w ekwipunku, żeby się pomodlić
@@ -30,12 +30,12 @@ __Zleca: Notatki z tablicy ogłoszeń w koszarach__
 
 Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w koszarach. Musimy dopaść imiennych bandytów i przynieść ich głowy Andre:
 
-1. **Farhaart** - Aby do niego dotrzeć, należy wyjść przez wschodnią bramę Khorinis i kierować się w lewo (nie idziemy w górę do latarni, tylko cały czas zostajemy na dole). Natrafiamy na jaskinię i kierujemy się w lewą odnogę, aż natrafimy na bandytów.\
-2. **Kurdupel** - W jaskini z notatką Halvora. Idąc z farmy Akila do Mrocznego Lasu, zbaczamy ze ścieżki i trzymamy się skał po lewej stronie.\
-3. **Brzytwa** - Znajduje się w jaskini za lasem, w którym polujemy z Bartokiem.\
+1. **Farhaart** - Aby do niego dotrzeć, należy wyjść przez wschodnią bramę Khorinis i kierować się w lewo (nie idziemy w górę do latarni, tylko cały czas zostajemy na dole). Natrafiamy na jaskinię i kierujemy się w lewą odnogę, aż natrafimy na bandytów.
+2. **Kurdupel** - W jaskini z notatką Halvora. Idąc z farmy Akila do Mrocznego Lasu, zbaczamy ze ścieżki i trzymamy się skał po lewej stronie.
+3. **Brzytwa** - Znajduje się w jaskini za lasem, w którym polujemy z Bartokiem.
 4. **Skiron** - Obóz bandytów z listem Fernando. Idąc drogą z Martwej Harpii na wykopaliska, skręcamy w prawo zaraz za spaloną chatką.
-5. **Zręczny** - Zaczynamy od gospody Martwa Harpia, po czym idziemy ścieżką, po której szliśmy z Laresem odnieść ornament, idziemy do momentu, do którego spotkamy pierwszą kapliczkę Innosa, bandyci są na wzgórzu za kapliczką.\
-6. **Dexter i Góra** - Znajdują się w obozie Dextera, czyli nieopodal farmy Onara.\
+5. **Zręczny** - Zaczynamy od gospody Martwa Harpia, po czym idziemy ścieżką, po której szliśmy z Laresem odnieść ornament, idziemy do momentu, do którego spotkamy pierwszą kapliczkę Innosa, bandyci są na wzgórzu za kapliczką.
+6. **Dexter i Góra** - Znajdują się w obozie Dextera, czyli nieopodal farmy Onara.
 7. **Hannibal** - Na nowych terenach obok wieży Xardasa. Idąc ścieżką skręcamy w lewo przed jaskinią z bandytami Cavalorna. Stamtąd idziemy cały czas prosto, aż natkniemy się na ścieżkę w górę, gdzie znajdziemy jego obóz.
 
 ## Ekspedycja Magów Ognia {#ekspedycja-magow-ognia}
@@ -61,7 +61,7 @@ Po przeczytaniu wszystkich kronik dowiadujemy się, że golem jest nieśmierteln
 - w Kopalni Orków, niedaleko Windy
 - w Kopalni Orków, w pomieszczeniu z demonem za mostem
 - w obozie przyjaznego klanu w Śnieżnych Górach Orków (Zaleca się to zrobić po ukończeniu wątku ze Starym przyjacielem Lee, jako że staną się oni agresywni)
-- w obozie wrogiego klanu w Śnieżnych Górach Orków (Można to zrobić przy okazji zadania “Wojna klanów", choć nie trzeba)\
+- w obozie wrogiego klanu w Śnieżnych Górach Orków (Można to zrobić przy okazji zadania “Wojna klanów", choć nie trzeba)
 
 Po naładowaniu pojawia się nam nowy wpis i mamy gotową runę na golema. Znajdujemy go robiąc misję [Bezgraniczna potęga](/solucja/poboczne/#bezgraniczna-potega). Po zabiciu golema zadanie się kończy.
 
@@ -87,20 +87,20 @@ Po przyzwaniu kapłanki Beliara Avabyul dowiadujemy się, że Beliar pożąda te
 Znajdujemy go w najbardziej oddalonym miejscu w lokacji Śnieżne Góry Orków (Patrz mapa śnieżnych gór orków w dziale z zadaniami w tej lokacji - Punkt 13). Stoi przed wielkimi wrotami i pozwoli nam przez nie przejść gdy przyniesiemy mu duszę awatara Beliara. Możemy ją zdobyć z Azgalora - smoka z Doliny Cieni lub z Kruka w koszmarze.
 
 Klikamy w przycisk z przodu ołtarza przed Januszem i przechodzimy przez bramę. Dalej warto iść dopiero po naładowaniu runy z zadania [Ekspedycja Magów Ognia](/solucja/poboczne/#ekspedycja-magow-ognia). Z runą idziemy eksplorować jaskinie, gdzie natkniemy się na golema, z którym rozmawiamy, a następnie traktujemy runą. Idziemy dalej po schodach na górę i spotykamy strażnika artefaktu. Niestety artefaktu nie dostaniemy, ale możemy wybrać jeden z poniżej wymienionych bonusów:
-- **Siła:**\
-  - Standardowo: **+25**\
+- **Siła:**
+  - Standardowo: **+25**
   - Rozdział 6 lub wyższy: **+50**
 
-- **Zręczność:**\
-  - Standardowo: **+25**\
+- **Zręczność:**
+  - Standardowo: **+25**
   - Rozdział 6 lub wyższy: **+50**
 
-- **Mana i inteligencja:**\
-  - Standardowo: **+50 many** i **+20 inteligencji**\
+- **Mana i inteligencja:**
+  - Standardowo: **+50 many** i **+20 inteligencji**
   - Rozdział 6 lub wyższy: **+120 many** i **+30 inteligencji**
 
-- **Zdrowie i wytrzymałość:**\
-  - Standardowo: **+175 zdrowia** i **+50 wytrzymałości**\
+- **Zdrowie i wytrzymałość:**
+  - Standardowo: **+175 zdrowia** i **+50 wytrzymałości**
   - Rozdział 6 lub wyższy: **+300 zdrowia**
 
 Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janusz, pokonany przez kapłankę Beliara. Po krótkiej rozmowie dochodzi do walki, zabijamy ją, a zadanie się kończy.
@@ -123,10 +123,10 @@ Musimy zdecydować czy chcemy go używać czy zniszczyć. Zniszczenie szponu daj
 Dowiadujemy się również, że na wolność wydostał się demon Senyak - to dla niego szpon został stworzony przez Beliara. Demona trzeba pokonać, jednak musimy zdecydować w jaki sposób. Niezależnie od tego co postanowiliśmy zrobić ze szponem to i tak bardziej opłaca się nam najpierw zdobyć "Mora Ulartu" czyli runę do kradzieży dusz. W tym celu wykonujemy zadanie [Mora Ulartu](/solucja/poboczne/#mora-ulartu).
 
 Oprócz tego Ashtar proponuje nam stworzenie kolejnej runy zwanej "krzyż żywiołów", która to potrafi natychmiast zabić prawie każde stworzenie i można jej użyć tylko 1 raz. Do stworzenia jej potrzebujemy 4 sfer żywiołów:
-- Sfera ognia w Starej Kopalni (obok kopalni Marcosa)\
-- Sfera wody w Opuszczonej Kopalni (nad przełęczą Górniczej Doliny)\
-- Sfera ciemności w Zatopionej Wieży Xardasa\
-- Sfera skały w Kopalni Orków (dostęp do niej dostaniemy w wątku orków i tam was odsyłam)\
+- Sfera ognia w Starej Kopalni (obok kopalni Marcosa)
+- Sfera wody w Opuszczonej Kopalni (nad przełęczą Górniczej Doliny)
+- Sfera ciemności w Zatopionej Wieży Xardasa
+- Sfera skały w Kopalni Orków (dostęp do niej dostaniemy w wątku orków i tam was odsyłam)
 
 Teraz idziemy do Smoka, który uczy nas jak zrobić runę, oddaje nam również swoje serce będące jej składnikiem poświęcajac tym samym swoje życie.
 
@@ -146,7 +146,7 @@ Zadanie jest trochę pogmatwane. Jeżeli nie wiesz na co się zdecydować to naj
 Udajemy się do Xardasa i pytamy o runę. Ten mówi nam, że Beliar dam nam runę w zamian za inny artefakt - amulet Triamar. Idziemy teraz do portu, a przed posągiem paladyna w porcie powinien pojawić się paladyn Melchior. Szantażujemy go, a ten wyjawia nam, że amulet znajduje się na wyspie Etlu, a klucz ma sam Hagen. Okradamy Hagena lub odkupujemy klucz od ogrodnika. Idziemy teraz do Xardasa i mówimy o wszystkim. Teraz możemy udać się na Etlu i zabrać amulet w sposób pokojowy lub zabić wszystkich paladynów. Wejście do Etlu znajduje się w jaskini przy zbieraczach ziela niedaleko czarnego trolla.
 > Zabicie paladynów jest bardziej opłacalną opcją, jeżeli jednak nie chcemy tego robić to polecam zaopatrzyć się w miksturę niewidzialności.
 
-Jeśli chcemy uzyskać amulet w "pokojowy" sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie może tego zrobić Paladyn ani Mag Ognia). Przed modlitwą zapisz grę.\
+Jeśli chcemy uzyskać amulet w "pokojowy" sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie może tego zrobić Paladyn ani Mag Ognia). Przed modlitwą zapisz grę.
 > Jeżeli nie zniszczyłeś szponu, ani go jeszcze nie posiadłeś za karmę to pamiętaj by wyrzucić go z ekwipunku przed modlitwą o pomoc.
 
 Pojawia się Zigos, który po krótkiej rozmowie zgadza się na pomóc, jeśli zabijemy szalonego Fellangora, który kiedyś był sługą Beliara. Fellangor potrafi przybierać formę innych ludzi, dlatego dostajemy od Zigosa amulet, który zakładamy przed każdą rozmową z Fellangorem.
@@ -208,8 +208,8 @@ Rupert:
 22-23 Przy zębaczach naprzeciw wieży z mrocznym golemem\
 23-24 Niedaleko orka gdzie zostajesz Szamanem
 
-Po trzecim wykryciu Fellangora mamy 2 opcje:\
-- Używamy amuletu, gadamy z Zigosem i dostajemy nagrodę\
+Po trzecim wykryciu Fellangora mamy 2 opcje:
+- Używamy amuletu, gadamy z Zigosem i dostajemy nagrodę
 - Przyjmujemy pierścień od Fellangora zawalając zadanie Zigosa (bardzo opłacalne tylko jeżeli nie umiemy wytwarzać własnej biżuterii)
 
 Jeśli zabiliśmy Fellangora to dostajemy od Zigosa amulet pozwalający zmieniać formę. Idziemy na Etlu, nie zbliżamy się do obozu paladynów i kradniemy rybakowi jego wygląd. Następnie idziemy do obozu paladynów i próbujemy ukraść szkatułkę. Paladyni raczej i tak nas zaatakują i bardzo ciężko będzie ujść z życiem. Zdecydowanie lepszą opcją jest skorzystanie z mikstury niewidzialności.
@@ -232,10 +232,10 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
 4.  Po dołączeniu do Gildii, zabiciu Dextera i złożeniu ornamentu gadamy z Hagenem, zaczyna się Rozdział 2.
 5.  Hagen da nam klucz jak zrobimy dla niego zadanie Tajemnica portalu. Mówiąc prościej musimy zrobić wątek główny w Jarkendarze aż do walki z Krukiem w świątyni Adanosa. Po walce z Krukiem i rozmowie z Saturasem wracamy do Hagena a ten daje nam klucz na przełęcz.
 6.  Po dostaniu klucza Hagen każe nam przynieść z Górniczej Doliny dowód na istnienie smoków.
-7.  Udajemy się do GD, do Garonda, który zleca nam sprawdzenie postępów w wydobyciu rudy w okolicznych kopalniach. Odwiedzamy trzy kopalnie:\
-    - Marcosa obok Starej Kopalni, natomiast sam Marcos przebywa obok chaty Cavalorna\
-    - Fajetha znajduje się na ziemiach orków, obok jeziora przy starej wieży Xardasa\
-    - Silvestra, wszystkich zabiły pełzacze, musimy odnaleźć Diego i z nim pogadać.\
+7.  Udajemy się do GD, do Garonda, który zleca nam sprawdzenie postępów w wydobyciu rudy w okolicznych kopalniach. Odwiedzamy trzy kopalnie:
+    - Marcosa obok Starej Kopalni, natomiast sam Marcos przebywa obok chaty Cavalorna
+    - Fajetha znajduje się na ziemiach orków, obok jeziora przy starej wieży Xardasa
+    - Silvestra, wszystkich zabiły pełzacze, musimy odnaleźć Diego i z nim pogadać.
 
     Po odwiedzeniu wszystkich kopalni wracamy do Garonda i zdajemy mu relacje co się dzieje z rudą, wtedy dostajemy upragniony dowód.
 8.  Wracamy do Khorinis zaczyna się 3 rozdział, gadamy z poszukiwaczem na przełęczy, po czym go zabijamy, gadamy z Lesterem, który mówi nam byśmy jak najszybciej udali się do Xardasa. Gadamy z Xardasem, potem z Hagenem i oddajemy mu dowód. Ten wysyła nas do Klasztoru po oko Innosa, gadamy z Pyrokarem i okazuje się, że oko zostało skradzione przez jednego z nowicjuszy Pedra.
@@ -250,11 +250,11 @@ Xardas zleca nam zdobycie oka Innosa, w tym celu musimy się udać do miasta i r
 
 14. Pyrokar zleca nam zabicie smoków w GD (Rozpoczyna się Rozdział 4)
 
-15. Wracamy do GD i zabijamy smoki:\
-    - Bagienny Smok w Starym Obozie Bractwa\
-    - Ognisty Smok w miejscu starego kanionu trolli\
-    - Kamienny Smok nad Kamienną Fortecą\
-    - Lodowy Smok w ruinach Nowego Obozu\
+15. Wracamy do GD i zabijamy smoki:
+    - Bagienny Smok w Starym Obozie Bractwa
+    - Ognisty Smok w miejscu starego kanionu trolli
+    - Kamienny Smok nad Kamienną Fortecą
+    - Lodowy Smok w ruinach Nowego Obozu
 
     Od smoków dowiadujemy się, że mają swojego pana na dworze Irdorath.\
     Wracamy do Garonda mówimy mu, że smoki są martwe, po czym udajemy się do Pyrokara.

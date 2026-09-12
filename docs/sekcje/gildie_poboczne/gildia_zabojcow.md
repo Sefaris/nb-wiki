@@ -60,7 +60,7 @@ Wyzywamy Asmala na pojedynek, po którym go zabijamy i zwracamy się do Charlott
 ## Lisia nora {#lisia-nora}
 __Zleca: Charlotte__
 
-Po zabiciu Asmala, Charlotte poprosi nas o znalezienie dobrego miejsca dla zabójców. Będzie to Gorzelnia Vino, która znajduje się przy kamiennym kręgu w Mrocznym Lesie. Do otwarcia jej potrzebujemy łoju kretoszczura, który kupimy od Martina lub znajdziemy na Esmeraldzie. Gdy już zabójcy się tam przeniosą, to będziemy mogli odbierać od nich cotygodniową zapłatę.\
+Po zabiciu Asmala, Charlotte poprosi nas o znalezienie dobrego miejsca dla zabójców. Będzie to Gorzelnia Vino, która znajduje się przy kamiennym kręgu w Mrocznym Lesie. Do otwarcia jej potrzebujemy łoju kretoszczura, który kupimy od Martina lub znajdziemy na Esmeraldzie. Gdy już zabójcy się tam przeniosą, to będziemy mogli odbierać od nich cotygodniową zapłatę.
 
 ## Umowa z Nigelem {#umowa-z-nigelem}
 __Zleca: Nigel__

@@ -76,7 +76,7 @@ Babo prosi nas, abyśmy udali się do Paladyna Sergio i poprosili go, aby naucza
 
 Po ofiarowaniu Daronowi co najmniej 500 sztuk złota zleca on nam zaniesienie złota do klasztoru. Lepiej iść pieszo, jako że pojawiają się bandyci, za których otrzymamy dodatkową nagrodę. Złoto oddajemy Goraxowi, a zadanie się kończy.
 
-## Po zrobieniu większości z tych zadań dostajemy klucz do biblioteki od Parlana. {#po-zrobieniu-wiekszosci-z-tych-zadan-dostajemy-klucz-do-biblioteki-od-parlana}
+Po zrobieniu większości z tych zadań dostajemy klucz do biblioteki od Parlana.
 
 ## Próba ognia {#proba-ognia}
 
@@ -96,19 +96,19 @@ Ulthar prosi nas o stworzenie runy ognistej strzały. Idziemy w tym celu do Hygl
 
 ## Zadania jako Mag ognia {#zadania-jako-mag-ognia}
 
-## Po zostaniu magiem ognia będziemy mogli spełnić jedną z 3 próśb: {#po-zostaniu-magiem-ognia-bedziemy-mogli-spelnic-jedna-z-3-prosb}
+Po zostaniu magiem ognia będziemy mogli spełnić jedną z 3 próśb:
 
 - Babo i ogród - Babo chce być ogrodnikiem, a nie zamiatać komnaty.
 - Zbrodnia Dyriana - Nowicjusz prosi o drugą szansę, chce zostać w klasztorze.
 - Opolos i biblioteka - Opolos chce uzyskać dostęp do klasztornej biblioteki.
 
-## Szansa dla Igaraza {#szansa-dla-igaraza}
+### Szansa dla Igaraza {#szansa-dla-igaraza}
 
 UWAGA: Zadanie jest dostępne tylko jeśli nie zabiliśmy Igaraza w trakcie [Ścieżka wiernych](/gildie-glowne/mag-ognia/#sciezka-wiernych).
 
 Igaraz prosi, byśmy wstawili się za nim u Pyrokara. Pyrokar zgadza się dać mu drugą szansę, jeśli wykonamy zadanie dla Talamona i zdobędziemy serce demona. Igaraz nie jest z tego zadowolony, więc robimy to za niego. Musimy mieć wyuczone pozyskiwanie serc, którego uczy Grom. Najprościej zabijać króliki, aż pojawi się demon boss. Serce zanosimy do Talamona, wracamy do Igaraza, a ten zostaje magiem i handlarzem. W nagrodę możemy wybrać runę snu lub eliksir ducha (+4 mana).
 
-## Opowieści dla Karrasa {#opowiesci-dla-karrasa}
+### Opowieści dla Karrasa {#opowiesci-dla-karrasa}
 
 > Jeśli nie należymy do magów ognia, to księgi oddajemy Gallahadowi, a zwój sprzedajemy.
 
@@ -116,21 +116,21 @@ Karras prosi nas o znalezienie 5 tomów starożytnych opowieści i zwoju:
 - Tom 1 na szczycie latarni Jacka
 - Tom 2 w skrzyni na szczycie zniszczonej wieży obok Niclasa (przy rannym orku)
 - Tom 3 w jaskini z ogrem, w kotlinie na prawo od wschodniej bramy miasta
-- Tom 4 w skrzyni w małej piramidzie na wykopaliskach magów wody.\
+- Tom 4 w skrzyni w małej piramidzie na wykopaliskach magów wody.
 - Tom 5 w lewej odnodze jaskini z Próby Ognia
 - Zwój do otwarcia ksiąg znajduje się na schodkach krypty przy Farmie Onara\
 Zanosimy księgi Karrasowi i zadanie się kończy.
 
 > Warto najpierw oddać je Gallahadowi dla 5 many, a następnie odkupić w handlu i dopiero wtedy oddać Karrasowi.
 
-## Zbezczeszczone kapliczki (Rozdział 3) {#zbezczeszczone-kapliczki-rozdzial-3}
+### Zbezczeszczone kapliczki (Rozdział 3) {#zbezczeszczone-kapliczki-rozdzial-3}
 
 Ulthar zleca nam oczyszczenie kapliczek Innosa. Nie wszystkie kapliczki są zbezczeszczone, więc warto kupić ich mapę od Brahima i się nią posłużyć. Kiedy dostaniemy odpowiedni wpis w dzienniku, wracamy do Ulthara po nagrodę.
 
-## Poszukiwacze (3 Rozdział) {#poszukiwacze-3-rozdzial}
+### Poszukiwacze (3 Rozdział) {#poszukiwacze-3-rozdzial}
 
 W trzecim rozdziale gdy damy Pyrokarowi Almanach Opętanych (leży on obok kamiennego kręgu przy farmie Lobarta) otrzymamy od niego zadanie. Musimy odnaleźć wszystkie almanachy. Arcymag da nam listę osób opętanych i każe nam sprowadzić ich do klasztoru. Teraz idziemy do Karrasa i pytamy się, czy ma coś, co pomogłoby nam w walce z poszukiwaczami. Pokazujemy mu almanach i otrzymamy od niego amulet chroniący przed opętaniem.\
-Lista opętanych:\
+Lista opętanych:
 1. Fernando jest zamknięty w lochach Khorinis w koszarach
 2. Vino niedaleko kamiennego kręgu na Farmie Lobarta
 3. Malak po ucieczce z farmy Bengara siedzi w wąwozie w górach niedaleko Dextera

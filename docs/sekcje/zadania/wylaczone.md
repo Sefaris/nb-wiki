@@ -750,8 +750,8 @@ Mamy teraz dwie opcje:
 2. Uwalniamy paladynów w sposób pokojowy. Zakładamy Ulu-mulu i idziemy do zamku, gdzie gadamy z Garondem, który znajduje się w więzieniu.Następnie gadamy z Ur-Shakiem, który znajduje się w świątyni Magów Ognia. Ur-Shak powie nam, że przywódca Hag-Tar chce obalić Ur-Thralla. Idziemy do przywódcy zamku i teraz mamy trzy opcje. W zależności od naszego wyboru, wykonujemy zadania:
 
 - Zlecenie Hag-Tara
-- Śmiertelny pojedynek\
-- Przywódca orków\
+- Śmiertelny pojedynek
+- Przywódca orków
 
 W każdym razie, po wybraniu jednego ze sposobów Hag-Tar zgadza się na uwolnienie paladynów, więc zabieramy Garonda i innych na przełęcz (polecam otworzyć sobie bramę, bo wydostanie paladynów przez taran jest upierdliwe). Odprowadzamy Garonda do Nathana, po czym zabijamy grupkę orków obok przejścia do Khorinis. Teraz przenosimy się do Khorinis i idziemy do bramy na przełęczy, gdzie napotkamy paladynów walczących z orkami, którym oczywiście pomagamy.
 
@@ -792,9 +792,9 @@ Zadanie otrzymujemy od Nathana. Po wykonaniu zadania "Ocalali" będąc już w Kh
 ### Śniący {#sniacy}
 
 Zadanie pojawia się w dzienniku po rozmowie z Nekromantą w Świątyni Śniącego.\
-Kiedy pytamy Netbeka o potężnych patronów orków powie on nam, że cały obóz cierpi na bóle głowy. Idziemy teraz do Świątyni Śniącego, przebijamy się przez nowych wrogów do leża, gdzie okazuje się, że Śniący powrócił. Zostaniemy uśpieni, więc czekamy aż Bezi wstanie, po czym uciekamy ze świątyni. Idziemy do Netbeka, a ten wysyła nas do Kreola. Kreol w zamian za pomoc w walce żąda serca Śniącego, więc się na to zgadzamy. Kreol stworzy dla nas runę przyzwania Eligora, ale potrzebujemy do tego ofiary. Musimy dać jeden z trzech artefaktów:\
-- Oko Innosa (jeśli nie jesteśmy Magiem Ognia albo Paladynem)\
-- Koronę Adanosa (jeśli nie jesteśmy Magiem Wody)\
+Kiedy pytamy Netbeka o potężnych patronów orków powie on nam, że cały obóz cierpi na bóle głowy. Idziemy teraz do Świątyni Śniącego, przebijamy się przez nowych wrogów do leża, gdzie okazuje się, że Śniący powrócił. Zostaniemy uśpieni, więc czekamy aż Bezi wstanie, po czym uciekamy ze świątyni. Idziemy do Netbeka, a ten wysyła nas do Kreola. Kreol w zamian za pomoc w walce żąda serca Śniącego, więc się na to zgadzamy. Kreol stworzy dla nas runę przyzwania Eligora, ale potrzebujemy do tego ofiary. Musimy dać jeden z trzech artefaktów:
+- Oko Innosa (jeśli nie jesteśmy Magiem Ognia albo Paladynem)
+- Koronę Adanosa (jeśli nie jesteśmy Magiem Wody)
 - Maskę Śniącego
 
 Czekamy dzień i Kreol daje nam runę wezwania Eligora. Idziemy teraz do pentagramu w starej wieży Xardasa i wzywamy Eligora. Demon da nam koronę demonów w zamian za połowę naszych punktów życia. Zgadzamy się, zakładamy koronę i ruszamy do walki ze Śniącym. Walka z nim jest prosta, jako że z takim ekwipunkiem nie wyrządza on nam większych szkód. Po zabiciu demona idziemy do Netbeka, a potem do Kreola.

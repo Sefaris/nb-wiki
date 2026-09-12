@@ -6,9 +6,9 @@ slug: /gildie-poboczne/gildia-mysliwych/
 
 ## Droga do obozu myśliwych {#droga-do-obozu-mysliwych}
 
-Żeby dołączyć do myśliwych, trzeba udać się do ich obozu (Obóz znajduje się obok schodów do farmy Bangara) i zagadać z Falkiem. Zleci on nam przyniesienie 3 skór cieniostwora. Sposoby zdobycia:\
-- W namiocie obok wilków Pepe na farmie Onara\
-- Przy bandytach w jaskini obok farmy Akila\
+Żeby dołączyć do myśliwych, trzeba udać się do ich obozu (Obóz znajduje się obok schodów do farmy Bangara) i zagadać z Falkiem. Zleci on nam przyniesienie 3 skór cieniostwora. Sposoby zdobycia:
+- W namiocie obok wilków Pepe na farmie Onara
+- Przy bandytach w jaskini obok farmy Akila
 - W namiocie bandytów za farmą Sekoba
 - Bosper sprzedaje 1 sztukę
 - Na polowaniu z Bartokiem, jeśli potrafimy skórować (Bartok nie poluje na pzm. nightmare)
@@ -120,18 +120,18 @@ W tym celu udajemy się do Jarkendaru, gdzie musimy zebrać 5 notatek:
 
 > Wszystkie przedmioty z notatkami są dostępne od razu do podniesienia, nie musimy więc zbierać ich w kolejności, istotne jest przeczytanie wszystkich.
 
-1. Przy obozie piratów, w jaskini z cieniostworem na północnej plaży. Otwieramy pustą butelkę po rumie i czytamy notatkę.\
-2. Przy ognisku obok jeziora, gdzie schodziliśmy w dół z Jackiem Aligatorem. Znajdujemy tam dziwną rybę i wyjmujemy z niej notatkę, którą oczywiście czytamy.\
-3. Na skałce nad małym jeziorkiem w głębi kanionu obok biblioteki. Znajdziemy na niej butelkę, w której jest notatka prowadząca nas dalej.\
-4. Idąc kawałek prosto przed siebie po polowaniu na błotne węże z Loganem w pobliżu schodów prowadzących do jaskini łączącej bagno z kanionem. Znajdziemy tam obozowisko, przy którym będzie notatka.\
+1. Przy obozie piratów, w jaskini z cieniostworem na północnej plaży. Otwieramy pustą butelkę po rumie i czytamy notatkę.
+2. Przy ognisku obok jeziora, gdzie schodziliśmy w dół z Jackiem Aligatorem. Znajdujemy tam dziwną rybę i wyjmujemy z niej notatkę, którą oczywiście czytamy.
+3. Na skałce nad małym jeziorkiem w głębi kanionu obok biblioteki. Znajdziemy na niej butelkę, w której jest notatka prowadząca nas dalej.
+4. Idąc kawałek prosto przed siebie po polowaniu na błotne węże z Loganem w pobliżu schodów prowadzących do jaskini łączącej bagno z kanionem. Znajdziemy tam obozowisko, przy którym będzie notatka.
 5. Na bagnach, przy obozowisku niedaleko jaskini Juana. Wychodząc z obozu bandytów, trzymaj się lewej ściany
 
 Teraz musimy znaleźć samicę polnego pełzacza. Znajduję się ona w okolicy domu uzdrowicieli na bagnie. Zabijamy ją, zabieramy z ciała amulet Bena i zanosimy go Falkowi.
 
 ## Polowanie na rzadkie stwory (Rozdział 2) {#polowanie-na-rzadkie-stwory-rozdzial-2}
 
-Falk zleca nam zabicie 3 unikatowych przeciwników.\
-- Mroczny zębacz znajduje się obok kamienia teleportacyjnego w lesie na północy (niedaleko kamiennego kręgu)\
+Falk zleca nam zabicie 3 unikatowych przeciwników.
+- Mroczny zębacz znajduje się obok kamienia teleportacyjnego w lesie na północy (niedaleko kamiennego kręgu)
 - Polna Bestia znajduje się obok farmy Akila, tam gdzie jest pełno zwykłych polnych bestii. Po jej zabiciu idź od razu pogadać z Akilem.
 - Smoczy zębacz znajduje się na lewo wychodząc ze wschodniej bramy Khorinis.
 
@@ -141,8 +141,8 @@ Po zabiciu wszystkich trzech potworów wracamy do Falka.
 
 Po wykonaniu zadania z polowania na rzadkie potwory Falk daje nam nowe zadanie, mamy zabić trzech kolejnych unikatowych wrogów:
 
-- Kolcogrzbiet na kamiennej plaży, którą znajdziemy płynąc wpław przy wybrzeżu w stronę Skipa\
-- Pełzacz w jaskini przy schodach pod Słonecznym Kręgiem\
+- Kolcogrzbiet na kamiennej plaży, którą znajdziemy płynąc wpław przy wybrzeżu w stronę Skipa
+- Pełzacz w jaskini przy schodach pod Słonecznym Kręgiem
 - Ogr w jaskini obok farmy Onara
 
 Po zabiciu wszystkich potworów wracamy do Falka.
@@ -172,7 +172,7 @@ Alfred prosi nas o przyniesienie rogu smoczego zębacza, który najszybciej zdob
 
 Po zostaniu mistrzem myśliwych, Falk zleca nam znalezienie nowych ludzi do obozu.\
 Są nimi:
-- Bartok, który dołączy po zrobieniu zadania z Trokarem.\
+- Bartok, który dołączy po zrobieniu zadania z Trokarem.
 - Gestath, który zgodzi się od razu.
 
 ## Szczęście łowcy (Rozdział 3) {#szczescie-lowcy-rozdzial-3}

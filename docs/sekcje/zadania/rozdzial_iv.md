@@ -31,8 +31,8 @@ Zadanie dostępne jeżeli wykonaliśmy zadanie [Asystent Neorasa](/solucja/rozdz
 
 Czytamy księgę, którą dał nam Ragnar po wykonaniu zadania Próba Ragnara. Książka mówi o różdżce zdolnej przyzwać smoka i o miejscu zwanym Amon Shen (chodzi o wieżę gdzie znajduje się Mroczny Golem i Necronomicon). Idziemy tam i zabieramy notatkę ze stołu i wyczytujemy z niej tylko imię Kreol. Wiadomo o kogo chodzi idziemy do Kreola i teraz mamy zebrać 4 kawałki różdżki. Są one w posiadaniu następujących bossów:
 
-- Nekromanta w Świątyni śniącego\
-- Cor Kalom w wątku lasu asasynów\
+- Nekromanta w Świątyni śniącego
+- Cor Kalom w wątku lasu asasynów
 - Pan Cieni Inubis (dostęp w 5 rozdziale)
 
 Czwarty odłamek dostaniemy od Kreola, po zebraniu trzech pozostałych.
@@ -110,11 +110,11 @@ Wracamy do Garonda z wieściami.
 
 ### Polowanie na smoki {#polowanie-na-smoki}
 
-Jest to zadanie główne, które zaczyna się w rozmowie z Pyrokarem po naprawieniu Oka Innosa. Gadamy z Garondem i idziemy zabijać cztery smoki. Możemy pogadać też z Orikiem.\
-- Pandrodor Bagienny smok na bagnach obok Starego Obozu Bractwa\
-- Feomathar Ognisty smok znajduje się w wulkanie w miejscu dawnego kanionu trolli.\
-- Pedrakhan kamienny smok znajduje się w Kamiennej Fortecy.\
-- Finkregh lodowy smok znajduje się w ruinach Nowego Obozu.\
+Jest to zadanie główne, które zaczyna się w rozmowie z Pyrokarem po naprawieniu Oka Innosa. Gadamy z Garondem i idziemy zabijać cztery smoki. Możemy pogadać też z Orikiem.
+- Pandrodor Bagienny smok na bagnach obok Starego Obozu Bractwa
+- Feomathar Ognisty smok znajduje się w wulkanie w miejscu dawnego kanionu trolli.
+- Pedrakhan kamienny smok znajduje się w Kamiennej Fortecy.
+- Finkregh lodowy smok znajduje się w ruinach Nowego Obozu.
 
 Po zabiciu każdego ze smoków wracamy do Garonda i ładujemy Oko Innosa przy stole alchemicznym. Zadanie się kończy po zabiciu wszystkich smoków.
 

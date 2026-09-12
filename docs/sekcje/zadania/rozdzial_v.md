@@ -30,7 +30,7 @@ Na drodze z tawerny Orlana do jaskini Sagitty spotkamy Rosi. Powie nam, że już
 Mamy trzy osoby, które mogą zostać kapitanem Esmeraldy:
 
 - Jorgen - Pyrokar zgodzi się puścić Jorgena jeśli zabijemy nieumarłych w wieży Xardasa.
-- Jack - zgodzi się jak znajdziemy kogoś do pilnowania jego latarni, będzie to Brian czeladnik Harada\
+- Jack - zgodzi się jak znajdziemy kogoś do pilnowania jego latarni, będzie to Brian czeladnik Harada
 - Torlof - zgodzi się jeśli wpuścimy orków do zamku w Górniczej Dolinie, a potem zapłacimy 2000 złota. (Opłacalne tylko dla gildii Beliara)
 
 ## Powrót do wieży {#powrot-do-wiezy}
