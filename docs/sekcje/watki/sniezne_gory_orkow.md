@@ -13,7 +13,8 @@ Wejście znajduje się w Wolnej Kopalni, nad miejscem gdzie w G1 był ork Tarrok
 ## Mapa śnieżnych gór: {#mapa-snieznych-gor}
 
 ![Lodowe](../konfiguracja/fotki/lodowe.png)
-:::info Informacja
+
+:::tip Wskazówka
 
 Warto na początku udać się do punktu 2 i pogadać z najemnikiem Adelhardem (tam też znajdziemy mapę), a następnie do punktu 5 i aktywować jedyny kamień teleportacyjny oraz pogadać z szamanem na wzniesieniu niedaleko. Polecam unikać orków dopóki nie dogadamy się z szamanem, jako że nie respektują oni symboli przyjaźni od orków z Górniczej Doliny.
 
@@ -22,7 +23,12 @@ Warto na początku udać się do punktu 2 i pogadać z najemnikiem Adelhardem (t
 ## Chata Oddlera {#chata-oddlera}
 
 Na szczycie jednej z gór **(punkt 10 na mapie)** znajdziemy Oddlera niewidomego maga woda. Buduje on chatę ale brakuje mu narzędzi kilofów, młotków i pił. Narzędzia pewnie już mamy oddajemy, koniec zadania.
-> Nagrodą jest zwój zmniejszenia potwora, dzięki któremu możemy spokojnie pokonać białego trolla już w 2 rozdziale i korzystać z jego [trofeum](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=205411919#gid=205411919&range=A12:B12) oraz [kaptura berserkera](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=104620460#gid=104620460&range=A57).
+
+:::tip Wskazówka
+
+Nagrodą jest zwój zmniejszenia potwora, dzięki któremu możemy spokojnie pokonać białego trolla już w 2 rozdziale i korzystać z jego [trofeum](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=205411919#gid=205411919&range=A12:B12) oraz [kaptura berserkera](https://docs.google.com/spreadsheets/d/16CPrngIhKSiwGtmHGXCJE5o_w-4k_s_nNq7H7wzVwos/edit?gid=104620460#gid=104620460&range=A57).
+
+:::
 
 ## Trofeum dla Groom Locka {#trofeum-dla-groom-locka}
 

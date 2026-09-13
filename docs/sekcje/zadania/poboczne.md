@@ -4,7 +4,11 @@ description: "Solucja do Gothic II: New Balance — Zadania poboczne - dostępne
 slug: /solucja/poboczne/
 ---
 
-> Poniższe zadania są teoretycznie dostępne od 1 rozdziału, lecz część z nich możliwa do ukończenia staje się dużo później ze względu na poziom trudności i dostęp do określonych lokacji.
+:::info Informacja
+
+Poniższe zadania są teoretycznie dostępne od 1 rozdziału, lecz część z nich możliwa do ukończenia staje się dużo później ze względu na poziom trudności i dostęp do określonych lokacji.
+
+:::
 
 ## Kamienie runiczne {#kamienie-runiczne}
 __Zleca: Podejście do kamienia teleportacyjnego koło wieży Xardasa__
@@ -15,7 +19,12 @@ Runiczne płytki można znaleźć rozrzucone po świecie gry, a także u niektó
 Zadanie kończy się po odblokowaniu pierwszego kamienia i ponownej rozmowie z Xardasem.
 
 ## Rytuał magicznej wymiany {#rytual-magicznej-wymiany}
-> Zadanie nie pojawia się w dzienniku
+
+:::info Informacja
+
+Zadanie nie pojawia się w dzienniku
+
+:::
 
 Na dachu wieży Xardasa (musimy wejść na sam szczyt wieży i wyjść przez okno) znajduje się miejsce rytuału, notatka opisująca jego przebieg oraz wszystkie potrzebne przedmioty.
 1. Czytamy notatkę
@@ -41,9 +50,14 @@ Zadanie dostaniemy po zebraniu i przeczytaniu notatek z tablicy ogłoszeń w kos
 ## Ekspedycja Magów Ognia {#ekspedycja-magow-ognia}
 __Zleca: Pulpit w piwnicy klasztoru__
 
-> Wykonanie tego zadania jest wymagane do ukończenia: [Bezgraniczna potęga](/solucja/poboczne/#bezgraniczna-potega).
+:::info Informacja
 
-> Można je zrobić nawet w 2 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
+Wykonanie tego zadania jest wymagane do ukończenia: [Bezgraniczna potęga](/solucja/poboczne/#bezgraniczna-potega).
+
+
+Można je zrobić nawet w 2 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
+
+:::
 
 Czytając pulpit w piwnicy klasztoru Magów Ognia w pomieszczeniu z Talomonem, dostaniemy wpis do dziennika. Udajemy się teraz do Pyrokara, a następnie do Xardasa, który każe nam przynieść jego zapiski z piętra wieży. Czytamy dziennik i oddajemy go Xardasowi.
 
@@ -68,16 +82,30 @@ Po naładowaniu pojawia się nam nowy wpis i mamy gotową runę na golema. Znajd
 ## Kryształy duszy {#krysztaly-duszy}
 
 Zadanie zleca Xardas jak przyniesiemy mu jeden kryształ duszy. Wypadają one z Mrocznych Strażników, których znajdziemy min. na Pustyni Adanosa i w kopalniach ze sferami. Oddajemy kryształy i dostajemy specjalną miksturę podnoszącą statystyki.
-> Od tej pory możemy oddawać kryształy przy kaplicy Beliara za 5hp każdy.
+
+:::info Informacja
+
+Od tej pory możemy oddawać kryształy przy kaplicy Beliara za 5hp każdy.
+
+:::
 
 ## Bezgraniczna potęga {#bezgraniczna-potega}
 __Zleca: Hokurn__
 
-> Zadanie powiązane z [Ekspedycja Magów Ognia](/solucja/poboczne/#ekspedycja-magow-ognia).
+:::info Informacja
 
-> Można je zrobić nawet w 3 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
+Zadanie powiązane z [Ekspedycja Magów Ognia](/solucja/poboczne/#ekspedycja-magow-ognia).
 
-> Zadanie trzeba rozpocząć przed 4 rozdziałem, jako że później Hokurn zostaje łowcą smoków.
+
+Można je zrobić nawet w 3 rozdziale, lecz domyślnie jest ono przewidziane na 4-5 rozdział.
+
+:::
+
+:::warning Uwaga
+
+Zadanie trzeba rozpocząć przed 4 rozdziałem, jako że później Hokurn zostaje łowcą smoków.
+
+:::
 
 Na farmie Onara spotykamy najemnika Hokurna, który mówi nam o magicznym artefakcie mającym nieograniczoną moc. Historię tą usłyszał od więźnia w Górniczej Dolinie, jednego z nowicjuszy w sekcie na bagnie. Idąc tym tropem kierujemy się do nowego obozu bractwa w Khorinis, gdzie spotykamy Baala Yunikorna, któremu oferujemy skręty (musimy mieć je w ekwipunku).
 
@@ -104,13 +132,23 @@ Klikamy w przycisk z przodu ołtarza przed Januszem i przechodzimy przez bramę.
   - Rozdział 6 lub wyższy: **+300 zdrowia**
 
 Automatycznie po wyborze, przenosi nas w miejsce gdzie stał Janusz, pokonany przez kapłankę Beliara. Po krótkiej rozmowie dochodzi do walki, zabijamy ją, a zadanie się kończy.
-> Kapłanka dropi najlepszą szablę w grze.
+
+:::info Informacja
+
+Kapłanka dropi najlepszą szablę w grze.
+
+:::
 
 ## Świątynia Śniącego {#swiatynia-sniacego}
 __Zleca: Xardas__
 
 Zadanie zlecone na początku gry, można je wykonać dopiero w trakcie [wątku z orkami](/watki/orkowie/). By uzyskać dostęp do świątyni musimy zabić demona w starym obozie bractwa na bagnach oraz demona w kopalni orków. Udajemy się do leża Śniącego, zabijamy nekromantę i odzyskujemy Uriziela. Udajemy się teraz do Xardasa, u którego możemy zadecydować o losie Uriziela i Maski Śniącego.
-> Jeżeli zrobiliśmy to zadanie w 5 rozdziale to idziemy do Kreola.
+
+:::info Informacja
+
+Jeżeli zrobiliśmy to zadanie w 5 rozdziale to idziemy do Kreola.
+
+:::
 
 ## Szpon Beliara {#szpon-beliara}
 
@@ -144,10 +182,20 @@ Zadanie jest trochę pogmatwane. Jeżeli nie wiesz na co się zdecydować to naj
 ### Mora Ulartu {#mora-ulartu}
 
 Udajemy się do Xardasa i pytamy o runę. Ten mówi nam, że Beliar dam nam runę w zamian za inny artefakt - amulet Triamar. Idziemy teraz do portu, a przed posągiem paladyna w porcie powinien pojawić się paladyn Melchior. Szantażujemy go, a ten wyjawia nam, że amulet znajduje się na wyspie Etlu, a klucz ma sam Hagen. Okradamy Hagena lub odkupujemy klucz od ogrodnika. Idziemy teraz do Xardasa i mówimy o wszystkim. Teraz możemy udać się na Etlu i zabrać amulet w sposób pokojowy lub zabić wszystkich paladynów. Wejście do Etlu znajduje się w jaskini przy zbieraczach ziela niedaleko czarnego trolla.
-> Zabicie paladynów jest bardziej opłacalną opcją, jeżeli jednak nie chcemy tego robić to polecam zaopatrzyć się w miksturę niewidzialności.
+
+:::tip Wskazówka
+
+Zabicie paladynów jest bardziej opłacalną opcją, jeżeli jednak nie chcemy tego robić to polecam zaopatrzyć się w miksturę niewidzialności.
+
+:::
 
 Jeśli chcemy uzyskać amulet w "pokojowy" sposób to Xardas powie nam, aby zwrócić się o pomoc do Beliara (Nie może tego zrobić Paladyn ani Mag Ognia). Przed modlitwą zapisz grę.
-> Jeżeli nie zniszczyłeś szponu, ani go jeszcze nie posiadłeś za karmę to pamiętaj by wyrzucić go z ekwipunku przed modlitwą o pomoc.
+
+:::warning Uwaga
+
+Jeżeli nie zniszczyłeś szponu, ani go jeszcze nie posiadłeś za karmę to pamiętaj by wyrzucić go z ekwipunku przed modlitwą o pomoc.
+
+:::
 
 Pojawia się Zigos, który po krótkiej rozmowie zgadza się na pomóc, jeśli zabijemy szalonego Fellangora, który kiedyś był sługą Beliara. Fellangor potrafi przybierać formę innych ludzi, dlatego dostajemy od Zigosa amulet, który zakładamy przed każdą rozmową z Fellangorem.
 

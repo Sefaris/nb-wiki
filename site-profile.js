@@ -4,6 +4,7 @@ module.exports = {
   description: "Solucja do Gothic II: New Balance. Rozbudowane wątki Returningu, nowe gildie, lokacje i umiejętności. Zadania, wybory, mapy i konfiguracja gry.",
   // Galeria: https://sefaris.eu/new-balance
   // https://api.sefaris.eu/Public/File/2352aca8-6c10-4167-8958-dbddeca11eff
+  heroDescription: "Świat Nocy Kruka zyskuje nowe historie, gildie i umiejętności, otwierając kolejne ścieżki rozwoju Bezimiennego.",
   heroImage: '/img/nb-background.webp',
   url: 'https://nb.mody.sefaris.eu',
   modUrl: 'https://sefaris.eu/new-balance',

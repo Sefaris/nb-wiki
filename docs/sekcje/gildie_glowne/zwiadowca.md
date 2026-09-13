@@ -4,30 +4,39 @@ description: "Solucja do Gothic II: New Balance — Zwiadowca. Dołączenie do g
 slug: /gildie-glowne/zwiadowca/
 ---
 
-> **Kolejność wykonywania zadań:**
->
-> 1. [Dłużnik Gunnara](/gildie-glowne/zwiadowca/#dluznik-gunnara)
-> 2. [Liczenie owiec](/gildie-glowne/zwiadowca/#liczenie-owiec)
-> 3. [Dołączenie do zwiadowców](/gildie-glowne/zwiadowca/#dolaczenie-do-zwiadowcow)
-> 4. [Infiltracja gildii złodziei](/gildie-glowne/zwiadowca/#infiltracja-gildii-zlodziei)
-> 5. [Tajemnica starej wieży](/gildie-glowne/zwiadowca/#tajemnica-starej-wiezy)
-> 6. [Stare ruiny](/gildie-glowne/zwiadowca/#stare-ruiny)
-> 7. [Sztandar Ognia (Rozdział 2)](/gildie-glowne/zwiadowca/#sztandar-ognia-rozdzial-2)
-> 8. [Orkowa galera (Rozdział 3)](/gildie-glowne/zwiadowca/#orkowa-galera-rozdzial-3)
-> 9. [W pogoni za mrokiem (Rozdział 3)](/gildie-glowne/zwiadowca/#w-pogoni-za-mrokiem-rozdzial-3)
-> 10. [Skarb Rączki](/gildie-glowne/zwiadowca/#skarb-raczki)
-> 11. [Na tropie zdrady (Rozdział 4)](/gildie-glowne/zwiadowca/#na-tropie-zdrady-rozdzial-4)
+:::info Informacja
 
-> **Zadania dodatkowe:**
->
-> 1. [Likwidacja orkowych najemników (Rozdział 2)](/gildie-glowne/zwiadowca/#likwidacja-orkowych-najemnikow-rozdzial-2)
-> 2. [Sabotaż](/gildie-glowne/zwiadowca/#sabotaz-rozdzial-2)
+**Kolejność wykonywania zadań:**
+
+1. [Dłużnik Gunnara](/gildie-glowne/zwiadowca/#dluznik-gunnara)
+2. [Liczenie owiec](/gildie-glowne/zwiadowca/#liczenie-owiec)
+3. [Dołączenie do zwiadowców](/gildie-glowne/zwiadowca/#dolaczenie-do-zwiadowcow)
+4. [Infiltracja gildii złodziei](/gildie-glowne/zwiadowca/#infiltracja-gildii-zlodziei)
+5. [Tajemnica starej wieży](/gildie-glowne/zwiadowca/#tajemnica-starej-wiezy)
+6. [Stare ruiny](/gildie-glowne/zwiadowca/#stare-ruiny)
+7. [Sztandar Ognia (Rozdział 2)](/gildie-glowne/zwiadowca/#sztandar-ognia-rozdzial-2)
+8. [Orkowa galera (Rozdział 3)](/gildie-glowne/zwiadowca/#orkowa-galera-rozdzial-3)
+9. [W pogoni za mrokiem (Rozdział 3)](/gildie-glowne/zwiadowca/#w-pogoni-za-mrokiem-rozdzial-3)
+10. [Skarb Rączki](/gildie-glowne/zwiadowca/#skarb-raczki)
+11. [Na tropie zdrady (Rozdział 4)](/gildie-glowne/zwiadowca/#na-tropie-zdrady-rozdzial-4)
+
+
+**Zadania dodatkowe:**
+
+1. [Likwidacja orkowych najemników (Rozdział 2)](/gildie-glowne/zwiadowca/#likwidacja-orkowych-najemnikow-rozdzial-2)
+2. [Sabotaż](/gildie-glowne/zwiadowca/#sabotaz-rozdzial-2)
+
+:::
 
 ## Dłużnik Gunnara {#dluznik-gunnara}
 
 **Zleca: Gunnar**
 
-> Zadanie wprowadza nas do gildii Zwiadowców.
+:::info Informacja
+
+Zadanie wprowadza nas do gildii Zwiadowców.
+
+:::
 
 Gunnar prosi o odnalezienie człowieka, któremu pożyczył złoto. Ciało znajdujemy niedaleko Groma, na skałach pod wieżą Dextera.
 
@@ -79,7 +88,11 @@ Na statku paladynów szukamy księgi — znajduje się na stole alchemicznym. Wr
 
 **Zleca: Allen**
 
-> Aby rozpocząć to zadanie, musimy przejść przez portal do Jarkendaru i porozmawiać z Saturasem.
+:::info Informacja
+
+Aby rozpocząć to zadanie, musimy przejść przez portal do Jarkendaru i porozmawiać z Saturasem.
+
+:::
 
 Allen zleca odnalezienie Sztandaru Ognia. Wyruszamy na skały nad legowiskiem Czarnego Trolla. Na polanie z trollami znajduje się przejście do osobnej lokacji za jaskiniowym trollem.
 
@@ -97,7 +110,11 @@ Pozwalamy się zagadać, następnie usypiamy go zwojem Snu (tak, aby nie zauważ
 
 **Zleca: Allen**
 
-> Aby rozpocząć zadanie, musimy zdobyć Ulu-Mulu od orkowych najemników w Górniczej Dolinie.
+:::info Informacja
+
+Aby rozpocząć zadanie, musimy zdobyć Ulu-Mulu od orkowych najemników w Górniczej Dolinie.
+
+:::
 
 Allen zleca zabicie orkowych najemników w Górniczej Dolinie. Eliminujemy ich i wracamy do Allena.
 
@@ -105,7 +122,11 @@ Allen zleca zabicie orkowych najemników w Górniczej Dolinie. Eliminujemy ich i
 
 **Zleca: Allen**
 
-> Wymaga wcześniejszego dostarczenia Hagenowi wiadomości od Garonda.
+:::info Informacja
+
+Wymaga wcześniejszego dostarczenia Hagenowi wiadomości od Garonda.
+
+:::
 
 Allen wspomina o orkowej galerze w pobliżu Khorinis. Udajemy się do Przeklętej Latarni i korzystamy z lunety (tylko w dzień, między 5:00 a 18:40, przy dobrej pogodzie). Po cutscence idziemy na południowy brzeg wyspy (między miastem a wieżą Xardasa, obok jaskini bandytów Cavalorna). Pokonujemy orków i podpalamy ich statek. Wracamy do Allena.
 
@@ -113,7 +134,11 @@ Allen wspomina o orkowej galerze w pobliżu Khorinis. Udajemy się do Przeklęte
 
 **Zleca: Allen**
 
-> Zadanie dostępne po ukończeniu [Orkowej galery](/gildie-glowne/zwiadowca/#orkowa-galera-rozdzial-3).
+:::info Informacja
+
+Zadanie dostępne po ukończeniu [Orkowej galery](/gildie-glowne/zwiadowca/#orkowa-galera-rozdzial-3).
+
+:::
 
 Musimy dowiedzieć się, co stało się z Eugene i Nathanielem. Udajemy się do kamiennego kręgu koło farmy Lobarta — znajdujemy tam rannego Nathaniela.
 
@@ -138,7 +163,11 @@ Musimy zdobyć cztery złote klucze Rączki, aby otworzyć przejście w jego daw
 
 **Zleca: Allen**
 
-> Dostępne po zdobyciu wszystkich kluczy i otwarciu skarbca w zadaniu [Skarb Rączki](/gildie-glowne/zwiadowca/#skarb-raczki).
+:::info Informacja
+
+Dostępne po zdobyciu wszystkich kluczy i otwarciu skarbca w zadaniu [Skarb Rączki](/gildie-glowne/zwiadowca/#skarb-raczki).
+
+:::
 
 Allen informuje nas, że Nathaniel ukradł Róg Strachu i uciekł. Czytamy notatkę, rozmawiamy z Allenem, a następnie udajemy się do klasztoru porozmawiać z Pyrokarem.
 

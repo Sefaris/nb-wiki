@@ -8,13 +8,21 @@ slug: /gildie-glowne/straznikswiatynny-guru/
 
 Aby dołączyć do obozu Bractwa trzeba mieć opaskę nowicjusza (Leży obok Lestera w kotlince niedaleko wieży Xardasa), a potem zakończyć zadanie [Przesyłka dla Lariusa](/solucja/rozdzial-i/#przesylka-dla-lariusa). Wtedy możemy zostać nowicjuszem Bractwa.
 
-> Kiedy już zostaniemy Nowicjuszem bractwa, odblokują się nam zadania na zostanie Guru lub Strażnikiem Świątynnym.
+:::info Informacja
+
+Kiedy już zostaniemy Nowicjuszem bractwa, odblokują się nam zadania na zostanie Guru lub Strażnikiem Świątynnym.
+
+:::
 
 ## Ziele dla Baala Cadara {#ziele-dla-baala-cadara}
 
 Aby otrzymać to zadanie, musimy zagadać do Caina (znajduje się przed samym obozem), który da nam zebrane bagienne ziele, by je odnieść do Baal Cadara. Po oddaniu ziela, Baal Cadar każe nam przynieść ziele od pozostałych obozów zbieraczy ziela:
 
-> by otrzymać ziele od zbieraczy musimy mieć założone jakiekolwiek ubranie nowicjusza bractwa
+:::info Informacja
+
+by otrzymać ziele od zbieraczy musimy mieć założone jakiekolwiek ubranie nowicjusza bractwa
+
+:::
 
 - pierwsza grupa zbieraczy znajduje się obok kamiennego kręgu na farmie Lobarta
 - druga grupa rezyduje na wzgórzu za farmą Akila. Możemy iść tam z płaskowyżu nad jego farmą w kierunku lasu lub od strony słonecznego kręgu po schodach w dół.
@@ -83,7 +91,12 @@ Baal Cadar prosi nas o przyniesienie receptury Cor Kaloma, która znajduje się 
 ## Opętani (Rozdział 3) {#opetani-rozdzial-3}
 
 Baal Orun mówi nam, że nowicjusze skarżą się na bóle głowy i żebyśmy udali się do klasztoru. Idziemy do Pyrokara i kupujemy lekarstwo na opętanie w cenie 300 złota za sztukę, wracamy do Oruna i mówimy, że mamy lekarstwo, a ten każe rozdać je nowicjuszom. Musimy dać lekarstwo co najmniej 15 nowicjuszom, nastepnie wracamy do Oruna po nagrodę.
-> Jeżeli sami będziemy opętani to Pyrokar sprzeda nam 5 flaszek za łącznie 300 złota, możemy to wykorzystać by zmniejszyć ilość złota, które musimy wydać na nowicjuszy
+
+:::tip Wskazówka
+
+Jeżeli sami będziemy opętani to Pyrokar sprzeda nam 5 flaszek za łącznie 300 złota, możemy to wykorzystać by zmniejszyć ilość złota, które musimy wydać na nowicjuszy
+
+:::
 
 ## Dobre połączenia (Rozdział 5) {#dobre-polaczenia-rozdzial-5}
 

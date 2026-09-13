@@ -46,18 +46,27 @@ idziemy do Constantino, Sagitty i Zurisa. Okazuje się, że kaktusa nabył ostat
 
 Wracamy ze składnikami do Tyona i dostajemy miksturę, którą oddajemy Lokiemu. Teraz nowicjusz zaprowadzi nas do wejścia do Lasu Asasynów za obozem Bractwa. Musimy podejść do piedestału.
 
-> Można tepnąć się do obozu bractwa, a Loki będzie czekał już na nas za obozem.
+:::tip Wskazówka
+
+Można tepnąć się do obozu bractwa, a Loki będzie czekał już na nas za obozem.
+
+:::
 
 Wracamy do Namiba i dostajemy amulet, który kładziemy na piedestale obok wejścia, co otwiera przed nami wejście do Lasu.
 
 :::warning Uwaga
 
-UWAGA: Pod żadnym pozorem nie wchodźcie tam sami. Zdecydowanie warto zrobić też zapis przed lokacją, jako że nie da się z niej wyjść, dopóki nie skończymy jej wątku.
+Pod żadnym pozorem nie wchodźcie tam sami. Zdecydowanie warto zrobić też zapis przed lokacją, jako że nie da się z niej wyjść, dopóki nie skończymy jej wątku.
 
 :::
 
 Znowu gadamy z Namibem, a następnie idziemy do Gonzalesa i prowadzimy go do przejścia.
-> Można tepnąć się do obozu bractwa, a Gonzales będzie czekał już na nas za obozem.
+
+:::tip Wskazówka
+
+Można tepnąć się do obozu bractwa, a Gonzales będzie czekał już na nas za obozem.
+
+:::
 
 ## Wątek asasynów Masjaf Cz. 1 {#watek-asasynow-masjaf-cz-1}
 
@@ -100,7 +109,12 @@ Musimy przynieść Mariusowi 3 paczki z bronią, znajdują się one:
 ### Ciche przyzwolenie {#ciche-przyzwolenie}
 
 Po wykonaniu zadania z roślinami i listem dla Nrozasa, na ławce obok niego powinien pojawić się list. Czytamy go i okazuje się, że Osair da lepszych niewolników w zamian za skórę jaskiniowego trolla. Idziemy do kopalni siarki, a na samym dole powinien pojawić się czarny troll jaskiniowy. Zabijamy go, a skórę oddajemy Osairowi.\
-UWAGA: Od tej pory stajemy się muridem Osaira. Idziemy teraz do Nrozasa, który jest na nas zły, po czym zostajemy jego muridem.
+
+:::info Informacja
+
+Od tej pory stajemy się muridem Osaira. Idziemy teraz do Nrozasa, który jest na nas zły, po czym zostajemy jego muridem.
+
+:::
 
 ### Opłata za niewolników {#oplata-za-niewolnikow}
 
@@ -128,9 +142,9 @@ Tiamant zleca nam zabicie Hasima, więc musimy wyciągnąć go ze świątyni. Id
 
 Tiamant zleca nam to zadanie podczas zadania z zabójstwem Hasima, mamy udać się do kopalni i w jednej z odnóg pozabijać górskie pełzacze.
 
-:::warning Uwaga
+:::info Informacja
 
-UWAGA: Po wykonaniu tego zadania zostajemy muridem Tiamanta.
+Po wykonaniu tego zadania zostajemy muridem Tiamanta.
 
 :::
 
@@ -138,10 +152,19 @@ UWAGA: Po wykonaniu tego zadania zostajemy muridem Tiamanta.
 
 Haniar zagaduje do nas i prosi, byśmy udali się z dala od wścibskich oczu. Gdy pyta, czy boimy się śmierci, odpowiadamy, że nie. Haniar mówi nam, że Hasim zbierał dla niego informacje i prosi byśmy go zastąpili. Zgadzamy się i czytamy list, który dał nam Haniar.
 
-UWAGA: Po zaakceptowaniu oferty Haniara stajemy się jego muridem.\
+:::info Informacja
+
+Po zaakceptowaniu oferty Haniara stajemy się jego muridem.
+
+:::
+
 Idziemy teraz do jaskini Osaira i gadamy z nowicjuszem Joaquinem, po czym mówimy mu jak zostać muridem Osaira. Następny jest Cadouin, którego znajdziemy przed świątynią. Dajemy mu kieł Muritana a ten nam powie trochę informacji odnośnie Tiamanta.
 
-UWAGA: Po odczekaniu jednego dnia udajemy się około godziny 12:00 do świątyni, przechodzimy inicjację i stajemy się cieniem.
+:::info Informacja
+
+Po odczekaniu jednego dnia udajemy się około godziny 12:00 do świątyni, przechodzimy inicjację i stajemy się cieniem.
+
+:::
 
 Idziemy do Tiamanta, który odsyła nas do Osaira. Wykonujemy quest [Kopalnia złota](/watki/asasyni/#kopalnia-zlota). Po wykonaniu zadania spotykamy Joaquina przy posągu Beliara i wymuszamy od niego pokazanie listu. Po poznaniu treści listu idziemy do Haniara i mówimy mu, co wiemy (Haniarowi możemy przekazać wieść tylko wtedy, gdy pali ziele przed świątynią). Po rozmowie z Haniarem wrcamy do Osaira i robimy [Odprowadź niewolników do kopalni](/watki/asasyni/#odprowadz-niewolnikow-do-kopalni). Następnie czekamy do 22:00–23:00 i idziemy na plac przed świątynią, gdzie dojdzie do walki Tiamanta z Haniarem. Po zakończonym pojedynku informujemy Gonzalesa o śmierci Tiamanta.
 
@@ -154,9 +177,9 @@ Kamienie księżycowe znajdziemy w ciele Im’Araha i w czyśćcu Adanosa na pus
 
 ### Wierni ludzie {#wierni-ludzie}
 
-:::warning Uwaga
+:::info Informacja
 
-UWAGA: Zadanie dostępne tylko jeśli dostaliśmy notatkę nauki duali od Tiamanta.
+Zadanie dostępne tylko jeśli dostaliśmy notatkę nauki duali od Tiamanta.
 
 :::
 
@@ -187,7 +210,11 @@ Osair zleca nam abyśmy udali się po truciznę do Nrozasa, ten natomiast każe 
 
 ### Dar losu {#dar-losu}
 
-**UWAGA: Zadanie dostępne jeśli w zadaniu Tryumf Nrozasa troll zginął (opcja 1).**
+:::info Informacja
+
+Zadanie dostępne jeśli w zadaniu Tryumf Nrozasa troll zginął (opcja 1).
+
+:::
 
 Mamy zanieść wino od Osaira Nrozasowi. Przed świątynią zatrzyma nas strażnik z wiadomością, że Haniar chce nas widzieć i tu też mamy dwie opcje:
 - Oddajemy wino Nrozasowi, ten umiera i musimy walczyć ze wszystkimi asasynami.
@@ -197,7 +224,11 @@ Po wykonaniu zadania Haniar daje nam list, który zanosimy Osairowi, po czym wra
 
 ### Pojedynek prawdy {#pojedynek-prawdy}
 
-**UWAGA: Zadanie dostępne jeśli w zadaniu Triumf Nozrasa troll przeżył (opcja 2).**
+:::info Informacja
+
+Zadanie dostępne jeśli w zadaniu Triumf Nozrasa troll przeżył (opcja 2).
+
+:::
 
 Wracamy do Nrozasa i informujemy go o nieudanej próbie otrucia trolla. Następnie udajemy się do Osaira, gdzie zdradzamy Nrozasa, rozpowiadając o jego nieudanej truciźnie.
 Później ponownie spotykamy się z Nrozasem, który jest wściekły. Zaprzeczamy, jakobyśmy to my rozsiewali plotki na jego temat, ale Nrozas nam nie wierzy.
@@ -210,7 +241,12 @@ Zadanie dostępne po wykonaniu [Pojedynek prawdy](/watki/asasyni/#pojedynek-praw
 
 ### Cena Zdrady {#cena-zdrady}
 
-UWAGA: Zadanie dostępne jeśli zabiliśmy wcześniej Nrozasa.\
+:::info Informacja
+
+Zadanie dostępne jeśli zabiliśmy wcześniej Nrozasa.
+
+:::
+
 Osair powie nam, że trzeba obalić Haniara, więc zgadzamy się na jego propozycję. Idziemy do Haniara po 9:00 i mówimy mu o tym. Da on nam list, który zanosimy do Osaira, a odpowiedź Osaira zanosimy do Haniara. Teraz gadamy z Gonzalesem i dążymy do finału wątku asasynów.
 
 ### Mroczne tajemnice {#mroczne-tajemnice}

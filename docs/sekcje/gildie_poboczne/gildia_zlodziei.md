@@ -4,9 +4,13 @@ description: "Solucja do Gothic II: New Balance — Gildia Złodziei. Dołączen
 slug: /gildie-poboczne/gildia-zlodziei/
 ---
 
-> Są dwa sposoby na dołączenie do gildii złodziei:
-> 1. Wsadzamy do więzienia jednego z członków gildii (Rengaru/Halvor/Nagur)
-> 2. Robimy zadania dla całej powyższej trójki.
+:::info Informacja
+
+Są dwa sposoby na dołączenie do gildii złodziei:
+1. Wsadzamy do więzienia jednego z członków gildii (Rengaru/Halvor/Nagur)
+2. Robimy zadania dla całej powyższej trójki.
+
+:::
 
 Niezależnie od wyboru, po wszystkim idziemy do Kardifa, który opowiada nam o spotkaniu za chatą Halvora. Tam walczymy z Atillą lub otrzymujemy od niego klucz, który otwiera kanały.
 
@@ -40,7 +44,11 @@ Gdy pytamy Cassie o jej mentora, opowiada nam o Rączce i zleca jego odnalezieni
 
 ## Znudzony Jasper {#znudzony-jasper}
 
-> Zadanie to można ukończyć, tylko jeśli nie dołączyliśmy jeszcze do gildii zabójców.
+:::warning Uwaga
+
+Zadanie to można ukończyć, tylko jeśli nie dołączyliśmy jeszcze do gildii zabójców.
+
+:::
 
 Zostaniemy zaczepieni przez Jaspera, który poprosi nas, abyśmy poszli na plac i zamówili muzykę. Idziemy do Charlotte i zamawiamy muzykę za 100 monet. Wracamy do Jaspera.
 
@@ -65,7 +73,12 @@ Oryginalne statuetki znajdują się w jaskini z goblinami (czyścimy z Gregiem) 
 - tylko fałszywkę - najgorsza nagroda
 - tylko 1 oryginał - średnia nagroda
 - fałszywkę i 1 oryginał - najlepsza nagroda (mikstura zręczności)
-> Drugi oryginał jest do oddania Pedro w klasztorze gdy już wybraliśmy sobie inną gildię
+
+:::tip Wskazówka
+
+Drugi oryginał jest do oddania Pedro w klasztorze gdy już wybraliśmy sobie inną gildię
+
+:::
 
 ## Puchar Magnatów (Rozdział 2) {#puchar-magnatow-rozdzial-2}
 
@@ -75,17 +88,32 @@ Z tymi kluczami możemy się dostać do magazynu i wykraść upragniony puchar C
 ## Muzyka życia i śmierci (Rozdział 2) {#muzyka-zycia-i-smierci-rozdzial-2}
 
 Cassia prosi nas o przyniesienie instrumentów muzycznych. Jeżeli skończyliśmy wątek gildii zabójców i znaleźliśmy dla nich nowe miejsce to idziemy do gorzelni Vina, bo tam powinni się znajdować. Zabójcy bez problemu oddadzą nam swoje instrumenty, które zanosimy do Cassii.
-> Instrumenty można również zabrać ze zwłok zabójców
+
+:::tip Wskazówka
+
+Instrumenty można również zabrać ze zwłok zabójców
+
+:::
 
 ## Miecz Arcymistrza (Rozdział 2) {#miecz-arcymistrza-rozdzial-2}
 
 Po wyuczeniu się wszystkich receptur na szpady, Ramirez opowie nam o specjalnym mieczu Rączki. Rączka znajduje się w Forcie Azgan, jeżeli mamy wystarczająco zręczności to pojawi się opcja kradzieży kieszonkowej. Koniecznie trzeba oddać skradziony mieszek Rączce, za co da nam klucz do swojej chaty w Górniczej Dolinie. Po znalezieniu schematu możemy go przeczytać, ale musimy znać wszystkie poprzednie schematy na szpady.
-> Schematy można znajdować w grze lub kupować od Ramireza. Tylko pierwsze 3 schematy są dostępnie jedynie do kupna.
+
+:::tip Wskazówka
+
+Schematy można znajdować w grze lub kupować od Ramireza. Tylko pierwsze 3 schematy są dostępnie jedynie do kupna.
+
+:::
 
 ## Rubin dla Cassii (Rozdział 3) {#rubin-dla-cassii-rozdzial-3}
 
 Cassia mówi nam, że Paladyni przywieźli wielki rubin, znajduje się on w skrzyni obok Lariusa w ratuszu. Potrzebujemy do tego 130 zręczności lub wypitej mikstury odporności na hita, ponieważ w innym wypadku skrzynia nas zabije.
-> Nagrodą jest umiejętność zmniejszająca koszt wytrzymałości podczas sprintu o 50%
+
+:::info Informacja
+
+Nagrodą jest umiejętność zmniejszająca koszt wytrzymałości podczas sprintu o 50%
+
+:::
 
 ## Skarb smoków (Rozdział 4) {#skarb-smokow-rozdzial-4}
 

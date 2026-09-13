@@ -4,7 +4,11 @@ description: "Solucja do Gothic II: New Balance — Zadania - Rozdział 4. Przeb
 slug: /solucja/rozdzial-iv/
 ---
 
-> W czwartym rozdziale Magów Wody znajdziemy przy portalu do Khorinis, a bandytów którzy przeżyli w jaskini u piratów, na północnej plaży. Rzeczy do zrobienia przed wejściem w 4 rozdział to kupienie szczawiu od Miguela, uratowanie Sagitty i nauka przetapiania orkowej broni u Dobara.
+:::warning Uwaga
+
+W czwartym rozdziale Magów Wody znajdziemy przy portalu do Khorinis, a bandytów którzy przeżyli w jaskini u piratów, na północnej plaży. Rzeczy do zrobienia przed wejściem w 4 rozdział to kupienie szczawiu od Miguela, uratowanie Sagitty i nauka przetapiania orkowej broni u Dobara.
+
+:::
 
 ## Lobarta problem z orkami {#lobarta-problem-z-orkami}
 
@@ -13,7 +17,12 @@ Zabijamy orków wzdłuż drogi do Khorinis i gadamy z Lobartem.
 ## Oddziały orków {#oddzialy-orkow}
 
 Orkowie rozpoczynają inwazję na Khorinis. Gadamy z Lordem Hagenem, a następnie z Ingmarem. Naszym celem jest odnaleźć bazę, w której przebywa główny herszt i zabić go. Urzęduje on w jaskini na końcu ścieżki, tam gdzie szliśmy na polowanie z Bartokiem. Po jego zabiciu gadamy o tym z Ingmarem. Dodatkowo możemy znaleźć przy nim mapę, na której zaznaczone są wszystkie orkowe patrole na całej wyspie. Możemy więc rozprawić się ze wszystkimi i zanieść Hagenowi pierścienie hersztów. Od pewnego momentu uzna on, że przynieśliśmy wystarczająco, ale możemy mu je oddawać do końca gry w zamian za expa.
-> Często oddział orków łączyć się będzie z grupą jaszczuroludzi strzegących smoczych jaj. Warto więc pamiętać o zbieraniu ich gdy będziemy polować na orków.
+
+:::tip Wskazówka
+
+Często oddział orków łączyć się będzie z grupą jaszczuroludzi strzegących smoczych jaj. Warto więc pamiętać o zbieraniu ich gdy będziemy polować na orków.
+
+:::
 
 ## Smocze jaja {#smocze-jaja}
 
@@ -56,7 +65,12 @@ Po wszystkim wracamy do Saturasa.
 ### Złoto Scatty'ego {#zloto-scattyego}
 
 Scatty prosi nas o przyniesienie złota ze skrzyni, przy której zawsze stał. Idziemy do obozu bandytów, zabieramy 500 samorodków ze skrzyni i oddajemy Scatty'emu. W nagrodę dostajemy połowę.
-> Scatty zaatakuje nas w 5 rozdziale jeżeli w 4 rozdziale nie oddaliśmy mu jego połowy, a zadanie zostaje anulowane.
+
+:::warning Uwaga
+
+Scatty zaatakuje nas w 5 rozdziale jeżeli w 4 rozdziale nie oddaliśmy mu jego połowy, a zadanie zostaje anulowane.
+
+:::
 
 ## Górnicza Dolina {#gornicza-dolina}
 
@@ -92,7 +106,12 @@ Po zabiciu Hosh-Paka Oric zleca nam zabicie czterech imiennych orków przewodzą
 ### Jan i kuźnia {#jan-i-kuznia}
 
 Jan chce pracować w kuźni, ale Parcival się nie zgadza. Gadamy z Parcivalem, który nadal się nie zgadza, więc idziemy do Garonda, który się zgadza. Po wszystkim wracamy do Jana.
-> Nie trzeba rozmawiać z Parcivalem, można iść od razu do Garonda.
+
+:::tip Wskazówka
+
+Nie trzeba rozmawiać z Parcivalem, można iść od razu do Garonda.
+
+:::
 
 ### Łowcy smoków {#lowcy-smokow}
 
@@ -100,13 +119,23 @@ Zadanie zaczyna się w rozmowie z pierwszym łowcą smoków, którego napotkamy 
 
 ### Bez odwrotu {#bez-odwrotu}
 
-UWAGA: Zadanie ma ograniczenie czasowe, jeśli się nie wyrobimy - Parlaf zginie.\
+:::warning Uwaga
+
+Zadanie ma ograniczenie czasowe, jeśli się nie wyrobimy - Parlaf zginie.
+
+:::
+
 Garond zleca nam odnalezienie kowala Dobara i jego pomocnika Parlafa.\
 Ciało Dobara znajdziemy na terenach między taranem, a palisadą.\
 Parlaf ukrył się w jaskini Gilberta, która znajduje się po lewo od barykady prowadzącej na tereny orków.\
 Musimy zaprowadzić Parlafa do zamku. Wystarczy, że zaprowadzimy go przed taran.\
 Wracamy do Garonda z wieściami.
-> Nagrody za przeżycie Parlafa są na ten moment bezwartościowe, także bez nerwów.
+
+:::info Informacja
+
+Nagrody za przeżycie Parlafa są na ten moment bezwartościowe, także bez nerwów.
+
+:::
 
 ### Polowanie na smoki {#polowanie-na-smoki}
 
@@ -121,9 +150,19 @@ Po zabiciu każdego ze smoków wracamy do Garonda i ładujemy Oko Innosa przy st
 ### Dwa lodowe golemy dla Sylvia {#dwa-lodowe-golemy-dla-sylvia}
 
 Sylvio siedzi w obozie przy wejściu na lodowy biom. Prosi on nas o zabicie dwóch lodowych golemów, które zabiły jego ludzi. Po wszystkim wracamy do Sylvia.
-> Po pokonaniu lodowego smoka Sylvio i Bullko rzucą się na nas.
+
+:::info Informacja
+
+Po pokonaniu lodowego smoka Sylvio i Bullko rzucą się na nas.
+
+:::
 
 ### Muszę się stąd wydostać! {#musze-sie-stad-wydostac}
 
 Talbin mówi nam, że gdzieś zniknął jego przyjaciel Engrom, jego ciało znajduje się obok chaty Cavalorna gdzie stoi Marcos. Mówimy Talbinowi o Engromie po czym ten ucieka na przełęcz. Najlepiej odrazu przeteleportować się na przełęcz, żeby Talbina przeniosło, w innym wypadku może zginąć. Gadamy z nim na przełęczy Górniczej Doliny, a następnie możemy go wziąć do swojego obozu, jak już będzie w Khorinis.
-> Engrom żyje i jest opętany jeżeli gramy Magiem Ognia.
+
+:::info Informacja
+
+Engrom żyje i jest opętany jeżeli gramy Magiem Ognia.
+
+:::

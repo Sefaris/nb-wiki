@@ -4,9 +4,13 @@ description: "Solucja do Gothic II: New Balance — Potępiony. Dołączenie do 
 slug: /gildie-glowne/potepiony/
 ---
 
-> Aby móc dołączyć do gildi potępionych najpierw należy pobrać plugin `AB_PathOfTheDamned_Mod` oraz wrzucić go do folderu `Data`, jest to gilida główna więc nie możemy przynależeć do żadnej innej.\
-> Żeby dołączyć do gildii, należy porozmawiać z Remusem w `Martwej Harpii` (zadanie [Nieznajomy z Tawerny](/gildie-glowne/potepiony/#nieznajomy-z-tawerny)).\
-> Zalecane jest dokończenie lub niezaczynanie zadań ograniczonych czasowo, ponieważ po rozmowie z Remusem mija czas w grze i niektóre zadania triggerują swój warunek czasowy.
+:::warning Uwaga
+
+Aby móc dołączyć do gildi potępionych najpierw należy pobrać plugin `AB_PathOfTheDamned_Mod` oraz wrzucić go do folderu `Data`, jest to gilida główna więc nie możemy przynależeć do żadnej innej.\
+Żeby dołączyć do gildii, należy porozmawiać z Remusem w `Martwej Harpii` (zadanie [Nieznajomy z Tawerny](/gildie-glowne/potepiony/#nieznajomy-z-tawerny)).\
+Zalecane jest dokończenie lub niezaczynanie zadań ograniczonych czasowo, ponieważ po rozmowie z Remusem mija czas w grze i niektóre zadania triggerują swój warunek czasowy.
+
+:::
 
 ## Nieznajomy z tawerny {#nieznajomy-z-tawerny}
 __Zleca: Remus__

@@ -219,7 +219,11 @@ Hilda prosi nas, abyśmy udali się do miasta i znaleźli kowala, który naostrz
 
 **Zleca: Vatras**
 
-> Zadanie jest dostępne po wykonaniu zadania **Mikstury dla Vatrasa**.
+:::info Informacja
+
+Zadanie jest dostępne po wykonaniu zadania **Mikstury dla Vatrasa**.
+
+:::
 
 Vatras mówi nam o bestii atakującej mieszkańców Khorinis. Chodzi o cieniostwora w jaskini obok latarni Jacka. Zabijamy go i wracamy do Vatrasa.
 
@@ -227,7 +231,11 @@ Vatras mówi nam o bestii atakującej mieszkańców Khorinis. Chodzi o cieniostw
 
 **Zleca: Pepe**
 
-> Zadanie dostępne w 2 rozdziale po wykonaniu zadań **Cztery wilki dla Pepe** oraz **Skopać tyłek Bullkowi**.
+:::info Informacja
+
+Zadanie dostępne w 2 rozdziale po wykonaniu zadań **Cztery wilki dla Pepe** oraz **Skopać tyłek Bullkowi**.
+
+:::
 
 Pepe na farmie Onara mówi nam, że coś porywa jego owce. Idziemy do jaskini niedaleko jeziora przy obozie, gdzie zabijaliśmy dla niego wilki. Tam zabijamy bossa goblinów i wracamy do Pepe.
 
@@ -235,7 +243,11 @@ Pepe na farmie Onara mówi nam, że coś porywa jego owce. Idziemy do jaskini ni
 
 **Zleca: Lord Andre**
 
-> Zadanie jest dostępne po wykonaniu zadania **Horror na cmentarzu**.
+:::info Informacja
+
+Zadanie jest dostępne po wykonaniu zadania **Horror na cmentarzu**.
+
+:::
 
 Lord Andre zagaduje nas i informuje, że ktoś próbuje go zabić. Wysyła nas z podejrzanym zwojem do Vatrasa, który stwierdza, że zwój służy do zabicia konkretnego czytelnika. Wracamy do Andre, po czym idziemy do Gallahada i pokazujemy mu zwój. Następnie ponownie rozmawiamy z Andre, a potem udajemy się do Hagena.
 
@@ -253,7 +265,11 @@ Po rozmowie wracamy do Parlana.
 
 **Zleca: Ganz**
 
-> Zadanie jest dostępne po wykonaniu zadania **Poszukiwania nowicjusza**.
+:::info Informacja
+
+Zadanie jest dostępne po wykonaniu zadania **Poszukiwania nowicjusza**.
+
+:::
 
 Zadanie zleca Ganz, który dziękuje nam za to, że nie wydaliśmy go magom. Oferuje pracę kuriera. Roznosimy paczki do Lariusa, Bromora i Ciphera. Z kolejnym klientem mamy spotkać się po 1 w nocy na moście przed klasztorem. Tam zabijamy wynajętego zabójcę i czytamy jego notatkę.
 
@@ -265,7 +281,11 @@ Po chwili pojawia się sędzia. Idziemy za strażnikiem na miejsce egzekucji. Gd
 
 **Zleca: Lares**
 
-> Zadanie jest dostępne po wykonaniu zadania **Szybki sposób na zarobek**.
+:::info Informacja
+
+Zadanie jest dostępne po wykonaniu zadania **Szybki sposób na zarobek**.
+
+:::
 
 Rozmawiamy z Laresem o zemście na sędzi. Musimy osłabić jego pozycję, eliminując jego ludzi.
 
@@ -287,7 +307,11 @@ Na końcu musimy zdemaskować sędziego. Pomaga nam w tym Lee podczas wykonywani
 
 **Zleca: Vatras**
 
-> Zadanie jest dostępne po wykonaniu zadania **Nekromanta w Khorinis**.
+:::info Informacja
+
+Zadanie jest dostępne po wykonaniu zadania **Nekromanta w Khorinis**.
+
+:::
 
 Vatras zleca nam, byśmy pomodlili się za duszę Darona. Udajemy się do klasztoru, rozmawiamy z Parlanem i otrzymujemy od niego klucz do kaplicy.
 
@@ -309,7 +333,11 @@ O 23:00 udajemy się na pole między farmą Sekoba a farmą Onara. Spotykamy tam
 
 **Zleca: Vatras**
 
-> Zadanie jest dostępne po wykonaniu zadań **Nekromanta w Khorinis** oraz **Zlecenie Vatrasa**.
+:::info Informacja
+
+Zadanie jest dostępne po wykonaniu zadań **Nekromanta w Khorinis** oraz **Zlecenie Vatrasa**.
+
+:::
 
 Vatras informuje nas, że ktoś szantażuje Wodny Krąg. Udajemy się do Martina, następnie do Miki i Orlana. W gospodzie rozmawiamy z Avanisem, wychodzimy z nim na zewnątrz i bijemy go. Po rozmowie wracamy do Vatrasa.
 
@@ -339,7 +367,11 @@ Gdy mamy wszystko, wracamy do Loi. Zabiera nas do lasu. Podczas pikniku mówi na
 
 **Zleca: Lothar**
 
-> Zadanie jest dostępne po wykonaniu zadania **Horror na cmentarzu**.
+:::info Informacja
+
+Zadanie jest dostępne po wykonaniu zadania **Horror na cmentarzu**.
+
+:::
 
 Zadanie zaczynamy od rozmowy z dozorcą cmentarza, który wspomina, że Rigelionowi towarzyszył nowicjusz ognia.
 
@@ -356,7 +388,11 @@ Na miejscu czeka na nas Daron. **Mroczny Rycerz ma możliwość go oszczędzić,
 
 Zadanie rozpoczyna się w momencie, gdy znajdziemy jeden z artefaktów, a kończy się po zebraniu wszystkich trzech:
 
-> Uwaga: Amulet pojawi się dopiero po rozmowie z Farimem i oddaniu mu zupy.
+:::info Informacja
+
+Amulet pojawi się dopiero po rozmowie z Farimem i oddaniu mu zupy.
+
+:::
 
 - **Amulet** – znajduje się pod wodą obok beczek, na dnie pomiędzy wrakiem statku a przeklętą latarnią.
 - **Pierścień** – w skarbcu Magów Ognia.
@@ -370,7 +406,11 @@ Po wykonaniu zadania „Piracki handel” Skip mówi nam, że czuje się samotny
 
 Po ustaleniu warunków Sonja sama uda się do Skipa. Rozmawiamy z nim, a następnie musimy pamiętać, aby wrócić po trzech dniach. Sonja wraca do Bromora.
 
-> Uwaga: jeśli się spóźnimy, dostaniemy znacznie mniej doświadczenia, a Bromor nas zaatakuje.
+:::warning Uwaga
+
+jeśli się spóźnimy, dostaniemy znacznie mniej doświadczenia, a Bromor nas zaatakuje.
+
+:::
 
 ## Rana Pepe {#rana-pepe}
 
@@ -378,13 +418,21 @@ Po ustaleniu warunków Sonja sama uda się do Skipa. Rozmawiamy z nim, a następ
 
 Pepe mówi nam, że jest ranny i potrzebuje lekarstwa. Udajemy się do Sagitty i informujemy ją o problemie. Sagitta poleca dać Pepe zwykłą miksturę leczniczą.
 
-> Uwaga: należy wrócić do Pepe przed teleportacją do innej lokacji, w przeciwnym razie Pepe zginie.
+:::warning Uwaga
+
+należy wrócić do Pepe przed teleportacją do innej lokacji, w przeciwnym razie Pepe zginie.
+
+:::
 
 ## Prorocze sny {#prorocze-sny}
 
 **Zleca: Gritta**
 
-> Zadanie pojawi się dopiero po pierwszej rozmowie z Gregiem w Jarkendarze.
+:::info Informacja
+
+Zadanie pojawi się dopiero po pierwszej rozmowie z Gregiem w Jarkendarze.
+
+:::
 
 Po wykonaniu zadania **Podejrzany handlarz** Gritta mówi nam, że przyśnił się jej mąż i prosi, abyśmy go odnaleźli. Wspomina, że Brandick zawsze chciał zostać piratem.
 
@@ -400,7 +448,11 @@ Kilka dni po zakończeniu zadania „Prorocze sny” zaczepia nas Thorben i mów
 
 **Zleca: Greg**
 
-> Zadanie jest dostępne po wykonaniu zadania **Człowiek z pierścieniem**.
+:::info Informacja
+
+Zadanie jest dostępne po wykonaniu zadania **Człowiek z pierścieniem**.
+
+:::
 
 Greg prosi nas, abyśmy poprosili Magów Ognia o modlitwę za piratów. Potrzebujemy 50 retoryki, aby przekonać Pyrokara do naszych intencji. Możemy zapłacić jedną z trzech kwot:
 
@@ -414,13 +466,21 @@ Najbardziej opłaca się wybrać 3000, ponieważ dostajemy wtedy najlepsze nagro
 
 **Zleca: Brutus**
 
-> Uwaga: zadanie dostępne po oddaniu mu 200 złota z ciała Dena
+:::info Informacja
+
+zadanie dostępne po oddaniu mu 200 złota z ciała Dena
+
+:::
 
 Brutus w zamku prosi nas, abyśmy udali się do Miltena i poprosili go o wyczarowanie kobiety. Idziemy do Miltena, a ten informuje nas, że wszystko będzie gotowe jutro wieczorem.
 
 Przychodzimy następnego dnia wieczorem (gdy otrzymamy wpis do dziennika), gdzie wszyscy już na nas czekają. Milten dokonuje przyzwania, ale pojawia się demon, którego musimy zabić. Po pokonaniu stwora zadanie się kończy.
 
-> Uwaga: jeśli się spóźnimy, zadanie zakończy się niepowodzeniem.
+:::warning Uwaga
+
+jeśli się spóźnimy, zadanie zakończy się niepowodzeniem.
+
+:::
 
 ## Obawy Parcivala {#obawy-parcivala}
 
@@ -444,7 +504,11 @@ Zadanie pojawia się podczas rozmowy z Hush-Narem, a kończy po rozmowie z Xarda
 
 **Zleca: Vatras**
 
-> Zadanie dostępne po ukończeniu wątku „Mroczny Zakon”
+:::info Informacja
+
+Zadanie dostępne po ukończeniu wątku „Mroczny Zakon”
+
+:::
 
 Vatras mówi nam, że wysłał Myxira i innego maga do Saturasa, aby sprawdzili sytuację w Jarkendarze. Udajemy się na teren wykopalisk Magów Wody, gdzie zabijamy wszystkich nieumarłych i rozmawiamy z Myxirem. Ten odsyła nas do Saturasa w Jarkendarze.
 
@@ -463,7 +527,11 @@ Zakładamy koronę Adanosa. Mamy dwie opcje:
 1. Rozkazać Quahodronowi odejść
 2. Walczyć z Quahodronem
 
-> Zalecane: wybrać walkę – otrzymamy więcej doświadczenia, potężny miecz i punkty nauki.
+:::tip Wskazówka
+
+Zalecane: wybrać walkę – otrzymamy więcej doświadczenia, potężny miecz i punkty nauki.
+
+:::
 
 Po wszystkim wracamy do Saturasa i Vatrasa.
 
@@ -497,7 +565,11 @@ Zadanie pojawia się w rozmowie z Rademesem. Mamy zdjąć klątwę z pradawnych.
 
 Zadanie daje Kreol podczas wątku **Mroczny Zakon**. Prosi nas o przyniesienie chromaninów. Poszukiwania zaczynamy od krypty, gdzie w G1 szliśmy z Miltenem po kamień ogniskujący. Tamtejsze przejście się otwiera, zabieramy chromanin ze stołu i go czytamy.
 
-> Chromaniny należy czytać po kolei, aby pojawiła się kolejna część. Przy każdej książce pojawia się grupa szkieletów, które ułatwiają znalezienie.
+:::info Informacja
+
+Chromaniny należy czytać po kolei, aby pojawiła się kolejna część. Przy każdej książce pojawia się grupa szkieletów, które ułatwiają znalezienie.
+
+:::
 
 Miejsca chromaninów:
 
@@ -535,7 +607,11 @@ Idziemy na drakkar, gdzie zgromadzili się już łowcy smoków. Rozmawiamy z Rat
 
 ## Zadania - Rozdział 6 {#zadania-rozdzial-6}
 
-> Po pokonaniu Smoka-ożywieńca wybieramy opcję powrotu do Khorinis w rozmowie z kapitanem statku.
+:::info Informacja
+
+Po pokonaniu Smoka-ożywieńca wybieramy opcję powrotu do Khorinis w rozmowie z kapitanem statku.
+
+:::
 
 ### Zapomniana Wyspa {#zapomniana-wyspa}
 
@@ -735,7 +811,12 @@ Zadanie daje Greg, który dołączy do paladynów w zamian za statek. Idziemy do
 
 Rozmawiamy z Saturasem na temat pomocy w walce z orkami. Saturas wysyła nas najpierw do biblioteki Uczonych, aby znaleźć Riordiana. Idziemy do biblioteki i okazuje się, że Riordian nie żyje i po śmierci stał się zombie. Zabijamy go i zabieramy z ciała artefakt, po czym wracamy ze złymi wieściami do Saturasa. Teraz udajemy się do świątyni Adanosa i rozpoczyna się rytuał oświecenia, w trakcie będzie nas atakować kilka fal wrogów, a na końcu boss demon.\
 Po skończeniu rytuału gadamy z Saturasem i Magowie Wody oficjalnie dołączają do wojny.\
-UWAGA: Riordiana można wskrzesić przy pulpicie w piramidzie prawdy na pustyni Adanosa, ale nie pojawi się on już w grze.
+
+:::warning Uwaga
+
+Riordiana można wskrzesić przy pulpicie w piramidzie prawdy na pustyni Adanosa, ale nie pojawi się on już w grze.
+
+:::
 
 ## Górnicza Dolina {#gornicza-dolina}
 
@@ -763,9 +844,9 @@ Nathan zleca nam uwolnienie paladynów z zamku. Robimy jak w zadaniu wyżej. Zad
 
 Mówimy Nathanowi o szturmie na zamek. Paladyn mówi, że przydałoby się więcej ludzi. Idziemy do łowców smoków, którzy znajdują się w jaskini obok wodospadu. Po walce z orkami rozmawiamy z Kurganem i mówimy, aby dołączyli do paladynów podczas szturmu na zamek. Możemy zagrozić Kurganowi, że wydamy orkom położenie łowców smoków albo zapłacić mu 50 000 złota. Polecam pierwszą opcję, gdyż nie będzie żadnych konsekwencji. Teraz szturmujemy zamek i odbijamy paladynów.
 
-:::warning Uwaga
+:::info Informacja
 
-UWAGA: Trzy poniższe zadania są dostępne tylko wtedy, gdy zdecydujemy się na pokojowe uwolnienie paladynów. Można wykonać tylko jedno z nich - w zależności od wybranej opcji.
+Trzy poniższe zadania są dostępne tylko wtedy, gdy zdecydujemy się na pokojowe uwolnienie paladynów. Można wykonać tylko jedno z nich - w zależności od wybranej opcji.
 
 :::
 

@@ -4,17 +4,30 @@ description: "Solucja do Gothic II: New Balance — Gildia Zabójców. Dołącze
 slug: /gildie-poboczne/gildia-zabojcow/
 ---
 
-> Są dwa sposoby na dołączenie do gildii zabójców:
-> 1. Wykonując zadanie Gallahada poproś Gerbrandta o napisanie listu. Ten zleci Ci zadanie zaniesienia notatki i mieszka do karczmy Orlana o północy. Podczas rozmowy z nieznajomym powiedz mu prawdę, że to nie Ty jesteś zleceniodawcą, lecz nie wydaj, kto nim jest. Później zapytaj Gerbranta kim był człowiek, którego spotkałeś. Powie ci, że przekonasz się, jeśli o 22:30-23:00 pójdziesz za budynek paladynów w górnym mieście. Idziemy tam i z daleka obserwujemy, jak nieznajomy z tawerny zabija Wambo. Teraz konfrontujemy Asmala i możemy dołączyć do gildii zabójców.
-> 2. Tylko jeśli jesteś w milicji! Dołącz do gildii złodziei w Khorinis. Następnie dowiesz się o zabójcach od Ramireza. Idź do Lorda Andre, który da ci zadanie. Idź teraz do Cassii, potem do Ramireza, a potem na plac wisielców i porozmawiaj z Gilianem. Następnej nocy idź do domku przy ławce na której siedzi Jack, a spotkasz Giliana. Teraz możemy dołączyć do gildii jako strażnik miejski.
+:::info Informacja
 
-Ważne: przed każdym zabójstwem zapisuj grę i porozmawiaj z ofiarą, pozwoli to uniknąć błędów i negatywnych konsekwencji.
+Są dwa sposoby na dołączenie do gildii zabójców:
+1. Wykonując zadanie Gallahada poproś Gerbrandta o napisanie listu. Ten zleci Ci zadanie zaniesienia notatki i mieszka do karczmy Orlana o północy. Podczas rozmowy z nieznajomym powiedz mu prawdę, że to nie Ty jesteś zleceniodawcą, lecz nie wydaj, kto nim jest. Później zapytaj Gerbranta kim był człowiek, którego spotkałeś. Powie ci, że przekonasz się, jeśli o 22:30-23:00 pójdziesz za budynek paladynów w górnym mieście. Idziemy tam i z daleka obserwujemy, jak nieznajomy z tawerny zabija Wambo. Teraz konfrontujemy Asmala i możemy dołączyć do gildii zabójców.
+2. Tylko jeśli jesteś w milicji! Dołącz do gildii złodziei w Khorinis. Następnie dowiesz się o zabójcach od Ramireza. Idź do Lorda Andre, który da ci zadanie. Idź teraz do Cassii, potem do Ramireza, a potem na plac wisielców i porozmawiaj z Gilianem. Następnej nocy idź do domku przy ławce na której siedzi Jack, a spotkasz Giliana. Teraz możemy dołączyć do gildii jako strażnik miejski.
+
+:::
+
+:::warning Uwaga
+
+przed każdym zabójstwem zapisuj grę i porozmawiaj z ofiarą, pozwoli to uniknąć błędów i negatywnych konsekwencji.
+
+:::
 
 ## Kara dla Wambo {#kara-dla-wambo}
 __Zleca: Gilian__
 
 Gilian zleca nam zabicie Wambo strażnika z górnego miasta. Najlepiej to zrobić w nocy, w ustronnym miejscu, czyli po 22:30 za domem paladynów.
-> Zadanie dostępne tylko jeżeli dołączyliśmy w sposób alternatywny jako strażnik miejski.
+
+:::info Informacja
+
+Zadanie dostępne tylko jeżeli dołączyliśmy w sposób alternatywny jako strażnik miejski.
+
+:::
 
 ## Gaduła {#gadula}
 __Zleca: Asmal__
@@ -25,10 +38,19 @@ Po 22 będzie on siedział naprzeciw opuszczonego straganu obok Hakona, gdzie za
 ## Szantaż Lehmara {#szantaz-lehmara}
 __Zleca: Asmal__
 
-> Przed zabiciem Lehmara należy wykonać zadanie "Zarzuty Parlana" oraz warto wykupić jego interesujący nas asortyment
+:::warning Uwaga
+
+Przed zabiciem Lehmara należy wykonać zadanie "Zarzuty Parlana" oraz warto wykupić jego interesujący nas asortyment
+
+:::
 
 Asmal zleca nam zabicie Lehmara, więc udajemy się do domu lichwiarza, gdzie okazuje się, że towarzyszy mu nowy ochroniarz. Około 23 przesiadują oni na końcu molo obok Esmeraldy, gdzie możemy ich bez świadków zabić. Po wszystkim wracamy do Asmala po nagrodę.
-> Ochroniarza możesz potraktować zaklęciem snu, a dopiero później powiedzieć Lehmarowi, że go zabijesz.
+
+:::tip Wskazówka
+
+Ochroniarza możesz potraktować zaklęciem snu, a dopiero później powiedzieć Lehmarowi, że go zabijesz.
+
+:::
 
 ## Błąd Canthara {#blad-canthara}
 __Zleca: Asmal__
@@ -53,7 +75,11 @@ Asmal zleca nam zabicie Hansa i jego bandy. Znajdują się oni w małym obozie, 
 ## Droga zabójcy {#droga-zabojcy}
 __Zleca: Asmal__
 
-> Najlepiej zrobić to dopiero po zrobieniu poprzednich zadań, jako że w innym wypadku stracimy zadania dla gildii
+:::warning Uwaga
+
+Najlepiej zrobić to dopiero po zrobieniu poprzednich zadań, jako że w innym wypadku stracimy zadania dla gildii
+
+:::
 
 Wyzywamy Asmala na pojedynek, po którym go zabijamy i zwracamy się do Charlotte.
 
@@ -65,7 +91,11 @@ Po zabiciu Asmala, Charlotte poprosi nas o znalezienie dobrego miejsca dla zabó
 ## Umowa z Nigelem {#umowa-z-nigelem}
 __Zleca: Nigel__
 
-> Zadanie dostępne jeśli w zadaniu [Dług kupca](/gildie-poboczne/gildia-zabojcow/#dlug-kupca) darujemy Nigelowi życie i zaakceptujemy jego propozycję
+:::info Informacja
+
+Zadanie dostępne jeśli w zadaniu [Dług kupca](/gildie-poboczne/gildia-zabojcow/#dlug-kupca) darujemy Nigelowi życie i zaakceptujemy jego propozycję
+
+:::
 
 ## Tajemniczy nieznajomy {#tajemniczy-nieznajomy}
 __Zleca: Gerbrandt__

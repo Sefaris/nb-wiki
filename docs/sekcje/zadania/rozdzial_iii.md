@@ -4,7 +4,11 @@ description: "Solucja do Gothic II: New Balance — Zadania - Rozdział 3. Przeb
 slug: /solucja/rozdzial-iii/
 ---
 
-> Przed wejściem do tego rozdziału należy ukończyć zadania [Horror na cmentarzu](/solucja/rozdzial-i/#horror-na-cmentarzu), [Ranny ork](/solucja/rozdzial-i/#ranny-ork) i [Głodny skazaniec](/solucja/rozdzial-i/#glodny-skazaniec). Warto też szybko przejść do rozdziału 4 ze względu na mocny ekwipunek.
+:::warning Uwaga
+
+Przed wejściem do tego rozdziału należy ukończyć zadania [Horror na cmentarzu](/solucja/rozdzial-i/#horror-na-cmentarzu), [Ranny ork](/solucja/rozdzial-i/#ranny-ork) i [Głodny skazaniec](/solucja/rozdzial-i/#glodny-skazaniec). Warto też szybko przejść do rozdziału 4 ze względu na mocny ekwipunek.
+
+:::
 
 ## Złoto Diega {#zloto-diega}
 
@@ -32,15 +36,27 @@ Lobart mówi nam, że jego żona zachorowała i mamy udać się po lekarstwo do 
 
 ## Ktoś coś zgubił? {#ktos-cos-zgubil}
 
-> Zwiadowca może to zadanie zrobić dopiero w 4 rozdziale, pozostali w 3
+:::info Informacja
+
+Zwiadowca może to zadanie zrobić dopiero w 4 rozdziale, pozostali w 3
+
+:::
 
 Hanna mówi, że przypadkiem sprzedała ważne dokumenty kartografowi w porcie. Idziemy do Brahima, odkupujemy starą mapę i oddajemy Hannie.
 
-> Będąc zwiadowcą należy pamiętać, żeby przeczytać mapę oraz wykopać skarb z kluczem.
+:::tip Wskazówka
+
+Będąc zwiadowcą należy pamiętać, żeby przeczytać mapę oraz wykopać skarb z kluczem.
+
+:::
 
 ## Obawy Sagitty {#obawy-sagitty}
 
-> UWAGA: Zadanie należy zrobić w 3 rozdziale, w 4 akcie będzie martwa.
+:::warning Uwaga
+
+Zadanie należy zrobić w 3 rozdziale, w 4 akcie będzie martwa.
+
+:::
 
 W wyniku pojawienia się zakapturzonych postaci w okolicy, Sagitta martwi się o swoje bezpieczeństwo. Idziemy do Lee i prosimy o ochronę dla guślarki, następnie wracamy do Sagitty.
 
@@ -62,7 +78,11 @@ Zadanie dostępne jest już w 2 rozdziale jeżeli możemy już dostać się do b
 
 Aby otrzymać to zadanie musimy [dostarczyć truciznę Constantino](/solucja/rozdzial-ii/#dziwna-prosba-constantino) oraz wykonać [zadanie dla Karrasa](/solucja/rozdzial-i/#wycieczka-do-miasta).
 
-> Przed wykonaniem powyższych zadań powinieneś najpierw ukończyć zadanie [Polny drapieżnik](/solucja/rozdzial-ii/#polny-drapieznik), które zleca Akil w trakcie [polowania na rzadkie potwory](/gildie-poboczne/gildia-mysliwych/#polowanie-na-rzadkie-stwory-rozdzial-2).
+:::warning Uwaga
+
+Przed wykonaniem powyższych zadań powinieneś najpierw ukończyć zadanie [Polny drapieżnik](/solucja/rozdzial-ii/#polny-drapieznik), które zleca Akil w trakcie [polowania na rzadkie potwory](/gildie-poboczne/gildia-mysliwych/#polowanie-na-rzadkie-stwory-rozdzial-2).
+
+:::
 
 Kilka dni po wykonaniu zadań z trucizną i zwojami zagada do nas Lord Andre i powie, że zabito portowego alchemika Ignaza. Prosi on nas o znalezienie zabójcy. Na początek rozmawiamy z Zurisem i udajemy się do domu Ignaza. Za płotem znajdujemy pustą butelkę po truciźnie, pokazujemy ją Constantino i zgadzamy się mu pomóc.
 
@@ -87,7 +107,11 @@ Buster będzie od nas skupował rogi cieniostwora za złoto i expa. Zadanie koń
 
 Torlof prosi nas o pozbycie się zakapturzonych postaci w obozie Dextera. Wybijamy i wracamy do zleceniodawcy.
 
->Przed rozpoczęciem mordu zaleca się porozmawiać z Lordem Hagenem. Jeden z poszukiwaczy pojawia się dopiero po dialogu z nim.
+:::tip Wskazówka
+
+Przed rozpoczęciem mordu zaleca się porozmawiać z Lordem Hagenem. Jeden z poszukiwaczy pojawia się dopiero po dialogu z nim.
+
+:::
 
 ## Koszmar Roscoe {#koszmar-roscoe}
 
@@ -105,7 +129,11 @@ Zadanie dostępne tylko dla Magów Ognia i Najemników.
 
 :::
 
-> Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstury z orkowych pomyj. Przed rozmową z Salandrilem należy zdobyć pierścień gildii kupców, następnie wykupić od niego wszystkie istotne przedmioty oraz ukończyć zadanie związane z orkowymi pomyjami.
+:::warning Uwaga
+
+Po zrobieniu tego zadania Salandril już nic nam nie sprzeda, ani nie zrobi dla nas mikstury z orkowych pomyj. Przed rozmową z Salandrilem należy zdobyć pierścień gildii kupców, następnie wykupić od niego wszystkie istotne przedmioty oraz ukończyć zadanie związane z orkowymi pomyjami.
+
+:::
 
 Serpentes każe nam dowiedzieć się kto rozprowadza fałszywe udziały w kopalni, musimy również usunąć je z obiegu. Sprzedają je:
 - Salandril w swoim sklepie w górnym mieście
@@ -165,10 +193,19 @@ Gdy choć jeden kopacz rozpocznie pracę, nasz zarządca stwierdzi, że potrzebn
 Po przyprowadzeniu co najmniej jednego strażnika zarządca prosi o znalezienie uzdrowicielki. Chodzi o Sagittę, zgodzi się jeśli załatwiliśmy jej ochronę przed poszukiwaczami.
 
 Ostatnim zadaniem będzie zdobycie schematu zbroi. Znajdziemy go w Opuszczonej Kopalni w GD nad przejściem do Khorinis, tam gdzie Płomień Eligora dla [gildii kupców](/gildie-poboczne/gildia-kupcow/). Po oddaniu schematu dostaniemy zbroję, która jest średnia jak na ten etap.
-> Rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem.
+
+:::info Informacja
+
+Rysunek zbroi znajduje się w skrzyni otwieranej umiejętnością, nie kluczem.
+
+:::
 
 ### Co z kopalnią? {#co-z-kopalnia}
 
 Musimy się dowiedzieć czy w kopalni w naszym obozie jest magiczna ruda. Idziemy do Węża i prowadzimy go do kopalni. Wąż mówi, że w kopalni nadal jest ruda i poleci nam załatwić więcej ludzi, by można było rozpocząć wydobycie. Idziemy teraz do Hagena, mówimy o rudzie i przystajemy na jego ofertę.
 
-> Na tym kończy się wątek naszego obozu. Jeśli mamy wystarczającą ilość kopaczy, to będzie on przynosił zyski, więc co jakiś czas możemy odbierać rudę/złoto
+:::info Informacja
+
+Na tym kończy się wątek naszego obozu. Jeśli mamy wystarczającą ilość kopaczy, to będzie on przynosił zyski, więc co jakiś czas możemy odbierać rudę/złoto
+
+:::

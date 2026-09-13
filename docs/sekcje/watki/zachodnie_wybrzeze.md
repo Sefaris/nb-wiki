@@ -4,7 +4,11 @@ description: "Solucja do Gothic II: New Balance — Zachodnie Wybrzeże. Przebie
 slug: /watki/zachodnie-wybrzeze/
 ---
 
-> Zachodnie Wybrzeże jest lokacją, do której udajemy się wraz z druidem Fregyalem w ramach zadania "Historia druidów i ludzi". Nie trzeba do tego zostawać druidem
+:::info Informacja
+
+Zachodnie Wybrzeże jest lokacją, do której udajemy się wraz z druidem Fregyalem w ramach zadania "Historia druidów i ludzi". Nie trzeba do tego zostawać druidem
+
+:::
 
 ## Historia druidów i ludzi {#historia-druidow-i-ludzi}
 
@@ -17,17 +21,32 @@ Fregyal prosi nas o zorganizowanie zapasów oraz znalezienie łodzi.\
 Jeśli chodzi o zapasy, to 10 butelek wody i 10 kawałków mięsa nie powinno sprawić problemów. Co do samej łodzi, to udajemy się do Garvella, który zgodzi się odstąpić nam swoją za 5000 złota (można wytargować 3000). Oprócz tego idziemy do Andre by otrzymać zgodę na wypłynięcie z portu.
 
 Po zapłaceniu Garvellowi złota wracamy na następny dzień, a Fregyal będzie obok niego czekał (jeśli oddaliśmy mu zapasy w jaskini). Teraz rozmawiamy z Garvellem, a następnie z Fregyalem, po czym wchodzimy na wielką łódź, gdzie jeszcze raz zagadujemy Druida.
-> Nie martw się o towary sprzedawane dotychczas przez Freygala - zostaną przekazane Galahadowi
+
+:::tip Wskazówka
+
+Nie martw się o towary sprzedawane dotychczas przez Freygala - zostaną przekazane Galahadowi
+
+:::
 
 Teraz płyniemy na Zachodnie Wybrzeże, gdzie zaczyna się wątek tej lokacji.
 
 ## Zachodnie Wybrzeże {#zachodnie-wybrzeze}
 
 Zadanie to zaczyna się wraz z przypłynięciem na Wybrzeże. Na plaży spotykamy dwóch piratów, gadamy z nimi oraz z Fregyalem, który chce odpocząć, a my w międzyczasie pomagamy piratom w kilku rzeczach. Będziemy mogli kontynuować poszukiwania druida po zdobyciu dla nich mięsa i zabiciu topielców, a kordelasy możemy dać im później. Znowu rozmawiamy z Fregyalem i idziemy z nim do lasu, gdzie natrafiamy na druida Kormaka. Robimy dla niego zadania, a po misji "Za spotkanie!" otrzymamy od niego tabliczki, które czytamy.
-> Nie wchodź do lasu bez Freygala, bez niego Kormak się nie pojawi
+
+:::warning Uwaga
+
+Nie wchodź do lasu bez Freygala, bez niego Kormak się nie pojawi
+
+:::
 
 Po przeczytaniu rozmawiamy z Kormakiem, a następnie idziemy do tunelu, który jest na prawo od bagien, przy niewielkim jeziorku. Tam pokonujemy bossa kamiennych strażników i czytamy jego tabliczkę.
-> Bossa można łatwo pokonać młotem Adanosa, który zdobędziemy robiąc Jarkendar
+
+:::tip Wskazówka
+
+Bossa można łatwo pokonać młotem Adanosa, który zdobędziemy robiąc Jarkendar
+
+:::
 
 Idąc dalej prosto przez tunel, dotrzemy na równiny, gdzie w pobliskiej jaskini rezyduje boss goblinów, Maji. Posiada on kamień, który aktywuje przejście w tunelu, którym wcześniej przechodziliśmy. Znajdziemy tam tabliczkę i klucz do większej świątyni, którą już mijaliśmy w lesie. Wracamy tam, czytamy kolejną tabliczkę i wracamy do Kormaka. Po rozmowie czekamy ~10 sekund, po czym dostajemy wpis o trzęsieniach ziemi. Druid zleci nam udanie się na bagna, udajemy się tam i trzymając się prawej ściany natrafimy na kryptę, a w niej szamana jaszczuroludzi. Mimo że nie zadajemy mu obrażeń, walczymy z nim, aż w końcu ucieknie.
 
@@ -67,7 +86,11 @@ Flint prosi nas o dostarczenie dwóch pirackich kordelasów, które znajdziemy p
 
 Kormak prosi nas o wino i chleb, które powinniśmy już mieć. Jeśli jednak ich nie posiadamy, należy wrócić do Khorinis i tam je kupić. Po wykonaniu tego zadania zgodzi się z nami handlować.
 
-> Na potrzeby zadania Rupert otrzymuje dodatkowe potrzebne produkty.
+:::info Informacja
+
+Na potrzeby zadania Rupert otrzymuje dodatkowe potrzebne produkty.
+
+:::
 
 ## Opuszczona wieża {#opuszczona-wieza}
 
@@ -93,7 +116,12 @@ Po znalezieniu całej trójki wracamy do Kormaka po nagrodę.
 ## Skarb piratów {#skarb-piratow}
 
 Na bagnach obok piedestału znajdujemy notatkę, mówiącą o skarbie w jaskini z Muritanem, na prawo od bagien. Po wykopaniu zadanie się kończy.
-> Miejsce do kopania skarbu pojawi się dopiero po przeczytaniu notatki
+
+:::info Informacja
+
+Miejsce do kopania skarbu pojawi się dopiero po przeczytaniu notatki
+
+:::
 
 ## Exodus {#exodus}
 
@@ -107,7 +135,12 @@ Stary łowca, którego spotkamy na Wyspie obok plaży piratów, narzeka na gobli
 ## Tajemnicza skrzyneczka {#tajemnicza-skrzyneczka}
 
 Obok Wyspy ze Starym Łowcą znajdziemy wrak statku, a w nim skrzyneczkę, do której klucz da nam łowca po pozbyciu się goblinów. Samo zadanie kończy się po przeczytaniu wszystkich notatek, w tym tej we wnęce za skałą w jaskini na Wyspie.
-> Potrzebna będzie przemiana w chrząszcza
+
+:::info Informacja
+
+Potrzebna będzie przemiana w chrząszcza
+
+:::
 
 ## Długo wyczekiwane spotkanie {#dlugo-wyczekiwane-spotkanie}
 

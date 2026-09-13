@@ -4,7 +4,11 @@ description: "Solucja do Gothic II: New Balance — Fort Azgan. Przebieg zadań,
 slug: /watki/fort-azgan/
 ---
 
-> Dostęp do Fortu Azgan dostaniemy robiąc zadanie dla gildii kupców: Zapasy Paladynów
+:::info Informacja
+
+Dostęp do Fortu Azgan dostaniemy robiąc zadanie dla gildii kupców: Zapasy Paladynów
+
+:::
 
 ## Polowanie dla Orto {#polowanie-dla-orto}
 
@@ -29,4 +33,9 @@ Glanz mówi nam, że zgubił swój mieszek, w którym był cenny dla niego pier�
 ## Magazyn paladynów {#magazyn-paladynow}
 
 Lord Varus mówi nam, że zgubił klucz do magazynu. Udajemy się do Rączki (znajduje się na plaży) i pytamy, czy mógłby dorobić klucz do magazynu. Rączka się zgodzi, ale tylko pod warunkiem, że paladyni go nie aresztują. Idziemy do Varusa, a następnie do Rączki. Następnego dnia znajdziemy Rączkę na ławce obok magazynu, po czym wracamy do Varusa. By samemu dostać się do magazynu trzeba okraść Lorda Varusa lub kupić replikę od Rączki jeżeli nie uczyliśmy się kradzieży kieszonkowej.
-> Na strażnikach można użyć zwoju strachu lub po prostu wbiec i dać się oklepać (nie zabiją nas).
+
+:::tip Wskazówka
+
+Na strażnikach można użyć zwoju strachu lub po prostu wbiec i dać się oklepać (nie zabiją nas).
+
+:::

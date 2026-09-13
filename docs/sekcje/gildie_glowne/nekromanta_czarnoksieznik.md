@@ -49,7 +49,11 @@ Po przyniesieniu wszystkich składników Xardas tworzy nam runę, a zadanie koń
 
 ## Runa Xardasa (2 rozdział) {#runa-xardasa-2-rozdzial}
 
-> Zadanie dostępne tylko po wyborze klasy: "Nekromanta"
+:::info Informacja
+
+Zadanie dostępne tylko po wyborze klasy: "Nekromanta"
+
+:::
 
 Xardas da nam runę zniszczenia ożywieńca (bez wydatku PN), jeśli przyniesiemy mu 5 ektoplazm.
 Ektoplazmę sprzedają Constantino i Salandril, a trzy pozostałe najłatwiej zdobyć z ognistych cieniostworów w bibliotece w Jarkendarze, które pojawią się dopiero w końcowym etapie wątku Jarkendaru. By zdobyć runę szybciej będziemy musieli pokonać widma, które są na tym etapie bardzo silne. Po zebraniu ektoplazm wracamy do Xardasa i otrzymujemy darmową runę.
@@ -69,17 +73,31 @@ Xardas zleca byśmy przynieśli mu pewną księgę, która jest w posiadaniu Gal
 
 ## Necronomicon {#necronomicon}
 
-> Misję również można zrobić po prostu zdobywając Święty Płomień i odnosząc księgę Xardasowi, lecz będzie się to wiązało ze stratą 1PN i doświadczenia
+:::warning Uwaga
+
+Misję również można zrobić po prostu zdobywając Święty Płomień i odnosząc księgę Xardasowi, lecz będzie się to wiązało ze stratą 1PN i doświadczenia
+
+:::
 
 Xardas prosi nas, abyśmy przynieśli mu starożytną księgę - Necronomicon. Według wskazówek nekromanty była ona niegdyś w posiadaniu potężnego nekromanty - Nergala.
 
 Musimy udać się aż do Górniczej Doliny i przedostać się za palisadę orków. Dostajemy się do Wieży Mgieł przez kopalnię od dołu i rozmawiamy z nekromantą Kreolem. Po krótkiej rozmowie Kreol daje nam klucz, z którym udajemy się do wieży Nergala za farmą Onara (Tam, gdzie 2 trolle i Grom), zabijamy nieumarłych i czytamy pulpit na środku. Pojawia się boss zombie, który dzięki naszej pomocy ląduje w krainie Beliara. Zabieramy z jego ciała prochy i wracamy do Xardasa, a ten opowiada nam o pewnym rytuale.
-> Klucz dostępny dla każdej gildii znajduje się również w skrzyni w ukrytym pomieszczeniu obok Kreola
+
+:::tip Wskazówka
+
+Klucz dostępny dla każdej gildii znajduje się również w skrzyni w ukrytym pomieszczeniu obok Kreola
+
+:::
 
 Czekamy kilka dni i gdy wszystko będzie gotowe, idziemy się przespać, a następnie stajemy na jednym z rogów pentagramu. Odpala się rytuał podczas którego Xardas rozmawia z Nergalem. Po wszystkim Xardas mówi nam gdzie jest Necronomicon. Lepszą opcją jednak jest wyjść z pentagramu wbrew poleceniom Xardasa co przerwie rytuał czego skutkiem będzie walka z bossem, którego pokonanie daje dodatkowe PN’y.
 
 Udajemy się w stronę plaży Skipa i płyniemy dalej, aż odnajdziemy wieżę na kamiennej plaży. Wchodzimy do środka, za pomocą zaklęcia Święty Płomień (które znajdziemy w jaskini w kotlinie obok wschodniej bramy) zabijamy Mrocznego Golema i przechodzimy przez otwarte kraty. Lądujemy na szczycie wieży, gdzie jest księga, którą może przeczytać jedynie każda mroczna gildia. Wracamy do Xardasa i oddajemy księgę.
-> Zwój Święty Płomień możemy kupić u Sengratha lub znaleźć w jaskini w kotlince idąc prosto ze wschodniej bramy Khorinis. Można go też ukraść Ingmarowi
+
+:::tip Wskazówka
+
+Zwój Święty Płomień możemy kupić u Sengratha lub znaleźć w jaskini w kotlince idąc prosto ze wschodniej bramy Khorinis. Można go też ukraść Ingmarowi
+
+:::
 
 ## Dumni i bezbronni (2 rozdział) {#dumni-i-bezbronni-2-rozdzial}
 

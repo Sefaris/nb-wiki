@@ -4,8 +4,12 @@ description: "Solucja do Gothic II: New Balance — Strażnik miejski/Paladyn. D
 slug: /gildie-glowne/paladyn/
 ---
 
-> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](/gildie-poboczne/gildia-zlodziei/).\
-> Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
+:::warning Uwaga
+
+Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](/gildie-poboczne/gildia-zlodziei/).\
+Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
+
+:::
 
 ## Przyjęcie do straży miejskiej {#przyjecie-do-strazy-miejskiej}
 
@@ -17,7 +21,12 @@ Są 3 sposoby na dołączenie:
 ## Ułatwione przyjęcie do straży {#ulatwione-przyjecie-do-strazy}
 
 W trakcie rozmowy o gildiach z Vatrasem ten wysyła nas do Laresa. Idziemy do niego i w rozmowie wybieramy, że chcemy dołączyć do straży, ten natomiast każe nam iść do Martina. Martin mówi, że ktoś podkrada nocą zapasy z magazynu, przychodzimy w nocy i okazuje się, że złodziejem jest Rangar, mówimy o tym Martinowi, a ten daje nam list polecający. Zanosimy list Lordowi Andre i możemy już dołączyć do straży.
-> Dużo lepiej jest wybrać ułatwione dołączenie do Magów Ognia, a do straży dostać się standardowo poprzez zostanie czeladnikiem
+
+:::tip Wskazówka
+
+Dużo lepiej jest wybrać ułatwione dołączenie do Magów Ognia, a do straży dostać się standardowo poprzez zostanie czeladnikiem
+
+:::
 
 ## Zadania dostępne tylko dla strażnika miejskiego {#zadania-dostepne-tylko-dla-straznika-miejskiego}
 
@@ -39,7 +48,11 @@ Andre wysyła nas na pomoc farmerowi Lobartowi. Idziemy na jego farmę i dowiadu
 
 ### Kryjówka bandytów {#kryjowka-bandytow}
 
-> UWAGA: Jeśli robimy to zadanie po śmierci Dextera, to notatkę znajdziemy przy kominku w jego wieży.
+:::tip Wskazówka
+
+Jeśli robimy to zadanie po śmierci Dextera, to notatkę znajdziemy przy kominku w jego wieży.
+
+:::
 
 Zadanie zleca Wulfgar, jeśli zrobiliście wszystkie poprzednie zadania. Mamy zabić bandytów w jaskini za lasem z polowania Bartoka. Zabijamy bandytów, zabieramy notatkę z ciała ich szefa, czytamy i pokazujemy ją Wulfgarowi. Okazuje się, że w straży jest szpieg i w tym celu Wulfgar wysyła na do Dextera. Jeśli Dexter jeszcze żyje, podczas rozmowy pytamy o szpiega, Dexter nie chce nic powiedzieć, w takim razie zabijamy go i zabieramy notatkę z jego ciała. Po przeczytaniu listu okazuje się, że szpiegiem jest Peck. Mówimy o tym Wulfgarowi, który daje nam dwa pancerze, jeden pod siłę, drugi pod zręczność.
 
@@ -55,7 +68,12 @@ Paladynem możemy stać się w 3 rozdziale, w tym celu musimy uwolnić Benneta (
 ## Tajemna wiedza (Rozdział 3) {#tajemna-wiedza-rozdzial-3}
 
 Po przekuciu pancerza rycerza Harad powie nam, że można go wzmocnić ponownie poprzez modlitwę. Idziemy, więc do Maga Ognia Marduka, który wręcza nam modlitewnik. Od teraz możemy konsekrować przekuty pancerz rycerza, a w 4 rozdziale przekuty pancerz paladyna pod warunkiem, że mamy odpowiednią ilość złota.
-> Jeżeli masz zamiar szybko przechodzić do 4 rozdziału to w celu oszczędzania złota możesz pominąć konsekrację pancerza z 3 rozdziału.
+
+:::tip Wskazówka
+
+Jeżeli masz zamiar szybko przechodzić do 4 rozdziału to w celu oszczędzania złota możesz pominąć konsekrację pancerza z 3 rozdziału.
+
+:::
 
 ## Zbezczeszczone kapliczki (Rozdział 3) {#zbezczeszczone-kapliczki-rozdzial-3}
 

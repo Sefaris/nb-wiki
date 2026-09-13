@@ -4,8 +4,12 @@ description: "Solucja do Gothic II: New Balance — Mag Wody / Wojownik Adanosa.
 slug: /gildie-glowne/wojownik-adanosa/
 ---
 
-> Przed dołączeniem do Magów Wody warto dołączyć do [Gildii Złodziei](/gildie-poboczne/gildia-zlodziei/).\
-> Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
+:::warning Uwaga
+
+Przed dołączeniem do Magów Wody warto dołączyć do [Gildii Złodziei](/gildie-poboczne/gildia-zlodziei/).\
+Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
+
+:::
 
 ## Przyjęcie do Magów Wody {#przyjecie-do-magow-wody}
 

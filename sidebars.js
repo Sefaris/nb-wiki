@@ -8,20 +8,7 @@ module.exports = {
     },
     {
       "type": "category",
-      "label": "Konfiguracja",
-      "collapsible": true,
-      "collapsed": true,
-      "items": [
-        {
-          "type": "doc",
-          "id": "sekcje/konfiguracja/ini",
-          "label": "Gothic.ini"
-        }
-      ]
-    },
-    {
-      "type": "category",
-      "label": "Zadania",
+      "label": "Solucja",
       "collapsible": true,
       "collapsed": false,
       "items": [
@@ -203,6 +190,18 @@ module.exports = {
           "type": "doc",
           "id": "sekcje/watki/zaginiony_brat",
           "label": "Zaginiony Brat"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Informacje dodatkowe",
+      "collapsible": false,
+      "items": [
+        {
+          "type": "doc",
+          "id": "sekcje/konfiguracja/ini",
+          "label": "Gothic.ini"
         }
       ]
     }

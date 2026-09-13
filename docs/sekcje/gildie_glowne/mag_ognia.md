@@ -4,18 +4,32 @@ description: "Solucja do Gothic II: New Balance — Mag ognia. Dołączenie do g
 slug: /gildie-glowne/mag-ognia/
 ---
 
-> Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](/gildie-poboczne/gildia-zlodziei/).\
-> Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
+:::warning Uwaga
+
+Przed dołączeniem do tej gildii warto dołączyć do [Gildii Złodziei](/gildie-poboczne/gildia-zlodziei/).\
+Dołączenie do **Strażników miejskich**/**Magów Ognia**/**Magów Wody** blokuje możliwość dołączenia do złodziei, dlatego należy dołączyć do nich wcześniej.
+
+:::
 
 ## Jak dostać się do klasztoru {#jak-dostac-sie-do-klasztoru}
 
 Aby zostać nowicjuszem. musimy mieć 1000 złota i owce (kupimy od Pepe za 100 sztuk złota). Ewentualnie pozostaje "Ułatwione przyjęcie do klasztoru".
-> Zdecydowanie lepiej jest wejść poprzez ułatwione przyjęcie do klasztoru.
+
+:::tip Wskazówka
+
+Zdecydowanie lepiej jest wejść poprzez ułatwione przyjęcie do klasztoru.
+
+:::
 
 ## Ułatwione przyjęcie do klasztoru {#ulatwione-przyjecie-do-klasztoru}
 
 Podczas rozmowy z Vatrasem o dołączeniu do gildii, zostajemy wysłani do Laresa. U Laresa wybieramy, że chcemy przyłączyć się do magów ognia, więc idziemy do Vatrasa, który wysyła na do Darona. Mag opowiada nam o tym, że napadły go gobliny i skradły cenny posążek. Znajdziemy je w jaskini, do której prowadzi nas Greg. Z posążkiem idziemy do Pedro, który zgadza się nas wpuścić do klasztoru.
-> Drugi posążek dropi z bossa goblina obok wejścia do jaskini próby ognia.
+
+:::info Informacja
+
+Drugi posążek dropi z bossa goblina obok wejścia do jaskini próby ognia.
+
+:::
 
 ## Służba społeczności {#sluzba-spolecznosci}
 
@@ -42,7 +56,12 @@ Po rozdaniu kiełbas wracamy do Goraxa.
 ## Winogrona {#winogrona}
 
 Gorax prosi nas o zebranie winogron z roślin przy drzwiach klasztoru.
-> winogrona są potrzebne do produkcji wina do many, więc żebyśmy nie byli stratni to w asortymencie Goraxa pojawią się do kupna mikstury Amun-Su.
+
+:::info Informacja
+
+winogrona są potrzebne do produkcji wina do many, więc żebyśmy nie byli stratni to w asortymencie Goraxa pojawią się do kupna mikstury Amun-Su.
+
+:::
 
 ## Siedem ziół {#siedem-ziol}
 
@@ -104,13 +123,21 @@ Po zostaniu magiem ognia będziemy mogli spełnić jedną z 3 próśb:
 
 ### Szansa dla Igaraza {#szansa-dla-igaraza}
 
-UWAGA: Zadanie jest dostępne tylko jeśli nie zabiliśmy Igaraza w trakcie [Ścieżka wiernych](/gildie-glowne/mag-ognia/#sciezka-wiernych).
+:::warning Uwaga
+
+Zadanie jest dostępne tylko jeśli nie zabiliśmy Igaraza w trakcie [Ścieżka wiernych](/gildie-glowne/mag-ognia/#sciezka-wiernych).
+
+:::
 
 Igaraz prosi, byśmy wstawili się za nim u Pyrokara. Pyrokar zgadza się dać mu drugą szansę, jeśli wykonamy zadanie dla Talamona i zdobędziemy serce demona. Igaraz nie jest z tego zadowolony, więc robimy to za niego. Musimy mieć wyuczone pozyskiwanie serc, którego uczy Grom. Najprościej zabijać króliki, aż pojawi się demon boss. Serce zanosimy do Talamona, wracamy do Igaraza, a ten zostaje magiem i handlarzem. W nagrodę możemy wybrać runę snu lub eliksir ducha (+4 mana).
 
 ### Opowieści dla Karrasa {#opowiesci-dla-karrasa}
 
-> Jeśli nie należymy do magów ognia, to księgi oddajemy Gallahadowi, a zwój sprzedajemy.
+:::info Informacja
+
+Jeśli nie należymy do magów ognia, to księgi oddajemy Gallahadowi, a zwój sprzedajemy.
+
+:::
 
 Karras prosi nas o znalezienie 5 tomów starożytnych opowieści i zwoju:
 - Tom 1 na szczycie latarni Jacka
@@ -121,7 +148,11 @@ Karras prosi nas o znalezienie 5 tomów starożytnych opowieści i zwoju:
 - Zwój do otwarcia ksiąg znajduje się na schodkach krypty przy Farmie Onara\
 Zanosimy księgi Karrasowi i zadanie się kończy.
 
-> Warto najpierw oddać je Gallahadowi dla 5 many, a następnie odkupić w handlu i dopiero wtedy oddać Karrasowi.
+:::tip Wskazówka
+
+Warto najpierw oddać je Gallahadowi dla 5 many, a następnie odkupić w handlu i dopiero wtedy oddać Karrasowi.
+
+:::
 
 ### Zbezczeszczone kapliczki (Rozdział 3) {#zbezczeszczone-kapliczki-rozdzial-3}
 

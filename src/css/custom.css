@@ -78,13 +78,21 @@ svg {flex-shrink: 0;}
 .mod-identity span {color: var(--muted); display: block; font-size: 11px; margin-top: 4px;}
 .theme-doc-sidebar-container {border-right: 1px solid var(--border) !important;}
 .theme-doc-sidebar-menu {padding: 0 10px;}
-.menu {padding: 0 8px 12px; font-size: 13px; font-weight: 400;}
-.menu__link {border-radius: 5px; line-height: 1.55; padding: 9px 13px;}
-.menu__link--active:not(.menu__link--sublist) {box-shadow: inset 2px 0 var(--ifm-color-primary);}
-.theme-doc-sidebar-item-category > .menu__list-item-collapsible {margin: 20px 0 8px; background: none;}
-.theme-doc-sidebar-item-category > .menu__list-item-collapsible > .menu__link {font-size: 10px; line-height: 1; text-transform: uppercase; letter-spacing: 1.7px; color: #777d6e; font-weight: 700; padding: 0 13px;}
+.menu {padding: 0 8px 12px; font-size: 13px; font-weight: 400; --ifm-menu-color: #b5b8ad; --ifm-menu-color-background-active: #c7f14814; --ifm-menu-color-background-hover: #ffffff08;}
+.menu__link {border-radius: 6px; line-height: 1.55; padding: 9px 13px; box-shadow: none;}
+.menu__link--active:not(.menu__link--sublist) {background: var(--ifm-menu-color-background-active); font-weight: 700; box-shadow: none;}
+/* Group headings stay distinct from the selected page, including non-collapsible groups. */
+.theme-doc-sidebar-item-category-level-1 > .menu__list-item-collapsible {margin: 22px 0 6px; background: transparent;}
+.theme-doc-sidebar-item-category-level-1 > .menu__list-item-collapsible > .menu__link {padding: 9px 13px; font-size: 14px; line-height: 1.4; font-weight: 900; letter-spacing: .1px; text-transform: none; color: #e8eadf; background: transparent; box-shadow: none;}
+.theme-doc-sidebar-item-category-level-1 > .menu__list-item-collapsible > .menu__link[aria-expanded]:hover {color: var(--ifm-color-primary);}
 .menu__list .menu__list {padding-left: 0; margin-left: 0;}
 .menu__list-item:not(:first-child) {margin-top: 3px;}
+.menu-chapter > .menu__list-item-collapsible > .menu__link {font-weight: 700;}
+.menu-chapter > .menu__list {margin: 5px 0 12px 13px; padding-left: 9px; border-left: 0;}
+.menu-chapter .menu-location > .menu__link {padding: 7px 10px; font-size: 12px; font-weight: 700;}
+.menu-chapter .menu-task-group > .menu__link {padding: 5px 10px 5px 20px; font-size: 11px; color: var(--muted);}
+.menu-chapter .menu-task-group > .menu__link:hover, .menu-chapter .menu-task-group > .menu__link--active {color: var(--ifm-color-primary);}
+.menu-chapter .menu-location:not(:first-child) {margin-top: 10px;}
 .sidebar-links {margin: auto 24px 0; padding: 17px 0 15px; border-top: 1px solid var(--border); font-size: 11px; flex-shrink: 0;}
 .sidebar-links > a {display: flex; align-items: center; gap: 8px; margin-bottom: 11px; color: #a3a797;}
 .sidebar-links > a:first-child {color: #dce5c6;}
@@ -303,6 +311,7 @@ dialog::backdrop {background: #080b07d4; backdrop-filter: blur(7px);}
 /* Shared homepage: the original README comes before navigation shortcuts. */
 .wiki-hero.wiki-home-header {padding: 32px 34px; min-height: 190px; margin-bottom: 30px; display: flex; flex-direction: column; justify-content: center;}
 .wiki-home-header h1 {font-size: clamp(30px, 3vw, 43px); line-height: 1.2; letter-spacing: -1px; margin: 19px 0 0; max-width: 85%;}
+.wiki-home-header .wiki-home-description {max-width: min(65ch, 85%); margin: 16px 0 0; font-size: 16px; line-height: 1.65; color: #d7ddcc; text-wrap: pretty;}
 .home-readme {margin-bottom: 32px;}
 .home-readme > :last-child {margin-bottom: 0;}
 .discord-cta {display: inline-flex; align-items: center; justify-content: center; gap: 10px; padding: 10px 15px; border: 1px solid #7983f5; border-radius: 6px; background: #5865f2; color: #fff; font-size: 12px; font-weight: 700; line-height: 1.5; white-space: nowrap; flex-shrink: 0;}
@@ -319,6 +328,7 @@ dialog::backdrop {background: #080b07d4; backdrop-filter: blur(7px);}
 @media (max-width: 600px) {
   .wiki-hero.wiki-home-header {padding: 25px 22px; min-height: 155px; margin-bottom: 25px;}
   .wiki-home-header h1 {font-size: 30px; max-width: 100%; margin-top: 16px;}
+  .wiki-home-header .wiki-home-description {max-width: 100%; margin-top: 14px; font-size: 15px; line-height: 1.6;}
 }
 
 /* Skróty do działów i powiększanie ilustracji Markdown. */
@@ -332,3 +342,9 @@ body:has(.image-dialog[open]) {overflow: hidden;}
 @media (max-width: 600px) {
   .chapter-links {grid-template-columns: 1fr;}
 }
+
+/* Callouts share one layout; blockquotes are reserved for actual quotations. */
+.alert :is(p, ul, ol):last-child {margin-bottom: 0;}
+.alert :is(ul, ol) {padding-left: 1.4em;}
+.theme-doc-markdown blockquote {border: 1px solid #383b35; border-left: 3px solid #73796b; border-radius: 6px; background: #22231f; color: #cdd0c5; margin: 23px 0; padding: 17px 20px; font-size: inherit;}
+.theme-doc-markdown blockquote > :last-child {margin-bottom: 0;}

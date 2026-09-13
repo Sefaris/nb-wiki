@@ -27,6 +27,7 @@ export function HomeHeader({title}) {
   return <header className="wiki-hero wiki-home-header" style={{backgroundImage: `linear-gradient(90deg, rgba(15,18,13,.94) 0%, rgba(15,18,13,.73) 42%, rgba(15,18,13,.18) 100%), url("${background}")`}}>
     <span className="eyebrow"><span className="tiny-rule"/> Sefaris Wiki</span>
     <h1 id="wiki-title">{title}</h1>
+    {profile.heroDescription && <p className="wiki-home-description">{profile.heroDescription}</p>}
   </header>;
 }
 

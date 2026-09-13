@@ -17,7 +17,12 @@ slug: /gildie-poboczne/gildia-mysliwych/
 ## Spór myśliwych {#spor-mysliwych}
 
 Myśliwi założyli się kto pierwszy da radę upolować potężnego czarnego trolla, my również możemy podjąć się tego zadania. Najłatwiej będzie zrobić to za pomocą zwoju zmniejszenia, który otrzymamy od Ignaza za zadanie [Człowiek pod obliczem bestii](/solucja/rozdzial-i/#czlowiek-pod-obliczem-bestii). Zabieramy skórę naszego przeciwnika i wracamy z nią do Falka.
-> Nie opłaca się oszczędzać zwoju zmniejszenia na później
+
+:::tip Wskazówka
+
+Nie opłaca się oszczędzać zwoju zmniejszenia na później
+
+:::
 
 ## Wilcze skóry dla Falka {#wilcze-skory-dla-falka}
 
@@ -29,7 +34,11 @@ Po oddaniu Falkowi skór wilka, ten wysyła nas po specjalne strzały do Bospera
 
 ## Ranne zwierzę {#ranne-zwierze}
 
-> UWAGA Quest należy zrobić od razu po jego rozpoczęciu, jeśli tego nie zrobimy Kieł umrze po 2-3 dniach.
+:::warning Uwaga
+
+Quest należy zrobić od razu po jego rozpoczęciu, jeśli tego nie zrobimy Kieł umrze po 2-3 dniach.
+
+:::
 
 Myśliwy Nix mówi nam, że jego wilk Kieł został ranny i prosi nas byśmy udali się do Sagitty po lekarstwo. Sagitta każe nam przynieść składniki:
 - szczaw królewski
@@ -42,12 +51,22 @@ Oddajemy składniki, zabieramy lekarstwo i wracamy do Nixa. Teraz trzeba poczeka
 ## Zagubiony łowca {#zagubiony-lowca}
 
 Po tym jak Kieł już wyzdrowiał dowiadujemy się od Nixa o innym myśliwym, który miał pupila. Idziemy do Bospera, który skieruje nas w okolice plaży przy wschodniej bramie. W wieży znajdziemy bandytów, martwego Heina, a także wilka. Czytamy notatkę, karmimy wilka serem i mięsem, po czym go głaszczemy. Wracamy teraz do Nixa, który wręczy nam runę, dzięki której będziemy mogli przyzywać i expić naszego wilczka.
-> Zanim zaczniemy levelować naszego peta możemy oddać go Nixowi w zamian za wyciąg ze szczawiu
+
+:::tip Wskazówka
+
+Zanim zaczniemy levelować naszego peta możemy oddać go Nixowi w zamian za wyciąg ze szczawiu
+
+:::
 
 ## Kusza Dragomira {#kusza-dragomira}
 
 Dragomir mówi nam, że zgubił kuszę obok słonecznego kręgu, idziemy tam zabieramy kuszę i oddajemy Dragomirowi.
-> Nagrodą jest książka, która uczy zbierania żądeł krwiopijcy za darmo.
+
+:::info Informacja
+
+Nagrodą jest książka, która uczy zbierania żądeł krwiopijcy za darmo.
+
+:::
 
 ## Wataha zabójczych wilków {#wataha-zabojczych-wilkow}
 
@@ -60,17 +79,32 @@ Barem prosi nas byśmy przynieśli mu 5 pazurów topielca. Zabijamy topielce, zb
 ## Płytowa zbroja Barema {#plytowa-zbroja-barema}
 
 Barem prosi nas, abyśmy przynieśli mu zbroję z płytek pełzaczy. W tym celu idziemy do Wilka na farmie Onara i pytamy o zbroje pełzaczy. Okazuje się, że potrzebne nam będzie do tego 10 płytek, a Barem jest nam w stanie dać tylko 6. Dwie sztuki sprzedaje Lutero, a pozostałe dwie znajdziemy w jaskiniach z pełzaczami w Khorinis (Lub zdobędziemy z pierwszego lepszego pełzacza, jeśli nauczyliśmy się ich zdobywania). Niezależnie od sposobu zdobycia płytek, wracamy do Wilka i następnego dnia odbieramy zbroję, którą oddajemy Baremowi.
-> Łatwym do pokonania pełzaczem będzie ten za kratą w obozie bandytów Dextera
+
+:::tip Wskazówka
+
+Łatwym do pokonania pełzaczem będzie ten za kratą w obozie bandytów Dextera
+
+:::
 
 ## Nowy łuk {#nowy-luk}
 
 Raff potrzebuje nowego łuku. Chodzi o łuk kompozytowy, który znajduje się m.in. w skrzyni przy spalonych chatach z jaszczurami, niedaleko Martwej Harpii.
-> nagrodą będzie nauka łucznictwa +3%
+
+:::info Informacja
+
+nagrodą będzie nauka łucznictwa +3%
+
+:::
 
 ## Specjalna broń dla Raffa {#specjalna-bron-dla-raffa}
 
 Najpierw musimy wejść w towary, które oferuje na sprzedaż Raff, a potem zagadać do niego, że ma ciekawy wybór łuków. Wtedy Raff zleci nam przyniesienie mu specjalnej broni. Będzie nią kusza Egzekutor, którą otrzymamy dopiero pod koniec wątku orków w Dolinie Cieni. Szkoda sobie zaprzątać głowy tą misją w początkowym stadium gry.
-> nagrodą będzie nauka kusznictwa +3%
+
+:::info Informacja
+
+nagrodą będzie nauka kusznictwa +3%
+
+:::
 
 ## Jajo Topielca {#jajo-topielca}
 
@@ -106,7 +140,11 @@ Mając głosy myśliwych idziemy do Falka, co uruchamia zadanie [Najlepszy łowc
 
 ## Najlepszy łowca {#najlepszy-lowca}
 
-> Przed podjęciem zadania zapisz grę na osobnym slocie
+:::warning Uwaga
+
+Przed podjęciem zadania zapisz grę na osobnym slocie
+
+:::
 
 Rozpoczęło się polowanie na Slokersa, musimy go znaleźć i zabić zanim zrobi to Falk. Ptaszysko z trąbką zamiast dzioba pojawia się losowo w jednej z siedmiu lokacji na poniższej mapie. Kiedy już upolujemy dziwacznego ścierwojada, wracamy z jego skórą do Falka i zostajemy mistrzem myśliwych.
 
@@ -118,7 +156,11 @@ Aby zacząć to zadanie musimy znaleźć starą sakiewkę obok cieniostwora przy
 
 W tym celu udajemy się do Jarkendaru, gdzie musimy zebrać 5 notatek:
 
-> Wszystkie przedmioty z notatkami są dostępne od razu do podniesienia, nie musimy więc zbierać ich w kolejności, istotne jest przeczytanie wszystkich.
+:::tip Wskazówka
+
+Wszystkie przedmioty z notatkami są dostępne od razu do podniesienia, nie musimy więc zbierać ich w kolejności, istotne jest przeczytanie wszystkich.
+
+:::
 
 1. Przy obozie piratów, w jaskini z cieniostworem na północnej plaży. Otwieramy pustą butelkę po rumie i czytamy notatkę.
 2. Przy ognisku obok jeziora, gdzie schodziliśmy w dół z Jackiem Aligatorem. Znajdujemy tam dziwną rybę i wyjmujemy z niej notatkę, którą oczywiście czytamy.
@@ -182,4 +224,9 @@ Nix mówi nam, że w okolicach wykopalisk pojawił się rzadki okaz zębacza. Je
 ## Stado kąsaczy (Rozdział 3) {#stado-kasaczy-rozdzial-3}
 
 Falk mówi nam, że w okolicy farmy Bengara pojawiły się kąsacze. Rozprawiamy się z tymi bestiami i wracamy do zleceniodawcy.
-> Są wzdłuż drogi z przełęczy do karczmy Orlana.
+
+:::tip Wskazówka
+
+Są wzdłuż drogi z przełęczy do karczmy Orlana.
+
+:::
