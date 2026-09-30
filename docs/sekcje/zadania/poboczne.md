@@ -18,6 +18,22 @@ Do odblokowania nowo odkrytego kamienia teleportacyjnego potrzebna jest każdora
 Runiczne płytki można znaleźć rozrzucone po świecie gry, a także u niektórych handlarzy.\
 Zadanie kończy się po odblokowaniu pierwszego kamienia i ponownej rozmowie z Xardasem.
 
+## Tajemnicze jajo  {#tajemnicze-jajo}
+
+:::warning Uwaga
+
+Zadanie trzeba wykonać przed dostarczeniem trucizny Constantino, ponieważ później Ignaz umiera.
+
+:::
+
+W piwnicy karczmy Orlana możemy znaleźć jajko wraz z notatką. Po przeczytaniu notatki udajemy się do Bospera w mieście.
+
+Po rozmowie z nim idziemy do Ignaza, który zabiera jajko i każe nam wrócić następnego dnia z 20 kawałkami mięsa.
+
+Następnego dnia ponownie rozmawiamy z Ignazem. Ten wysyła nas do Bospera po siodło.
+
+Z siodłem wracamy do Ignaza, który w nagrodę przekazuje nam własnego wierzchowca - ścierwojada.
+
 ## Rytuał magicznej wymiany {#rytual-magicznej-wymiany}
 
 :::info Informacja
